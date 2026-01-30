@@ -1,0 +1,20 @@
+# Corpus data (large, don't commit)
+corpus/
+analysis_output/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
