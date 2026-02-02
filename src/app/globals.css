@@ -1,0 +1,209 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* Smooth scrolling */
+  html {
+    scroll-behavior: smooth;
+  }
+
+  /* Base body styles */
+  body {
+    @apply bg-paper-50 text-ink-900 antialiased;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Subtle paper texture overlay */
+  body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    opacity: 0.015;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+    z-index: 1000;
+  }
+
+  /* Typography defaults */
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif text-ink-900;
+    text-wrap: balance;
+  }
+
+  h1 {
+    @apply text-4xl md:text-5xl font-normal tracking-tight leading-tight;
+  }
+
+  h2 {
+    @apply text-2xl md:text-3xl font-normal tracking-tight;
+  }
+
+  h3 {
+    @apply text-xl md:text-2xl font-normal;
+  }
+
+  p {
+    @apply font-serif leading-relaxed;
+  }
+
+  /* Links */
+  a {
+    @apply text-copper-700 transition-colors duration-150;
+  }
+
+  a:hover {
+    @apply text-copper-500;
+  }
+
+  /* Selection */
+  ::selection {
+    @apply bg-copper-200 text-ink-900;
+  }
+}
+
+@layer components {
+  /* Copper hairline rule */
+  .rule {
+    @apply h-px bg-copper-300/40;
+  }
+
+  .rule-vertical {
+    @apply w-px bg-copper-300/40;
+  }
+
+  /* Date stamp style */
+  .date-stamp {
+    @apply font-mono text-sm text-ink-400 tracking-wide;
+  }
+
+  /* Metadata label */
+  .meta-label {
+    @apply font-sans text-xs uppercase tracking-wider text-ink-400;
+  }
+
+  /* Card with page-edge shadow */
+  .doc-card {
+    @apply bg-paper-50 border-l-2 border-copper-300/50 pl-5 py-4
+           transition-all duration-200 hover:border-copper-500 hover:bg-paper-100;
+  }
+
+  /* Pull quote styling */
+  .pull-quote {
+    @apply relative pl-8 my-8 font-serif text-lg italic text-ink-700;
+  }
+
+  .pull-quote::before {
+    content: '"';
+    @apply absolute left-0 top-0 text-5xl text-copper-400/60 font-serif leading-none;
+  }
+
+  /* Search result highlight */
+  .search-highlight {
+    @apply bg-highlight px-0.5 rounded-sm;
+  }
+
+  /* Button styles */
+  .btn {
+    @apply inline-flex items-center justify-center px-4 py-2 font-sans text-sm
+           transition-all duration-150 rounded-sm;
+  }
+
+  .btn-primary {
+    @apply btn bg-copper-700 text-paper-50 hover:bg-copper-500;
+  }
+
+  .btn-secondary {
+    @apply btn bg-paper-200 text-ink-700 hover:bg-paper-300 border border-paper-300;
+  }
+
+  .btn-ghost {
+    @apply btn text-ink-500 hover:text-ink-900 hover:bg-paper-100;
+  }
+
+  /* Input styles */
+  .input {
+    @apply w-full px-4 py-3 font-sans text-ink-900 bg-paper-50
+           border border-paper-300 rounded-sm
+           focus:outline-none focus:border-copper-400 focus:ring-1 focus:ring-copper-400/20
+           placeholder:text-ink-400;
+  }
+
+  /* Tag/chip style */
+  .tag {
+    @apply inline-flex items-center px-2.5 py-1 font-sans text-xs
+           bg-paper-200 text-ink-500 rounded-sm;
+  }
+
+  /* Navigation link */
+  .nav-link {
+    @apply font-sans text-sm text-ink-500 hover:text-ink-900
+           transition-colors duration-150;
+  }
+
+  .nav-link-active {
+    @apply nav-link text-ink-900 border-b border-copper-500;
+  }
+}
+
+@layer utilities {
+  /* Text balance for headings */
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  /* Container with max-width */
+  .container-content {
+    @apply max-w-content mx-auto px-6 md:px-8;
+  }
+
+  /* Prose container */
+  .container-prose {
+    @apply max-w-prose mx-auto px-6;
+  }
+
+  /* Fade in animation */
+  .animate-fade-in {
+    animation: fadeIn 0.3s ease-out;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(4px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  /* Stagger children animation */
+  .stagger-children > * {
+    @apply animate-fade-in;
+  }
+
+  .stagger-children > *:nth-child(1) { animation-delay: 0ms; }
+  .stagger-children > *:nth-child(2) { animation-delay: 50ms; }
+  .stagger-children > *:nth-child(3) { animation-delay: 100ms; }
+  .stagger-children > *:nth-child(4) { animation-delay: 150ms; }
+  .stagger-children > *:nth-child(5) { animation-delay: 200ms; }
+}
+
+/* Pagefind overrides - style search results */
+:root {
+  --pagefind-ui-scale: 1;
+  --pagefind-ui-primary: #8B5A3C;
+  --pagefind-ui-text: #2C2825;
+  --pagefind-ui-background: #FDFBF7;
+  --pagefind-ui-border: #E5DFD5;
+  --pagefind-ui-tag: #F5F1EA;
+  --pagefind-ui-border-width: 1px;
+  --pagefind-ui-border-radius: 2px;
+  --pagefind-ui-font: var(--font-ibm-plex-sans), system-ui, sans-serif;
+}

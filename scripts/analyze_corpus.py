@@ -1,14 +1,13 @@
 #!/usr/bin/env python3
 """
-Claude Corpus Analyzer
+GEMI Corpus Analyzer
 
-Analyzes the historical corpus downloaded from Internet Archive
-using Claude API for various research tasks.
+Analyzes the historical corpus using Google Gemini API for various research tasks.
 
 Usage:
-    pip install anthropic
-    export ANTHROPIC_API_KEY=your_key
-    python analyze_corpus.py
+    pip install google-generativeai
+    export GEMINI_API_KEY=your_key
+    python scripts/analyze_corpus.py
 
 Tasks:
     - Summarize individual documents
@@ -22,7 +21,13 @@ import os
 import json
 from pathlib import Path
 from typing import Optional
-from anthropic import Anthropic
+
+try:
+    import google.generativeai as genai
+    GEMINI_AVAILABLE = True
+except ImportError:
+    GEMINI_AVAILABLE = False
+    print("Warning: google-generativeai not installed. Run: pip install google-generativeai")
 
 # ══════════════════════════════════════════════════════════════════════════════
 # CONFIGURATION
@@ -32,13 +37,16 @@ CORPUS_DIR = Path("corpus")
 OUTPUT_DIR = Path("analysis_output")
 METADATA_FILE = CORPUS_DIR / "metadata.json"
 
-# Claude model to use
-MODEL = "claude-sonnet-4-20250514"
+# Gemini model to use (gemini-2.0-flash-lite is fast and cheap)
+MODEL = "gemini-2.0-flash-lite"
 
-# Maximum tokens to send per document (to manage costs)
-MAX_DOC_TOKENS = 8000  # roughly 32k chars
+# Maximum characters to send per document
+MAX_DOC_CHARS = 32000  # roughly 8k tokens
 
-client = Anthropic()
+# Configure Gemini
+api_key = os.environ.get("GEMINI_API_KEY")
+if api_key and GEMINI_AVAILABLE:
+    genai.configure(api_key=api_key)
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -59,15 +67,19 @@ def load_document(filepath: str) -> Optional[str]:
     if not path.exists():
         return None
     text = path.read_text(encoding='utf-8', errors='ignore')
-    # Truncate to manage token limits (rough estimate: 4 chars per token)
-    max_chars = MAX_DOC_TOKENS * 4
-    if len(text) > max_chars:
-        text = text[:max_chars] + "\n\n[... truncated ...]"
+    # Truncate to manage token limits
+    if len(text) > MAX_DOC_CHARS:
+        text = text[:MAX_DOC_CHARS] + "\n\n[... truncated ...]"
     return text
 
 
+def get_model():
+    """Get the Gemini model instance."""
+    return genai.GenerativeModel(MODEL)
+
+
 def analyze_single_document(doc_metadata: dict, text: str) -> dict:
-    """Analyze a single document with Claude."""
+    """Analyze a single document with Gemini."""
     prompt = f"""Analyze this historical document about computing/automation from {doc_metadata['year']}.
 
 Title: {doc_metadata['title']}
@@ -87,17 +99,14 @@ Provide a structured analysis:
 6. TERMINOLOGY (any interesting period-specific terms or neologisms)
 """
 
-    response = client.messages.create(
-        model=MODEL,
-        max_tokens=2000,
-        messages=[{"role": "user", "content": prompt}]
-    )
+    model = get_model()
+    response = model.generate_content(prompt)
 
     return {
         "identifier": doc_metadata['identifier'],
         "title": doc_metadata['title'],
         "year": doc_metadata['year'],
-        "analysis": response.content[0].text
+        "analysis": response.text
     }
 
 
@@ -146,13 +155,10 @@ Based on these historical sources, trace the evolution of "{concept}":
 5. MODERN RESONANCE: How do these historical views connect to modern understanding?
 """
 
-    response = client.messages.create(
-        model=MODEL,
-        max_tokens=3000,
-        messages=[{"role": "user", "content": prompt}]
-    )
+    model = get_model()
+    response = model.generate_content(prompt)
 
-    return response.content[0].text
+    return response.text
 
 
 def generate_decade_summary(metadata: list[dict], decade: int) -> str:
@@ -194,25 +200,20 @@ Provide a synthesis of the {decade}s:
 6. BLIND SPOTS: What did they miss or misunderstand?
 """
 
-    response = client.messages.create(
-        model=MODEL,
-        max_tokens=3000,
-        messages=[{"role": "user", "content": prompt}]
-    )
+    model = get_model()
+    response = model.generate_content(prompt)
 
-    return response.content[0].text
+    return response.text
 
 
 def find_cross_references(metadata: list[dict]) -> str:
     """Find documents that reference each other or common sources."""
 
-    # Extract all creator names and titles
+    # Extract all creator names
     creators = set()
-    titles = set()
     for doc in metadata:
         if doc.get('creator'):
             creators.add(doc['creator'])
-        titles.add(doc['title'])
 
     # Search for cross-references
     references = []
@@ -252,6 +253,17 @@ def find_cross_references(metadata: list[dict]) -> str:
 def main():
     OUTPUT_DIR.mkdir(exist_ok=True)
 
+    if not GEMINI_AVAILABLE:
+        print("Error: google-generativeai package not installed")
+        print("Run: pip install google-generativeai")
+        return
+
+    if not api_key:
+        print("Error: GEMINI_API_KEY environment variable not set")
+        print("Get a key from: https://makersuite.google.com/app/apikey")
+        return
+
+    print(f"Using model: {MODEL}")
     print("Loading corpus metadata...")
     metadata = load_metadata()
     print(f"Found {len(metadata)} documents")
@@ -259,7 +271,7 @@ def main():
     # Menu
     while True:
         print("\n" + "="*60)
-        print("CORPUS ANALYSIS OPTIONS")
+        print("CORPUS ANALYSIS OPTIONS (Powered by Gemini)")
         print("="*60)
         print("1. Analyze a single document")
         print("2. Trace concept evolution (e.g., 'thinking machine')")
