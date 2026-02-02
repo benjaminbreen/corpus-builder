@@ -1,0 +1,297 @@
+The Magic of Leo 
+hristopherson! 
+
+An old Nim 
+
+with sound 
+
+by Leo Chri stopherson 
+
+2 
+
+• 
+
+INSTRUCTIONS - This unique animated graphics game has SOUNDl 
+
+Simply plug the 
+
+t- • 
+
+which now 
+
+• • ;*c 
+
+into the AUX input of your cassett 
+
+. »■• 
+
+any audio amplifier. (Radio Shack Microsonic 200 mw Solid 
+
+State Speaker • Amplifier, Catalogue number 277-1008 works well, as 
+many others. Complete plans for building your own may be found in Soft 
+
+Magazine, Volume 2 - Number 9, page 36 
+
+- • • 
+
+game you place bets and your Snake 
+like dice. Your Snake will play against the computer's Snake. You 
+need to press ENTER after your entries. To place a bet, such as $1 23.45, 
+
+gg, which acts 
+
+not 
+
+press 1 , 2, 3, ., 4, 5 -pausing after each digit to see that it has 
+
+• : : 
+
+accepted 
+
+To change the bet, press " B". When the amount of your bet is correct, 
+press the space-bar to enter it. You may press "R" to start a new game 
+
+After the first two rolls, you may roll again until your 
+
+over 41 . Each roll is from 1 to 22 
+
+but you 
+
+e^'i 
+
+your total 
+
+• t 
+
+i nts. You win it your total 
+
+is closer to 41 than the machine's. A roll 
+
+EGGS 
+
+• » 
+
+while a roll of "SCRAMBLED EGG" loses 
+
+the final result of your rolls is the same as the machine's, no 
+
+3 
+
+The Snake at the left is a "Controller Snake" and will pass along to the 
+other Snakes what they are to do. Your Snake is at the upper right, and the 
+machine's Snake is at the lower right. 
+
+This program may be saved on disk. It may be necessary, after playing 
+this game, to reset your system, since LPRINT is used to access machine 
+language routines. This may leave your printer inactive until you press the 
+reset button. 
+
+If you fail to get sound - and you have an expansion interface - you may 
+need to try the other cassette cable. Or, you may connect your cassette 
+cable directly to the keyboard. 
+
+Snake language will be translated for you! 
+
+4 
+
+• # 
+
+with sound 
+
+by Leo Christopherson 
+
+WARY 
+
+5 
+
+INSTRUCTIONS • This unique animated graphics game has SOUND. 
+Simply plug the cord which now goes into the AUX input of your 
+
+cassette recorder into any audio amplifier (Radio Shack Microsome 
+
+200 mw Solid State Speaker • Amplifier, Catalog number 277-1008 
+
+works well, as do many others. Complete plans for building your own 
+may be found in SoftSide Magazine, Volume 2 • Number 9, page 36.) 
+
+The line listing may look strange - even with a successful CLOAD • 
+due to the use of HYBRID programming (Altered line graphics and 
+packed machine language sound routines). 
+
+6 
+
+You will operate an animated bee in a contest against a spider 
+operated by the computer. If the spider can jump up and swallow 
+your bee, you lose. If the bee can sting the spider in a vulnerable 
+spot, you win. Hint • the spider is tough, but has weak spots near its 
+eyes. 
+
+This program may be loaded directly to disk, but will not work with 
+
+BASICR, as it uses NAME to call machine language routines. 
+
+If you fail to get sound • and you have an expansion interface • you 
+may need to try the other cassette cable. Or, you may connect your 
+cassette cable directly to the keyboard. 
+
+7 
+
+with Sound 
+
+by 
+
+Leo Christopherson 
+
+INSTRUCTIONS - This unique animated graphics game has 
+SOUND. Simply plug the cord which now goes Into the AUX Input of 
+your cassette recorder Into any audio amplifier (Radio Shack 
+Microsonic 200 mw Solid State Speaker-Amplifier, catalog number 
+277-1008 works well,* as do many others. Complete plans for 
+building your own may 
+
+Number 9, page 36.) 
+
+Magaz 
+
+This program contains two versions of LIFE. The first option 
+allows you to set up an initial pattern and watch resulting LIFE pat- 
+terns unfold according to J. H. Conways' standard LIFE rules . . . 
+but at the amazing rate of about 100 generations per minute. (This 
+option does not contain sound in the interest of speed.) 
+
+9 
+
+The second option is the BATTLE OF LIFE game . . . using the 
+
+brilliance of Leo Christopherson's TRS-80 graphics . . . plus the 
+
+citing 
+
+• if 
+
+Watch as the characters talk and move 
+
+with sound effects ! 
+
+Four life forms (biped, triped, uniped and quadruped) allow up to 
+four players to participate. Each player chooses his lifeform 
+(numbered 1 , 2, 3 and 4 respectively) and places up to six of them at 
+various locations on the grid represented by the numbers. Players 
+may put all six on the grid in one turn or (more fairly) players take 
+turns putting one of their llfeforms at a time on the arid. The 
+
+number to the right of the 
+
+• :•:• 
+
+lation 
+
+"P" in the upper right corner is the 
+
+10 
+
+When there are two players, each player may take one lifeform or 
+each may take two different ones. Three players are limited to one 
+lifeform each, with one left over and not used 
+
+Following each cycle of five generations 
+allow each player to a 
+
+to 
+
+• • 
+
+more of their lifeforms to the 
+
+Play then continues when the "S 
+This program may be saved to 
+
+press 
+
+fou fail to get sound • and you have an expansion interface • 
+nay need to try the other cassette cable. Or, you may connect 
+cassette cable directly to the keyboard. 
+
+11 
+
+ANDROID NIM 
+
+by Leo Christopherson 
+
+12 
+
+SOUND EFFECTS 
+
+In addition to the captivating animation of these entertaining an- 
+droids, you will also want to hear them communicate with each 
+other in their special language. This is easily accomplished by con- 
+necting the wire which normally goes to the AUX input of your 
+cassette recorder to an amplifier. (Radio Shack Microsonic 200 mw 
+Solid State Speaker Amplifier, catalog number 277-1008 works well, 
+as do many others. Complete plans for building your own may be 
+found in SoftSide Magazine, Volume 2 - Number 9, page 36.) 
+
+13 
+
+§,•11 Y* : II • i I - M 1 k -M ► . * III NKIBIKIIII 
+
+ba 
+
+INSTRUCTIONS 
+
+The rules of the game are simple: three rows of androids will ap- 
+pear on the screen. The rows contain seven, five, and three an- 
+droids respectively. To 1 
+executioner-android, rec 
+
+the computer will take turns removing andrc , 
+
+as many androids as you wish on your turn, provided that they all 
+come from the same row. The player who removes the last android 
+is the winner. 
+
+When it is your turn to play, select a row by pressing a number 
+
+• ; 
+
+(There is no need to use the ENTER key). A number 
+
+Inform 
+
+appear 
+executioner 
+
+row. You do this by pressing a number-key. 
+
+14 
+
+Example: to remove two androids from the 
+
+t* 
+
+for the 3 to appear at the left of row 3 and then press "2". By 
+
+nodding his head the executioner will tell you if your move is legal. 
+
+i was only a single android in row 3, your request would be 
+
+denied 
+
+• t 
+
+turn is signalled by a flash! 
+5 seconds without making 
+
+you again. 
+
+opponent is a smug winner, but a sore loser 
+
+varying combinations of skill and luck, you succeed in winning the 
+game, be prepared for a string of humorous abuse! 
+
+you fail to get sound • and you have an expansion interface 
+
+you may need to try the other cassette cable. Or, you may connect 
+your cassette cable directly to the keyboard. 
+
+15

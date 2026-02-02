@@ -10,6 +10,7 @@ const navItems = [
   { href: '/decade', label: 'By Decade' },
   { href: '/topic', label: 'By Topic' },
   { href: '/language', label: 'By Language' },
+  { href: '/quotes', label: 'Quotes' },
   { href: '/about', label: 'About' },
 ]
 

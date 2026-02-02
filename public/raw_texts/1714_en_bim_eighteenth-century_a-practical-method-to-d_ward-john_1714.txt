@@ -1,0 +1,2227 @@
+« 
+—_—_— 
+
+* — 
+
+= 
+PRACTICAL _ 
+
+To Diſcover the © *4$7- 
+| LON GITUDE at SEA, | 
+
+By a New Contrived 
+
+AUTOMATON... 
+
+Freed from all the Various Fan 
+of Air in different Climates, &c. And 
+not Liable to Diſorder by the Irregular | 
+|] Motion of a Ship. . | 
+| The whole Method Rendered Plain and Ege 
+do be Underſtood by every Mariner. ot 
+1 With an 
+2 of the Author's new Inſtrumem 
+
+for taking the Latizude more Accurately: at Sea, 
+than hath hitherto been Praftiſed. | 
+
+Humbly Ofer'd to the Conſideration, and 
+of the Publick. | 
+
+> 70 E WARD. of Chefter.  | 
+| Sed the Young Mathematiciani Gol, c. 
+| „ 
+
+| Printed for James Woodward, at the Bible in — 
+Alley, near Stocks-Market, 1714. Price Six Pence. 
+
+— 
+
+| — 
+
+— 
+
+* ns act 
+- 
+
+1 
+; Sa 
+
+— 
+» A 8 
+
+To the Right Honourable the 
+
+'LORDs| 
+
+With the Reſt of the Honourable 
+
+COMMISIONERS, 
+
+Conſtituted and Impowered 
+by Act of Parliament, to 
+Receive, and judge of, all 
+PROPOSALS made to 
+them, for Diſcovering the | 
+
+LONGITUDE at SEA. 
+
+This Tract Defign'd * that 
+Di ſcovery, is Moſt Humbly 
+Submitted, | | 
+
+and Dedicated, | 
+
+By its Author — 
+J. Ward. | 
+
+The Reader is deſir d to Correct theſe 
+Errors in the Preface. 
+JAze the Firſt, Line 23, inftzad of 79th, Read 
+
+zꝛ9 th. And Page the Fourth, Line 14, inſtead 
+ct, did fall, Read did not full. And if there be any 
+
+Literal Faults in the whole, tis hop'd he will paſs 
+
+them over. 
+
+— 
+
+The PREFACE. 
+Courteous Reader, : 3 3 
+I TERE is Submitted to thy Cenſure, a ſmall Tract, 
+3 which ( altho* the Subject be Difficult, ) I hope 
+will Anſwer its Title; twas deſign'd to have been Pub- 
+_ liſhed in September laſt, but when I came to the finiſhing 
+Stroak I found it very requeſite to Calculate New Cor- 
+rett Tables for the Equation of Time, in order to ren- 
+der the Work more Compleat and Uſeful in Practice. 
+
+And I then thought it would be Proper, to preſent 
+every one of the Honourable Commiſſioners ( Nam'd in 
+the Dedwation, ) with a fair Copy of the whole Method, 
+before it were Printed; and accordingly I prevailed 
+with a Friend to undertake the Tranſcribing cf thoſe 
+_ Copies, which proving Tedious, and unforeſeen Buſineſs 
+preventing him, I was forc'd to let that deſign Drop; 
+and ſent the Manuſcript to be Printed off: Where (nf 
+being able to attend the Preſs my Self,) it has been farther 
+Delaid by the Printers Neglect, or it had apprarcd in 
+Publick above Three Months ſooner. | 
+
+Whilſt it Laboured under theſe Diſappointments, a 
+Pamphlet was Publiſhed (in November) by one Fer---y - 
+Th--ter, Entituled, The Longitad:s Examin'd, &c. which 
+came to my Hands the 29th of that Month; and gives 
+the Occaſion of Writting this Preface, with the follow- 
+ing Affida vit; for when I found that Author propoſed a 
+- Machin to Move in a Glaſs Receiver, as a means to Diſ- 
+cover the Longitude ; I bad Reaſon to Suſpett, as well 
+from private Circumſtances, as from the Crude indigeſt- 
+ed Notion he ſeems to have (by bis imperfe# Application,) 
+of ſo Uſeful a thing as a Recipient rightly Appli'd, will 
+undoubtedly prove; That the Knowledge he pretends. 
+to have in this Aﬀair, came by Trap, and not the way 
+he ſo Boaſtingly tells the World of thus. 
+
+lt is nom (ſaye he,) well ni2h towards half a Tear, (which 
+by the Way is near the Time I Ground my private Su 
+
+ſpicion 
+
+| 
+' 
+| 
+
+- - 
+: = 
+Cs re tC II ET Ian an 
+
+The PREFACE. 
+
+ſpicion on,) ſince My Good Genius, and my S2If, found 
+out a Method for Diſcovering te Longitud?, the Secret 
+that Nature bad Confeſs'd to ME, an hai refuſs'd to 
+T HEM, (meaning the Longitudinarians,) as often as 
+they have ask d her for it. 
+
+Boldly ſaid Mr. T5 -ker. But upon the Peruſal of 
+what follows, (I humbly Conceive,) vou'l find your Miſ- 
+
+Common Council of the City of Cheſter; before Francis 
+Sazer Eſq; Mayor. Roger Comberbach Eſq; Recorder. 
+Peter Bennet, and James Mainwarinz Elyrs; Juſtices 
+of the Peace, and Aldermen of that City. 
+
+WHT Bird Citizen of Cheſter, Foluntarily maketh 
+' Oath, that in the Month of July, 1714. This De- 
+ponent being at Mr. John Ward's Chamber in the ſaid City 
+ef Cheſter, there happened ſome Diſcourſe between the ſaid 
+Mr. Ward and this Deponent, concerning the Great Re- 
+ward, which the Parliament had then Newly Settled upon 
+
+any Perſon, who could Diſcover the Longitude at Sea; 
+
+And the ſaid Mr. Ward then told thu Deponent, that he 
+the ſaid Mr, Ward, ſome Tears ago, ( when he lived in 
+London,) had ſome thoughts about Diſcovering the Lon- 
+gitude, and that be verily Beleived he bud at that time 
+ond out a Method that mould Diſcover it at Sca; But the 
+
+id Mr. Ward, being (as be ſaid,) then much Indiſpoſed 
+
+In his Health, was adviſed to læave London, and repair to 
+
+bis Native Country, to try what effects that Air would have 
+
+towards Recovering his Health, and ſo hit let the thoughts 
+it Drop for that time, and ſeveral other Diſcourſes upon 
+the ſam? Subject paſſed betwixt the ſaid Mr. Ward and this 
+De ponent. | | 
+And this Deponent farther ſaith, that the ſaid Mx. Ward 
+then aged this Deponent, whether be could keep @ Secret, 
+
+ro which th Deponent replyed, that he botb cauld and would 
+
+if it were Exjoyned lim Ly the ſaid Mr. Ward. Where- 
+
+upon the ſaid Mr. Ward told this Deponent, that the Lon- 
+
+zitude might be found by an exait Mov: ment to be made 
+a ſucb Mannergs be the ſaid Mr. Ward would Deſcribe 
+
+cod 
+
+take, in preſuming to be Natures only belove.! Darling. 
+A True Copy of an Affida vit, made by one of the 
+
+,, _—_— 
+
+— 
+
+5 
+. 
+
+which this D 
+Mr. Ward's 
+
+E 7 Motos Beverly in Yorkſhire, which = 
+a7 
+
+The PREFACE. 
+
+and that to Move in Vacuo would do it, for thereby it word 
+
+be freed from all the Various effects of the Air ; ; upon which | 
+this Deponent defired the ſaid Mr. Ward to 'Rerolle# his 
+Thoughts on that Subjeft, and prepare them for Practice, 
+and this Deponent farther ſaitb, that the ſaid Mr. Ward 
+in a few Days after ſet about t 3 Wark and in 
+
+tember following, was ſo Farward in the _ Method, = 
+
+be Employed thu — to Tranſeribe a fair Copy of 
+what be the ſaid Mr. Ward had then Wrote, in Order t 
+
+preſent the ſame to the Commiſſoners, before he Pablifhed 
+the ſame in Print, (as he told this Deponent,) and thus Ve- 
+ponent farther ſaith, that he Tranſcribed the ſaid Copy, for 
+
+the ſaid Mr. Ward, to the Twenty Sixth Page, in a Large 
+Ocdtavo, and that the ſame Conſiſted of a ſhort Introduct ion, 
+
+ſome Peſinſt ions, 4 Deſcription of the Movement and man- 
+
+ner of Placing it in Vacuo, with Anſwers to ſuch Objetti- 
+2 ſaid My, Ward, (ſaid,) be ſuppoſed might be 
+Raiſed — its Uſe at Sea, and ſeveral other Particulars, 
+this Deponent farther ſaith, that he then Underſtood 
+2 the jaid Mr. Ward, that he Intended to Calculate ſome 
+ables that were needful to Render the Work Compleat, 
+- ol to be the Reaſon, wby the 7 
+was not Printed ſo ſoon as was at firſt 
+Intended. And this Deponent fartber ſaith, that there 4 
+ving 17 1 a 7 5 in November following, 
+
+ſeen, wherein that Author mentions e 
+Mackin: hep kept in 4 Vacuum as 4 Means to Diſcover the 
+Longitude at Sea, this Deponent is therefore deſired to 
+Make end Publiſh to the World this Aﬀidavit of the Truth of 
+the Above-mentoned Particulars, 
+William Bird. 
+
+Jurat apud Civit Ceſt. Viceſimo 
+die Decembris, Anno Regni 
+
+Domini Georgii Regis, Magnz, 
+Britannz primo. Coram. 
+Roge Francis Ser — 2 
+* | Peter Beanet. 
+
+James Mainmaringe 
+By 
+
+The PREFACE. 
+
+By this time I hope the Impartial Reader is pretty 
+well Satisfied, whether Mr. Th--ter, or J. Ward did firſt 
+Project the Uſefulneſs of a Recipient for the preſent 
+Purpoſe, and when he has perus'd the following Pages, 
+I believe he will then be fully Satisfied, which of us hath 
+arrived the neareſt to the Perfect ing of that Thought; 
+not only in Freeing any Time-keeper from the various 
+Effects of Air, Ge. But alſo, the Method of Applying 
+the Time ſo kept, to the Practical Diſcovery of the 
+Longitude at Sea; without which the Time-keeper will 
+be of very little Ule. Now this part of Compleating 
+the Work, Mr. Th---ker is ſo far from Performing, that 
+
+be does not Vouchſafe ſo much as to Undertake it: (No, 
+
+no, that Part did — into the Trap. 2 And yet he often 
+— aſſures himſelf to carry off the Twenty Thouſand 
+Pounds. 
+For my Part, I have done every thing that I can Im- 
+magine is neceſſary to Accompliſh the Deſign; And al- 
+tho I am now Depreſsd with Age, and have had a long 
+Indifpoſitzon of Body, Oc. Yet (Bona fide, I do not 
+ſo much Covet the Reward, as the Satisfaction of being 
+Uſeful to my Country, in Contributing all I can to the 
+Induſtrious Mariners Endeavours ; for Improving the 
+Art of Navigation, which I hope will futher Appear in 
+another Diſcourſe upon that Subject, (f Encourag d to 
+dt,) wherein they will be fully Satisfied, that I am 
+
+Their Real Friend, 
+1 and humble Servant. 
+CHESTER, - 
+January the 10th, 
+1714. | 
+
+F. Ward. 
+A 
+
+PRACTICAL METHOD, 
+
+To Diſcover the 
+
+LONGITUDE at SEA. 
+
+HAT a Practical Method of Diſcovering the 
+ £L£ZONGITUDE at Sea,hath been much want- 
+
+ed and earneſtly defired by all Trading Nations, 
+
+for improving the Art of Navigation, is very evident 
+from the many Eſſays which have been made by ſeveral 
+
+Eminent Mathematicians to accompliſh the ſame, (parti- 
+
+eular Accounts thereof are to be ſeen in the Philoſophical 
+
+| Tranſa#ions, ) all of them true in Theory, but either fo 
+
+Abftruſe, or attended with ſuch Difficulties, as have 
+hitherto render'd them Impratticable at Sea. : 
+
+It may therefore be Humbly preſum d, that whoſoever 
+ſhall Publiſh a Practical Method, for finding the ſaid 
+
+_ Longitude to ſufficient Exactneſs, and eaſie to be Under» 
+| ſtood by every Practitioner, may have the Satisfaction 
+
+of a favourable and kind Reception, from all who are 
+to Judge, or make Uſe of it. And altho* the natural 
+Obligations that all Men lie under, to promote the com- 
+mon good of Society, and the Reputation any Perſon may 
+reaſonably propoſe to himſelf, by being either the Au- 
+thor, or the Improver of ſuch a Diſcovery as hath Em- 
+
+_ ploy'd the Thoughts of many Learned Perſons, are very 
+_ prevailing, and undeniable Reaſons, why ſuch a Diſce- 
+
+very, or Improvement, ſhould be Communicated to the 
+Publick, if no other Reward were Propoſed ; yet, ſince 
+the Legiſlative Authority of this Kingdom, have Thought 
+kt to Settle a very _ Reward, as an Encourage» - 
+
+2 Jo Diſcover the 
+ment for ſo Uſeful and Beneficial a Work, it is hop'd, 
+that any Perſon who Anſwers the End required, may 
+take the Benefit of what is Offered, without the Im- 
+putation of doing it for that Gratuity only. 
+Now, in Order to render the Contents of this Tract, 
+as Intelligible as the Nature of the Subject will Admit, 
+it may be Convenient to begin at the very Foundation ; 
+viz, with a brief Deſcription of the Earth, and of a few 
+ſuch Lznes or Circles, upon which the true knowledge 
+of both the Latitude and Longitude depends ; For al- 
+
+tho' the true Nature and Uſe of all ſuch Imaginary Line: 
+
+and Circles, asare ſuppoſed to be in the Heavens, for 
+Solving the Phenomena of the Sun, Moen, and Stars; 
+And alſo thoſe ſuppoſed to be upon the Surface of the 
+Earth and Sea, for the better Determining the Scituatz- 
+on of Places, in Reſpect to their Latitudes, and Longi- 
+tudes, Oc, are well known to the Skilful in Mathe mati- 
+ca Learning, (who tis hop'd will Indulge the Author 
+in this way of Proceeding, tho it be Needleſs to them,) 
+yet becauſe this Tra# may fall into the Hands of many 
+very Ingenious Perſons, who have not heretofore made 
+any Enquiry into the Nature and Uſe of thoſe Cireles, 
+e. but upon this Occaſion _ their Curioſity ma 
+Incline them to be Deſirous of ſeeing ſome ſhort a 
+lain Account of the true Ground and Meaning of this 
+Ader It Problem of finding the Longitude, which is 
+here Treated of, ( and at this Time makes ſuch a great 
+Noiſe in the World, ) that ſo they may be the better pre- 
+* to Underftand it, and its Solution ; therefore in 
+_ favour of ſuch, and that it may be clearly Apprehen- 
+ded by all Perſons, even by the ordinary Seamen into 
+whoſe Hands it may, (and hope it will) come; I ſhall 
+Therefore begin with ; 12 | 
+
+A brief Deſcription of the Earth, G. 
+together, do 
+
+uſually aqueous 
+thorow the Mzddle or Center of this Globe, there is 
+| imagin'd to paſs a Ri. Line, called ity Axis, —_ 
+
+5 Longitude at Sea. 3 
+this Axis (ſpos'd to be continued to the Heavens, ) are 
+thoſe Two Points callel the North and South Poles, 
+whereon, ( or about which,) the Heavens, with all their 
+Furniture, apparently perform their Diurnal Mations 
+
+from Faſt to Weſl, And upon the Surface of this Earth- 
+ly Globe, there are imagin'd ſeveral Circles of great 
+Uſe ; but I ſhall Deſcribe only ſo many of them as are 
+
+moſt Uſeful for the preſent Purpoſe, Es 
+iz. The HORIZON, the ” a and the 
+
+"0M e 
+
+1. The HORIZON is a great Circle that Divides 
+
+— 4 — _— — Earthly mn Two 
+qua rts, Viz, pper or Ligbt Hemiſphere, 
+
+_ the Lon or Dark H-miſj — : and 5 is 
+
+evident to any Perſon that will ſtand upon an open 
+
+Plain, ( as upon the Sea, Ic.) in a clear Day, and look 
+
+Round about him, he may then ſee a Circle, which Ter- 
+
+minates his Sight, where the Heavens (or Sly) and 
+
+Earth part, that's the Yiſ6ble Horizon, whereon the Sun, 
+
+Moon, and Stars do ( Apparently ) Riſe and Set; The 
+
+Place where the Obſerver ftands, is its Center, and the 
+
+Point in the Heavens juſt over his Head, is called the 
+
+Zenith, from whence if a Right -Line be ſuppoſed to 
+
+Paſs through the Center of the Earth, to the oppolite 
+
+Point in the Heavens, juſt under his Feet, that Point is 
+
+called the Nadir; and theſe Two Points are Termed 
+
+the Poles of the Horizon. 
+
+Hence, (I preſume ) it will be eaſy to Conceive, that 
+
+are as many Horizons, as there are Different 
+
+Places upon the Surface of the Terraqueous Globe. 
+
+2. The EQUATOR 8 EquinoSial-Line, is 2 
+great Circle that Divides Surlice of the Earth and 
+
+Sea into Two equal Parts, called the Nothern, and Sow- 
+
+thern Hemiſpberes, and is an Iuvariable Circle equally 
+
+diftant from both thoſe Poles, ( which are indeed itt 
+
+_ Centers; ) And therefore, the Equinoſtial hath always 
+
+the ſame equal Motion from Eaſt to Weſt, as the Hea- 
+
+vens have, being that Cirele, by which Time is oy 
+
+Meaſured, viz, The Hours Ly Minutes, Cc. wks 
+
+Z.. . — —— — ——— ˖— — — 
+
+| 
+| 
+| 
+b 
+| 
+
+4 To Diſcover the En 
+the Sun (apparently) takes in its Daily Motion round 
+the World; And for that Reaſon the 360 Degrees of the 
+2 are by ſome Authors called le mpora (or 
+
+ 12zmes,) which being Divided into 24 equal Parts, ( 
+
+Hours in a Natural Day, ) every one of thoſe Parts will 
+be Fifteen Degrees for the Meaſure of an Hour; conſe- 
+quently every Degree of this Circle is the Meaſuro of 
+
+Four Minutes of 1ime. 
+
+3. The MERIDFAN is a great Circle that Paſſes 
+through the Two Poles of the Equator, and the Poles of 
+the H9ri70s, interſecting or Cofſing both the E uatar and 
+the Horizen at Right-Angles, and Divides the Surface 
+of the Earthly Globe into Two equal Parts, called the 
+Eaſtern and Veſtern H:miſph:res ; and is that Circle (or 
+Line,) upon which the Sun is every Day juſt at Noon; 
+
+viz. when it is exactl/ Twelve a Clock in the Placa 
+that lies under that Meridian. 
+
+Conſequently there are as many Meridians, as there 
+
+are Places in the World that lie never ſo little diſtant 
+
+One from Another, either towards the Eaſt or Weſt. 
+Or rather, there are as mans Meridians, as there are 
+
+Moments of Time, in a Natural Dar, or 24 Hours; be- 
+_ cauſe the Sen is continually Moving every Moment of 
+
+Lime, from one Meridian to another Weſiward. Al 
+theſe Meridians meet at the North and South Poles. 
+
+4 The L ATITUD E of any Place, either at Land 
+or Sea, is the Diſtance of its Zenith from the Egquino- 
+Rial, in Degrees and Minutes, Cc. counted upon the 
+Meridian, either North or South, according as the Ze- 
+nith of the Place is in the Nortbern or South:rn Hemi- 
+ere, ( viz. on the North or South fid: of the Equine» 
+
+_ #9), ) and that Arch of the Meridian included betwoen 
+
+e Zenith of any. Place, and the Equino#ial, is always 
+
+Aua to the Arch of the fame Meridian, included be- 
+
+tween the Pole and the Horizon of that Place; And 
+grefore the Latitud? is very often called the Elevation 
+or Height of the Pole. 
+Now, becauſe the North and Soceth Poles are fixt 
+Points, and the Eguinotial an Invariable Cirele, equally 
+
+Longitude at Sea. 5 
+Adiſtant from thole Points, it follows, that the Latitude 
+of any Place is certain; and ealy to he found by having 
+the Sun's ( or any known fixt Stars,) Meridian Altitude, 
+and Decliniation given But the Sun's Meridian Alti- 
+tude may be found by an Obſervation, made with a 
+proper Iuſtrument for that Purpoſe. n+” 
+At preſent, that called Daviſſe's Quadrant, is moſt 
+approved of and uſed at Sea, tho' it's not free from 
+Material Objections; as the Difficulty of removing 
+the Sight Vane to its true Place in the Time of Obſer- 
+vation; Alſo, it is very DitFcult to get a true Sight of 
+the Horizon, if the Weather be never ſo little Hazy, and 
+even in clear Weather, it is ſomewhat hard to Diſtin- 
+_ gvilh the Line, where the Hurizon cuts the Water, 
+which lays a pu Streſs or Strain upon the Eye of the 
+Obſerver. Theſe unavoidable Difficulties, (to Name no 
+more,) attend the uſe of that Quadrant, and render the 
+Obſervation uncertain ; conſequently the Latitude which 
+depends upon it, muſt be ſo too. And this I've often 
+| heard complain'd of, by very Ingenious Navigators, 
+who have heartily Wiſh'd ſome more certain Way could 
+be found for taking the Sun's Altitude at Sea. 
+Complaints of this Defe@ are to be met with in ſeve - 
+xal Books of Navigation, I ſhall name only that of Mr. 
+Collins's, Entituled the Mariners Plain Scale new Plain d, 
+wherein, (Page 4.) Mentioning the Imperſections and 
+Defefts in the Art of Navigation; Laſtly ( ſaith he, ) 
+the Obſervation of the Latitude, (being the ſole belp, 
+whereby to Reftify an Erroneous Reckoning, ) cannot be 
+performed fo near the Truth, but that divers Minutes 
+of Error will be Committed. He then gives this In- 
+ance ; Six ſeveral Perſons at the ſame time in one 
+hip, who were Accuſtomed to Obſervations, and who 
+for the moſt Part of them, had been more than Once 
+at the Eaſt and Weſt-Indres, Obſerving the Latitude, 
+did alt Differ, ſume 12, ſome 27, and fome 51 Minutes 
+one from Another. Alſo, Mr. W-5:fton and Mr. Ditton, 
+in their New Method for Diſcovering the Longitude, 
+find Fault with the hraccreracy of the Latitude, as it's 
+gommonly taken. Vide page 17, But 
+
+— - — 
+——U— — m rr 
+
+6 To Diſcover the Þ 
+But now, all the aforeſaid Difficulties and Complaints 
+may be wholly laid aſide, if the honeſt Marriner plraſe 
+to make Uſe of an Inſtrument that Prue Contrived not 
+long ago, and ſent a Deſcription thereof, (viz. the man- 
+ner how it muſt be made, ) to the Ingenious Artiſt Mr. 
+John Rowley, Mathematical-Inſtrament-Maker, under St. 
+Dunſton's-Church in Fleet-Street, London, There any 
+Perſon may have that Inſtrument moſt accurately made, 
+which will, ( pre ſume, ) be found very uſeful and exact 
+for taking Obſervations of the Sun's Altitude at Sea, 
+even in Hazy Weather, when the Sun Shines, tho but 
+Faintly, and the Horizon not to be ſeen at all; conle- 
+quently the Latitude may be more frequently found, and 
+with greater Certainty than heretofore, which muſt 
+needs be a conſiderable Advantage in the Expedition of 
+moſt (eſpecially Long) Voyages. And therefore, I hope 
+it may juſtly be calld a good Improvement to the Art 
+of Navigation. . F 
+N. B. By this New Inſtrument, the Sun's Altitude may 
+alſo be very Nicely taken at Land, which cannot be done 
+by Daviſſes Quadrant. m— 
+J. The LONGITUDE of any Place, either at 
+Land or Sea, is the Horary Diſtance of its Meridian, 
+either Eaſtward or Weſtward from the Firft Meridian 
+where the Account of Longitude is Aſſign'd to begin, and 
+that Diſtance between thoſe Two Meridians makes an 
+Angle at the North, and South Poles, ( where all the Me- 
+ridiaus meet, ) that Angle being the ſame in all Parallel: 
+of Latitude, and is Meaſured by an Arch of the Equine- 
+tial, calld the Difference of Longitude between thoſe 
+Two Meridians, (or the Places that lie under them. ) 
+Now, becauſe the Motion of the Equinoctial is the True 
+and equal Meaſurer of Time, that the Difference 
+of Meridians is Meaſured by the Motion of the Equi- 
+noctial, and canuot be otherwiſe truly Meaſured ; It 
+vill be eaſy to Conceive, that, if the Time which the 
++ Sun takes in its Motion, between any Two Meridians 
+can be truly known; then the Difference of Longitude 
+between thoſe Two Meridians is conſequently Ay 
+
+—— 
+
+. — -— 
+
+Longitude af Sea. 7 
+by converting that Tim? into Degrees and Minutes of 
+the Equinoctial; And therefore, all the Methods that 
+have been formerly propoſed, (or I preſume that can be 
+Propoſed, ) to Diſcover the Difference of Longitude, be- 
+tween any Two Places, muſt neceſſarily depend upon 
+
+the Knewledge of the True Moments of Time, in both 
+_ Thoſe Places. IR 4s 
+A As for Inſtance in the following Methods. 
+If by the Eclipſes, either of the Sn, or Moon, = 
+
+Or, by the Meon's Eclipſing ſome of the Fixed Stars, 
+that Lye in her Path or Courſe. 5 
+Or, by the Revolution of Jupiter upon his Axis. 
+Or, by the Immerſions, and Emerſions of Jupiter's Sa- 
+tellits, into, or from his Shadow, (called their Eclipſes.) 
+
+In all theſe Phenomena, the exact Moments of Iime 
+muſt be known, both in the Place for which the Calcu- 
+lations of thoſe Appearances are made, and in the Place 
+of Obſervation where they are ſeen, or otherwile, the 
+Horary Diſtance between the Meridians of thoſe Twe 
+Places, ( which # their Diſtance on the Equinoctial, or 
+Difference of Longitude, ) cannot be Truly known. 
+
+Alſo, the New propoſed Method of finding the Longi- 
+tude, by the Motion of Sound, Cc. intirely depends 
+upon the Knowledge of the exact Moments of Time, 
+both in the Place where the Explokion is Made, and in 
+the Place where it is Heard. 
+
+It muft be granted, that all theſe Methods to Diſco- 
+ver the Longitude, are true in Theory, but attended 
+with ſuch Difficulties in Practice, as render them uſe- 
+leſs at Sea, where I believe, ( nay, may venture poſetue- 
+to Affirm,) that the Difference of thoſe Times, (above 
+mention d,) cannot be Found, (both at the ſame time,) 
+without the Aſſiſtance of an Artificial Movement, made 
+either by Wheel-Work, or ſome other Contrivance 
+equivalent to it. But if ſuch a Myvement can be ſo made, 
+| as to become uſeful at Sea; then the Difference of Lon- 
+2 between any Two Places (or Meridians,) may be 
+
+und by it only, and that more Eaſilj than by any other 
+
+8 To Diſcover the 
+And this the Famous Mr. Heggent, was in Hopes he 
+had fully Accompliſhed, when firſt he Apply'd the Pen- 
+dulum, to Regulate the Motion of Clocks and Watches, as 
+lainl? Appears b / his Application made to the States of 
+
+Poland, for the Recompence ſet apart for the Invention, 
+in Caſe of Succels in Diſcovering the Longitude at Sea. 
+(Vide. Phil. Iranſ, Abridsd. vol. the Firſt, page 644.) From 
+whence its evident, that Jagenioas Perſon did not fore 
+ſee ſuch Inconveniences as thoſe Movements were then 
+Tiable to at SS; And, which are now become the com- 
+mon and moft prevailing 05je#:ons againſt the uſe of all 
+Movements there, that are made bi Wheel-Work. viz. 
+
+The Vieiſſitudes of the Air in different Climates, and 
+S-aſ1ms of the Tear, in reſpect to its Rarity, Deaſity, Morft- 
+neſs, Droeght, H:at, and Cold; alſo, the Irregular Mo- 
+tion which a Ship has at Sea, but above all the Influence 
+which the Saline Effavia or Particles of Sea Air have 
+upon Metals, in cauſing them to Reſt, ©c. in a very 
+little Time, : | 
+
+Now if theſe Effects of the Air, ( which are all the Ob- 
+jet ons I know, or ever heard of,) can be ſo provided a- 
+gainſt, by any Contrivance, as to have no Power over 
+a Movement at Sea; Then I humbly Conceive, that 
+finding the Long/tud: by an Automaton, will take Place 
+before all other Methods, and this 1 age will be Per- 
+form'4 to all Iatents and Purpoſes, by what I ſhall here 
+Offer, when put into Practice. BY 
+
+A Diſcription of the propoſed AUTOMATON. 
+
+HE Frame of the Movement ſhould he at leaſt 
+
+Six Inches Broad, and its height the ſame, that 
+fo the Diviſions on the Dial- Plate may be ſea diſtin. 
+and plain The Firſt, or Inner Circle thereon, next the 
+Center, is to be Divided into Twelve equal Parts, (or 
+Hors, ) and every one of thoſe into Four equal Parts 
+Cor Quarters, ) to which the Index muſt Point, as in 
+common Clocks. The next or outward Circle, is to be 
+Divided into Fifteen equal Parts, and its Index to move 
+Round that Circle every Quarter of an Hour; — | 
+
+quently 
+
+Longitude at Sea. 3 
+| quently that Index will ſhew the Minutes of Time ; 
+eycry one of thoſe Minutes, I would have Subdivided 
+into other Fiftzen equal Parts, then will the ſame Index 
+as it moves over the Minutes, ſhew every Four Seconds 
+of Time, which js equal to one Minute of a Degree in 
+the Equator, That is, this laſt Index will by that Means 
+paſs over 21600 of thoſe ſmaller Diviſions in a Natural 
+Day, or 24 Hours, and juſt ſo many Minutes or Geo- 
+graphical Miles are contained in the 360 Degrees of the 
+| Equator. (vi. 360 x 6@ =21600 the Minutes or Miles 
+in a great Circle.) . 3 
+The Inner parts of the Movement, as the Fuß), the 
+Main- Spring, the Chain, and heels, I would have them 
+all made in full Proportion to the Size of the Frame 3 
+And their Motion to be Govern'd by a pretty Weighty 
+Round Ballance, and that to be Regulated by Two Spiral 
+Springs, which muſt be ſo fitted to the Verge of the 
+Ballance, as to Bend, and Unbend Alternately, vi. 
+Whilſt one of thoſe Springs is Folding up by the Motion 
+and Force of the Ballance, the other Spring muſt be at 
+Liberty to unfold it Self; and by that Means thoſe Two 
+Springs, being well Adjuſted to perform their Office, 
+will keep the Ballance to avery Regular Motzon, not 
+much, ( if any, ) Inferior to that of a Long Pendulum, 
+and in ſome Reſpe&s to be Prefer'd before it 
+For, if ſuch a Movement be carefully and accurately 
+Made, by an Ingenious experienc'd' Artiſt ; it will go 
+equally alike in all Poſitions, vi. either Horizontal, Per- 
+pendicular, or Reclining, &c. which Pendulum Move- 
+ments cannot poſſibly do. Nor will it be Subject ta 
+any Diſorder, by the Irregular Motion of a Coach, or 
+that of a Shipat S. And being once well adjuſted ta 
+keep Time, which it may be brought to do in a Month 
+or Two, with a few Trials made by the help of an 
+Equation Table of Natural Days, and a True Meridian 
+Line, drawn upon a Covenient plane for that Purpoſe. 
+The way of doing both ſhall be ſhewed in its proper Place 
+further on. 1 * 
+Note, Ihe making of this Movement is alread) wel 
+
+iwo, to that excellent Artiſt Mr, Richard Street, Clock- 
+28 e Maker, 
+
+10 To Diſcover the 
+Maker, at the Dial, and Two Cro over-againſt &. 
+ Dunſtan's-Church 7» Fleet-Street, Tandon: * 
+The propoſed Automaton being thus made, the next 
+Thing will be to ſne how it may be Freed, and Secured 
+from all the before-mentioned Object ions, againſt its be- 
+ing uſeful at Sea. And that (I preſume ) will be = 
+#ualy done, by the due Application of an Univerſal Ma. 
+xim, in Natural Philoſophy. 
+Viz. If the Cauſe of any Effect be taken away, the 
+Effect produced from that Cauſe will Ceaſe, 8 
+
+which I thus Apply to the preſent Caſe. 
+
+I, E T a Strong Glaſs Recipient or Receiver, be made 
+— enough to Contain the Automaton, and ſo 
+_ Contrived within, that the ſaid Movement may conve- 
+niently be Placed, and fteadily Fix'd or faſtened in it, 
+without Danger of Breaking the Recipient; the which 
+being done, and all things Relating to it, well ſecured 
+from the Force of Air, as the great Mr. Boyle uſed to 
+do, in * his Experiments, Oc. Then, Let the Air 
+be Exhauſted or Drawn out of that Receiver, by a Pneu- - 
+anatick Engine or Air Pump, prepared according to the 
+Neweſt Improvement of it, by the late Ingenzous Mr. 
+Meawhksbee, who Lived in Vine · Oſſice Court, in Fleet-ſtreet, 
+London. Then will that Move ment be in a fort, ( if not 
+Fed! ſo, ) of a Vacuum, or at leaft, where it will be 
+reed from all the various Influenees of its great Ene- 
+my the External Air; nor can the Zther, which remains 
+in the exhauſted Receiver, bave any Power over its Mo- 
+n. For the Curious Mr. Boyle ſays, He found by ſe- 
+veral Nice Experiments, that the iber or Subtle Mat- 
+ter, which ſucceeds in the Place of the exhauſted Air, 
+is neither Hot, Cold, Moift, or Dry: If fo, then it ſeems 
+to me very Rational to believe, (and I bumbly Hope it 
+will be found true in Faß, ) that when once re- 
+ment has been truly Adjuſted, to keep equal Time in the 
+exhauſted Receiver, it will always have a more Regular 
+Motion therein, ( during the Time of its _ in Motion,) 
+than it can have out of the Receiver. And this Opini- 
+on is Grounded upon an Experiment that the * 
+
+- 
+— —— — — ſ —„—— — _ 
+
+Flaws, Ge. ( 
+
+| Longitude at Sea. 11 
+
+Boyle made of a Pendulum Vibrating in his exhauſte d 
+
+Receiver, which, ( ſays be,) Moved as Long, and ſuft, 
+
+as Faft, as in the open Air. (Vide Machina. Pneumat. 
+
+Expert. 26.) But the Automaton may continue, and be 
+ſecure in the Receiver, as long as it is delign'd to G0 
+
+at once Winding Up, viz. either a Week, a Month, or a 
+Quarter of a Tear, or indeed as Long as you pleaſe. 
+For whoever Reads over Mr. Boyle Experiments, will 
+
+find, that he kept ſeveral things in his exhauſted Recei- 
+
+vers, not only a Month, or Quarter of a Tear ; but ſome 
+times a whole Tear, or Two, nay Three Tears together, 
+
+without any Admiſhon of the External Air. 
+
+But notwithſtanding all that has been here ſaid, to 
+
+confirm the MNilitie or Uſefulneſs of a Recipient in Free- 
+
+ing, and Defending the Automaton from the Viſſitude of 
+
+Air, Je. yet tis poſſible ſome Perſons will Raiſe a few 
+Objections againft its Uſe at Sea, 
+
+1. Objeion. A Glaſs Recipient ſeems to be a very 
+improper thing to he made Uſe of on Ship-Board, for 
+the deſigned purpoſe, becauſe it muft needs be often ex- 
+poſed to ſeveral Accidents, that may Indanger its Break- 
+ing; And if it Chance to be Broken, then the Diſco- 
+
+very of the Longitude is over for that Voyage. To this I 
+
+Anſwer, Let a Caſe be Neatly made of Fine 5 
+for the Recipient, of the ſame Shape, and a ſmall mat- 
+ter Bigger, that it may Admit of being Lined within, 
+either with Two or Three Folds of ſoft Flannel, or 
+Quilted with Cotton-Wooll, ſo as to be juſt fit to Cover 
+the Outſide of the Glaſs ; And let it have an open Place 
+in one Side of it, that the Dial-Plate of the Automaton 
+may be all Clearly ſeen, without taking the Caſe off; 
+
+Alſo, let the Bottom part of it be ſo Contrived, that 
+
+when it is upon the Glaſs, it may be Screw d faſt down 
+to the Board, upon which the Recipient muſt ſtand, when 
+
+_ that is done the Recipzent will then be Effectuallyſecured 
+from Breaki 55 
+
+Or, ſuppoſe a Recipient were made of Fine Copper, 
+
+( or any x K Metal,) free from Cracks and 
+
+Large enough to Place the Movement in, Ic. 
+
+# before,) and one Side of it to have a Round open 
+
+Place, ſo Wide as to hold a Meniſes ct in (vit. bits 
+2 | * 
+
+_ — —ͤ—— — DADA nm - 
+— K ˙ 
+
+12 To Diſcover the 
+that of a Pocket Watch, ) about Six Inches Diameter, that 
+fo the Dial-Plate of the Automaton, may be all clearly 
+ſeen at any Time, as well as in a Glaſs Recipient, then 
+if that Meniſtus Glaſs be Titely Fitted, and ſecurely 
+Cemented into the Metal Recipient, ſo that no Air can 
+get in, I cannot fee any Reaſon why it ſhould not be 
+equally Uſeful for the preſent Purpoſe, with a Glaſs Re- 
+_ cCipient ; therefore any Perſon may pleaſe his own Fancy 
+in the Choice of either. Not, but that I ſhould rather 
+Chooſe one made of Glaſs, with its Copper Cover. 
+2. O0by#:0n,. It will be found very Dithcult ( if wot 
+z mpaſſible,) to preſerve the Mercurial-Gage at Sea, from 
+heing Broken, conſidering the Poſition ; it muſt neceſ- 
+ſarily be fixt into the Pneumatick Engine, in order to 
+ſhew, to what Degree the Recipient is exhauſted or 
+freed from Air. | : | 
+Anſwer. Tis true, that a Mercurial-Gage fixt to 
+Engine, in its uſual Poſition for trying Experiments, 
+would moſt certainly Require a very great deal of Care 
+to preſerve it, from being Broken at Sea. But I cannot 
+rceive there's any Occaſion for its being Uſed there; 
+or, if a Receiver, with the Automaton placed in it, be 
+well extauſted and freed from Air, by the help of the 
+Mercurial-Gage at Land, (as uſual, ) and a true Account be 
+kept of the exact Number of Strokes of the Pump, that are 
+neceſſary to Perform that Operation; Then undoubtedly 
+that Receiver may at any Time after be exhauſted to 
+the like Degree of Vacuo or Emptineſs, it was at that 
+Time, with the fame Number of Strokes ; or at leaſt to 
+ſuch a Degree as will be ſufficient for the preſent Pur- 
+ſe, without making Uſe of the Mercurial-Gage as 
+» Provided, that the Place or Hole. where the 
+Mercurial-Gage was Screw'd to the Engine, hayea Screw 
+made to fit it d exa#!y, that no External Air can enter 
+into the Receiver. And if the aforefaid Number be 
+Ingra ven upon the Outſide of the Copper Caſe, (in 
+pretty large Figures, ) it will always be ready at Ha 
+to ſhew the Number of Strokes required to exhauſt the 
+Receiver. Conſequently, there will be no need of a 
+
+Mercurial-Gage at Sea. Nor indeed, any yhere = 
+
+Longitude at Sea. TT 
+to that Receiver with the Movement in it, after the 
+firſt Time. 2 
+
+Now that Screw, in the Place of the Mercurial-Ga7?, 
+will be a very convenient Thing to let the External A 
+into the Receiver, at ſuch Times as the Movement muſt 
+be taken out of it, in Order to be wound Up: And in do- 
+
+ing tlat, great Care muſt be taken to let the External 
+Air into tie Receiver gradually; and not ſuffer it twRufh 
+in with F;glezce, which may be very eatily done by 
+Unſcrewing the aforeſaid Screw by a little at a Time, 
+that fo the Air may Inſi auute it ſelf by Degrees, between 
+the Joints of the res, and ſo on, until it be quite Un- 
+{crew'd, and tne Hole >: Open. A ſmall Share of Ex- 
+perience will render all this caſie. 
+
+2. Object ion. Altho' it be granted, that the Movement 
+in its exhauſted Receiver, be freed from the laſlueuces 
+of the Air, with refpett to its Denſity, Morftnzſs, Nitrous, 
+Quaalities, Cc. And alſo, that the Remaining tber 
+
+be according to Mr. Boyle's Experiments, neither Hot 
+nor Cold, fc, Yet the Movement may ftill be liable 
+to the Effects of extream Heat, and Cold, in different 
+Climates, and Seaſons of the Tear, which may ſo Ope- 
+rate upon the Oi, Springs and Vbeels, as to cauſe them 
+
+to have an Irregular Motion. | | Fas 
+Anſwer, I ſhall not here pretend to Argue, whether 
+Heat, and Cold can have any Effect upon Elementory or 
+Material Bodies, otherwiſe than as Conveyed to them 
+by the Medium of Air; If it cannot, then the Objecti- 
+on is of no Force. But not to inſiſt upon that Point, be- 
+cauſe the Movement may be defended from the Effects 
+of extream Heat, or Cold: Thus, If the Ship be in any 
+extream Cold Climate, ( or ſeaſon of the Tear, ) let the 
+Recipient, Cc. be placed, ( or ratber Hing up,) in the 
+Cook-Room, that ſo it may be kept Warm, or at leaſt 
+freed from the Extremity of Cold. And on the con- 
+trary, If the Ship be in any Extremity of Heat. then let 
+it be Placed or Hung in a Veſſel of Cold Water, in the 
+Fold of the Ship, and by that Means it will be kept 
+Cool enough, to preſerve it from the 05jeFed Effe8s ; 
+Aug I am ſure that neither the Smoak in the Cook- 
+
+Room, 
+
+— —— a _ 
+
+—— w — —— 1 OA IG co 
+” — — — - — 2 > - — — 
+— — —— — — .* — ww — - - 
+
+NOS OIERES 7 Ir r re 
+= — ne Song / . 
+—— — * o - - =” 
+
+dice. 
+
+=_ To Diſcover the 
+
+Room, nor the Water in the Veſſel can do it any Preju- 
+
+Having now given the plaineſt Deſcription I can of 
+the Movement, with the manner how it may be per- 
+fectly Secur d or Deſended from all the various Influences 
+of the Air; and I hope, Freed from all Objections 
+againſt its Uſe at Sea. Yet, before it can be truly Ap- 
+ply'd to the Practical Solution of the Problem, for Dilco- 
+vering the Long itude at Sea, it muſt be farther 4 em 
+to take a fair Leave of the Place or Port, from whence 
+the Account or Reckoning of the Ships Voyage is deſign- 
+ed to begin. And in Order to that, it will be neceflary 
+to ſhew the Induſtrious Mariner, that is to be its Gover- 
+
+nor, what I promiſed in Page 9, viz. how, ö 
+
+To draw a Trae MERIDI AN-LINE. 
+
+HERE are ſeveral Ways preſcribed by Mathe- 
+matical Authors, ( eſpecially thoſe that Treat of 
+
+Dialling,) for drawing a Meridian-Line, upon an Hori- 
+
+dantal Plane, but none that I ever yet met with, are ei- 
+ther ſo eaſie to he Under ſtood, or fo exact for the pre- 
+ſent Purpoſe, as that I ſhall here Propoſe to be done hy 
+1 ; the following Directions being carefully Ob- 
+rve = 
+Firſt, There muſt be Choſen a pretty Large Room, 
+
+about Nine or Jen Foot High; Its Top or Cezling ſhould be 
+
+very Even and Smooth: And in all North Latitudes, it 
+muſt have a Window ſo near the South, as that the Sun 
+( in the Summer S:aſon, ) may Shine into it, from about 
+Seven or Eigit a Clock in the Morning, till about Five 
+in the Evening. But in all South Latitudes,the Window 
+muſt Face the North, 65c. 
+Having made Choice of ſuch a Room, the next thing 
+will be to Provide a Round Plano-Concave Glaſs, about 
+Three Quarters of an Inch Diameter; let its Cavity, ( or 
+Hollow-Part, ) be in the Middle of the Glaſs, and Ground 
+upon the Segment of a Sphere, whoſe Axis or Diameter, 
+is about an Inch and Half, it muſt be ground as Deep 
+
+as the Thickneſs of the Glaſs will permit, or until it be 
+
+a Quarter of an Inch Broad, (but not thorom,) the pain 
+4 
+
+Longitude at Sea. 15 
+Side of the Glaſs muſt be ground very True, and well 
+Poliſhed; And only the Cavity, or Hollow part in the 
+other fide, Ground true to its Sphere, and then well 
+| Poliſhed, that ſo it may be neatly Foil'd with @uick- 
+Silver, in the ſame Manner as common Look:ng-Glaſſes are. 
+When that's done, let it be Fixt into a Frame, ( about 
+Two Inches Square, ) made of Copper, that ſo it may he 
+ſecured from Breaking, and be more exactly placed in 
+its true Poſ tion. | | . 
+Note, This Glaſs and its Frame, &c. may be had at any 
+of the Spectacle-Makers in London, (eſpecially in Lud- 
+gate- Street.) . | pi 
+The Glaſs being thus prepared, then in the Baſes or 
+Bottom Board of the aforeſaid Window, about the Mid- 
+dle of the Opening of the Caſe ment, and pretty near the 
+Outermoſt Edge of it, there muſt be made a Mortiſs or 
+Groov, that will juſt Fit the Frame of the Glaſs to Lie 
+in, there it muſt be Placed, and ſteadily Fixt, ( by Screws 
+or Cement, Cc.) with the Plain fide of the Glaſs upper- 
+moſt, and exactly Horizontal, which may be eaſily done 
+by the help of a ſmall Level, ſuch as JR or Car- 
+penters make uſe of. And there ſhould be a Cover ſo 
+Contri ved as to keep the Glaſs from being Damaged, 
+either by Weather or otherwiſe. Allo, it will be very 
+Convenient to have all the Window Darken d, (except 
+the Caſement,) when the Glaſs is made uſe of: That is, 
+the Darker the Room is made at the Time of Obſervation, 
+the better it will be for taking the True Iime, when the 
+Sun comes to the Meridian. 3 
+All things being thus prepared, then in a Clear Sun 
+Fhine Day, when the Sun is in the ſame Hemiſphere with 
+the Latitude, uncover the Glaſs about Ezght, or Nine a 
+Clock in the Morning, and qbſer ve where the Suns Image 
+is Reflected, upon the Ceiling of the Room, vi. where 
+there is a round Brigbi- Spot. In the very Middle of that 
+Spot make a Point; and at the ſame Moment of Time, 
+let a Second Perſon take the exact Altitude of the Sun, 
+( which may be very Accurately done, by the New Inſtru - 
+ment recommended in Page 6.) That is, the Sun's Alti- 
+tude, and the Point made in the Bright por, mul — 
+| NE NOR | rtorm' 
+
+16 To Diſcover the 
+
+Perform'd hoth at one and the ſame Time, or as near it 
+as tis poſſible, becauſe the Spot will Move pretty Faſt, 
+and therefore one Perſon cannot well Perform both. 
+
+Again, in the Afternoon about the ſame diſtance of 
+
+Time, from Twelve a Clock, as the firſt Obſervation was 
+
+made at in the Morning; As, ſuppoſe the firſt Obſerva- 
+tion was made about Eigbt, then the Second muſt be 
+made about Four in the Afternoon, Oc. (Bat beſiir: to 
+be ſan enough, leaſt the I:me be paſt.) Then obſerve 
+the Sun's Altitud-, if it be greater than it was in the 
+
+Morning, ſtay a Little, and take it again, repzating 
+the Obſervations until the ns Altitude be exactly the 
+
+ſame with that taken in the Morning, and at the ſame 
+
+Moment of I:me, let another Perſon make a Point in 
+
+the 4:ddtz of the New I Spot upon the Ceiling, 
+( in the Morning.) I fay, if thoſe Two Points be 
+yn by a Right-Line, and that Line be BHiſected or 
+
+vided in the Mzddle by another Right-Line, at Right- 
+Angles to it, the Biſecting-Line, being continued both 
+
+Ways to the utmoſt Limits of the Ceiling, will be the 
+Meridian-Line required. ( Which ſhould be drawn 4 
+
+Narrow Black-Linz, ) — 
+Now the Ground or Reaſon of Projecting this Line 
+upon the Ceiling, by help of the Refected Spots, will 
+be very Evident to any Perſon, that only knows the 
+firſt Principles of Catoptricks, viz. That the Aagles of 
+Reflection, are every where equal to the Angles of In- 
+cidence, Conſequently, when the Sun is upon any Arti- 
+math, and its Rays are then Reflected from the Glaſs 
+to the Ceiling, it will be eaii2 to Conczive, that when 
+
+the Sn comes to an Azimuth oa the other fide of the 
+
+Meridian, and equally diſtant from it; ( which is known 
+by th: Sun's equal Altitudzs, ) tunen its Rays being Re- 
+
+flected from the ſame Glaſs to the Ceiling, will allo be 
+equally diftaat from the Meridian- Lin: projected upon 
+
+the Ceiling. 
+
+And tnerefore, as the Center of the Sun paſſes over 
+
+the Meridian of the Placa, ( from one Aimutu to the 
+
+other, ) the Center of its Reflectd Image will alſo paſs 
+
+over the Meridian- Line drawn on tue Ceiling. And 
+
+n 
+
+f 
+1 
+1 
+
+: . * 
+
+i 
+1 
+
+Longitude at Sea. 17 
+that it may be exactly known, when the Center of the 
+
+| Sun's Reſſected Image (or Bright Spot) is upon the Me- 
+
+ridian- Line, it will be very neceſſary to draw A ſinall 
+Black Parallel Line on each fide of the Meridian-Line, 
+at a Diftance equal to the Radius of the Spot, for by 
+
+that Means the Eye will be able to Judge when the 
+
+Center of the Spot is upon the Meridran-Line, even to 
+Four or Five Seconds of Time. 5 
+
+Thus ha ve I ſhew'd the Honeſt Mariner, how he may 
+draw this moſt uſeful Line, for adjuſting C::-:08 Time 
+
+Keepers; [I call it the moſt uſeful, becauſe, by a Aeri- 
+
+dian-Line truly Drawn, all Movements, as Pendulum 
+Clocks and Watches,Gc. may be more Accurately adjuſted 
+to the True Time of the Day, than by the Shadow of 
+
+the Gnomon of the Beſt, and Largeſt Dial whatſoever. 
+
+And I eſteem it fo uſeful for the preſent Purpoſe, 
+as to Adviſe all Maſters of Ships, and their Mates, Cc. 
+to prepare ſuch a Meridian-Line, at every convenient 
+
+Place or Port they come into; For this I can aſſure 
+them, that if ever they intend to Diſcover the True 
+
+Difference of Longitude between any Two Meridians or 
+Places at Sea, they muft be very Nice and Exact in 
+
+Ad juſting their Movement to the Meridian of the Place 
+
+from whence they take their Departure. viz, where the 
+in their Account or Reckoning of any Voyage. 
+t here I am aware there may be offered this fol- 
+
+lowing Objection. 
+
+ObjeRon. That a Meridian-Line is not of ſuch general 
+Uſe, as J here ſeem to Fix upon it, for it can be but of 
+little Uſe in the Torrid Zone, viz. from the Equator, to 
+
+about 24 Degrees on each Side of it. 
+
+Anſwer. Tis True that a Meridian-Line is the moſt 
+
+Uſefal in the Two Temperate Zones, viz. betwixt the 
+Twenty Forth, and Sixty Sixth Degrees either of North 
+
+or South Latitudes. it muft alſo be Granted, that 
+
+in the Torrid Zone, at ſometimes of the Year it cannot 
+: be of any Uſe at all; for when the Sun is in (or near) the 
+
+Zenith of any Place, then its Image will Reflect, or 
+Return ditectly back again into it Self ; Conſequently 
+there can be no Obſervation made by the Meridian-Line, 
+at ſuch Times in thoſe P D But 
+
+— 
+
+—_— — — — — 
+
+1 Diſcover the 
+
+But when either the Latitude is North, and the Sun's 
+ Peclination South; or, the Latitude is South, and the 
+Declination North; Then a Meridian-Line will be as 
+
+Uſeful in the Torr:d-Zone, as in the Temperate-Zones. 
+
+And when the Sun is in, or, near the Zenith of any 
+Place, then its Altiude may be taken to the beſt Ad- 
+
+vantage, for there every Fifteen Degre-s of Altitude 
+makes hut one Hour; ſo that if the Sun's Meridian Al- 
+
+titude can de taken but to Four Minutes of a Degree, 
+( which may be done to leſs, ) the Time is thereby De- 
+termin'd to Sixteen Seconds, fc. Now here it will be 
+
+very neceſſary to give the honeſt Seamen ; 
+An Account of the Two Sorts of Time. 
+
+Vu. The APP ARE NT Time, and the EQUAL 
+Or Mean Time; both which he ought to under- 
+
+ſtand very well. 
+T"HE APP ARENT Time is that which is Tra- 
+
+| ced out, and becomes known, by the Shadow of 
+the Gnomon (or Stile,) upon the Howr-Lines of a True 
+
+Sun-Dial, or is found by the Sun's Altitude, Ce. In 
+ſhort, that Time which is any way ſhew'd by the Sun, is 
+called Apparent Time; And its generally Accounted 
+
+amongſt moſt People, ( eſpeczally the Vulgar ſort ) to be 
+the True and only ſizze, For, fay they, it is Plain to 
+
+us, that the Sun keeps a conftant Motion, and ſhews up- 
+
+on the Dial, that every Day between Noon and Noon, is 
+_ juſt Twenty Four Hours Long, at all times of the Year 
+
+alike. But this is a great Miſtake; For it is well known 
+to all thoſe that have the leaſt Smattering of Aſtronomy ; 
+
+That the Sun Moves Fafter in one part of the Year, than 
+
+it doth in another,Conſequently the Time ſhewed on the 
+
+Dial, or any other way by the Sun, muſt needs be Une- 
+qual ; Aud therefore the Ingenious Mariner, that intends 
+to Diſcover the Longitude at See, fhould be thorowly 
+
+acquainted with the Equal Time. 
+The EQUAL Time, being that which is Meaſured 
+by the Regular Motion of the Equinoi/al, (as " — 
+
+Longitude at Sea. 1 
+
+| before, Page 6, ) which makes, ( or Compleats ) one 
+
+intire Revolution, from any one Meridian (or Point in 
+the Heavens, ) to the very ſame Meridien (or Point) 
+again, every Day in the Year exactly in Twenty Four 
+Hours. Whereas, the Apparent Time Meaſured by the 
+Motion of the Sun, is ſome Days in the Year about 
+Fifteen Minutes Faſter, and other Days about Fifteen 
+Minutes Slower than the Equal or True Time, and there- 
+
+fore the Equal (or Equinodzal ) Day is very often called 
+
+the Mean Day. | 1 
+And this Inequality or Difference, between the Equa 
+
+or Mean Day, and the Apparent, ariſes from a Two-fold 
+cauſe; As is moſt Ingenzouſly Demenſirated by the Learn- 
+
+ed Mathematician, and Reverend Divine Mr, Jobn Flam- 
+
+flead, Aſtronomer Royal at Greenwich, near London. And 
+
+upon his pot heſes, I have Calculated the Aunexed Ta- 
+bles for Equating the Apparent Time, to the Equal or 
+True Time, every Day in the Year. 
+
+Note, The Table is Calculated (De nova) for the Year 
+
+1722, and will ſerve very well for Twenty or Thirty 
+_ Years to come, without any ſenſible Error. And the 
+only Difference between it, and thoſe Uſually called 
+
+Tables of the Equation of Natural Days, is this; inſtead 
+of Vateh (or Clock ) too Faſt, or Watch too Slow; 1 
+have it thus; Add to the Apparent Time, or Subſtrat 
+from the Apparent Time, viz. the Number of Minutes 
+and Seconds that are found in the Column under the 
+Month, and juſt againft the ov Mg wa of that Month, 
+muſt be Added to, or Subſtratted from the Apparent 
+Time, ſhew'd by the San that Day, and the Sum, or 
+Difference will be the Equal or Mean Time required. 
+
+An Example of Adjuſting the Automaton to _ 
+
+7 Time, will ſhew the Uſe both of the Tables, a 
+
+the Meridian - Line, (as promiſed Page 9.) 
+| Example. 
+
+5 S1 the Eirſt of January being a Clear Day, L 
+
+would Adjuſt the Automaton, or any other Move- 
+
+ment, as Watch. Oc. to keep Equal Ine. T 
+
+D 2 nl 
+
+20 To Diſcover the 
+
+J look into the Equation Table, ( before Noon, ) and 
+againft the propoſed Day, find, that 9 Minutes, 2 Se- 
+conds are to be Added to the Apperent Time ; ſo that 
+when it is juft 12 a Clock by the Sun, it will be 9 Min. 
+2 Seconds * 12, according to the Equal Time, There- 
+fore I mutt carefully Obſerve by the Meridian-Line, (25 
+before direRed,) when the Center of the Sun is exactly 
+upon the Meridian, and immediately ſet the Indexes of 
+the Movement to g Minutes and 2 Seconds paſt 12, which 
+is the true Equal Time for that Day, Then I Place 
+the Automaton in its Recipient, and exhauſt the Air, Cc. 
+and let it go on for a Fortnight, or Month; as ſuppoſe, 
+until the 30th of January, which proving a Clear Day, 
+then to Try whether the Automaton hath kept Equal 
+Time or not, I look into the Equation Table, and 
+find that 14 Minutes 50 Seconds, are to be Added to 
+the Apparent Time that Day ; And (at Noon,) I obſerve 
+by the Meridian-Line (as before,) when the Sun is ex- 
+gàctly upon the Meridian, and if the Indexes of the 
+Move ment be then juſt 14 Minutes 50 Seconds paſt 12 2 
+Clock, it.has kept Equal Time that Month; if not, it 
+muft be taken out of the Recipient, and be Rectiſied 
+thus; If it has gone too Faſt, Two Spiral-Springs 
+that are fixt to the Vene of the Ballance, ( Re Page 9,) 
+mu. be both equally Lengtbened a little; But if it has 
+gone too Slow, then they muſt both be equally Shortned 
+a little. Now the way of doing that, will be much 
+better Underftood, even in a Minutes Time, when 
+ſhew'd by the Maker of the Movement, than it can poſ- 
+_ fibly be here by Writing. Not but chat the Butinefs of 
+Adjuſting the Movement to keep equal Time in its Re- 
+cipient, ought to be perfectly Compleated by the Artift 
+
+t makes it, before he Delivers it for Uſe. Yetit 
+will be very Convenient, the Ingenious Mariner ſhould 
+know how todo it upon Occaſion. 2h 
+In ſhort, che Movement muſt be ſo often Try'd in this 
+Manner, and Re&ified according as it requires, (either 
+itt Maker, or by its Maſter,) until it will keep equal 
+ime in the Place where it is ſo Adjuſted. Or other- 
+wile, it will not be duly prepar'd to Anſwer the —_y 
+
+_ 
+
+Longitude at Sea. 21 
+
+of Diſcovering the Longitude? at Sea, to that exaAneſs as 
+1S required. | 8 | 
+For, let the Moving parts of any Clock or Watch, Tc, 
+even of Oſcillating Pendulums (or thoſe calPd the Royal 
+_ Pendulums,) be never ſo well made, and put together 
+by the greateſt Sri of the moſt Ingenzous and Experi- 
+enced Artiſt; and let it be then Adjuſted by any other 
+Way or Contrivance whatſoever, with the utmoſt care 
+of Man; yet its Motion cannot be made to Correſpond, 
+or keep Time with the Sun. ( Vide the Reaſons men- 
+tion d Page 19,) for indeed the Perfection of all Clocks, 
+and Watcbes, Cc. is to make them go exactly Equal: 
+That is, to Meaſure out 24 Hours, (or a Natural Day,) 
+at any one Time of the Year, juſt as long as 24 Hours 
+at auother Time of the Year, and to Perform that 
+Equal Motion conftantly all the Year Round. So that 
+unleſs the Apparent Time be truly Æquated to the Equal, 
+or (which is indeed Equivalent,) the Equal Time ſhew'd 
+by a true Movement, be Equated to the Aprarent Iime; 
+I humbly Conceive it Impoſſible to Diſcover the true 
+Difference of Longitude between any Two Meridians, 
+that lye Remote one from the other. And if fo, I be- 
+lieve every Body will agree with me, that its moſt pro- 
+per to Equate the Apparent Time, to the Equal 1:me, 
+which is Meaſured by the Equinoctial. 1 
+
+The next thing in Courſe will be, to ſnew, 
+
+Ho to find the APPARENT TIME at Sea, 
+
+-M 10 it could be truly known at Sea, when the Sun 
+
+(or any Fixed Star,) were exactly upon (or ratber 
+under) the Meridian of the Place, where the Ship is, 
+the thing were then done; but altho* that's always pre- 
+ſum d to be known, when there is an Ob ſervation made 
+of the Sun's Meridian Altitude, for taking the Latitude 
+_ at Sea, and near the Equinoctial, it may do well enough, : 
+yet it muſt not be depended upon as a general Me 
+of knowing the exact Time in all Latitudes. For I do 
+afſure you, that it's a very difficult thing to know when 
+the Sun, (or any Fixt Star,) comes exaQly to the = 
+
+22 Jo Diſcover the 
+
+dian, even at Land, and much more Difficult, if not 
+
+Impoſhble to be known at Sea. 5 
+
+2. But a more certain way of fin ling the Hour of the 
+Day at Sea, is, to Obſerve the $a 5 true Altitude about 
+Eight a Clock in the Morning, or about Four in the 
+Evening, becauſe about thoſe 1imzs the Sun's Altitude 
+changes more ſenfibly than it doth either before, or 
+after. Then by having the Latitude of the Ship, the 
+
+Declination of the Sun, and its Altitnde given, the Hour 
+
+and Minute of the Day may be truly Calculated; as is 
+
+ſhew'd in moſt Books of Navigation. ; 
+3. Or, the Time of the Night may be exactly found, © 
+by taking the True Altitzd: of any Fixed Star, whole 
+
+Right Aſcention, and Declination is known, ani then 
+
+proceeding to a Trigonometrical Calculation, as before 
+
+with the Sun, Oc. 
+But, becauſe thoſe Calculations muſt be perform'd 
+
+by the Solution of an Obliqae Spherical Triangle, where- 
+
+in the Three-Sides are given to find an Angle, which 
+requires a double Operation; they may therefore be 
+thou;zht too Ditficult, and Operous for common Practice, 
+
+I ſhall for that reaſon Omit giving any Examples there- 
+of, and leave them to the Ingenious Mariners Contide- 
+
+ration to make Uſęe of them when he thinks moſt 
+
+Convenieat, and proceed to ſome other Methods more 
+
+eaſie in Practice. 
+
+4. The Apparent Time at Sea, may be found pretty 
+near the Truth, by a Method which the Grcat Mr. 
+Hagens preſcrib'd for the Uſe of his Watches. ( Vide 
+Philo. trans. Abridg'd, Vol. I. Page 641.) which I 
+ſhall make Bold to Inſert here in his owa Words, 
+At the Riſing and Setting of the San, when it is 
+© half above the Horizon, Mark the Time of the 
+© Day, which the Watches then ſnew; and though ye 
+© have in the mean time Sailed on, it is not conftiderable. 
+
+| © Then Reckon by the Watches, what Time is Elapſed 
+between them, and Add the half thereof, to the Time 
+
+© of the Riſing, and you ſhall have the Time by the 
+
+_ © Watches, when the Sun was at Huth; to which is to 
+
+: be Add, the Equation of the pretint Day by the 
+
+Longitude at Sea. W 
+© Table : (And then he proceeds to an Example, which 
+I ſhall here Omir.) _ 5 * 
+is Manifeſt ( ſa:tb be,) that by this way you find 
+Preciſely enough the Long ituile of the Place, where 
+you were at Noon, or the Time of the Sun's being in 
+the South, which although it differs from the Longi- 
+tad of the Place, where you are when you Obſerve 
+the Setting of the Sun, yet you may Eſtimate near 
+enough, how much you have Advanced, or chang'd 
+the Longitude in theſe few Hours, by the Log-Lzne, 
+Cc. or (which is the ſurer way,) by the Degrees paſ- 
+© ſed in 24 Hours bv a former Das Obſervation. | 
+
+5„ F. You may allo, inſtead of Obſerving the Suz's 
+Ring and Setting, obſerve the Setting firft, and then 
+© the next Morning the Riſing, Marking both Times, 
+© (Fc, and find thence, after the ſame Manner as before 
+© the Longitud: of the Place, where the Ship was at 
+Or inftead of the Ning and Setting of the Sun, the 
+© ſame Thing may be Perform'd by Obſerving two 
+c _ Altitudes of the Suu, one before, and the other 
+© after Mon; Cc. or hy taking two equal Altitudes of 
+© ſome known Star, that Rſeth High abeve the Horizon, 
+© for by its Right Aſceation, and the Right Aſrention of 
+© the Sun, you may eaſily Calculate what time the Star 
+© was in the Meridian, Oc. | 
+Undoubtedly any of theſe Ways may be very cafily 
+Perform'd in Practice. But it muſt be Conſidered, that 
+they all require a neceſſity of having Two 05ſervations 
+to be made in one and the ſame Day, (or Nigit,) altho” 
+the Latitude cannot be found by either of them; And 
+when Two ſuch Obſervations can be made, even then 
+Mr. Huygens does not ſay the Longitude can be Pre- 
+ciſely found, but only near enough, altho? it be Correcteil 
+by Eſtimating how much the Long itad: is chang'd be- 
+| tween thoſe two Obſervations. (Beſides the uncertainty 
+of Gueſſing when the Sun is juft half above the Horizon.) 
+However, its not to be doubted, but theſe Methods 
+were thought near enough, when that /zgenzaus Perſon 
+preſcrib'd them; But the ſtrict Limits now W 
+
+K a A „ A 
+
+Q A 
+
+24 To Diſcover the 
+
+the late AA of Parliament, require it to he more exact- 
+ly Diſcovered ; which I hope will be Perform'd by the 
+following Method. 
+
+6. The Time where the Ship is at SS, may be very 
+eaſily and exactly found by an Obſervation, made either 
+of the Sun's Riſing, or Setting, the Obſervation being 
+duly Corrected by the Sun's Horizontal Parallax, and Re- 
+fraction; becauſe the Parallax makes it appear a Little 
+Lower than the Horizon, and the Refraizon makes it 
+appear ſomewhat Higher than it really is. 5 
+No the Sung Horizontal Refraction, is found by the 
+Accurate Obſervations of the ( aforeſaid) Ingenious Mr. 
+Flamſtzad the Royal Aſtronomer, to be about 33 Minutes 
+of a Degree. And its Horizontal Parallax, is ſuppoſed 
+to be about 32 Seconds of a Degree, which being Sub- 
+ſtrated from the Refra#:on, leaves 32 Minates and 28 
+Seconds for the true Correction required. e 
+But, becauſe the Sun's Apparent Diameter ( at its 
+
+mean Diſtance fram the Earth, ) is Obſerved to be about 
+
+32 Minutes and 15 Seconds of a Degree, which is very 
+near Equal to the aboveſaid Correttion found by its 
+| Parallax and Refration; It therefore follows, that a 
+Trae, and General Rule may be propoſed for Corretting 
+the Iime of the Sun's Rifing, or Setting, in all Latitudes 
+and Seaſons of the Lear. 
+General Rule, If the trne Time, the whole Body 
+of the Sen, is either Riſing, or Setting, be Nicely Ob- 
+ſerued, by the Indexes of the Automaton; And that 
+Time be Subſtracted from the Time of its Riſing, found 
+by Calculation, the Remainder will be the Time when 
+the Center of the Sun did appear to be in the Horizon, 
+Or if it be Added to the Time of the Suns Setting, 
+
+the Sum will new the Time when its Center did then 
+
+Appear to be in the Horizon, and this Rule holds good, 
+notwithſtanding the Difference of Time which the Sun 
+
+takes in its Ring or Setting, according as the Angle of 
+
+its Diurnal Motion is Acute, or Obtuſe with the Ho- 
+
+rizon, which continually varzes, both with the Latitude, 
+
+and Seaſons of the Near. 
+Now 
+
+ar 5 FW 
+
+8, 8 BY OD RAS 
+
+_ afterwards, either as — a Port, 
+
+„ 
+
+„ Longitude at Sea. 25 
+
+Now if the Latitude of the Place, and the Sms 
+Declination are both given;the True Time either of the 
+Sun's Rifing, or Setting may be very eaſily Calculated 
+
+by this General THEOREM. 
+
+As the Radius: Is to the Tangent of the Latitude: 
+So is the Tangent of the Sun's Declination : To the 
+Sine of an Arch of the Equinoctial, called the Sun's 
+Aſcentional Difference. _ 
+Then that Aſcentional Difference being Converted 
+into Time, ( by Allowing 15 Degrees to an Hour, Wc.) 
+will ſhew how Long the Sun Riſes, or Sets, either be- 
+fore or after Six a Clock; which Admits of two Caſes. 
+| Caſe 1. If the Latitude of the Place, and the Sun's | 
+Declination are both on the ſame fide of the Equino@ial; 
+( viz. both North, or botb South,) then Subſtract, the 
+Aſcentional Difference from Six Hours, and the Remain- 
+der will ſhew the Time of the Suns Riſing ; And being 
+Added to Six Hours, the Sum will ſhew the Time of 
+its Setting. 3 5 5 
+Caſe 2. But if the Latitude, and Declination are of 
+
+contrary Names; ( viz. if one be North, and the other 
+
+South,) then the Aſcentional Difference muft be Added 
+to Six Hours, and the Sum will ſhew the Time of the 
+Sun's Riſing after Six; And if it be Subſtracted from Si 
+Hours, the Remanider will ſhew the Time of its Setting 
+before Six, in the Evening. 
+I ſhall now Apply what has hetherto been Said con- 
+cerning the Solution of the following Problem, to an 
+Example or Two, which will (I Hope) make all Plain, 
+and Eaſie to be Underftood by the Honeſt Marriner. 
+
+PROBLEM 
+To Diſcover the Longitude at Sea. 
+
+THAT is, It is Required to Diſcover the exact 
+
+Number of Degrees and Minutes, which arc con- 
+tain'd in that Arch of the EquinoBzel, which 768 
+the Horary Piſtance ( either Tat, or Weſt) between the 
+Meridian of the Place from whence a Ship begins ber 
+Voyage, and the Meridian of any Place where ſhe is 
+
+s 
+
+courſe, until the 1oth nr 5 
+ Mornang, I obſerve the Suns 
+
+26 To Diſcover the 
+SOLUTION. 
+
+O Reſolve this uſeful Problem, the Automaton muſt 
+be very carefully Adjaſted to the equal Time, un- 
+der the Meridian of the Place where the Ship begins 
+the Voyage; that being the Place where the Account of 
+Longitude do's then begin; And whereſoever the Ship 
+is at any Time afterwards, the Automator is then truly 
+prepar'd to ſhew what a Clock it is according to the 
+equal Time, at that Place where it was ſo Adjuſted. 
+Conſequently the equal Time being truly found at the 
+Place where the Ship is ; the Difference between that 
+Time, and the Time ſhew'd by the Movement, will be 
+the True Meaſure of the contained Arch of the Equino- 
+cal in Time. Then if the Time fo found, be Conver- 
+ted into Degrees and Minutes of the Equinottial, by 
+Allowing 4 Minutes of T:me to a Degree, and 15 De- 
+
+_ Lrees to an Hour; which may be very eaſily and exatt- 
+
+ly done ,( or the contrary ) by the help of a ſmall Table, 
+
+1 have Annexed at the end of this Tra, for that pur- 
+
+ſe ; whoſe Title ſhews its Uſe by Inſpe#ion only. 
+hoſe Degrees and Minutes will Diſcover (or ſhew) the 
+
+Difference of Longtiude required by the Problem. 
+
+Example I; 
+
+| Uppoſe a Shi ins a Voyage the 25th of March, 
+1715. from 4 Latitude 50 Degrees 36 Min- 
+
+nes North, and is deſign'd for Port-Royal in the Iſland 
+
+of Jamaica, whoſe Latitude is 17 Degrees, 40 Minutes 
+North : And its Difference of Longitude from Plymouth, 
+is about 72 Degrees Weſtward. 
+The Ship being out at Sea, ou pon SWby W 
+il, which proving a clear 
+
+Rzfing, and juſt as the up- 
+per Limb or Edge of the Sun begins to Appear in the 
+orizon, the Indexes of the Automaton ſhew the Time 
+to be exactly 31 Minutes, and 26 Seconds paſt 5 a Clock. 
+And its lower Limb or Edye, leaves the Horizon at 
+35 Minutes, and 38 Seconds paſt 5. 
+
+From 
+
+Longitude af Sea. 27 
+From 5 h. 35 M. 38S. the Time the Sun left the Horizon. 
+Subtr. 5 h.31 M. 26 S. the Time of its firſt Appearing, 
+Rems. o h. 4 M. 12S. the Time it was in Riſing. 2» 
+Conſequently if o h. 2 Min. 6 Sec. half the Time the 
+Sun was Ring, be Added to the Time of its firſt Ap- 
+pearing, the Sum will be 5 h. 33 Min, 32 Sec. for the 
+Iime by the Automaton, when the Center of the Sun 
+appeared to be in the Horizon. . 
+N. B. The Time while the Sun was Riſing, and the 
+Time when its Center appeared to be in the Horizon, 
+muſt both be carefully ſet down and Reſerved for the work, 
+after the Latitude 7s found by Obſervation at Noon. 
+Then, the Day continuing Clear, I obſerve the Sun's 
+Meridian Altitude, and find the Latitude of the Place 
+to be 45 Degrees, 54 Minutes North; the Sans Declina- 
+tion being then 11 Degrees 46 Minutes North. Now by 
+theſe Two, viz. the Latitude, an Declination, I might 
+4 ( as uſual ) to find the Time of the Sun's Riſing. 
+ut before that can be done, to Auſwer the deſign of 
+Diſcovering the true Difference of Longilude, between 
+Plymouth and the Place where the Ship is; we muſt con- 
+fider, that both the Latitude and Declination, (as well 
+_ as the Longitude, ) are Altered between the Time of 
+the Sur's Rifing, and its coming to the Meridian when 
+the Latitude was found, and therefore both of them 
+ought to be Corrected, before the Time of the Sun's 
+Riſing can be truly Calculated, 
+And firſt for the Sun's Declination, which may be 
+nearly Corretted by taking a fourth Part of its Daily 
+Difference, and then Adding it To, or Subſtracting it 
+
+From the Sun Declination at Noon, according as the 
+
+Declination Increaſes or Decreaſes z Thus in the preſent 
+Example, the Daily Difference of Declination is 20 Min- 
+utes Increaſing, the fourth Part of that, is 5 Minutes, 
+44 being duly ordered the Declinations for that Dax 
+At Six aClock in the Morn. it was 11 Deg. 41 Min. 
+
+Thus 4 At Noon it i 11 Deg. 46 Min 
+
+At Six in the Even. it would be 11 Deg. 51 Min. 
+Next 
+
+Time of the Sun Riſing, by the general Theorem, 
+
+28 To Diſcover the 
+
+Sun's Riſing, and Noon, (viz. in 6 or 7 Hours Cc.) by 
+that which Seamen call the Dead Reckoning, kept by the 
+Courſe and Diſtance, as in the Common Practice by 
+
+plain Sailing. Then if that Alteration be Added to, or 
+SubſtraFed from the Latitude, found by Obſervation at 
+
+requires, the Sum, or Difference will ſhew the Latitude 
+
+at Sun Riſing. 
+
+As for Inſtance in the goon Example, admit, I 
+
+Compute the Ships Latitude to Alter 7 Minutes Decr2a- 
+
+ſing in Six hours, the Latitude Corrected will ſtand, | 
+At Six in the Morning it was 46 Deg. or Min. 
+
+Thus J At Noon it is by Obſervation 45 Deg. 54 Min, 
+
+LAt Six in the Even. it will be 45 Deg. 47 Min. 
+
+Being thus prepared with the Morning Declination, and 
+
+Latitude; I may now proceed with them, to find the true 
+
+ſ Radits = - - - - - - -'- - - - = = TO, 0000000. 
+
+| Thus 4 Latitude 46 Deg. or Min. its t. 10. 0154156 
+
+L Declination 11 Deg. 41 Min. its t. 9. 3155226 
+
+The Aſcentio. Diff. is 12 Deg. 22 Min. its S. 9. 3309382 
+
+Which being Converted into Time, (by the Table, Cc.) 
+gives 49 Min, 28 Sec. the Time which the Sun Riſes be- 
+fore Six a Clock. Therefore from 6 h. oo Min. oo Sec. 
+I Subſtratt the Aſcentional Differ, o h. 49 Min. 28 Sec. 
+There remains the true Time 5 h. 10 Mzn. 32 Sec. 
+of the Sun Rifing in the Horizon. 
+From which Subſtract, (per General- Rule) the Time 
+the Sun was in Rifing, vi. o h. 04 Min. 12 Sec, 
+The remainder ſhews the Time p h. 06 Min. 20 Sec. 
+
+When the Center of the Sun appeared by Obſervation 
+in the Horizon. Which being Equated to the equal Time, 
+by the Equation Table for that Day is, 5 h. 04 Min. 50 Sec. 
+
+From hence I have found the equal Time, when the | 
+
+Center of the Sun did appear by Obſervation, to be in 
+the Horizon of the Place, where the Ship was in the 
+Morning; and the Indexes of the Automaton ſhewed 
+me, that the equal Time was then at Plymouth, 1 
+
+| 3 K 
+
+Next, It will be very eaſie to know how much the 
+Ships Latitude is Altered in the Time, between the 
+
+Noon, according as the Courſe the Ship Sails upon | 
+
+9 
+
+K re 
+
+10 Minutes, 30 Seconds, Veſt of Plymouth, 
+
+5 
+© 
+1 
+4 
+3 
+1 
+2 
+1 
+t 
+* 
+
+| will fand Thus 
+
+Longitude at Sea. 29 
+
+3 l. 33 M. 22 Sec. Conſequently their Difference will be 
+
+the True Horary diſtance upon the Equinoctial between 
+
+Plymouth, and the Place where the Ship was at the 
+
+Sun's Riſing. 
+
+Vi. from 5 h. 33 M. 325. the equal Time at P!ymouth, 
+
+I ſubſtract 5 h. o4 M. 50 S. the equal time at the Stip. 
+Remains oh. 28 M. 42S. their Horary Diſtance on 
+the EquinoQial ; which being turn'd into Degrees, 9c, 
+(per Table,) gives 7 Degrees, 10 Minutes, and 30 S:conds 
+of a Degree, for the Difference of Longitude r-quired 
+
+by the Problem. 
+
+Now altho' it may be known whether the Ship hath 
+
+alter d her Longitude Eaſtward, or Weſtward, by the 
+
+Courle the Sailed upon; yet it will be very eaſie to 
+Determine that, by conſidering the Deſcription given 
+of Longitude, in page 6. From whence it plainly ap- 
+pears, that if the equal Time found by Obſervation at 
+the Ship, be Leſs than that ſhew'd by the Automaton, 
+( viz. Slower, as in our preſent Example, ) then the Ship 
+has Altered ker Longitade Weſterly, from the Meridian 
+
+of the Place, where the Account of Long:tude began: 
+
+But if it be greater ( viz Faſter, ) than that ſhew'd by 
+the Automaton, the Ship will then be under a more Ea- 
+fterlp Meridian, conſequently when both thoſe Times 
+
+prove to be exattly the ſame, the Ship will be ſtill under 
+
+the ſame Meridian of the Place from whence ſhe came : 
+Whence it follows, that the Ship is now 7 Degrees, 
+
+Example 2. 
+'F? E Ship proceeding Forward in her Voyage, 
+and the Third of May following, being pretty 
+
+clear at Noon, [I take an Obſervation for the Latitude, 
+and find it 33 Dey. 42 Min. North, the Sun's Declina- 
+
+tion heing then 18 Deg. 34 Min, North Increaſing, and 
+its daily Difference 14 Min. Then in order to Obſerve 
+the Sun's Setting, Je. I Compute the Ships Run, to De- 
+
+_ creaſe the Latitude about 8 Min. in 7 Hours, and the 
+
+Sun's Declination to Increaſe 4 Min. in that ſpace of 
+Time, fo that the Latitude, and Declination corretted 
+
+The 
+
+30 To Diſcover the 
+
+The Tatitude at Noon by Obſervation i; 33 Deg. 42 Mz 
+The Tatitude at 7 in the Evening, is 3; L y. 34 M 
+The Sun's Declination at Noon, is 18 Des, 34 Mi. 
+
+The Decl:nation at 7 in the Evening, is 18 0 g. 38 Mi. 
+
+Then the Evening proving Clear, I Obſerve that 
+
+the Lower Limb or Edge of the Km juſt Touchd the 
+
+Horizon, when the Ind-xes of the Automaton Point at 
+
+32 Min. and 30 Sec. paſt 8 a Clock. And its upper 
+Limb or Edze, Juſt diſappears under the Horizon 
+Att. —— — 8 h. 35 Min. 38 Sec. 
+
+Subſtract its beginning to Set, viz. 8 h. 32 Min. 20 Sec. 
+
+Remains the Time it was Sitting 
+
+the Sus began to Set, will be 
+
+The Time by the Automaton, when the Center of the 
+San appeared to pals the Horizon. 
+| Then for the true Time of the Sun' Setting, it will 
+
+* 
+
+be per General Theorem. 1 | 
+Rada LO. Oc 
+
+| Thus & Eveniag Lati. 33 deg. 34. min. its t. 9. 8218803 
+
+[DDeclination 18 dzg. 38. min. its t. 9. 5278582 
+
+The Aſcen. Dif. is 12 deg. 56 min. its Sine. 9. 3497485 
+Wich Turn'd into Time is, 51 M. and 44.5. So long 
+the Sun ſæt paſt 6 Clock, viz. at 6 h. 51 in. 44 See, 
+
+Add tue Time cnc Sur was in Sett. o h. 4 Min. 8 Sec. 
+
+(per Cen. Rale,) And tne Sum is, 6 h. 55 Min. 52 Sec, 
+
+The Time when tie Suns Center appear'd to be in the 
+Horizon; Which being Equated to the equal Time, by 
+
+the Eguatisn Tavle for that Day, is 6 h. 51 Min. go Sec. 
+From hence I have Obtain'd the equal Time, when 
+the Suns Center did appæcat by Obſervation to be in the 
+
+4 
+
+Horizon of the Place where the Ship is; 
+
+And the Indexes of the Aut»maton ſhew'd me that the 
+
+equal Time was then at Plymouth, 8 h. 34 Min. 34 Sec. 
+
+Subſtract the Time at the Ship, viz. 6 h. 51 Min. 40 Sec. 
+And their Difference will be 1 bh. 42 Min. 54 Sec. 
+The Horam Diftance on the Equinoctial, which being 
+
+turn d into Degrees, Cc. ( per Table, ) will on 
+
+* o h. 4 Min. 8 Sec. 
+The Half thereof o h. 2 M. 4 S. . 
+being Added to the Iime when > 8 h. 34 Min. 34 Sec. 
+
+Longitude at Sea. 31 
+
+25 Deg. 43 M. 20 S. for the true Difference of Longi- 
+tude between Plymouth, and the Place where the Ship 
+is, it being ſo much Weſt of Plymouth. = 
+
+Nor theſe Two Examples are (I preſume, ) ſufficient 
+
+to ſhew how the Difference of Longitude may be found, 
+| eicher by a Morning, or an Evening Obſervation, great 
+Care being taken to make a true and exact Computation 
+of Time, even to one Second. | 
+And in order to prevent the Loſs of Time any Way, 
+| I think it very Convenient to Ad 1 
+
+. N. B. In the Uſe of anv Clock, or Watch, &c. it may be 
+
+; Obſerv'd, (and is but reaſonable 70 expect.) that when the 
+
+Force or Strength of the Main-Spring, ( which is tbe Cauſe 
+of its Motion,) is al noſt ſpent; vi. when the Movement 
+
+is near being Down, then its Motion will Abate or go 
+
+Slower. And therefore to prevent any Deffic:ency in the 
+preſent deſign that way; it will be very Neceffary to 
+
+have Iwo Automatons in a Ship, with 2 Recipient to each 
+of them, ( eſpecially in long Voyages,) One of them to be 
+
+kept conſtantly going, and the other to be kept in its 
+Recipient at Reſt. And when the Moving Automaton is 
+
+almoſt down; C as ſuppoſe it wants only a Day or Two of 
+
+being ſo,) then muſt the Automaton at Reſt, be taken out 
+
+of its Recipient to be wound up, and ſet exactly to the 
+
+Time ſhew'd by that which is in Motion ; which being 
+
+done, put it into its Receiver again, Exbauſting the Air, 
+
+Sc. as at Firſt ; and let the other go down, and continue 
+
+ſo in its Recipient at Reſt, Ve. 
+
+Thus have I ſhew'd all that I can Conceive, neceſſary 
+
+to Accompliſh the Diſcovery of the Difference of Lon- 
+gitude, between any Two Places at Sea. 
+
+And when once all Geograpbers, ſhall agree and Pztch 
+
+upon a proper Place, ( as ſuppoſe, Pico Tenariff, Gc. ) for 
+
+the Prime or Firſt Meridian, from whence the Degrees 
+of Longitude muſt be Accounted; Then may the Zong- 
+_ gitude of any Place on either Side of that Meridian, be 
+as certainly known, as now the Degrees of Latitude are 
+on each Side of the Equinoctial, which is all that's want- 
+ing to Compleat both Navigation, and Geography. 
+
+However 
+
+_—— -- - 
+
+32 Jo Diſcover the, &c. 
+However, whether that he ever done or not, it is very 
+
+ſufficient in the buſineſs of Voyag ing (or Sailing, ) to know 
+the Yi fference of Longitude only, (as above) for by that 
+and the true Difference of Latitude, every Ordinary 
+Mariner may be Able to Correct his Dead Reckoning, 
+and keep a true Account of any Voyage; without being 
+Pazled with ſuch doubtful Allowances, as are required 
+to he made, for Storms, ſetting of Currents, with thoſe of 
+Tides, the Ships Lee-Way, the Variation of the Needle 
+or Compaſs, and the uncertainty of the Diſtance Sail'4 
+by the Log-Line, Cc. which are at preſent the unavoid- 
+able Difficulties that all Ingenious Mariners Labour un- 
+der, in computing their Traverſes. „ 5 
+And in order to take off thoſe Difficulties, I did com- 
+poſe, A New Practical Method of Reſolving all the uſeful 
+Problems in Navigation to great Exactneſs; Independent 
+either upon that called Mercators Sailing, or the Arch of 
+a2 great - Circle. Wherein was Deſign'd this Method of 
+Diſcovering the Longitude, with the Deſcript:on, and 
+_ Uſe of the New Inſtrumeni for finding the true Latitude, 
+mention'd in page 6. All which, if Sickneſs had not 
+prevented me, I thought to have Publiſhed about Sever 
+Tears ago; by this Title, The ART of NAVIG ATION 
+Improv d; it was then fo ready for the Preſs, that Mr. 
+R. Mownt Bookſeller, on Tower-Hill, and Mr. I. Taylor 
+Bookſeller, at the Ship in Pater-Noſter-Row, were both 
+with. me, to have Purchaſed the Copy, before I left 
+London, ( which was in July, 1710.) but I was not then 
+willing to part with it fo, nor able to Attend the Print- 
+ing of it my. Self, and therefore it was laid by. 
+But the Honourable Commiſſoners, to whom I have moſt 
+
+bnmbly Dedicated this Traft ; being Impower d to Receive 
+_ Propoſals for Improving the Art of Navigation, and to 
+Encourage the ſame ; I do alſo with humble Submiſſion pro- 
+poſe ta their Honours, the above-mention'd Treatiſe, as a 
+more Conciſe and uſeful Method of Sailing than yet Pub- 
+lifſfid ; which if tbeir Honours Pleaſe to lay their Commands 
+non me, be Printed; (unleſs Death, or extream 
+Tnefs, Prevent it.) And then I think to Cloſe up all my 
+Labours with 
+
+FINIS. 
+
+\ New Correct Table for Equaring of Time. | 
+
+| & your arv. | February. | M4 March. Abril. 
+N — — — 
+| > 477. | 5 5 IC; A: A, | Zee, Ati. * 
+1 9 O2 | 14 50 ," _ o7| 0 44 
+a: 21 9 26 | 14 49 | 9+ Y 0 2 28 
+— 1319 49114 47 7 6 
+| 4110 11114 42 vl o X og] 
+1 5 10 3114 38 ; $5} ©. - © 
+16160 51]14 33] 8 e 
+7111 2 10114 28 8 45 9]. © 48 
+S|it & 2914 2 22| 8 2 Oil x S O2 
+9111 U 47 [14 S' 16 7 ;5 43 as 16] 
+11112 3 14 e off 1 5 
+12] 12 8 33113 8 52 6 8 47] 1 8 55 
+1312 f. 47.13 & 42] 6 C. 28] 2 & 07 
+14412 S 0113 a 2 & 18 
+win" wins * mm{ 1 5o| 2 © 2g] 
+wr 273 ws a2 , wh 
+17 12 2 39 12 v 58 5 © I2] 2 3 49 
+1813 8 50]12 © 46] 4 S 53] 2 5$ 
+9114 28 912 8 34] 4 8 35] 3 8 07 
+20 | 14 1 14 ST 0 
+210 15]12 3 % 3 58] 3 23 
+22114. 22121 2 562 391 3 8 31 
+123114 2871 42] 3 * 20 2 es 28 
+2414 3441 2713 01-3 BS 466 
+2514 2911 111 2 3 
+ee © vt 2 25] 2 55 
+27114 46 10 40 2 o7| 3 $9} 
+28] 14 48110 24] 1 50144 03 
+29 | 14 49 I 33] 4 o 
+r 1 16] 4 wed | 
+31114 A — 
+
+— — —_— _ 
+. ——— 23 K ie E 4 * — — — . . 
+- —— —— 4 I - 
+
+| | 4+ w = O- O\ 
+252583 2259S, | [£9508] N28 
+
+Sec. 
+35 
+25 
+15 
+Og 
+52 
+
+"= I 
+
+5 8 du \arddy a | 01 ppy X| *Yeayans | 
+
+» 8 |8 | | | 91825 e % , Nn 
+18 [Sees % Q 3 1 | 
+FF 
+
+3 1 4 eu, zusteddy r 
+| a 8 e n r wry en 
+
+E[85882| 028095 aAand[20%38 | NESS BANG 
+
+& | , | *grayqns N aw, | aaarddy | an o3 | PPV 
+* b- 20000 CREST mm * e mn] A mUAUCwnu Pp 
+| | . e EEE 
+
++ + 
+| — Pre 
+Z a Ses Fasse 
+
+oy _ *autty, | quaaeddy | oz woy | Nelyaqng 
+
+<< |+ <+-+ 1 ca N cn d % DELLS. SST | 
+
+See. 
+
+Man. 
+
+1 _ 
+r 
+
+„ „ | n 7 — | N en + = | © 09 
+F 22828188 SN NN ang 
+
+A New Correct Table for 
+6 ä 
+
+* DT. 
+
+R H 
+
+"New Correa Table tor — of Time. 
+September October. | Nevember December | 
+Min. See. lin. Ser. | Min, ec. . ee. 
+= 26 15 K Li 45 
+4 39 t5 3% 9 18 
+4+ 51175 4 f 47 
+4 02114 4 8 18 
+. * 8 = 
+5 214] 14 2 R 13 
+1 1 2 8 2 
+6 £S = 45 | 14 2 S 14 
+6 5 $7113 3% 2 
+6 9 08 | 13 oi” v5 
+7 2 w 18 13 10 4% 
+EE 8 27113 en 
+1 1 34112 ES 
+8 & — 40112 0 = 39 
+g < 4612 1 
+9 vo 51 11 x 22 41 
+9 = 2 5511 2 Þ 
+9 = = 3811 2 & 41 
+10 2£ S Oi 10 12 21 
+10 = 0310 53 
+10 CC 
+"© 2 o5 9 XY 4 8 35 
+11 S ©6 922 „ 
+I 3 5 Ss 49] 5 © 24 
+11 ene 6 oOo 
+12 3 317 6 26 
+12 0117 6 $33 
+12 57] 7 9] 7 < 18 
+12 5016 1242 42 
+** 43 6 8 ON 
+24 3 
+
+AT able "or TIT Converting the Hours Min. 
+
+| utes and of Time, into Degrees and Min- 
+| utes of the Equinottial. And — Contrary, for 
+turning Degrees and their Minutes into Time. | 
+| Mention'd i m Page 15. 
+Seconds Minutes | Minutes "Degrees Hour. Degrees 
+| of the | of and Min. of ef be 
+Time. Equator. Time. pf the Equ. Time. Equator” | 
+Sec. Min.  Min. | deg. min. | Ho: Degrees. | 
++ 8 3 2 Wo.nm'n 1 
+$ 2 |] 2 S © 30% 2 = 30 
+12 2 3  3 = 0 . 45[| 3- = 45 
+16 = 4 4 WW 2» - coll 4. 8-6 
+| 20 23 F/',$ © 2 - 19} $ ES. 7%: 
+24 8 | 6 = þ + 3a} © = 90 
+28 =77= 1 45 7 = 165 
+32 = 8 8 = 2 . 0 8 = 120 
+25 9 j| 9 = 215 9 = 135 
+40 1 % Fa 2 ©. 30} 10 150 
+„ = 22 Wa it 5 -- oj 11. By 165 
+48 = 12 30'S 7 . 200 12 = 180 
+32 13 | 40 = 10. 0⁰ Ge. 
+55 = 14 % = 12 . 30 . 
+The i * Uſe if this Table is 1 ſuppoſe it were 
+required to Convert or Change, 2 Hours, 43 Minutes, 
+MF into Degrees and Minutes of the 8 
+* 4 Ho. Mi. Seat. FR Deg. Min, Sc. 
+"Firſt / 2. 00-00 230. ov; oo “ 
+| W ˖ * %% > 43 
+| we 4 => 00. 20 
+| war” 5 * 38 40 . 30 4 
+
+As was Required And ſo for the Contrary,

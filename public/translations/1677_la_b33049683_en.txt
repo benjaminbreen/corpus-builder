@@ -1,0 +1,1637 @@
+# Guilelmi Oughtred ... Opuscula mathematica hactenus inedita
+## By Oughtred, William, 1575-1660 (1677)
+### LLM-generated translation from Latin
+
+---
+
+[TITLE PAGE]
+... WILLIAM OUGHTRED
+OF ETON:
+Formerly Fellow of King's College
+CAMBRIDGE.
+Mathematical Opuscules [Small Works] Hitherto Unpublished.
+FROM THE SHELDONIAN THEATRE [Oxford].
+
+PREFACE.
+
+When we happened upon manuscript examples of the famous Oughtred, it seemed to us not a useless undertaking for beginners, nor ungrateful to those more practiced in mathematics, if we were to commit some of these to print. Wherefore, since some were incomplete, others not so suitable for the press, we excerpted only those which, on account of their use and variety, seemed not unworthy of public light and the name of Oughtred. Since he wrote most of these with the purpose of serving those he was instructing, young men cannot better initiate these studies than by accustoming themselves to Oughtred's genius. 
+
+If anyone seems born for mathematics, let him take this as an example of a perspicacious mind and subtle judgment. Indeed, no one has used more perspicuous brevity, or more deeply embraced in his mind the very essences of things, which, while contemplating, he seems to create his own notions, and not so much discover truth as establish it. Of this matter, the [Clavis Mathematica] provides a great example.
+
+
+[Clavis Mathematica], by accurate examination of matters and severity of judgment, so constantly accustoms the soul to rigid truth, that it can not only comprehend almost infinite things in one glance by the powers of imagination, but understand beyond the human measure, and anticipate the difficulty of discourse. Nowhere is a more sincere taste for demonstration drawn, or with equal fruit, is the mind's own agitation or skill advanced, nor is a more beautiful ordering of thoughts, or a more felicitous habit of congruent thinking, learned elsewhere. The chief utility of mathematics is a severe exercise of the mind; in every study, the love of truth, and the serenity born from the clarity of ideas diminishes that darkness as often as it descends to [sensibilia]. If mathematics does not serve human necessities, it becomes an idle adornment and is little esteemed from the uses of the human race. Those authors who labor with their excessive facility do an injustice to their readers, thinking that it is necessary for them to be instructed about absolutely everything; they present a method by which they understand the sun, entangled in a complex circuit, and wander from the correct path, theirs is the way of those who dwell in darkness. A mind avid for truth avoids superfluity so that it may attack the matter itself and test its powers; it seeks out difficulties and blushes to be wearied without victory. Oughtred did not wish to be easily understood; he deemed it sufficient that the nature of the human mind is such that it wants something left for itself to supply, so that it seems to learn from itself, and whatever aids it has used, the very invention of truth should be owed to itself alone.
+
+Some treatises, which we present in a simple form, are owed to the labors of others, but reduced into compendium with greater utility for the readers. For the treasures which the authors themselves dug up, received polish and use from Oughtred, who never claimed anything of another, nor gloried in being the author, as if he could claim it as his own. In the [Institutiones Mechanicae], if anything is missing, it is abundantly supplied from the most accurate treatise of the famous Wallis, who alone treated this part of mathematics with such dignity, that anyone who might write about it afterward must borrow from him.
+
+The treatises that follow are these:
+
+[Institutiones Mechanicae].
+
+On various kinds of bodies compared by gravity and magnitude.
+
+Automata.
+
+Questions of Diophantus of Alexandria, Book 3.
+
+On plane right triangles.
+
+On the Division of Surfaces.
+
+Elements of Music.
+
+On the Fortifications of Ramparts.
+
+Angular Sections.
+
+The center of gravity of any body is a certain point within it, having around it on all sides parts consisting of equal moments, according to which it is carried downward; and if the heavy body is suspended from this point, while it moves it remains at rest, preserving the position it had at the beginning. And that line is always perpendicular to the horizon.
+
+A LIBRA [balance] is a straight line BAC, whose arms AB, AC are also distances, or segments of the balance from the center.
+
+The center of the balance A, whether it is in the balance, or above or below, is always in a line perpendicular to the balance itself.
+
+The TRUTINA [plumb line] is DA perpendicular to the horizon.
+
+Prop. I. If a weight is sustained from the center of its gravity by the straight line A, it will not move unless that same line is perpendicular to the horizon.
+
+Prop. II.
+
+Institutiones
+
+Prop. II. A balance is equidistant to the horizon, whose center is above the balance, and having weights equal at the extremities, and equidistant from the perpendicular; if it is moved from such a position, it will return to the same and will remain there. For the center of gravity of a magnitude composed from the weights B C and the balance, is in E, wherefore (by I.) it is not sustained by the perpendicular AE; unless it is also perpendicular to the horizon.
+
+Prop. III. A balance is equidistant to the horizon, whose center is below the balance, having equal weights at the extremities, and equidistant from the perpendicular; it will remain in this position; but if it is moved from such a position, it will move downward according to the more declining part. For the center of gravity of a magnitude composed from the weights BC and the balance is E. Wherefore per I. &c.
+
+Prop. IV. A balance is equidistant to the horizon, whose center is in the balance itself, having equal weights at the extremities, and equidistant from the center; also, moved from such a position, it will remain wherever it is left.
+
+According to which Definition a heavy body is carried downward,
+
+For
+
+Mechanica,
+
+For the center of gravity of a magnitude composed from the weights B C & the balance is A: wherefore, suspended from that point, it will be at rest, preserving the position which it had at the beginning (by Definit.).
+
+Similarly, if weights are appended at the extremities of the balance, the same will occur: as long as the lines drawn from the points of suspension to the centers of gravity of the weights (however the balance is moved) if they are extended, converge to the center of the world. For where the weights are appended in this manner, there they are heavy, as if they had the center of gravity in the same points. Jordanus de ponderibus, Hier. Cardanus de subtilitate, Nic. Tartalea de quaesitis ac inventionibus are opposed to this proposition; whose opinions Gzius refutes in this 4th proposition with a lengthy confutation.
+
+Prop. V. Two weights EF appended in the balance from the points D G, if that intercepted balance is so divided at point C, so that the segments respond reciprocally to the weights (that is, let GC. DC :: E. F) they will be in equilibrium from those points as if both E & F were suspended together from the point of division C. Let À be the center of the balance, & let AB = AC. There are three cases here.
+
+Case 1. Let both points D G be on the same side of the center A.
+
+Fiat
+
+Ivflitutiones
+Fiat AB. AG :: F.H i.e. equiponderant,
+Et AB.AD,:: E.K equiponderant, p. 6. 1. Archim.
+
+I say H+K = E+F:
+Therefore E , F from C equiponderate to H+K from PA
+For divide H into F+L & E into K+I:
+Therefore I = L.
+For AG-AB,AB:: H-F,F : i.e. GC. AB :: L.F.
+And AB-AD.AB: E-K.E:i.e. DC,AB:: I. E
+Since GC, DC::E, F
+Therefore GC. AB+ F.L = E.L. Therefore IL. Ergo &c.
+Catus. 2. Let point D be in Center A.
+
+Fiat AB. AG: F.H.
+Therefore F. + H. & E + K. per Schol. 14. E. 5
+
+From] y pothesi.
+conft: secundá dividendo converfim.
+L + L = + E From + quo perturbaté,
+
+Perg. E.
+
+M:echanice,
+I say H = E+F Therefore EF ex C. + quipon-derate to H. appended ex B.
+
+For divide H in F, L: probertur L = E
+-Ert GC. AB: L. Fat + GC. DC;: E. F,
+s Therefore DC. AB :: L.E. Eft ergo * L = E.Ergo.
+
+Case III. Let punctum D ex altera parte cen-tri A.
+
+list. AB. AD E + CE + 5 Lis
+EtAB.AG;: F.H, j + duipond.
+I say H-K = E.F:Therefore E+F ex C aequi-ponderare ipsi H+K namely H + L ex B.
+
+For divide H into F:E+L. probetur L = K.
+' Erit DC. AB:: E, K.E: Et + GC.AB = EL.
+F. ( E+L-H+F)
+
+atGC. DC. :: E. F.
+7 ThereforeDC. AB:: E+L.E::E.K.F.
+Igitur eritg L-K. Ergo demtis LK. &c.
+
+I Utin cafu primo.
+$4 Ex Hyp.
+3 Invertendo analogiam secundam & ex equo perturbate.
+
+4 Nam DC + AC = AB. ex. Hyp. cafus 2. & conftru&ione propof.
+; Ex Analogiá primz conftru. invertendo, & componendo.
+
+6 Ex Analogia 2. Conft. invertendo, & dividendo.
+7 Ex+quo purturbat?.
+9 Perg. E. 5. & 3. ax. E. 1.
+Probe.
+
+6 Inflitutynes
+Probetur H = E+F: * E:F. F:: DG. DC::
+AG = AD. AB. AD S e
+H.F.
+
+Aliter; demonftrari poterunt finguli Cafus per centrum gravitatis inventum per 6. t. Archime-dis de + quiponderanti bus,
+
+Prop. VI. If inlibraBAC pendente + centro A fufpendantur ad puncta D G utrinque à C equidi-ftantia duo + + qualia pondera EF, feginenta libre + centro, ponderum fufpenforum gravitatibus iro directe proportionalia: hoceft ut AD. ad. AG, fic gravitas E ad gravitatem F.
+
+Nam fiat AG, AL (AD): : E. K:quare (per 6,1.
+
+Arch. deequipond .) E + + appenfum ad. D. vel L ha-bebit ad gravitatem F; ; fed K appenfüm ad G gra-vitatem eandem F hab bit. Ergo E appenfum ad G tanto ponderat gravius quam ad D, quanto F majus eft quam K : vel quanto fpatium AG majus e(t fpatio AD.
+
+Aliter demonftratur sic per 6, 1. Archim, dé equi-ponderantibus.
+
+I Componendo. Nam GC. DC : : E. F. ex hyp.
+2 Per. 33. B. j.
+
+AMechanict,
+Eft AB, AD:: E. H
+Et AB. AG :: E. gi + quipond.
+Therefore AD. AG:: HK.
+
+Corollarium. Quo pondus à centro libra magis diftat, eo gravius eft; & per confcquens velocius movetur.
+
+Atque hinc ratio Statera, qua ponderum sravi-tates notae redduntur, facile oftendetur. Efto Sta-ter fcapus BAG, cujus trutina five centrum fit A ; appendiculum E.
+
+Lsus Statere poteft effe duplex.
+
+Nam primo appendiculum erit mobile in Staterze brachio A G, & pondus appendetur ad B.
+
+Dico gravitatem ponderis H ad gravitatem pon-deris K effe ut AD. AG. Nam gravitas ponderis H
+
+c L..I. si)
++ quatur gravitati ponderis E appenfi in D : & gra-
+I Invertendo primam analogiam , & ex «quo otdinate,
+vitas
+
+Infiitutzoues
+vitas ponderis K + quatur gravitati ponderis E ap^penfi in G. Vi el fecui ndo appendicul: imerit im-mobile in B: & pondera inaequalia H K. Dico H ad K effe ut AG, AD.
+
+Nam cum pondera H E equiponderent, item pondera.K E.
+
+Ert H. E:: AB. AD. Et K. BE: AB. AG. , Ergo.
+
+Prop. VII. Quetonaue datisin libra ponderi-bus EFHKL ubicunque appenfis puta ex punctis BCDGI, centrum libre A invenire, ex quo fi fu-fpendatur libra, data pondera maneant.
+
+Dividatur BC in M fic ut BM. CM:: F E.
+
+Deinde dividatur GI in. N ut GN. NI:: L. KE, Iterum dividatur MN in O, ut MO. NO :: KL.EF. Poftremó dividatur DO im A, ficut DA, AO :: EFKL. H.
+
+Eft igitur punctum A centrum gravitatis magni-tudinis compofite ex omnibus EFHKL ponderibus; ad cadem libra puncta fufpenfis,
+
+ARMAR
+
+1 Ergo H. K :: AG. AD, invertendo fecundam analogiam & ex x+ + B myquo perturbaté,
+
+Ha--l
+
+M:Mechasica,
+labeant brachia libre proportionem non + ra + juali-tatis , sed aliam quamlibet puta 3 ad 1 are pondus 1 appenfum ad finem longioris mn ni ae + queponderabit ponderi 3 appenfo ad finem brevi.
+
+oris. Jam veroutrique 5 & 1 apponatur equale pondus, 1525 3545 $6, 7585 9, &c. & ic pons derabrevioris fient 4,5, 6,7, 8, 9,10, 1, 12, &c. & pondera longioris 2, 3, 4, s, 6, 74: d4 "s 10; &c.
+
+Brachium libra longius gravefcet, Exceffus au. tem gravedinis illius fupra alterum, invenietur di-videndo rationem ponderum in aequ alitate refpon-dentium, nempe ? per rationem ponderum aucto-
+
+rum 55. DO E: &c. Quotus five ratio
+
+fus longioris brachi ii fupra brevius orietur, 2, 9 *.
+
+5 222i,i8c (fic) s Gyr qua NE RUNS
+vioris brachii fit 6 +T 3) & infine longioris 4 ( 14 3 ) : gravitas longioris erit ad gravitatem br ids. ut 2 ad r, hoc eftdup Etfi in fine bre. vioris brachii fit 12 ($3 r1 in finelongioris fit Io( 149): pen as bas jio 1s erit. ad gravitatem brevioris, ut « ad 2, hoc eít dupla & fcíquialtera, Et fimiliter de Aches
+
+Con fect. Gravitas lon ngi oris brac! il augetur fup er gravitatem brevioris, tum propter majorem brachi.
+
+10 Inflitutsones
+orum in qualitatem, tum propter gravitatem mae jorem utrique aqualiter appofitam.
+
+Brevits l ;U
+Longius $
+
+7.9 yon Us n )i(i 2 ROM $- 6. 7. $, 9. Io I xu wtge yr
+3.4. 5. 6.7. 8. 9. Gc,
+
+M:echasice,
+
+DE VECTE.
+
+Prop. I. Potentia in Bfuftinens pondus E vecti BAC appenfum, & ipfum pondus: fegmentis vc-ctis à fulcimento A funtreciproce proportionalia, Dico AB.AC :: E. potentia in B fuftinens pondus E.
+
+Nam fiat AB. AC: : E. H. + quepond. quare po-tentia qualis ipfi H coníftituta in B equiponderabit
+
+tpfi E. : hoc eft prohibebit ne deorfum | vergat, At hoc praeftat potentia praefuppofita in B. Ergo. Coroll. 1. Pondus quo fulcimento propius eft , co minore fuftentatur potentia,
+
+Nam fiat AB. AC:: E. H. Et AB. +C:: E. K.
+
+[5]
+
+! Et quia +B, +C** AB. AC. +4B. AC. per. 8. E. 5.
+2 10, EF. 5.
+B 3 fulci-
+
+o ^
+
+12 Inf'itutiones
+fulcimento À E etiam reciprocé proportionalía: Dus AB, AC :: E. potentia in B.
+Nam M enstut ex B pondus F=E, ' Erit AB,
+
+Nap To oen
+Lu UT |
+
+AC:: gravitas F ex + B. E ex CQ. Hat AB. AG 11 pondus EH: item gravitas: quare F ex B. E ex SEDE R4: meme i3 equiponderabit ergo E ex C, & Hex B. Et potentia B+ ipfi H. Nam po-tentia ri alis ipi H. pofita in B, fuftinebit ipfum H, nedecidat, quare & fuftinébit i ipfum E, appen-fum ex C, ergo,
+
+Coroll, 2. Potentiain B femper minor eft pon-dere E. Aliter demonftratur sic, Fiat AD=AC, Et ex D fofpendatar pondusF -E, Et fiat AB. AD :: F.H. + Reliqua funt facilia
+
+Cx roll. 2; 5i int duc potentiz, una in B, alte-rainD: & utraque fuftentet pondus appenfüm ex A : erunt potentie Teganane vectis ab A reciproce proportionales : hoc eft AB, AD: +d H: + po.
+i Per. 6.librz. d L /
+2. F. E) equip: ond." ergo etiam. E. H. equiponderabunt. Qugare;
+: He Pot: ES B, + H. &c, uc in i vifori dedionib
+tentia
+
+AM:M:etbaslca, E
+tentia in B punctoremotiore ab À minor eft poten-tia in D puncto propiore,
+
+Coroll.4. lltraque potentia fimul fumta equa-tur ponderi appenfo ex A.
+
+Nam! DB.DA:A.Hy i + reo DB. DB: A.HF. Et BD. BA:: A, FJ E
+Prop.III. Sipondus E ex altero fine B appen-datur, potentia in C fuftinens pondus E, & ipfum pondus fegmentis libra à fulcimento funt reciproce proportionalta.
+
+Dico AB. AC: : potentia in C.E. Nam fiat F E,
+
+^ + B
+& AB. AC :: H. E. gravit, at AB, AC :: ? gravitas E cx B.F ex C. equiponderant igitur E ex B. & HexC,. :
+Ponaturin C Potentia fuftinens pondus H : erit igitur + qualis ipfi H. Quare eadem potentia fufti-nebit pondus H. Ergo &c,
+
+D Ah c Dn
+E e dl l
+ADDERE:
+Áhter demonftratur sic; Fiat AD— AB : & pon-dus E-F. Et AD. AC :: H, F, equipond, Reliqua funt facilia,
+1 Utraque per propof.
+?. l'er: 12. E. 5. alterzándo terminos.
+3 Per.+é. libra.
+
+Coroll. V.
+
+14. Iofliiutiones
+Coroll. V. Quo pondus E propius eft fulcimenz-to À, eominor potentia in C ipfum fuftinebit. Coroll. VI. Potentia in C femper major. eft pon-dere E.
+Prop.IV. S potentia in B. moveat pondus E vecti appenfum ex C puncto; Erit ut B4 fpatium potentie mote ad Cy, fpatium ponderis moti, fic diftantia AB à fulcimento ad potentiam, ad diftan-tiam ACà falcimento ad ponderis fufpenfionem. -
+
+Nam circulori circumferentiz funt ut diametri.
+
+Coroll. VII. Ex his manifeftum eft B2 fpatium potentie mote, ad Cv fpatium ponderis moti ma-jorem habere proportionem. quam pondus E ad eandem potentiam in B.
+
+Nam potentia in B movens pondus E neceffarió
+
+I Et etiam radii per 15. E. 5. sed arcus fimiles (qualesfünt Azc. ABA.Per3.cor.23. E. 6.) funt ut circumferentia.
+
+major
+
+AMethbanicé, 13
+major effe debet quam potentia fuftinens tantum. : At vero AB.AC:: E, potentia in B fuftinens. Ergo,
+
+Prop. V. Potentia in B vecte fuftinens pondus E (cujus centrum gravitatiseft E) ad ipfum pon: dus eandem habebit proportionem quam diftantia ACinter fulcimentum & punctum interfcCtionis li-ne& + centro gravitatis perpendicularis plano hori-
+
+zontis cum vecte, ad diftantiam AB inter fulcimen-tum & potentiam,
+Dico AB. AC::E. potentia in B,
+Nam per ea quz à Fed, Command. demonftran-tur in 6 propof, Archim, de quadra. parabole , fi & Per, 1. de vede,
+ponderis
+
+16 Infimntiones
+ponderis E fufpenfiones ad vectem folvantur relí-
+
+qui, ipfum tamen pondus ex Puncto C appen-fum, eodem modo manebit, ficut nunc manet.
+
+Prop. VI. & VII. Lemmata funt facillima, i-deoque omittenda cenfui.
+
+Prop. VIII.IX, & X. Potentia in B. pondus in E füffitmis vel etiam movens, fi centrum gravita-tis fupra vectem horizonti + quidiftantem "habe at, quo magis pondus ab hoc fitu vete elevabitur , majore egebit potentia, quo magis dep 'rimet
+
+minore. Atfi centrum gravitaris ig ipfo vec
+
+AM:Mechanmnca, r7
+beat, five elevabitur five deprimetur , eadem fem-per potentia opus erit,
+
+Ratio fequitur ex Prop. 5. & ex habitudine du-arum rectarum EL, E.Cé centro gravitatis quarum una eft perpendicularis vecti , altera plano hori-zontis,
+
+Coroll. VIII. Hinc facile elicitur, quod in omni-bus vectis fitibus potentie iaB fuftinentes pondus, eandem .femper ad fe invicem rationem habeant quam diftantie AC in iifdem fitibus,
+
+Prop. XI. Si vectis diftantia AB inter fulcimen-tum & potentiam ad diftantiam AC inter fulcimen-tum & punctum, ubi à centro gravitatis ponderis
+
+18 Iuflitutyones
+E ducta perpendicularis horizonti vectem fecat; majorem habuerit rationem quam pondus ad poten-tiam; pondusàá potentia movebitur,
+
+Hoceft fi AB. AC^-. E. potentiain B. Nam fiat AB. AC :: H, potentia in B. , Quare pondus H
+
+majus eft pondere E. s at potentia in D fuftinet pon-dus H. Ergo potentiain D plufquam fuftinebit, hoc eft movebit pondus E.
+
+Aliter demonftratur fic Fiat. AB. AD:: E. potentia in B. at AB. AC. E. potentia in B. 4 Quarediftantia AD major eftdiftantia AC, ^ At potentia in B fuftinet pondus E ex D: Ergo per Corol. $. Prop. 3. plufquam fuftinebit pondus E ex C.
+Prop. XII. Datum pondus E. à data potentia in B dato vecte ABC movere, Efto datum pondus ut 35; & data potentia ut s ; quz pofita fit inter fulcimentum À & punctum fufpenfionis C :
+
+iIO.E.j. 2 t.bujus. 3 ro. B. 55 4 3. hujus;.
+
+In
+
+Mechanice.
+
+In hoc cafu: Dividatur AC in D ut AD, AC ::
+
+ín fecundo cafu. Dividatur AB in D, fic ut AD.
+
+Á. c D n
+
+À
+
+In tertio cafu, Dividatur CB in D fic ut DB. DG: €.5,
+
+Tum quiain ' fingulis cafibus punctum D inven-tum aequat potentiam ponderi : fuümendum eft iuxta D punctum aliud in quo pondus fiat levius, per Prop. 11.
+
+Prop. 13. Quotcunquedatisin ve&e ponderi-bus EFK ubicunq; appenfis,puta ex punctis CDG, datoque A fulcimento potentiam invenire, quz in dato puncto B data pondera fuflineat,
+
+& Per. 3. 2. 1. hujus.
+ar Fiat
+
+206 Iofitutiones
+Fiat E. F,.: : MD. MC. tum EF. & :: NG.NM. Et AB. AN :: EFK. H potentia, +
+
+Prop. 14. Quotcunque data ia vecte pondera EFK ubieunque appenfa, puta ex punctis CDG; à data H potentia in B moverc.
+
+Fiat E, F: : MD. MC. Tum EF. K:: NG. NM. Et EFK. H :: AB. AN,
+
+Foftremóinter A & N ftatuatur fulcimentum O.*
+
+Prop. XV. Quia dum pondera vecte moventur vectis quoque gravitatem habet : Oftendendum & quomodo inveniatur potentia, qua in dato puncto datam vectem fuper datum fulcimentum A fufti-neat.
+
+Eft vectis BCDG, & partis vectis AD centrum gravitatis E: partis autem AG centrum gravita-: Quz date pondera fuftinebir. per 5. libre, & r, hu. zr» hu
+tis
+
+"L-
+
+"M:Mecbanict. 2I
+tis F. E quibus recte perpendiculares horizonti ducantur EK FL. Suntque partes ille vectis quafi duo pondera ex punctis KL appenfa,
+
+Dividatar KLin M, ut KM. ML :: AG. AD. : Tam fi potentia collocandafitin puncto B, - Fiat AB. AM: : AD + AG. , potentia in B. Si vero po-tentia collocandafit in puncto C. Fiat AC. AM :: AD - AG. , potentia in C.
+
+Item fi pondus H vecti appendatur ex puncto
+
+B: potentiaque ponenda fit , ita ut vectem unà cum pondere fuftineat.
+Invento ut prius puncto M.
+
+Dividatur BM in N,ut BN. NM :: AD + AG.H,
+
+Tum fiat AC, AN :: AD 1 AG , Hipotentia in C, Vel fiat AB. AN :: AD 4, AG +H, potentia in D,
+
+i Quare per $. librz , utrumque fimul ex M. &quiponderabit ,ac fi ex pun&is K. L. füfpendantur feorim. 3 Quz fuftinebit ve-
+&em per. i. hi, 3 Quz fuftinebit. vedtem, per 2. hu.
+
+Inflitutionets
+
+DE TROCHLEA.
+
+Sit pondus P quos plano! nori-zontisad rectos angulos furfum fit attollendum. Er (n fieri fo-let) Trochlea duos habens or-biculos,quorum xil fint OV,fuperne appendatur: & altera trochlea duos etiam habens s orbiculos,quorum à ixiculi fint AE,inferné ponderi aliigetur : ac per omnes utriuíque trochleze orbi-culos circumducatur funiculus, qut in altero ejus emos puta inN, nodo E eg Potentia autem fuftinens five movens ponaturin S: quz dum defce dit, pondus furfum ex DE attollatur.
+
+Problemata demonfir randa, r. Quomodo hoc Trochlez inf mentum reducatur E ve 2. Curmagnum pondus stise exi-Sua virtute. 5. Et quomodo, 4, B je in tempore movca-tur. S. Cu j funis i in uno capite debet effe religatus. 6, quod-que Tuperióriss 7 qu uodque infe-rioris trochlez fit officium. 8. Et quomodo omnis in numeris data
+
+propor-
+
+AMechanice, 23
+proportio inter potentiam & pondus inveniri po/ht,
+
+Lemma. Sit vectis CB bifariam divifus in À, cujus fulcimentum fit B: & fit potentia in C, fuftinens pondus a ppenfum ex A: Dico potenti-am in C aequalem effe refiftentisee fulcimenti: & utramque ponderts effe fubduplam.Eft enim + BC,
+
+DA :: P. potentia in C, at BA c : BC. Et quía po. tentia in C una cum fulcimentoin B fuitinet pon-dus P : potentia autem in C. eft ponderis fubdupla, necefle eít ut fulcimentum in B faltem equaliter refiftat ponderis g gravitati: alioquin fuftineri pon-| dus non potuerit, fed deorfum movebitur Suffi-Cit autem ad ponderis immo iitatem ut eequa-| liter ipfi potentia refi lat go fulcimenti refi-flentia eit etiam pond leris bunk Et gravef-Cit pondus füper fulcimento equaliter. dimidio | fui,
+
+Aliter sic, Loco fulcimenti ponatur in B po-| tentia, una cum potentia in C, fuíftinens pondus | P: 2 utraque ponderis dimidium futftinebit.
+
+Prop. I. $1 funiculus Trochlez fuperne ap-|peníz orbiculo circunducatur, aiterumque. ejus
+
+j Per 2, hujus. 2 Per a. 3. corol. a, bujus,
+extre-
+
+Aa gt CC-€MR S,
+
+24. Znflitutines.
+extremum ponderi alligetnr , alterum à poten-tia pondus fuftinente teneatur: erit potentia pon-deri equalis : poteritque idem pondus ab eadem potentia abfque trocnlee hujus auxilio nihilomi-nus fuítineri,
+
+Nam quia recte: CP BS funt plano horizontis + perpendiculares, tanguntque orbiculum in CB,
+
+Cx
+
+diameter CAB erit , parallela horizonti, Eftque: diameter CAB quafi vectis , habens fulcimentumi in centro A. Itaque cum diflantia AC = AB : po--tentiaque in S, hoc eft in B, ponderi P appenfo, ex C3aquiponderet: erit potentia in S aequa-'| lis ponderi P. Ideoque ipfum abfque Trochleai| fuftinebit, |
+
+e
+1 Ex hyp. a PeriQ, E. 3. & 28. E. i5 3 Per 1. Vea.
+
+Prop. II.
+
+Mechauica, 25
+Prop. 2. & 5. Si funiculus Trochlee ponderi alligata orbiculo circumducatur , alterumque e-
+
+jus extremum alicubi in. N religetur, alterum à potentia pondus fufítinente detineatur (five ad«hibeatur Trochlea fuperior five non adhibeatur ) erit potentia fuftinens ponderis fubdupla.
+
+Ratio patet ex Lemmate praemiffo, Nam cum potentia in S vel B trochlea pondus P fuftinere de-beat , funiculum ex altero extremo religatum effe oportet, puta in N: fta ut N equaliter faltem potentiz in S vel B refiftat: alioquin potentia in S nullatenus pondus fuftinere poffet. Eftque DAC tanquam velis : cui inflar fulcimenti eít
+
+D punctum
+
+26 Inflitutiones
+punctum C, exiftente funiculo NC immobili : pondus autem eX A appenfum, quia trochlea fuitinetur axiculo A , ideoque pondus P in codem quoque axiculo fivecentro ponderabit.
+
+: Quare BC. CÀ: : P. potentia in B vel S, At DAGRIBC.
+
+Nec Sane differentiam aliquam in ratione facit fuperior Trochlea, in tribus poftericribus Schematibus : ficut ex prop. t. apparebit,
+
+Prop. IV. & VIII. S1 fit unus vectis vel plu-res, BAC, DEG, HIK , bifariam divifi, in AEI, quorum fulcimenta fint CGK , Et pondus P ap-penfum ex mediis punctis AEI, fintque plures
+
+(7 A 6
+p A + B
+PEN pd : e
+
+: CT A
+pu Pr po
+
+potentie equales; una in mediis illis punctis tanquam uno, reliqua in fingulis terminis BDH, pondus fuítinentes : Dico unamquamque ex di-Clis potentiis feorfim ponderis effe fubmultipli-cem denominatione compofita ex unitate & to-tidem, binariis quot fünt vectes, hoc eft fi unus fit vectis effe fubtriplam : fi duo funt vecies
+
+j ler 5. Ved.
+elfe
+
+v
+udi
+
+Mechasica. 27
+
+.| effe fubquintuplam : fi tres fubfeptuplam , | &c.
+
+Nam cum potentia in inen veétium ui tinc-at unam partem denominativam pondcris : fitque potentia aequalis in extremo d lup O fo rt'or quam in medio, q + + eft* CA. CB :: poteitia in B, potentia in A: fingule& potentie in extremis fu-Itinebunt binas ejufmodi partes. Ergo. |
+Prop. VI
+
+9 tem. N E. or S W.) Convert the found direction [Plagam] into hours; to each direction from N or S, last reached, assign 45 minutes: set the found hour [horam inuentam] against the twelfth hour: beginning from this point, divide the ring into 24 hours, towards those parts where the Moon’s ring moves, by which means the day of the new moon, with its pin [clavulo], will indicate at any day the hour of the greatest increase of the sea at a given port.
+
+Table for converting compass directions into hours. from N & S.
+
+[OCR garbage skipped]
+
+XXXVIII. To indicate the hour of the day [diei horam]...This can be done with a moving ring, over a [Horarium] surface under an index, whose upper face is marked with divisions of that motion [Motus]; and numbers of drums and wheels, For example, in the Motion of the Moon, (for the same ratio applies in all cases) they will be found thus: Since one revolution of the Moon's index completes part [?] of the Moon [Luna], the wheel [rota] must be so composed that in any revolution of the index, or revolutions of A, it departs from the Index by part [?]. Therefore, for the number of motions [numero motus] take 2? « & (i.e.) 60/59. & the motion will be proportionally slower in wheel B than in the Index. Or take 8/ 8 (i.e.) 58/59, & it will be faster. The drum [Tympanulum] 59 must be affixed concentrically to wheel B, turning wheel 60, or 58: whose upper surface [fapertus planum] must be divided into 29 ½ days.
+
+XXXIX. To find a wheel [rotam], whose revolution, made within an hour, indicates minutes. First, because (by 17) in one hour ? parts of A move: if drum H is affixed to axis A, it will turn wheel B in one hour.
+
+Or secondly, because B revolves in H hours: in one hour it will move 4/H of B (i.e.) 60/H of B; therefore the drum, 4/H affixed concentrically to B will turn wheel 4 in one hour.
+
+Or thirdly, because (by 7) E makes ?/v revolutions in
+
+Automata. 53
+in H hours: in one hour, it makes v/H/B (i.e.) v/H/B revolutions of E. Therefore, if drum H affixed to axis E turns wheel B: the same drum « will turn wheel » in one hour.
+
+Or fourthly, because P revolves in 7H/y A (per 9) & y/H A moves in one hour (per 17) say z/y 8:: P. v6/7H P | &. Therefore drum H affixed concentrically to wheel P, turning wheel 8: which with drum 7 turns wheel v in one hour: it will indicate minutes, or any part of an hour.
+
+XL. To find a wheel, whose revolution made in one minute, indicates seconds, Because it has been previously demonstrated that 2 parts of A move in
+H
+one hour, therefore in one minute (i.e.) 1/60 of an hour, 2/60H move: (i.e.) 8 «/60H/H 2, « £4. Therefore if drum H affixed to axis A turns wheel e. which with drum 40 turns wheel 4, the same with drum 30 will turn wheel 5, in one minute of an hour.
+Then, because 8y/6oH or P/7H on axis E, gives
+
+another
+wheel revolving in one hour; therefore
+By/60H, or Bv/7H « 2 will give a wheel revolving
+
+in one minute.
+
+Automata. 54
+Or thirdly, because &y/Hz, or Bv/Hz upon wheel P gives
+
+a wheel revolving in one hour; therefore £v/ei, &
+
+or Py/ei 4, will give a wheel revolving in
+
+one minute.
+XLI. M. 7:: K. 7E & Ts; (i. e.) revolutions A/y
+
+7M
+or Fusis [Fusi], for K continuation in parts M.
+For (per. 11.)
+| vM, ÀA::K. TK À.
+
+7 yM
+XLII. N..6:: R. 4R [-p T4. (i. e.) revoluti-
+ey y 2oN
+
+ones À or Fusis [Fusi], for R continuation in pat;
+tibus N.
+Nam (per11)77N, A: : R 9R A
+
+9 79 iN
+XLIIH. 7. M:: Tz. M9 z K. i.e. continuatio
+
+y?
+in parts M.
+XLIV. 49. N:: Ta. ?NT73 z R. i.e. continu-
+* 38 78 bmi: Q
+atio in parts N.
+
+XLV. In these last four propositions [prop:], the Hour Index [Index horárius] is affixed to the center P, but especially F, the system of motions will be very slow: because in M parts of time (i. e.) one revolution of F, only 2 parts of A move (per 10)
+
+m
+
+Automat4. 85
+
+Therefore the first wheel [rota], A, must be so much faster, than when the Index is affixed to center B, as s is greater than 7 or 9. & how few revolu-
+y và
+
+tions around the Fusis [Fusum] will make the continuation very long: this is left to the judgement of the craftsman as to how conveniently to achieve it.
+
+XLVI. But with center P , or F , by affixing another Index [Indicem], a faster motion may be accomplished. Since (per g. & 10.) the ratio of motion B, to the motion of P, or F is given: this being known, it can be applied to any proposed motion, to find suitable drums [tympanula] with wheels [rotis].
+
+XLVII. Because (per 7 ) Ht 8A 27 E vel
+B.A —B 4 v vel B Lsv E : thus the hour is indicated by drum [tympanulo] », affixed to the axis of wheel E, turning wheel [rotam] "y: which with drum « turns wheel B: which with drum ^ turns wheel : & by the same system.
+
+XLVIII. Then because (per 20.) Mot: P. B::
+
+7.8::P. 8v B ; vel B , 7 P: thus the hour is indicated by wheel [rota] v, affixed concentrically to wheel P, turning wheel [rotam] gv: or &c. which with drum « turns wheel B: & by the same
+
+ivttemate.
+
+XLIX. Because (per 2) H j-1 5A E agvy2l: vel
+B A .[LB 4 27: vel B4 757 I: thus the hour is indicated by drum [tympanulo] , affixed to the axis of wheel [rotz] I, turning wheel [rotam] 2? : which with drum « turns the hourly wheel [horariam DB]: which with drum z
+&c.
+
+"VM utomdata4.
+
+centi wheel [rotam] 2? : which with drum « turns
+
+the hourly wheel [horariam] DB: which with drum z &c.
+
+QUESTIONS
+Of Book I.
+Of Diophantus of Alexandria.
+
+I. To seek those numbers themselves,
+
+Z/S Z & X to seek the numbers themselves.
+AZEIX—A Z-X-E.
+
+II. Given Z & Ratio R to S seek &c,
+
+R. 5::A. SA, Let RA = SA Z Z& ZR —A
+
+R R R.;S
+III. Given Z & Ratio R to S, which moreover, in magnitude, B greater exceeds smaller
+to seek, &c,
+R. 5:: À-- B. SA--BS, smaller; therefore 2 Z-- A
+
+KR
+
+And R 1 Sin AC ZR,BS. or ZRTBS ZA
+R5
+
+IV. Given X & Ratio R to S to find &c.
+
+R.S :: A. 5A therefore RA-SA X & XR. — A,
+
+R KR K-5
+V. Given Z, & B aggregate of 1/2 greater & small-
+er
+Let the greater be A, the smaller Z-- A &c.
+Or let 2/3 of greater be A, 1/3 of smaller Z -- A, &c.
+VI. Da-
+
+88 Quefhones Livi I.
+VI. Given Z, & B excess. 1/3 greater over 1/4 of
+smaller,
+Let the greater be A, smaller Z-- A &c,
+Or let 1/3 of greater be A, 1/4 of smaller Z-- A &c.
+RAIZIAGB velA-$Zr:$ A£2B
+Vel 3 A--2Z42 Az 6B. therefore 68127 zz A.
+5
+VII. What number is that from which if B. &
+C are taken away, the remainder greater will be double the smaller.
+Let the number sought be A, & B « C.
+Therefore À -- C. A--B::2.1
+Therefore A--Czc 2À-2B
+Therefore 2B -- Cz (2 A-- Az) A.
+VIII. What number is that to which if B & C are added
+the aggregate greater, will be double the smaller,
+Let the number sought be A & B. C &c.
+then 2C 4 B — A.
+IX. What number is that by which. with B&C sublated,
+the remainder greater , will be double the smaller.
+Let the number sought be A & B «C &c.
+Therefore B -- À. C-- À::2. I
+Therefore, B-AzzC--24À
+Therefore. 2C--Bz (2A- A )333
+X. What number is that if B is taken from it & C is added to it, the greater will be double the smaller.
+Let the number sought be A&B «C &c.
+Therefore, B- A: A1 C::2. 1
+Therefore. 2C -- Bz 4.
+XI. What number is that to which if B is added & from which if
+C is taken away, the greater will be triple the smaller.
+Let
+
+Diophbasti Alexandrini, 89
+
+Let number vu A& B « C &c. |
+AP.A-- C: . therefore AB — 3 ÀA-- 3C, "
+Et Bt Pm —AÀ
+2 "n
+
+XIT. Di eld ere Z ib A 4E, & in I 10O thus üt
+20.& 12:3 E. Let the greater be A. AUR 2A
+etis duo reliqui 7 À,G& 3Z--3 A Inve-
+nitur A-— $ Z.
+
+PRACTICE.
+
+1AÀ[3Z—3Af7Z
+Vel A. r6 Z-- "6A £227
+Vel "Em Ee therefore $. 4:: Z. À Therefore
+
+XIII. Divide 7 ih ALE, & in T4O & in
+
+V. LY thusntA z 5 O& 1:2 Y,& V i- za4E.
+ii(JEfto major A minor Z-- A:4Z--4A-— V
+$34-c0:Z-2AÀzlizsY:1Z-184»Y
+iZi1iAz V.quare4Z - 4 A22 242A
+Vel :4Zz A,
+
+XIV. To find two numbers ( A,E) such that
+Mia ; E. Let EA 1 Ain 4E.
+Vel AE-- r3À. Therefore let for E
+vel A Binbers | someone that is greater than 23.
+$it E. s. erit
+
+A-3516 2AÀAz3Eg314. & A? 7 I
+Fiígo AE mo$.AISESGÓgG:
+
+X V. To find two numbers (A,E) such £
+2À—-2BzÉEID,&3E--3C—Aj4CErit.
+
+M 2 Á
+
+90 Quafliomes Libri I.
+
+2À--3BA2E:& 6A-9B--3 CzA,C
+Therefore À À Ez 4CT9B.
+
+—
+
+XVII. To find three numbers (AEI) such that
+AjQE-—B: E412; &I4.AZzD
+Érit. EzS B--A; &B--A4Iz: C,
+vel, Li CoA «AB & C--B42AzD,
+vel, Az BTD--C
+
+2
+vel let the sum of all be Z, as in 17.
+
+XVIII. To find four numbers ( AEIO) fici
+ut A4E4IzB, & E4140 C, &I404/
+AZD,&O.j4A,E-F
+
+Erit. IZ B- A-- E: Oz C-- B4,A: &E-ZzC--
+D 4A: ou Lcd EE F
+
+Vel Az BtD-F--
+
+3
+Vel let the sum of all be Z. Erit O —Z-- B &
+A —Z-C:&E-Z-D:&I zZ-F.
+Therefore Z 4 Z - B-- C-- D - F.
+Vel Z— BrTCr DtF.
+
+m €
+
+2
+XVIII. Iavenire.tres. numeros ( AEI) fic utif
+A4EZI4B:&E4IZA4C:&I4Az EGZDM
+Erit A4E - Biz IE 4D A
+Qua reA-— ETE C I&D: tC
+Vcl. Z--Bz21l. Z-«GzzA.Z-Dze2h
+Ergo dantur omnes tres,
+
+XI pat UE
+JE X. La IC 111 Qua I ó.
+
+mn Me ETE MER S - REM. EE. om
+
+v
+
+Dwpbat; Alexaudrin., 0I
+& X. To find four numbers (AEIO ) ficut
+EA-EGIZO-B:&E:I:O0ZA.C:I&I4O
+| A-E4,D:XO.,A,E-I.,FE
+L.fto fumma omnium Z, Erit Z--B —2
+| Z--C-2A&«&Z dede &Z-F-
+puare 4. Z -- B -- CD. qty 4
+Vel Z B4 C4 D-F,
+
+XI. Eadem que 20.
+
+s AIL DivideZin A 4 E4Ificut A4 E—- BI
+
+"Ee E.I-CA
+
+Ert BI4IZZZCA.,A
+
+puare Z2 zlIl& ZA.
+
+B.r CI
+
+I. XIII. To find three numbers (AEI) ficut
+pou ] --iE-B. Erit
+3A -3 Ez Lb&s EC-sI)- 13 A 15 Ehoceft
+20E-15A- A,vel 4 A*E,
+
+Duare 3 À --*^ A hoc eft 2 iu E.
+
+Denique £ A-- * A hoc eft? A— B.
+
+.AMXIV. Eademque 23. SEZ 6 B.
+
+UM. X V. To find three numbers (AEI) fic ut
+
+[355 4;E—TEQJ1IZiI44£A. refolvantur
+tres numeri in A juxta conditionem qualtio-
+nis : eruntque A, & $ AzE,G£:A-I.
+sumatur lgitur pt ro À numerus quivis qui di-
+viduus eft per denominatores reliquoram 6& 3
+
+| & fiet pi topofitu m,
+Lfto A 6. crit Eg, & I 4 &c.
+
+M 2 PRACTICE.
+
+pni ns di
+
+LI
+
+——
+
+"2
+*«
+
+TANE. Caedm
+
+p
+
+4o er Aem MÀ,
+
+iueffiones Librg E,
+PRACTICE.
+
+e^ e^
+P47? Eom o f4$ A quare4E A Velia
+JqOP Ir Emio |
+D: v
+3 3
+6 9$: A.E. & 2ZACE.
+EC iI4LAÓZESmUA-L OWd
+25 25
+CN mU
+40 -- 1$ I$ 4 IO
+3àj-£ Á m4) 3 * WA Í.
+EC X PNE
+AY ^Y ND
+56 24. ::3. 2: : AIL EA ez E]
+
+XXVI. Invenirequatuor nnmeros cA, E/I, Ojj.
+ficuti AciEz 2EQ441m 14$ Ox
+ZO. 5$ A. refolvantur quatuor numeri in. A,
+juxta conditionem quzftionis , eruntque A & |
+$5 AZE,& $A-IGQGI2AZO, [fumatut']
+igitur pro À numerus quivis qui dividuus eft:
+per denominatores reliquorum , 75 , 2$, s & ']
+
+fet propofitum, Eíto A75 : erit E 46& Í 6q
+
+& O5 7.
+
+PRACTICE. 1!
+
+T
+
+Dwphanti Alexandrini,
+PRACTICE.
+
+SAQíEZI &ilA-5EmO-IE-1A
+69 75
+(CNSUNZAZT rm
+ipc21 448 A2 724332 138.223 ::46.75:E. A.
+ài i 465ER 84$ H
+
+^y^ I 8 2,
+16 48
+
+"XXVII. To find three numbers ( A, E, T,) such that
+A41E4qIIZEA41lI4212ÀA—I45A45EFE
+refolvantur tres numeri in A juxta conditto-
+nem quzfionis, erunt A; & 32A EG&T A
+-l. sumatur igitur pro A numerus quivis qui
+dividuus eít per denominatores reliquorum
+13 & 13 & fiet propofitum. Efto À 13;
+Erit E 137 & I 19.
+
+PRACTICE.
+8E-9AZImjjE4;A. Ve
+104. 136
+CA A agit
+120« IÓ 135 4 1
+
+8 -16Ez 9 41 AQuare Gc:
+pos 3$ E: -3AS
+n VTVOSNA
+15 I5
+Et
+$A4iIAEZiilI-iLAve
+
+O sweflionis Libri
+S ueffionis Libri I.
+
+19 14. 5s LA vel
+eA PN
+ME. Loi$.4q
+8 TF 15 we 16 E
+L1. x 2 !
+om nd xpi oba
+I6 16 I2 10: 4. E
+
+XXVIII. To find four numbers( A,E,L,O
+
+cut A4$E41ILIOZEILSO41A-
+1450 4T ATIEÓÉO.IAA4LE.I |
+
+refolvantur quatuor, numeri in A juxta condi-
+tionem quaftionis: eruntque A, & 2 zx E &
+i; — I,& !$^ — O, fumatur igitur pro À nu-
+merus quivis qui dividuus fit per denminato-
+res reliquorum 47, & 47 , & 47 & fiet pro-
+potum. Efto A 47, eritE77, & 1.92, &
+O 10r.
+
+XXIX. Given B & C to find a third. under
+which & B rectangle, is a square to be re-
+Canguli sub itself & C,
+Let A be. Therefore BA — Cq Aq. vel B — A.
+EU
+XXX. Given Z & E to find two sides,
+Let the greater be A the smaller will be Z- A.
+quare Z A- Aq — E
+But 2Zq-/Ez tXq. EtiZ4:1Xc-A.
+
+AXXI. Z & Z to find two sides. let ma-
+
+Jus À the smaller will be. Z- A. quare Zq -—- 2 ZA 4
+2 A0T7.. vel
+
+Za Áq—ZqQ.-Z IE. quare as above.
+| XXXII.
+
+m
+
+Diopbanti | Alexauarini, 95
+
+IX XXII. Given Z & X, to find sides, Let
+the greater be À, the smaller will be Z- A, quare 2 ZA. Zq
+
+— X; vel
+Z A—Zq 4X. vel Zq.4 X.— A.
+2 27
+
+IXXXIII. Given X & X to find sides Let
+the greater be A the smaller will be A- X 5quare Aq- AX—JE
+But &c.
+
+IA XXIV. To find two numbers of which
+smaller to the greater be as S to R, but. sum
+of numbers to sum of squares as L
+to T. Let the smaller be E, the greater will be RE, SE | R E,
+
+sci rerIs. nacti
+
+AJ
+Sq Eq 4 Rq Eq :: L. T Quare
+
+——
+
+multiply 2* first terms by alternating
+quotients, & let deprecation be done. & because L multiplies
+& divides, let it be expunged,
+
+(X X X V, To find two numbers of which smaller
+to greater be as S to R & difference of numbers
+be to sum of squares as L to T.
+
+XXXVII. To find two numbers whose mi-
+nor to greater be as Sad R, Et sum of numbers
+be to difference. of squares as
+L to T. |
+
+IAXAVII. To find two numbers of which
+mipor
+
+cnl
+
+t
+
+——
+
+LE WEN. ML SLEEP
+
+06 iueflions Liber. I.
+
+minor àd majoremfit S ad R & diffrentiá nume-- 0
+rorum ad differentiam quadratorum ut Lad T..
+
+XXXVIII. To find two numbers qüorum
+minor fit ad majorem üt Sad R & major nu-
+merus ad quadratum minoris ut L ad T.
+
+Eíto minor E. /Equatio erit T R. — E quia
+
+LS
+RE, Eq :: L. T.
+$
+
+XXXIX. To find two numbers quotum mí-
+tor fit ad majorem ut SadR. & quadratus:
+minoris ad itself minorem ut L ad T.
+
+XL. To find two numbers of which minor ad)
+majorem fit ut Sad R & fuinma numerorum adi.
+quadratum mifioris ut L.ad T.
+
+XLI, To find two numbers quorum mqinoti
+ad majorem fit ut S. ad R. & differentia nume«;
+rorum ad quadratum minoris ut L ad T.
+
+XLIÍI. To find two numbers quorum minori
+ad.majorem fitut S. ad R & minor numerus ad
+quadratum majoris; vel major numerus ad qua.
+dratum majoris vel fümma vel differentea nua
+merorum.ad quadratum majoris fit ut Lad T.
+
+XLIÀII. Given two numbers D .& C inveni.
+re tertium A fic ut C4 A in B: A4 BinCc
+& B 4C in A equali decrefcant intervallo;
+Because in three numbers Arithmetice propor-4
+
+tionalibussj
+
+D^vis tits BEL Rees A an Ee anos foi
+
+e
+
+Diophant: Alexasdrin, )7
+
+97
+tionalibus, the double of the middle equals the sum
+of the extremes,
+
+Ert 2CA42BC-—BC.42BA4CA;
+Therefore IMEEM.
+
+2b -C
+PRACTICE
+C. À A.B B4C
+B C A
+
+BCj.BA CAjQBOC BA,AG,
+
+FINIS. Libr t.
+
+98
+
+QUESTIONS
+
+Libr II.
+
+Diophanti Alexandrini.
+
+1 T Nvenire duos numeros A. E ficut Z. Z ::5.RÀ
+Let the smaller be E: and with assumed number EH
+quocunque let B E be greater ;
+Quare BE 4E. BqEq. Eq:: S. R.
+Quare B R 4R — E.
+; Bq5 1$
+]I. Invenire duos numeros A, E: sic ut X, X.::| |
+S. R, /Equatio Erit
+BR--R-E.
+Bq5--5
+III. Invenire duos numeros A,E ficut Z. 7E:: S.H].
+
+Let the smaller be E.assumptoque B let BE be greater, Quar ^^
+
+BE.E:BEq::S.R. quare BR. RE,
+—PS
+
+] V. Invenire duosnumeros A, E, ficut X. Z tj
+S,R. Let the smaller be E,major D E.
+
+PRACTICE.
+B E-E. BqEq.,Eq:: S. R.. Quare
+
+BRE:
+
+v
+
+Diopbanti Alexandrin, 9 9
+
+IBRE-RE-BqSEq.SEq quare B R- R E.
+Bq S4$
+WW. Invenire duos numeros A, E fic ut Z.X, :: S.R,
+FEquatio erit B R , R — E.
+BqS4S
+
+MI & VII. Invenire duos numeros A, E
+ficut X fit B:& X, fit C : fit minor E, major erit
+B 4 E; differentia quadratorum Bq. 2BE. C.
+Quare C - Bqz E.
+—p-
+
+^
+Ld
+
+"VIII. & IX. Datum Bq induo quadrata di-
+videre, Let one e be of the things sought Aq whose side
+A, the other will be Bq- Aq : whose side ( as-
+sumpto number C quocunque) Let CA- B
+of this however the square is
+
+|Cq Aq -2 C BA.4 Bqz Bq - Aqquare 2Cb 2CB — A.
+
+ISi Bqfit 16: & C 3. Q: 1$ 4Q: 1$ — 16.
+.4Si Bqfit 16 & C $.Q: 22 4Q : 2$ — 16.
+| Hinc patet inventiotriangulorum Rectangulorum
+
+t£xi£—116 QGpilxiil-1:5$ — 16 vel
+
+10 IO
+
+Ld 40 — $600 96 96-92 5
+2626 — 676 2$ X 2$ 676 hoc eft
+
+41600
+9216 x — 676 ) 1081&. ( 16.
+
+loS816
+
+[. -
+
+: — p dee
+! JEN. "LL )
+
+X. To divide Bq 4 Cq datum in duo alia qua-
+drata, let B be greater than C. affumptis duobus
+N2 nuineris
+
+tm
+
+dba oer Nea XD,
+
+d 2 3-
+
+100 ue fliones Librz IH.
+
+numbers quibuscunque R. majore : & S minore:
+Eftolatus uniusR A- B: & latus alterius SA-.C
+of these squares
+4f RqÀq-2BRA4Bq — Bq
+nar eodd dH -2CSA,Cq Cq
+2BR Tt2CS
+
+Quare - —: A BAtvero latus binom ::
+ST F5q fuit SA. C
+BRS.2C5q--CRq -CSq
+hoc eft ^ E CUCIUILIUREER T
+
+ape quadratum fi tollas
+€ Bq.. Cq reítabit quadratum aliud,
+
+XI.Invenire duos numeros quadratosquorum diffe--
+Vien hit BC aflumpto number conveniente [DI
+Efto latus minoris Á,majoris A, D :quadrato- Ji^
+yum ex As differentia 2. D A ,Dq-—BbC
+b C--Dq—4A
+
+Jar 5c
+quare 21)
+
+BC d. Fq L—— A.
+
+vel efto major A5minor A-F ZE
+
+Lemma pro XII. If to two numbers B , C,da-J.
+tis tertius D quaeratur, qui ad utrumque ad-
+jundus conficiat quadratum numerum, diffe-.
+rentía ipforum B--C is gnomon, cujusi
+longitudo is 2 A ,E, & latitudo E, Eftquesjil
+longitudii ds & latitodinis femifumma À E
+latus quadra majoris, & femidifferentia A la--Hio q
+tus qua adrati minoris , fumantur igitur duo nue] uu
+meri quic xunque E pro LAM ne, & F pro lon-4f nu
+gitudine: ficut FEZZB- C, & ex Q: : E |
+
+v.
+
+Diophanti 4A lexandrins, IO1
+
+| IF tolltur B: vel ex Q : *F-2 E tollatur
+| C. & reítabit numerus D quarfitus.
+
+Exempli gratia, if fint duo quadrata À 1 6 &
+Ax1, horum differentia $ is gnomcn, &
+quia $ x 1— 3 sumatur pro latitudine gno-
+monis : & pro longitudine 5, Harum semi-
+fumma 3 is latus quadrati majoris 9 , e quo
+if tollas 6 reftabit 3 pro number quafito, fe-
+midifferentia autem is 2 latus quadrati mi-
+noris, e quo if tollas 1 reítabit terttum 3.
+
+XII. To find a number that adjectus ad B & ad
+Ccomplebit duos numeros quadratos, Eitque
+p «C
+Fieri poteít per lemma: vel aliter.
+üsÉuadratum minus efto Aq. qv«afitus igitur nu-
+merüs erit Aq - C,huic if addas B habebis ma-
+jus quadratum fc: Aq- C & B cujus latus efto
+A-D (affumpto D fic ut Dq-& B-C ) quare
+Aq-2DA4Dq— Aq- Ct B vel Dq*C-B — A.
+2D
+Tum ex Aq tolle C: eritque numerus quaf(itus.
+Vel latus efto A1 D, affumpto D & /: B- C:
+
+XIII. To find a number that ablatus eB& C,
+relinquit duos numerosquadratos eft que B C :
+|Efo quadratum minus Aq: quare C-- Aq erit
+numerus cuefitus, Et B- C, Aq quadratum
+majus. hujus latus is A- DaffumptoD «& V :
+B-C:quae Aq-2DAÀ ., Dq— Aq« B - C.
+Vel
+
+"Que[hones Libri HH.
+
+Vel Dq-B [LC — A.
+21
+TumeC tolle Aq eritque numerus quafitus
+Vel latus is A- D, affumpto D 2 /:B« QC!
+Eritque B-- C-- Dq —A,
+aD
+
+XIV. Invenire nümerum e quo if fubtrahantur:),
+DB & C reftabunt binaquadrata:eritqueB «& Q1J*
+Efto numerus quefitus Aq4.C, ut. fubtra&to»| ' ;
+C maneat quadratum majus Aq; fubtrahaturr| ^.
+etiam B & reítabit Aq- B 1 C cujus latus isto] 7.
+A - D affumpto D «& V: B --C:quare Aq- 2 D?
+
+À . Dq — Aq-B£C vel Dq1 B-Ce- AU!
+— ^D
+
+Tum ad Aqadde C eritque numerus quafitus..
+
+vel etiam fieri poteft per Lemma,
+
+* V. Dividere B ín duas partes fic ut Aq ad--| —
+jJectum ad utramque partem compleat bins
+quadrata,
+
+Affumantur C & D,ut Cq . Dq «B fitque C « Dii
+
+Q: A4 C.eft Aq 12 C À 4 Cq: minus Aq
+
+Q: À £D.eft Aq «2 D A. Dq: minus Aq ; RenaM
+
+2C A£Cq B-Dq-Cq—4A
+
+2DÀ Dor PE 2ii2€Q
+
+hav duz funt partes ipfius B
+vide 24. lib: 3.
+
+XVI. Dividere B in duas partes fic ut quadra4J i»
+M tum A4. C, affumpto C & v B minutum u«
+P traqueéd
+
+a
+w
+
+Diophants. Alexandrini. 103
+
+traque relinquat bina quadrata. Quadratum
+igitur fubducendum is Aq., 2 CA 4, Cq
+f € quo if tollatur 2C A 4, Cq reítabit. Aq
+i4 Et equo if tollatus 2 CA 4 Cq-2DA- Dq
+affumpto D ? C Reftabit |
+
+Aq£2DA.,Dq quod et Q: A£ D
+vide 23 lib 3.
+
+HEX VII. To find two numbers in Ratione R. to
+S. fic ut adjecti ad Bq compleant bina quadra-
+ta, Eftolatus minoris quadrati A * B.Erit qua-
+dratum minus Aq 2B A4 Bq. Tolle Bq re-
+ftabit minor numerus Aq ..2 B A
+
+"Hg ACS. R:: Aq 42 BA. RAqG2 RBA t£ Bqqua-
+S
+
+dratum majus , cujus latus affumpto C —& J:R,
+efto CA- B quare CqAq-2CBA - Bq—
+RAq-:2RBA,Bq. vel 2R B12 CB A.
+PR SCq-SR
+I XVIII To find three et pri. - C ,2ter, AF
+numeros fic ut 3 ?tenbgalfotb
+equales fint Cifec.-D44 pri. 4 C
+
+Because no number is proposed to which
+ituenda is the equation, the question can in countless
+ways be expedited 5. or by supposing the sum
+of
+
+VI. The [Cantus], Tenor, and Bass must be contrary to each other in motion, so that if the [Cantus] ascends, the tenor descends: and vice versa, but this is not necessary.
+
+VII. The [Cantus] and Tenor most sweetly transition through contrary motions from a sixth to an octave: from a unison to a third, and vice versa. Likewise from a minor sixth to a fifth of the other part moving, with the rest standing; understand the same regarding composite intervals.
+
+VIII. A [Cantilena] should terminate in a perfect consonance.
+
+IX. Discordance can be allowed in the smallest notes.
+
+X. Three voices, of which the extremes are bound by a Diapason; the middle with the lower by a Diapente, with the higher by a Diatessaron, agree excellently, just as also those composed from them.
+
+XI. A pleasant and sweet progression occurs when thirds or tenths ascend or descend simultaneously.
+
+A Table Comprehending the Proportions of Tones in Three Octaves
+
+[Table of numerical proportions]
+
+These Median Numbers are not correct: Given a pipe whose diameter is 9, and length 15, make one whose diameter is 5... State reciprocally.
+
+Q: 5. Q: 9 :: 15 : 48 6 long :
+Indeed, the length of a pipe which is 4 times the former is sought: First the length of a pipe [?] equal, and let it be multiplied by...
+
+To find the proportion of musical tones on a Cythara or Lute.
+
+Let the line be divided according to the table above into tones E, F, F#, G, G#, A, B flat, &c. And taking the center at the beginning of the same line, draw arcs through single tones; then take with a compass the distance from the support to the edge on which the strings rest: and if it is a Cythara, note that distance in the last arc from the E tone; if it is a lute, in the fourth arc from the end, from the G tone, which is prefixed... let another line be drawn from the end to the center C, intersecting all the arcs. For the subtenses of the arcs themselves from E or G towards the center, intercepted between those two lines, will give the just distance of the tones from the support, but in a lute the tones towards the upper part of the neck must be raised a little, and that on account of the thickness of the strings, which determine the tones.
+
+In Pneumatic Organs.
+
+All pipes of pneumatic organs are constructed in the form of a cylinder: for that part which is from the top up to the lower lip of the opening, is cylindrical, and expresses the tone. Therefore those parts must be augmented or diminished according to the proportions of the line divided above.
+
+Let it be given that I wish to construct another pipe from a given pipe, which shall be lower than it by 5 tones. Since the fifth tone differs from the first in a proportion of 800 to 1200, therefore, beginning from the lower lip of the opening, the desired pipe must be made one and a half times longer than the former.
+
+On Bells.
+
+Let a bell ABCD be given which I want to be similar to another that is lower in tone by a fourth: divide the line according to the table above into tones, let two arcs be drawn, one through E, the other through A, in which you measure... with a compass subtenses equal to the distances CD, AB, AC, EF: then from the center draw as many intersecting lines as there are arcs; and thus you have the dimensions of the bell to be made.
+
+Note that a well-formed bell ought to have a diameter of the opening of 14, and an upper width AB of 7: and an interior altitude EF of 109: and an exterior altitude AC of 104 and a thickness near C in the summit of 2, in the middle of 1.
+
+On the Munitions of Fortifications.
+
+The munition, as far as the convenience of the place allows, ought to be ordered so that it may be more capacious for receiving the huts of soldiers, supplies, and other things necessary both for sustaining the soldiers and for keeping off the enemy.
+
+An example is taken in the pentagonal figure. Let 360 degrees be divided by 5, which is the number of sides, the quotient will be 72 degrees, for the angle at the center ACB. Subtract this angle from 180. The remaining angle of the figure BAP will be 108 degrees; half of this is the angle BAC 54 degrees.
+
+Example: 5 ) 360 ( 72 - to the center
+2 ) 108 - to the figure
+54 Half
+
+Let the side of the figure AB be taken not less than 480 feet, nor greater than 680, suppose 540: AN will be 270 feet. Therefore, in the right triangle NAC, given the angle ACN 36 degrees: & base AN; the Hypotenuse AC 459.3516 feet is given; & Cathetus CN 371.5231 feet.
+
+In the pentagonal citadel, ang. ACB = 72 grad. ang CAN = 54. grad. ang. figure
+
+S. CAN : Rad :: AN : AC :: S. ACN : Rad.
+Rad. : S. CAN :: AC : CN.
+
+Then, with the astrolabe standing in the Center C (which place is chosen as the most suitable for the middle of the citadel to be built) let five straight lines be made 459.3516 feet long and containing angles of 72 degrees. And through the termini of those straight lines, a line being drawn, will fall in the pentagon field BAPOQ.
+
+You will also examine this pentagon, with the astrolabe placed in the angle O: For if the sides of three angles equal to ACN fall into the points BAPQ, the pentagon is correctly described for making a munition. But that this munition may be safer from the attack of the enemy, it must be fortified by this art.
+
+On the side of the pentagon AB, let a line be cut off on each side [4?] G & B F, which is 5/24 of the side, namely 120 feet. The middle space between GF, which is 5/12 of the side, or 300 feet, will be for the curtain.
+
+But in a square, the side is to the line of the neck as 8 ad 12, & to the curtain as 8 ad 3 or 12 in [?] or 5 in the pentagon. &c.
+
+In the points G & F, let DF and GE be extended at right angles equal to 5/48 of the side, namely 90 feet. But in a square 1/12 of the side.
+
+From the points D, E let the lines DH, EL be drawn, so that the angle of interior defense DHF & ELG is a third of the ang' BAC (a sixth of ang BAP) namely 18 degrees: & the angle at D or E the complement of the same, namely 72 degrees: let the lines LE & HD be extended until they meet with the lines CA & CB produced in I & K. The angle EIA & DKB will be 2/3 of the angle BAC, namely 36 degrees. For this rule is general, that the angle of the propugnaculum [2EIA] ought to contain 4/9 of the angle of the polygon [2 BAC], provided that it does not exceed 90 degrees (which first occurs in a nonagon) But indeed in a Nonagon and the remaining figures of more sides, the angle of the propugnaculum EIA should always be a right angle [sem]. the angle of the polygon [2 BAC] is to the angle of interior defense ELG as far as the octagon as 6 to 1. after the octagon the ratio gradually decreases so that in the dodecagon it is as 5 to 1.
+
+Ang: CAN = AIE = GLE. Ang: GEL = compl: GLE.
+
+In an octagonal citadel the angle of the propugnaculum is 90.
+
+In the Enneagon indeed as 28 to 5. In the decagon as 16 to 5. In the Hendecagon as 26 to 5.
+
+In the right triangle EGL, given the angles with the side EG, let the base GL 27.9915 feet be found & Hypotenuse EL 291.2461. therefore AL is 396.9915.
+
+Rad. : S. GEL :: EG : GL.
+S. GLE : Rad :: EG : EL.
+
+In the triangle IAL, given the three angles with the side AL, let the side AI 208.7108 & IL 546.1941 feet be found; therefore IE, the face of the propugnaculum is 255.16598.
+
+In the triangle AIL, GL & AG = 5/24 of the side are given.
+
+Therefore Say. SI : AL :: SA : IL :: SL : IA.
+
+In the right triangle LMN, given the angles MLN 18 grad; & LMN 72 grad. & base LNi 126.9915 feet, the hypotenuse LM 133.5265 will be found: & cathetus MN 41.2620, which will be the distance of the point of defense M from the middle of the curtain.
+
+In the triang : MNL, the ang : L & NL = GL are given.
+- = GN (cat)
+Say S.co, L. : NL :: Rad. : ML :: SIL. : MN.
+
+Table containing the regular fortifications. From the Quadrate to XY sides. [4?]. of the angles.
+amplitudes : But. to be examined more diligently according. to the rules already given above.
+
+[Table of data for different polygon types, including Semidiameter of Polygon, Side of Polygon, Angle of Propugnaculum, Defending Line, Ala & Facies, Capital & Lateral, Angle of Defense, Cathetus of Polygon, Collum (AG), Ala (GE, DF), Cortina (GF), Ala Cortiae (GH, LF), Capitalis (AI), Facies (IE), Lin:defens: IL, Anguli, Center (ACB), Figure (Polygz.2 BAC)]
+
+180^2 AIE = ELG. Ang: BAC- AIE = GLE < 90;
+
+Ad. Pag. 175
+
+On the munition of Propugnacula,
+
+The Vallum in a Square & Pentagon should be 14 feet high.
+In a Hexagon & Heptagon 16 feet.
+
+Let the Reclination of the outer vallum to the altitude be as 2 ad 3: but if the heaped up earth is slow and tenacious, it can be as 1 ad 2: Let the Reclination of the inner vallum to the altitude be as 3 ad 2, nearly.
+
+Alt: - Recl: 2. 2. 5 vel 1. 2 Inter ped. 36 ad 60,
+
+The vertical latitude of the vallum should be a minimum of 30 feet and never exceed 60 feet.
+
+Let the breastwork superimposed on the vallum have an exterior height of 4 feet, a Reclination of 2 feet, but indeed on the interior let it have a height of 6 feet C. Reclination of 1 foot and a vertical latitude of 9 or 12 feet. To this is added a little bench 1 foot high and 2 feet wide.
+
+Cavaliers are small hills that are sometimes raised between two propugnacula, or [?] the angle of the interior polygon, which are eminent above the highest breastwork 5, 6 or 7 feet, so that it is more convenient to look out into the field and to attack the enemy from afar: on which either a breastwork or in its place wicker baskets are placed.
+
+Between the lowest vallum & the ditch let a space be left 12, 18, 22 feet wide, on whose extreme shore a breastwork is superimposed, similar to the breastwork of the vallum itself.
+
+abc Vallum.
+a interior vallium inclination [Gall?]; Scharpe [Ital?]:
+- Scharpa [?]
+c Exterior inclination Ital contras Scharpa,
+[Gall?] Fiorischara [?]
+
+b Thickness of quadrangular vallum.
+
+d Thorax cum Scabello Gall: cortine Ital: parapetto,
+
+ef. Faussebraye Belg: de berempte fulcrum valli.
+
+e K viz operta,
+f Thorax parapetto.
+14. Fossa profunditas,
+KI contre Scharpe.
+L Thorax.
+
+Let the ditch be excavated around the whole munition, whose bottom in sandy and more elevated places should equal the vertical vallum: the surface or sum total latitude of the base, the profundity to the altitude: the inclination of the interior to the exterior: the exterior to the interior: but in places with springs, rocky or sloping, where it extends to a profundity of 6, 8 or 10 feet, the distance of the banks should be 160 & 180 feet & the inclination proportional to the depth. And lest the first attack of the enemies, which is usually the fiercest, should fall only on this machine, sagacious men have devised various forms of muniments which could also fortify the munition itself, indeed separated from the work itself, but all lying under the wings of the propugnacula, from whence it was both possible to strike the enemy, and to bring aid from the [?]; there are however of this kind...
+
+Parmularum [?] or Bassinetto,
+[Brical?]; hec eit Gal: Rwvelims.
+
+From the middle of the curtain N, a perpendicular is raised & from the point of itself R, two faces emerge, in proportion to the polygon from 144 to 200 feet: whose defenders [?] middle of the ala of the polygon Puer, or if the occasion does not bear it, let them be distant from the angles of the alae 12 or 20 feet: and let the interior angle 5 of the [Parmulgque?] correspond to the interior log : Let a ditch 39 or 60 feet wide be drawn around the muniment.
+
+Of the breastwork contre[cha?] arpe [?]
+
+[5]... opposite to the plan of the camp [?], at a space of 24 feet: (which we shall be wont to call the covered way) having assumed: let the sides of this with the [parmulee?] [allala?] be [?]: the work is 6 feet high, as it should recline to a latitude of 40 feet... [?] : if the latitude is less pleasing [250?] [?] until the level of the camp falls on the radius of sight: in this way you will achieve the true inclination of your work (scil: copterfcharpe). [Parmulas?] of this kind to the propugnacula...
+[?]
+
+from which the curtain point [?]
+
+50 feet from the edge of the ditch be a straight line TV parallel to the face of the propugnaculum: similarly also from V another straight line in another part of the propugnaculum & from the point V on each side you will erect two faces 200 or 220 feet long: And the [Parmuleque?] thus made, in proportion to the dimensions of the [parmulz?] [cortinalis?], ditch, covered way, HID[E?] will be drawn around. And these [parmulz?] are higher than the rest of the vallum by 4. feet: so that [?] the enemies may be able to see clearly: nor [?] who fight from the covered way, are harmed by their own.
+
+On the horned work.
+
+They are called horned because their sides extend from the munition in the manner of extended horns [?] from the [propugnaculorum] straight lines EX DY 700 feet long Pain [?], which if they are extended further will afford this use, that indeed towards the munition they might be diminished more often, & indeed in several propugnacula they could be split. But that advantage could be compensated with greater [?] while the propugnatores were bravely defended by their riflemen; nor indeed beyond [?] 840 feet, will a rifle bullet be able to be directed with certainty at some target: let a suitable length therefore be observed; let the sides of this work obtain an equal distance with the wings before or near [the?] munition: if [the?] corniculata will not be sufficient, the lines falling in an oblique path may acquire a more convenient latitude. At either horn a semi- propugnaculum is built, to be duly fortified by a breastwork to which the equal face of the cortina having been joined, the horned work is rendered safe on all sides from the attack of the enemy: which propugnacula if it please to fortify with a vallum of 4 or 6 feet on the inner part; a ditch (for indeed a ditch 24 or 56 feet wide must necessarily be the muniment) ought to increase according to the mode of the vallum: if a smaller armor, such as we have placed before the others, will be sufficient: This is an excellent work, but it cannot conveniently be extended to the very tips of the propugnacula of the munition, on account of the too narrow capacity between the horns, which would lead the propugnatores into danger of life, deprived of the help of their own. The ala of the corniculati is equal to half the face [of?] 5/12 of the curtain.
+
+On Irregular Figures, & on the Ratio of Fortifying Towns: Most towns and cities, in ancient times ignorant of the art of war and without skill, have been founded least suitably to the norm of the art of munition. First an exact, true and ichnographic description of the perimeter of the city is required. For the whole certainty of fortifying a city depends on the proper investigation of the angles.
+
+Then depict the various forms of fortifying the city: of which let that be chosen which is most convenient, and the least costly in the future: gravely taking care that neither the propugnacula nor the immense masses of the vallum are erected in marshy places. Nor is the regularity of the figure to be adhered to so much: Indeed the regularity of the form is commodious, but a due proportional measure conciliates firmness to the muniment. For an irregular figure, if indeed duly proportioned, will supply the same convenience as a regular one. Let the angle of the figure DAE not be less than a right angle, for the more obtuse it is, the more commodious it is. Let the line of the neck (Ital recinto) FB or AG be 96, 120 or 144 feet, let the Alae (Gall: Espaules) be perpendicular to the curtain: and let their length be 96, 120 or 132 feet: Let the angle of the propugnaculum I or K not be less than 60 degrees or greater than 90.
+
+Length of curtain 480, 720, 960.
+
+The angle of exterior defense ELF or DHG should be obtuse, not exceeding 160 grad: let the line of defense DH or EL not exceed 960 feet.
+
+Let the vallum be erected to a height of 10, 18, 20 feet and let the reclination of the vallum interior towards the city be equal to the height, the exterior reclination to 1/2 the altitude.
+
+[Diagram]
+
+In A^ DZH H Z & € D are given, Do & DH are sought.
+
+In A^ B4« B2 & 9:22 « B are given, Jk & D * are sought.
+
+in ^* D x D? & -« are given, D * is sought.
+In ^* D«K —«&:K are given.
+
+The vertical latitude of the vallum is 30 to 40 feet, the Basis, &c.
+
+Breastwork of altitude 6 feet: of latitude at the vertex 8, 9, 12 feet, reclines inwards 1 foot: outwards 2, on which account the latitude of the base will be 8, 12, 15 feet Altitude of Scabelli 1 foot: latitude 3.
+
+The fulcrum of the vallum (de Barempte) leaves a space of 12, 18, 22.
+
+Ditch
+
+Latitude of ditch minimum 140, 160, 180 feet.
+
+The latitude of the ditch is found thus, add the latitude of the vallum both at the vertex and at the base: and multiply the sum divided in half by the altitude. Likewise add the latitude of the breastwork both at the vertex and at the base, and multiply that sum halved by the altitude. Divide the increased sum by a fifth part of itself per the depth of the ditch [ae?], & add the quotient to half the profundity for the upper latitude of the ditch; or subtract for the lower latitude.
+
+Example: Let the vallum have a latitude of 32 feet at the vertex, at the base 55, the halved sum 43.5 multiply by the altitude 14 feet & there will be 609 feet. Also, let the breastwork have 10 feet at the vertex, 15 at the base, the halved sum 12.5 - multiply by the altitude 6 feet & there will be 69 feet. Add therefore 609 & 69, the sum will be 678 feet, increased by a fifth part of itself 136. namely 814, divide by 6 the depth of the ditch: the quotient 135. 6 augmented by half the depth, Will be 138. 6. The upper face of the ditch: but subtracting it, it will be [?]: the lower latitude. To T however, because the earth is [?]: to be dug quantity of vallum does not suit.
+
+In the munitions of towns the propugnacula should not have unequal parts, but in similar propugnacula the extreme angles the face and the ala should be equal; the whole difficulty of which matter [hæret?] in the line of the neck AG or BF. that you may therefore inquire how much it ought to be shortened or elongated so that the same form may remain to the propugnacula; regard must be had to the angles of the figure BAP; For the more acute they are, the longer the defending lines will be, & the shorter the lines of the neck.
+
+The length of the line of the neck will be found geometrically thus? From CA [?], from the angle of the ala E let a straight line be drawn parallel to the side [?] AB, likewise another straight line parallel to the line BK, having a distance equal to the point E from the line AIL. At the concourse of these straight lines D, let the ala of the new propugnaculum be dropped perpendicularly into the curtain: let the propugnaculum itself be made at B, having parts equal to the parts of the prior propugnaculum at A, but if the angle B were too acute, the line of defense DH would be of enormous length: to avoid which inconvenience you will make the angle of the propugnaculum K more acute, & the alae shorter.
+
+Of those things which, in any place of the munitions, have been erected, either advantage or detriment can result.
+
+I. Advantages of munitions erected in a horizontal plain.
+
+1. A rich and compact soil is suitable for the vallum, and the other structures
+
+2. If light could be had, supplies could be brought at minimal expense.
+
+3. Fertile cultivated soil supplies food.
+
+4. If a stream should increase by too much quantity, either by cataracts, or by some other means, the surrounding fields can be flooded to the destruction of the enemy.
+
+5. Such a site is well-suited for making tunnels, both on account of the wetness, and because the enemy digging can be seen from afar.
+
+6. A regular form can be had.
+
+7. It will be troublesome for the enemy to cover his troops so they are not seen.
+
+Impediments.
+
+1. The same soil will also be suitable for the enemy for erecting breastworks, munitions.
+
+2. The river will also bring supplies to the enemy's forces.
+
+3. The fertility of the fields will also serve the enemy.
+
+4. The enemy will be able to use the water of the stream cohiben- tis fields flooding [?]: & less of an army will be needed.
+
+5. A munition of this kind, unless a river obstructs, will be subject to attack from all sides.
+
+6. They are costly per se, enormous propugnacula, and require a great mass of vallum and a very wide ditch: so that nature itself almost supplies nothing of convenience, as in mountains.
+
+7. A humble and depressed soil causes the valla or propugnacula to subside very often with great expense; on the refareienda [?] of which the greatest expenses are sometimes bestowed.
+
+2
+I
+FÉ
+ta ir mea
+
+2
+2
+6
+
+It is natural to imitate this also with the vallum [?]
+
+II. Advantages of munitions erected on the convexity of mountains
+
+1. [?] from the attack of enemies, both with military engines and with tunnels to be dug: to that place [?]
+
+2. If a small amount of glebe is sufficient, the munition itself will be constructed with less cost and labor: and indeed it could be made on a slope, while it spontaneously provides a place, walls & muniments of propugnacula.
+
+3. You must hold the enemy's forces separated from each other, which often causes them trouble at that time.
+
+Impediments.
+
+1. An enemy creeping secretly under the summit of the mountains will be able to enjoy the convenience of the valla so as to attack the munition without slaughter of their own.
+
+2. Supplies are brought not without great expense, as to Ar [?] and [?], so to the propugnatoribus, .
+
+3. Convex mountains generally suffer from a shortage of water.
+
+4. Obnoxious to diggers.
+
+5. They are disrupted more than the remaining sites by rains and storms, since the friable soil there exists more than in the plain.
+
+6. The convenience of the form does not succeed to the architect according to his wish.
+
+Ran
+
+* Of the Munitions of Propugnacula,
+
+III? Advantages of munitions built in the sea.
+
+1. If they are 1500 feet distant from the shore, they are safe from military engines.
+
+2. Access is not given to diggers.
+
+3. Attacks are not open on account of a continuous supply of reinforcements.
+
+4. They do not need costly propugnacula.
+
+5. Nor do they need a great supply, nor a numerous propugnatore on account of the convenience of the ports.
+
+6. There is no reason to fear the uncertain blows of nautical tormentorum on account of the vacillating course of the ships, which however the propugnatores themselves can harm.
+
+7. They can be defended and fortified by the fleet to the destruction of the enemy.
+
+8. The use of cavalry is not allowed in these places.
+
+Impediment.
+
+However, the borders of the country cannot be safely defended by this munition, since it is clear that it is dangerous to depart from it.
+
+IV^. Advantages of Munitions built on the shore.
+
+1. Just as they are participants in the advantages, concerning which in. 5, 6, 7; 8 of the maritime ones; so also they...
+
+2. That the enemy may besiege them, an army and a fleet are needed.
+
+3. You can defend the borders of the country both by land and sea from the same.
+
+Impediment,
+
+But that neither a neighboring enemy, nor the attack of some foreigner, will escape - on account of the sea washing over it.
+
+V. Advantages of munitions built in marshy places.
+
+1. The marsh itself will deny access to both the cavalry and the infantry forces.
+
+2. Nor is there need of an immense mass of vallum, nor of a lofty propugnaculum.
+
+Impediments.
+
+1. Immoderate expenses, while the vallum and the rest are built in a less suitable place viz. where the fund is unable to bear the mole, and the soil does not correspond to the work either in quantity or quality.
+
+2. A foul vapor exhaling daily and infecting the air will rage among the soldiers in a fatal plague.
+
+3. The enemy will besiege them with a small hand and minimal forces, if only with some propugnaculum he blocks the exit from the defenders.
+
+4. If the alacrity of the most generous defenders is detained by this limit, it will fail you elsewhere.
+
+5. Muni...
+
+De the Munitions of Propugnacula.
+
+6^? Advantages of Munitions built next to a dry ditch.
+
+1i? It will supply the place of the propugnacula: as in the three-year siege of Ostend: where a great abundance of defenders rushing into the dry and deserted ditches, sometimes safely drove back the fiercest attacks of the enemies.
+
+2 It offers safe lurking places to the fugitive, whether a soldier or a farmer.
+
+3 If the enemy should study to fill it with wood, they can be burned in time of necessity. If by stones or other material, a great abundance of these can be offered through covered ways in a very short space of time.
+
+4. Nor is the air unhealthy in these places.
+
+Impediments.
+
+1 If the enemy gains possession of the more distant shores of the [foífz?], he will prevent the besieged from having their cattle or soldiers lurking in it.
+
+2 With minimal effort the enemy will fill it, dig tunnels, move loricales cophinos [?], build propugnacula, and fortify himself in all ways against the excursions of the defenders.
+
+3 The enemy, creeping gradually with his built propugnacula and muniments, will erode and demolish the vallum, the propugnaculum, now in possession of the defending angle.
+
+7: Mu...
+
+De the Munitions of Propugnacula.
+7 *. Advantages of munitions next to a navigable ditch.
+
+1. Access to the munition is difficult for diggers.
+
+2. Though the enemy may hold the further shores, he cannot however hide himself in the ditch itself.
+
+3. If he attempts to draw off the water; it will often deceive both the time & the labor.
+
+4. Nor will he approach the vallum or the foundations of the propugnacula with his little muniments so as to secretly overturn them.
+
+5. Unless the water is stagnant, whatever he may have thrown in for the sake of filling it, will fluctuate hither and thither.
+
+6 But if the material is heavy, the depth of the ditch, so that it may be filled; will consume much time.
+
+Impediments:
+
+1 Lest the enemy throw in a naval potitem,
+
+2, The exit is open to the defenders only through bridges,
+
+3 Winter will freeze it in cold regions.
+
+Those ditches are therefore most convenient which can be filled with water and emptied again as required.
+
+Let the munition be built in a place indeed suitable, but such where a hindering hill will be able to be an impediment in time of necessity (others desire a larger hill). But let a curtain be extended before the hill, so that it may be able to confine both angles defendentibus, for this is better, than if a propugnaculum is built incolle [?],
+
+Let the space between the vallum & [foífam?] be
+[?]
+Outside the vallum let there be another thorax [?]
+Let the depth of the ditch, if [?]
+
+Compendium of the delineation Propugnabili,
+
+1. The side of the figure AB should not be less than 480 feet : & in the largest citadel scarcely greater than 780 900 feet, suppose 680 or 460 & 680, suppose 500 600 540 600
+
+2 The line of the neck AG should neither be less than 5/24 of the side, nor greater than 5/12, the curtain 5/12.
+
+3 The ala GE should be 2/24 of the side, but in the quadrate 4/24.
+
+4 The vallum should be 14 or 16 feet high: reclining externally half the altitude, internally the altitude & a little more.
+
+5 The upper latitude of the vallum should neither be less than 10 feet nor greater than 60.
+
+6 Breastwork over the vallum, exr« 4. feet high, whose latitude is 4/24 the latitude of the Vallum. And let the [scammum?] have high 1 foot, & wide 3 pe- dcs nearly.
+
+---
+
+*This is an LLM-generated translation using Gemini. Technical terms preserved in brackets where appropriate.*
+*Generated for the GEMI Digital Archive project.*

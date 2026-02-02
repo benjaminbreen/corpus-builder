@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { getDocument, getCorpus, LANGUAGE_NAMES, TOPIC_NAMES } from '@/lib/corpus'
+import { getQuotesByDocument } from '@/lib/quotes'
 import { notFound } from 'next/navigation'
 import { TextViewer } from '@/components/TextViewer'
 
@@ -27,6 +28,7 @@ export async function generateMetadata({ params }: PageProps) {
 export default async function DocumentPage({ params }: PageProps) {
   const { id } = await params
   const doc = await getDocument(id)
+  const quotes = await getQuotesByDocument(id)
 
   if (!doc) {
     notFound()
@@ -65,7 +67,20 @@ export default async function DocumentPage({ params }: PageProps) {
           {/* Metadata panel */}
           <aside className="lg:sticky lg:top-24 lg:self-start">
             <div className="bg-paper-100 border border-paper-200 rounded-sm p-5 space-y-4">
-              <MetadataRow label="Year" value={doc.year.toString()} />
+              {doc.publication_year ? (
+                <MetadataRow label="Publication Year" value={doc.publication_year.toString()} />
+              ) : (
+                <MetadataRow label="Year" value={doc.year.toString()} />
+              )}
+              {doc.gutenberg_release_year && (
+                <MetadataRow label="Gutenberg Release" value={doc.gutenberg_release_year.toString()} />
+              )}
+              {doc.year_source && (
+                <div>
+                  <div className="meta-label mb-0.5">Year Source</div>
+                  <div className="font-sans text-sm text-ink-700">{doc.year_source}</div>
+                </div>
+              )}
               <MetadataRow label="Language" value={LANGUAGE_NAMES[doc.language_code] || doc.language_code} />
               <MetadataRow label="Topic" value={TOPIC_NAMES[doc.topic] || doc.topic} />
               <MetadataRow label="Characters" value={doc.char_count.toLocaleString()} />
@@ -90,7 +105,7 @@ export default async function DocumentPage({ params }: PageProps) {
                   rel="noopener noreferrer"
                   className="btn-secondary w-full justify-center text-sm"
                 >
-                  View on Internet Archive ↗
+                  {doc.source === 'gutenberg' ? 'View on Project Gutenberg ↗' : 'View on Internet Archive ↗'}
                 </a>
               </div>
             </div>
@@ -114,7 +129,50 @@ export default async function DocumentPage({ params }: PageProps) {
             <TextViewer
               filename={doc.filename}
               supabaseUrl={process.env.NEXT_PUBLIC_SUPABASE_URL || ''}
+              hasTranslation={doc.has_translation}
+              translationFilename={doc.translation_filename}
+              originalLanguage={doc.language}
             />
+
+            {quotes.length > 0 && (
+              <section className="mt-8 bg-paper-50 border border-paper-200 rounded-sm p-6">
+                <div className="flex items-baseline justify-between mb-4">
+                  <h3 className="text-lg">Key Quotes</h3>
+                  <Link href="/quotes" className="nav-link text-sm">
+                    Browse all →
+                  </Link>
+                </div>
+                <div className="space-y-4">
+                  {quotes.map((quote) => (
+                    <blockquote key={quote.id} className="border-l-2 border-copper-300 pl-4">
+                      <p
+                        className="font-serif text-ink-800 leading-relaxed mb-2"
+                        dangerouslySetInnerHTML={{
+                          __html: `&ldquo;${quote.text.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')}&rdquo;`,
+                        }}
+                      />
+                      <div className="flex flex-wrap items-center gap-2 text-xs text-ink-500">
+                        <span className="font-mono">{quote.year}</span>
+                        {quote.page && (
+                          <>
+                            <span className="text-ink-300">·</span>
+                            <span>p. {quote.page}</span>
+                          </>
+                        )}
+                        <span className="text-ink-300">·</span>
+                        <span className="flex flex-wrap gap-2">
+                          {quote.tags.map((tag) => (
+                            <span key={tag} className="tag">
+                              {tag}
+                            </span>
+                          ))}
+                        </span>
+                      </div>
+                    </blockquote>
+                  ))}
+                </div>
+              </section>
+            )}
           </main>
         </div>
       </section>

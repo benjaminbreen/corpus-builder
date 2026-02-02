@@ -10,15 +10,18 @@ import type { Document, CorpusStats } from './types'
 const CORPUS_INDEX_PATH = path.join(process.cwd(), 'public', 'data', 'corpus-index.json')
 
 let cachedCorpus: Document[] | null = null
+let cachedCorpusMtimeMs: number | null = null
 
 export async function getCorpus(): Promise<Document[]> {
-  if (cachedCorpus) {
-    return cachedCorpus
-  }
-
   try {
+    const stat = await fs.stat(CORPUS_INDEX_PATH)
+    if (cachedCorpus && cachedCorpusMtimeMs === stat.mtimeMs) {
+      return cachedCorpus
+    }
+
     const data = await fs.readFile(CORPUS_INDEX_PATH, 'utf-8')
     cachedCorpus = JSON.parse(data)
+    cachedCorpusMtimeMs = stat.mtimeMs
     return cachedCorpus!
   } catch (error) {
     // Return empty array if corpus index doesn't exist yet
@@ -145,4 +148,3 @@ export async function getAllLanguages(): Promise<string[]> {
   const languages = [...new Set(corpus.map((d) => d.language_code))]
   return languages.filter(Boolean).sort()
 }
-

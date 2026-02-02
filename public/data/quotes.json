@@ -1,0 +1,123 @@
+[
+  {
+    "id": "cooke-ancient-mystery",
+    "doc_id": "gutenberg_55817",
+    "source_title": "Automata Old and New",
+    "year": 1891,
+    "language_code": "en",
+    "topic": "thinking_machines",
+    "page": "14",
+    "tags": ["Ancient World", "Mechanical Philosophy", "Priestly Power"],
+    "text": "As mechanics, next to mathematics and astronomy, is the most ancient of sciences, and as the scientific knowledge of the ancients was ever shrouded in mystery to conceal it from the eyes of the vulgar, and to confer upon the initiated power and profit by working on the credulity of the ignorant, it was but only to be expected that mechanical science should be early applied in the ancient mysteries by which the philosophers and the priests of antiquity maintained so much of their supremacy."
+  },
+  {
+    "id": "cooke-archytas-pigeon",
+    "doc_id": "gutenberg_55817",
+    "source_title": "Automata Old and New",
+    "year": 1891,
+    "language_code": "en",
+    "topic": "thinking_machines",
+    "page": "16–17",
+    "tags": ["Ancient World", "Automata", "Flight"],
+    "text": "Archytas is said to have constructed of wood a pigeon that could fly about, but which could not rise again after it had settled. In an apparatus \"so nicely balanced by weights and put in motion by hidden and inclosed air,\" we have a very fair forecast of the modern aerostat or balloon, filled with gas and balanced by ballast."
+  },
+  {
+    "id": "cooke-albertus-magnus",
+    "doc_id": "gutenberg_55817",
+    "source_title": "Automata Old and New",
+    "year": 1891,
+    "language_code": "en",
+    "topic": "thinking_machines",
+    "page": "39",
+    "tags": ["Medieval Science", "Speaking Automata", "Theology & Magic"],
+    "text": "Albertus Magnus, who flourished in the thirteenth century, spent, according to his own account, thirty years in the construction of an automaton of clay which not only spoke but walked and answered questions and solved problems submitted to it. It is recorded that his pupil, the celebrated St. Thomas Aquinas was so horrified when he saw and heard this figure that (believing it to be the work of his Satanic Majesty), he broke it into pieces, when Albertus cried aloud: \"Sic periit opus triginta annorum.\""
+  },
+  {
+    "id": "cooke-descartes-francine",
+    "doc_id": "gutenberg_55817",
+    "source_title": "Automata Old and New",
+    "year": 1891,
+    "language_code": "en",
+    "topic": "thinking_machines",
+    "page": "50–51",
+    "tags": ["Philosophy of Mind", "Animal Automatism", "Cartesianism"],
+    "text": "The great philosopher Descartes formed the theory that all animals are merely automata of a high degree of perfection, and, to prove his notion, he is said to have constructed an automaton in the form of a young girl to which he gave the name of \"Ma fille Francine.\" This figure came unhappily to a watery grave, for during a voyage by sea the captain of the vessel in which it was travelling had the curiosity to open the case in which Francine was packed and, in his astonishment at the movements of the automaton, which were so wonderfully natural, he threw the whole thing overboard, believing it to be the work of the devil."
+  },
+  {
+    "id": "cooke-vaucanson-flute",
+    "doc_id": "gutenberg_55817",
+    "source_title": "Automata Old and New",
+    "year": 1891,
+    "language_code": "en",
+    "topic": "thinking_machines",
+    "page": "52–53",
+    "tags": ["Musical Automata", "Physiological Simulation", "Precision Engineering"],
+    "text": "It was capable of performing twelve pieces of music on a German flute, the instrument being really played as a man would play it by blowing across the embouchure and projecting the air with variable force by movable lips, which imitated in their action those of a living player, employing a tongue to regulate the opening, and producing the notes by the tips of the fingers closing or opening the holes. The mechanical devices in this automaton are so beautiful and so scientifically thought out, that I am only sorry that time will not permit me to describe them in detail."
+  },
+  {
+    "id": "cooke-duck-debunked",
+    "doc_id": "gutenberg_55817",
+    "source_title": "Automata Old and New",
+    "year": 1891,
+    "language_code": "en",
+    "topic": "thinking_machines",
+    "page": "59",
+    "tags": ["Fraud & Debunking", "Physiological Simulation", "Automata"],
+    "text": "Robert-Houdin took advantage of this opportunity for examining the so-called digestive system of the automaton. \"L'evacuation etait chose preparee a l'avance; une espece de bouillie, composee de mie de pain coloree de vert, etait poussee par un coup de pompe et soigneusement recue, sur un plateau en argent, comme produit d'une digestion artificielle,\" so that, after all, this wonderful digestion of Vaucanson's duck was nothing more than a clever trick."
+  },
+  {
+    "id": "obs-paradox-reasoning",
+    "doc_id": "gutenberg_60420",
+    "source_title": "Observations on the Automaton Chess Player",
+    "year": 1819,
+    "language_code": "en",
+    "topic": "thinking_machines",
+    "page": "Preface, 7-8",
+    "tags": ["Mechanical Intelligence", "Reasoning", "Chess", "Complexity"],
+    "text": "Notwithstanding, however, the superior ingenuity of modern artists, in mechanics, which these scientific inventions discover, it seems to be a thing absolutely impossible, that any piece of mechanism should be invented, which, possessing perfect mechanical motion, should appear to exert the intelligence of a **reasoning agent**. This seeming impossibility is surmounted in the construction of the Automaton Chess Player... the **variety of combinations** amongst the pieces which a game of Chess presents; the constant exercise of **acute judgment** required in anticipating the designs of an antagonist."
+  },
+  {
+    "id": "obs-simulated-emotion",
+    "doc_id": "gutenberg_60420",
+    "source_title": "Observations on the Automaton Chess Player",
+    "year": 1819,
+    "language_code": "en",
+    "topic": "thinking_machines",
+    "page": "21-22",
+    "tags": ["Human Simulation", "Error Handling", "Agency", "Chess"],
+    "text": "When a false move is made by its antagonist... the Automaton **taps impatiently** on the chest, with its right hand, replaces the Knight on its former square, and not permitting its antagonist to recover his move, proceeds immediately to move one of its own pieces: thus appearing to **punish** him for his inattention."
+  },
+  {
+    "id": "obs-motor-mind-split",
+    "doc_id": "gutenberg_60420",
+    "source_title": "Observations on the Automaton Chess Player",
+    "year": 1819,
+    "language_code": "en",
+    "topic": "thinking_machines",
+    "page": "25-26",
+    "tags": ["Control vs Actuation", "Reasoning Faculty", "Mechanical Mystery"],
+    "text": "The causes sought for appear to be two, which are distinct from each other -- a **moving force** from which the left arm and hand of the Automaton derive the action... and a **directing force**, by which the same arm and hand... are guided on this side or that, according to circumstances... each of which requires the **exertion of the reasoning faculty**."
+  },
+  {
+    "id": "obs-hidden-human-refuted",
+    "doc_id": "gutenberg_60420",
+    "source_title": "Observations on the Automaton Chess Player",
+    "year": 1819,
+    "language_code": "en",
+    "topic": "thinking_machines",
+    "page": "27-28",
+    "tags": ["Hidden Human", "Transparency", "Mechanism", "Fraud Detection"],
+    "text": "The most obvious solution... may be drawn from the hypothesis, that a **living subject is enclosed** within the left or larger chamber... It is sufficient, however, in order to refute this hypothesis, to repeat... that the exhibiter is willing to lay open for the examination of every spectator its **entire construction internally**, so as to satisfy the most incredulous person, that no concealment whatsoever of a living subject can take place."
+  },
+  {
+    "id": "obs-human-agent-counterpart",
+    "doc_id": "gutenberg_60420",
+    "source_title": "Observations on the Automaton Chess Player",
+    "year": 1819,
+    "language_code": "en",
+    "topic": "thinking_machines",
+    "page": "29-31",
+    "tags": ["Human Agent", "Artificial Reasoning", "Biomechanics"],
+    "text": "With respect to the nature of this directing force, there can be only one reasonable opinion, that it must proceed from the immediate direction of **some human agent**... To construct an arm and hand capable of performing the ordinary functions of those parts, would be of itself sufficient to secure the reputation of an artist; but to make the same arm and hand almost **counterparts of living members in a reasoning agent**, displays a power of invention as bold and original, as any that has ever been exhibited to the world."
+  }
+]

@@ -582,7 +582,15 @@ def get_ocr_text_url(identifier: str) -> Optional[str]:
         item = ia.get_item(identifier)
         files = list(item.get_files())
 
-        # Prefer DjVu text, then plain text
+        # Prefer higher-quality OCR derivatives when available
+        for f in files:
+            if f.name.endswith('_abbyy.gz'):
+                return f"https://archive.org/download/{identifier}/{f.name}"
+
+        for f in files:
+            if f.name.endswith('_hocr.html') or f.name.endswith('_hocr.htm'):
+                return f"https://archive.org/download/{identifier}/{f.name}"
+
         for f in files:
             if f.name.endswith('_djvu.txt'):
                 return f"https://archive.org/download/{identifier}/{f.name}"

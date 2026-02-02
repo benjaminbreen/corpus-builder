@@ -57,7 +57,7 @@ export function Timeline({ data, startYear = 1600, endYear = 2000 }: TimelinePro
                 key={decade}
                 href={hasDocuments ? `/decade/${decade}` : '#'}
                 className={`
-                  flex-1 relative group transition-all duration-150
+                  flex-1 h-full relative group transition-all duration-150
                   ${hasDocuments ? 'cursor-pointer' : 'cursor-default'}
                 `}
                 title={hasDocuments ? `${decade}s: ${count} documents` : `${decade}s: No documents`}

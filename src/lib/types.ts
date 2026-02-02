@@ -8,6 +8,9 @@ export interface Document {
   identifier: string
   title: string
   year: number
+  publication_year?: number
+  gutenberg_release_year?: number
+  year_source?: string
   date?: string
   creator?: string
   description?: string | string[]
@@ -23,6 +26,10 @@ export interface Document {
   local_path?: string
   storage_url?: string
   filename?: string
+  source?: string
+  // Translation support
+  has_translation?: boolean
+  translation_filename?: string
 }
 
 export interface CorpusStats {
@@ -37,6 +44,18 @@ export interface CorpusStats {
   byTopic: Record<string, number>
   byLanguage: Record<string, number>
   recentDocuments: Document[]
+}
+
+export interface Quote {
+  id: string
+  doc_id: string
+  text: string
+  tags: string[]
+  year: number
+  language_code: string
+  topic: string
+  page?: string
+  source_title?: string
 }
 
 // Language code to full name mapping

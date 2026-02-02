@@ -5,17 +5,17 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "build:search": "npx pagefind --site .next --output-path public/_pagefind",
+    "build:search": "npx pagefind --site public/texts --output-path public/_pagefind",
     "build:full": "npm run build && npm run build:search",
     "start": "next start",
     "lint": "next lint",
     "export": "python3 scripts/export_for_web.py"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
     "next": "^14.2.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "@supabase/supabase-js": "^2.39.0"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/node": "^20.11.0",
@@ -24,7 +24,7 @@
     "autoprefixer": "^10.4.17",
     "eslint": "^8.56.0",
     "eslint-config-next": "^14.2.0",
-    "pagefind": "^1.0.4",
+    "pagefind": "^1.4.0",
     "postcss": "^8.4.33",
     "tailwindcss": "^3.4.1",
     "typescript": "^5.3.0"

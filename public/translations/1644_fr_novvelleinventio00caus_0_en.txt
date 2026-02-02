@@ -1,0 +1,573 @@
+# Novvelle invention de lever l'eav plvs havlt que sa source : auec quelques machines mouantes par le moyen de l'eau et vn discours de la conduite d'ycelle
+## By Caus, Isaac de, 1590-1648 (1644)
+### LLM-generated translation from French
+
+---
+
+LIBRARIE ALAIN BRIEUX
+
+48, rue Jacob . 75006 PARIS
+Tel. 260.21.98
+
+Case N°
+
+[noise]
+
+NEW
+INVENTION
+TO
+RAISE WATER ABOVE ITS SOURCE
+with some fine mechanisms
+suitable for the means of Levers,
+and a discourse on the behavior
+of the same
+
+BY
+I-SAAC DE CAUS
+Engineer and Architect
+
+Printed in London, 1644
+
+Digitized by the Internet Archive
+in 2019 with funding from
+
+Getty Research Institute
+
+PREFACE.
+
+Inasmuch as raising water higher than its source (the principal aim of this work) seems to oppose the common opinion received at all times, I believed it would not suffice to only teach the construction of the Machine for this purpose; but also (for more complete satisfaction) to preface certain propositions serving as principles, as much to make known the effect of this movement by its cause as to render the path more accessible to other pneumatic inventions.
+
+To which end, it shall first be considered that all Elements, be they simple or composite, have two principal movements: Natural and Accidental.
+
+The Natural one is that by which each element seeks and draws itself from itself toward the place assigned to it by divine providence in creation; the Accidental one is that which moves it by some external power otherwise than the first. And although many things seem to move against their order, even without external agitation, yet this contrary movement is caused for avoiding some accident greater than this one. As, for example, it will be shown that water rises against its ordinary course to avoid a vacuum, which is more repugnant to nature than the contrary movement of this element. This will be seen by the principal propositions that serve as a base to this invention, which are founded on the natural principle that there cannot be a void in the
+
+A sphere
+
+(2)
+
+elementary sphere, of which the earth and water occupy the lower part, and fire and air (which surround them) the upper part, and each of these is called heavy or light, according as it naturally approaches or distances itself from the center. Now in these four it will be necessary to have regard as much to certain things to which air and water are susceptible, as to those whose accident they cannot suffer, like water, which, although it can swell by an intermixture of air, or attenuate and convert into air by means of the heat that can resolve it, nevertheless cannot be pressed; that is to say, a certain quantity of water cannot by compression be made to occupy less space than its natural extent. And air, on the contrary, can be restricted and restrained, remaining pressed or rarefied and extended, being agitated beyond the other accidents to which it is capable.
+
+Which things will be demonstrated hereafter by propositions founded on experience, which I believed more suitable to this purpose than to envelop the reader in a labyrinth of geometric propositions which (although very exact) are not so suitable for giving instruction in this subject; as for example if one relies on that rule of Archimedes, that the surface of every liquid is spherical (when it is not agitated), which surface has for its center that of the universal earth, it will result in a subjection that it will be necessary to keep in the demonstrations of the circular surface of water, which in a similar case to what is in question, is esteemed straight by everyone, and this because the difference is imperceptible and also because it cannot cause default in any operation whatsoever: license (therefore) which is not permitted in Mathematics; This therefore with other reasons made me omit such demonstrations which seemed to me too meticulous, and it will be noted also that speaking of water I take it for equally heavy without making any difference, although in case of need one should have regard notably if the difference is encountered such as in the water of certain rivers of which Pliny speaks, in which everything that is thrown cannot go to the bottom, as in the water of Lake Asphaltite
+
+(3)
+
+and in the water of Arethusa which comes to render itself towards Syracuse, and this because of their extreme heaviness, which sends back heavy things to the top, as quicksilver does with metals, which do not sink in it (although liquid) inasmuch as it is heavier, and in this one could bring an observation that metals and heavy solids sink in water according to the figure they have. For in ordinary water, even silver and even gold will not sink if it is beaten into very thin sheets or leaves, but if it is gathered into a more restrained form it will flow immediately to the bottom; And of this and similar things I will treat in a commentary on the books of Archimedes on weights and things falling in liquid.
+
+(4)
+
+THEORETICAL
+ON THE
+CONDUCTION OF WATERS.
+
+PROPOSITION I.
+
+Air can be pressed, and water cannot.
+
+To give an example of this:
+
+If there are two vessels A and B, of the same form, material, and size, which are full of water, it is very certain that in neither of these vessels can the water be pressed, so that they can contain the least part more than the other; but if they are full of air only, I say that said air can be pressed. And one of these vessels can contain more than the other, which will be demonstrated thus: let the said vessels A and B be well closed and sealed on all sides except that at the bottom of vessel B. there is a small hole E to seal the pipe E D, of which the other end D will be sealed to the upper part of vessel C, which will also be well sealed on all sides and of the size of one third of B or thereabouts, and to make the water enter with force, it will be necessary to seal the pipe F near the bottom, which will be conducted as high as possible to give all the more violence to the water, which entering into the small vessel C, will make the air rise which is in the
+
+vessel
+
+CONDUCTION OF WATERS.
+
+vessel B. which will contain more air than A by the quantity that should be in C and thus will the vessel B. be pressed. And this will be seen if one makes a small hole in said vessel through which said air will exit with vehemence, but if one pierce A, such effect will not be seen at all because the air is not pressed. Now it must be noted that although air is pressed it is only up to a certain degree which is about one third: and for proof. If the vessel C were as large as B, it would be impossible for the said vessel to be filled with water, but would burst rather. And this because B is not capable of containing so much air, so it is held that air can be pressed in a closed vessel, up to a certain degree; there is another way to put the water with violence in the small vessel by the means of a syringe as the second figure shows.
+
+PROPOSITION 2.
+
+Water cannot enter a Vessel unless it contains as much air if this water is not put in by force.
+
+To demonstrate this let the vessel A and let there be a pipe X sealed to the lid of it, & almost touching the bottom of the vessel, & at the outside end of the said pipe is the small vessel D, if therefore one pours water into the said vessel it will enter A until it reaches the height V which is the end of the pipe. And then the air remaining enclosed in A, will cause the water which is in O, not to be able to enter. But it must be noted in this rule that if the water were put in the said vessel A with violence, that it could be filled up to a third or so, & the said violence would be done if the pipe X were very long, or that one put the water in it with the Syringe as it was said, & as it is seen in the second figure.
+
+Corollary.
+
+It will follow by contrary reason that if a vessel is full of water, it cannot be emptied unless air enters it, as let there be the vessel or vial D which is full of water let it be reversed so that the mouth or neck touches the water that will be put in a vase, it is certain that although the mouth of the said vial is at the bottom, no water will come out of it because air cannot enter to hold the place of the exiting water.
+
+PROPOSITION 4.
+
+There can be no Vacuum.
+
+From the above proposition, the proof of which can be gathered in the preceding corollary & diverse other examples, of which here is one. if
+
+there is a copper pipe B, of which the Mouth C is in the water, & the other end D is open so that the piston A is put there which will be similar to those that one uses for the pumps & water forces, & that the said A be well surrounded by leather so that putting water in E, it cannot flow into B. Then if A is raised to point F, the water X which is at the level of C will rise in B to occupy as much space as there is between A and F, thus the water will rise higher than its level to not leave a void in B.
+
+PROPOSITION 5.
+
+If by preceding means, you put water in a vessel where there is water, & that by some pipe, this water is raised with violence.
+
+If the air is pressed in the vessel X either by the means of a Syringe or of a pipe as it has been said before it is certain that when the water has a passage, it will exit with much more force than if it exited from an open vessel like B.
+
+PROPOSITION 6.
+
+If water descends with violence into two equal Vessels, more water will enter the one into which it falls coming from the higher place, & the air will be more pressed in it, there will be between the quantity of water contained in them, the same reason or proportion as one to the other of the two heights from which the water is descended.
+
+Let the two vessels B & C be, into which the water
+
+descends with violence through the pipes M & N, of which N being the longest, it will follow that more water will enter the vessel C than in B, & there will be that reason of the water in C to the water in B, that there is of the length of the pipe N to the pipe M, & it will follow also that in the vessel C, where there is more water that the air will be more pressed than in B, & one can see the effect through the small pipes P & X, of which P will throw the water higher, inasmuch as the air is more pressed in it, one can by similar reason as above, proportion the air of the two vessels to the heights of the water exiting through the small pipes X, which must be equal.
+
+PROPOSITION 7.
+
+Every heavy body is heavier in Air than in Water.
+
+Although every heavy body always has its own heaviness in itself, it is also considered differently according to the places where they are placed, as it is certain that wood weighs nothing in water, inasmuch as it does not descend towards the center of the earth, which is proper to every heavy thing. But if it is in air, it will fall towards its center with gravity, wherefore one can say it is heavier in air than in water: And thus one can say of every body even though it is heavier than water, for although in water it falls towards its center of gravity, it is not with so much speed. There is no need to show here by what quantity said heavy thing is heavier in air than in water, referring the curious to the book of Archimedes on things falling in liquid, where it is demonstrated that heavy things weigh more in air than in water by the quantity of water that is equal to them.
+
+Corollary.
+
+One can note here that water is of diverse weight, & it is said that in the territory of Cara in Spain, there are two fountains in one of which things that are put sink to the bottom, which being put in the other float above. One says the same thing of the Lake of Sodom, & of the Arethusa fountain. Which effect comes from the heaviness of the water, & from which one can infer that the same thing weighs more in water that is lighter than in that which is heavier.
+
+PROPOSITION 8.
+
+Everything weighs upon what supports it, according to its height.
+
+I have given this example inasmuch as on this subject several have been mistaken who have thought to raise water, & not considering its heaviness when they have esteemed it elevated very high. What is therefore understood by this proposition is that the valve C being at the end of the pipe M, to support the water which is in the said pipe, the water will weigh upon it according to how high it is in the pipe, as for
+
+example let us suppose that the water is put up to the place D. And that it weighs 20 pounds, if one fills the said pipe up to T, which is again as much, it will weigh 40. & if one doubles it again it will weigh 80. And according to the more or less of height that the water will have in the pipe M, it will press more difficultly or easily to raise, which it is necessary to consider, when one wants to raise the water very high, to the end of proportioning the thickness of the pipes to their height so that the water which is in them is not too heavy for the acting force, it must also be noted that in the Cisterns the force of the water must not be taken from the bottom where the pipe is sealed, but from the surface of the water which is in them as it is seen in the cisterns A.B, therefore the water of B, has more force, because it is higher than A although the pipes are of equal thickness & length.
+
+CONDUCTION OF WATERS.
+
+PROPOSITION 9.
+
+Water naturally rises to the level of the place from which it departs.
+
+This Proposition is very intelligible
+which means, if there is a Source B,
+from which the water enters the reservoir
+C, if there is a pipe D led directly
+or obliquely, the water will rise there up to
+E, which is the level, or height of the top
+of the vessel C, that if said vessel was not
+full except up to point F, the water would not
+rise through D, except to point G level,
+of the said F. And although the pipe exiting from the vessel C was not led so high, if the ex-
+tremity of the pipe through which the water exits is small & the pipe is thick, it will rise up to
+its level,* but as the ends through which said water exits are thick, the water is weakening
+in its height, this is seen in the figure by the small pipes X.Z.P.
+
+PROPOSITION 10.
+
+A curved pipe through which water is drawn.
+
+This pipe is in use in some places, And has been treated by Heron Alexan-
+drinus, But it was not necessary to omit it, inasmuch as it will sometimes fall into use
+for our subject, & also to make the reason for it understood, this pipe therefore is
+called by some a siphon. And in this the end that is put outside the vessel is longer
+than the other; And if one sucks the air that is in the said pipe
+then when it will begin to flow it will not cease until it
+has emptied the vessel up to the height of the other end;
+
+And what may seem strange in the effect of said Siphon, is
+that the water rises higher through the said pipe than the top of the
+vessel, of which the reason will be given thus, let the vessel be B.
+And let the Siphon be CVX. And let the Top of it be V, &
+the end VX longer than VC, When one will have sucked through the
+end V the air which is in it, the water of vessel B will enter to
+occupy its place, now being full, the water contained from V up
+to X, being heavier than that from V, up to
+C, which will make it flow towards M, but as this water cannot exit the pipe without
+something entering to occupy its place, & the air not being able to enter through any
+place the water of vessel B, will rise to the point where it comes to empty at
+the height of C, at which point the air entering will stop the course.
+
+PROPOSITION 11.
+
+Another species of Siphon, & how one can suck water through the means of another
+manner.
+
+One can make diverse manners of Siphons, but here is one that seems the most
+different which notwithstanding is based on the same reason as the preceding. Let the
+Vessel B & let the pipe DC be sealed at the bottom passing through* then let a
+piece
+
+CONDUCTION OF WATERS.
+
+piece of pipe AXZ be put around it. And let the
+end X be closed, & sealed so that water cannot
+enter except through A Z, now AZ must
+not touch the bottom, this is why the pipe AXZ will
+be attached to the pipe D by two small tenons M
+& N. And it must be noted that said pipe AXZ
+must be made of such thickness that the water conte-
+ned between it, & the pipe D, be equal to the water
+which is in D, which being done one can
+suck the water through D, & it will be the same effect as the
+preceding, but if one or the other of these siphons
+contained so much air that it cannot be drawn by
+the suction, it will be made in a vessel P, well closed &
+sealed on all sides, And there will be an end F to
+fit with D, which vessel full of water. And join F & D together without having
+air, then when one turns the faucet R, the water which exits the vessel P will draw the air of the
+siphon, & will give it course.
+
+PROPOSITION 12.
+
+Water flows equally by means of the Siphon if the end through which the water rises in said
+siphon touches only the surface of the water of the Vessel*
+
+Because in the preceding pipes, the water
+does not flow equally but is much more
+slow at the end than at the beginning it will be seen in
+this example how it can flow equally,
+which is that if at the end A of the pipe AC. a
+small vessel of some material whatever is put
+provided that it can float on the water And across
+it let the pipe AC pass through the end, A
+so that the end touches the surface of the water,
+it is certain that the end C will flow equally
+which is not done in the other siphons which
+always flow faster at the beginning
+than at the end.
+
+PROPOSITION 13.
+
+The more the acting force is distanced from the center of the agitated, the more it has force.
+
+The agitated force is understood by a tree or axis marked by DAM, with the
+
+wheel XO. r . r .
+
+The acting force is represented by the three wheels marked BF.CV.& 8. these
+are of diverse sizes this is to say BF of two feet, CV of
+four feet, & the largest of eight feet; I say that if each of these wheels
+is turned solely & apart by an equal or same force, (either by hand or by
+counterweight) that the same weight or force applied to the largest wheel marked
+8. will move the tree DAM, & wheel XO. twice more powerfully than if the same
+weight or force were applied to the wheel CV. (and similarly to
+
+BF.) And this inasmuch as the circumference of the wheel marked 8. is more distanced from the
+center of the tree than the wheel CV, & CV more distanced than BF, This is why it
+will be concluded that the more the acting force is distanced from the center of the agitated, the more
+it will have force.
+
+From this results, the reason for the lever, which has more force when it is moved from
+the place the most distanced from the burden.
+
+And from this partly depends the reason of the tree of the screw press which is a
+machine of very great effect.
+
+PROPOSITION 14.
+
+If a wheel to the axle of which there is some weight, is turned by diverse pinions, the pinion the most
+small will be capable of making more weight move, But it will not make the wheel turn so fast, &
+there will be that reason or proportion of the quantity of the weights to the other, that the difference of the number of teeth of the said pinions, the times of elevation of the heavy things will also have the same
+proportion to one another.
+
+Let there be the toothed wheel A of which the number of teeth is 100, if this wheel is
+moved by diverse pinions. And that a same force agitates them, the pinions of which the
+number of teeth will be less will give more force to the Wheel to raise
+some burden. But the said wheel will turn more slowly as it has been said; And here
+is the example, if the Wheel A is turned by the pinion C of ten teeth. And that it
+is capable of raising a weight of 200. And that instead of the pinion of 10 teeth, it (bit
+turned by one of 5 then this one will have the force to raise 400. but as the weight is dou-
+ble in heaviness to the first, also it will take once as much time to mount, because
+the pinion being 10, & the wheel 100, it will only be necessary to turn the said pinion 10
+times to make the entire turn or revolution of the wheel, but for the pinion of 5 it will be necessary
+that it makes 20 turns before turning it inasmuch as the number 5 is contained 20
+times in the number 100, And thus as the pinion C is double the pinion F, the weight
+
+CONDUCTION OF WATERS.
+A.
+
+raised by F will be double the weight raised by C. And the time of elevation will also be
+double.
+
+PROPOSITION 15.
+
+If two Wheels are equal in form & material, & that at the Axes of them, there are weights unequ-
+al, they cannot be agitated by a same force in a same time,
+
+This proposition in some way results from the preceding as it will be seen in the
+demonstration, Let the two equal wheels D & F be of 96 teeth. And that at the axe
+is a weight of 500. And in B one of 400, And let it be posed that the pinion T, of 8
+teeth moves the said weight by the means of the force of a man, it is certain that if
+one puts in the wheel F, an equal pinion of T, that the same man, or the same force
+which used to be sufficient to turn T, will not suffice to turn a pinion
+
+12 THEORETICAL OF THE
+
+equal to it in the wheel F, because of the weight, V, which is stronger than M, if therefore one wants
+to make the said weight, V move by the same force, it will be necessary to put in the wheel F, a
+pinion that has that proportion to T, as the weight M has to the weight V, now the
+pinion T being of 8, it will be necessary to make the pinion X of 6, inasmuch as there is the same reason
+from 8 to 6, as from 400, to 300, And the said pinion X of 6 teeth being agitated by the force
+above said the weight V will be moved, but not in a same time, because it
+only needs 12 turns of T, to make D turn. And it takes 16 turns of X, to make
+F turn.
+
+Proposition 16.
+
+If two unequal weights are put at the extremities of a Verge, & that this is suspended
+in a point which divides it into two parts having the one to the other the same reason, in length that
+these heavy things have in weight, these heavy things although unequal will be balanced, if the most
+light is put at the end of the longest side of the Verge.
+
+Let the unequal heavy things O & E be, & let
+D be 15. pounds, & E 6. I say that being
+at the end of the verge AB, if this is
+suspended at a point like C, And that the
+part AC, has that reason to CB, as the
+weight E to the weight D, this D being at the end
+the shortest of the line, will not weigh any
+more than E, which is at the longest end because
+the weight renders itself heavier in proportion as it distances itself from the point
+which suspends the verge, Now this verge being of 7 parts it will be divided so that
+one side has 5 & the other 2, which will be the same reason of the weights 15 & 6. because 6 is
+the two fifths of 15, as 2 is of 5, that if the difference of the weights, D
+& E was larger, or smaller, they will always be balanced if the verge is
+suspended at a point that separates it as it has been said; And one can see some
+examples in the following figures P of which the differences are other than those here.
+
+Corollary.
+
+It will follow
+from this that
+two equal heavy
+things will not be
+of a same weight if
+they are put
+at the ends of a
+verge suspended
+in unequal parts. And it must be noted that even though the two sides of the verge were
+balanced if they are not of equal length the equal weights will weigh differently,
+as for example if the verge AB is suspended at C, so that CB is
+longer than AC, by a fourth part. And that nevertheless AC, And CB are e-
+qualized because the end AC is thicker than the end CB, notwithstanding that
+the equal heavy things D & F, being put at the extremities, F will weigh a fourth part more
+which is the difference of BC. to AC.
+
+Prof,
+
+CONDUCTION OF WATERS.
+
+PROPOSITION 17.
+
+The means of closing & opening the Faucets by the means of the water, in the Machine pneumati-
+que.
+
+In the construction of the pneumatic Machine which makes the water rise higher
+than the Source. It will be necessary to have a Vessel which (by the means of the water)
+rises & descends to make the Faucets turn, this is why I have put here
+some examples, of which one can choose the most suitable as much for that
+Machine as for others.
+
+Let there be therefore in first place the Faucet A, which must be turned by the means of a
+vessel, it will be necessary first to put there a key KE, which will have two branches B
+& D, which will be long according as the said Faucet will be hard to turn as it can
+be gathered from Proposition 13. And at the ends of the two branches B & D, there will be 2 chains
+or cords, to one of which there will be the weight L, & to the other the vessel M, now it is
+necessary that this weight L be heavier than the vessel M, when it is empty,
+but when the said vessel M is full, it must be more heavy than the weight L,
+to the end of making the faucet turn from one side & the other, now here is the effect of the vessel in which
+there will be the siphon, which will be a little lower than the top of the vessel • And said Si-
+phon will be thicker than the pipe which gives the water to the vessel, when M will be empty, the
+weight L will make the Faucet turn towards itself, but as the pipe H, will have filled M,
+then said M weighing more than the weight L will bring the Faucet back towards itself , And then the
+siphon beginning to flow rendering M lighter than the weight L, & thus the robu-
+net will be returned.
+
+One can also make another vessel like F. And let it be suspended inside the
+handle so that it is mobile by the means of two pivots , And that it can reverse, &
+pour out the water when it will be full 5 And to do this it will not be necessary that these pivots
+are opposed diametrically, but more from one side than from the anchor, now because the said
+vessel being empty would reverse by itself, it will be necessary to put at the side the least
+heavy the small counterweight £, to render it equalized, this being done if there is a weight
+as it has been said in the preceding Proposition which is heavier than F, this
+vessel F, will be on high when it will be empty, but as it will come to fill at the
+half being heavier than D the said vessel will descend towards F. And being all
+full it will overbalance towards X, which will empty it all, & rendering it again lighter
+
+D than
+
+14 THEORETICAL OF THE
+
+than the weight • it will go back up to its first place, where it will be until it is refilled to
+descend. the reason for its overbalancing can be collected from the corollary of Proposition 16.
+There is also made another manner of vessel for the same effect as the prece-
+dents as you see in the figure SZX.
+
+PROPOSITION 18.
+
+ON THE VALVE OR SOVSTI^ALL.
+
+It will also be necessary for the understanding of the fol-
+lowing Machine to make a demonstration of the
+Copper Valve which opens at intervals
+to the end that through it air enters into the vessels below, & it closes itself except when the said vessels will be full, to the end that water does not exit through it. Which
+Valve will be figured thus let H I K L be a small
+lead box of one and a half inches in Diameter,
+or thereabouts, & of ~ inches long, & that it be
+very well sealed. Inside this box is the valve
+GDCE made in this fashion. GD is a small
+copper pipe around ~ of an inch. And towards the end D, there
+are two small posts F which suspend the tongue
+
+or copper valve C, which lowers on the hole D, to block it when it is
+necessary, there is also at the box HIKL, a small pipe XM, of which the bottom end is
+sealed to the pipe OC, Now to see the effect of said valve. let us pose that there are at the
+pipe CO, two pipes, one to empty it, & the other to fill it. And let the pipe
+X be blocked, which is the one that fills the said vessel, And let B be open then the water which
+exits the vessel will suck the air through the small pipe DG, & will make the copper tongue
+C rise, & B being blocked, it will close itself* And when the water comes to fill the vessels
+CO, & H KL said water pushing the valve against the end D, no
+water will exit.
+
+Proposition 19.
+Of the four-water Faucet.
+
+This following figure is put to show
+more distinctly the fashion of the fo-
+binet D, of which the barrel or fitting
+is pierced in 4 places, To the end that the key
+C, turning from side, & from the other at the time re-
+quired makes the water flow sometimes through E,
+
+& sometimes through F, And that one of these two
+F or E will flow, when the hole of the key
+C will agree with its own, it is also seen by
+the means of the vessel M, how the Faucet
+Jfi closes itself, when one of the pipes s op-
+ens when the said pipe will close itself to
+make the other run, Then the Faucet s will op-
+en again by the means of the counterweights
+G L. And of the pulleys K, as it is seen in
+the figure.
+
+DE-
+
+CONDUCTION OF WATERS.
+
+15
+
+DESCRIPTION OF THE MACHINE BY WHICH
+Part of the water is raised higher than its Source.
+
+To come to the manufacture of this Machine, let there first be made 4 pipes of
+copper, or of lead of sufficient thickness to bear the effort of the water & of the air, And
+let these be of the thickness of 6 inches in Diameter, & of the length of 6 or 7 feet,
+marked by A, & that at the end of these be sealed at the bottom small pipes E, to
+make the water communicate from one to the other, plus let there be sealed 4 small pipes F,
+at the top of the pipes A, to the end that the air communicates from one to the other, plus let there be sealed
+4 small pipes marked 3, which will be those through which the water will rise - And let them be
+
+4
+
+sealed
+
+16 THEORETICAL OF THE
+
+sealed across the top of the thick pipes, & the end entering inside almost up to
+the bottom plus let there be made four other thick pipes similar to the first, which
+will be placed so much lower as one wants to raise the water higher than the source,
+and in these let the small pipes D be sealed, to the end that the air enters there, when the water
+will enter into the pipes C, And for this end let them be sealed at the top that there also be 4 pipes I communicating all the water into the pipe GH, & that at the bottom of this be sealed
+the faucet L, & above, & at the top let the valve K be sealed, made as it is
+described above in Proposition 18, & let the pipes D & F be rendered common by a single pipe, plus let there be made in a small vessel S which has the sides around
+the height of a foot, & that on the bottom of this be sealed by the bottom of the fitting
+the Faucet N, to which Faucet there will be the pipes O & P, which P will go up to near
+the bottom of one of the pipes A;& O will be led up to near the bottom of the pipes
+C. Also at the top of the vessel S let there be the small pipe V, to give the water into the vessel-
+seau Y when it will be needed, & that this vessel Y be of copper having a small
+small hole at the bottom when it comes to its movement it has been shown in the preceding examples,
+
+It will also be necessary a counterweight. M, so that when the vessel Y will be empty it will bring back
+by its weight as much the vessel as the faucets into their place by the means of the chai-
+nettes & pulleys X. There will also be at the end of the pipes marked ?, a vessel mar-
+
+/ , to receive the water which at intervals will be put there by the said pipes, & to
+render it by the pipe 7. which will run continually being this equal in thickness to two
+
+of the small pipes marked 5, which will raise the water higher than the source by as
+much height as one wants provided that one has the place to put the pipes C far
+down Inasmuch as the more the pipes A & C are distanced, & the more the water will rise high
+in the vessel 4. This is what comes to the manufacture, & disposition of the pipes we will come now to the effect Let the height of the source be T, & that the water enters into the vessel S & that the pipe P be open. Then the vessels A will fill, &
+
+when they will be full, the water will begin to flow through the small pipe V into the vessel Y which coming to fill, (& to render more heavy than the weight M,) will descend towards R & will block the Faucet L than the pipe P, & then the water falling in-
+s will flow through the pipe O into the pipes C, from which the air forcing through the pipes D will come through the pipes F, press the water which is in A, & will constrain it to rise
+nar a or when A will be empty, And C full, the vessel Y will also be rendered lighter
+by the means of the small pipe Z, which will empty the said vessel around the same time that
+C will fill coming then that vessel Y to go back up to its place.P will open as
+it was before to make the pipes A refill. And thus that Machine will move continu-
+ously by which the water is raised higher than the source of the height
+that there is from the pipes A, to the pipes C.
+
+Here is what it was to demonstrate touching that machine, which among all pneumatic ma-
+chines is that which with less force makes raise more water. And
+as to other inventions as much to conduct the water from the sources or mines. Or
+to render them navigable. Or to raise from the rivers by diverse means,
+great abundance of water for the use of the cities, royal houses or palaces, this will be
+demonstrated in the sequel to the above..
+
+It is here to note that the assemblies of carpentry on which are posed the pipes & attached
+the diggings to the preceding figures are not described here, because they would have prevented
+seeing (in plan) all the particularities of this machine.
+
+THE EX-
+
+RISING FORCES. 17
+
+THE EXPLANATION OF THE FIGURES' Plates.
+
+FIRST PLATE, Figure 1.
+
+To make water rise by the current of a river, & the force of the Pump.
+
+This machine vulgarly called a pump, is called by Vitruvius & by
+Heron a Stefibic Machine, retaining the name of its inventor because he
+was Stefibie Alexandrin, I will show three means to use it to ele-
+vate the water by this machine, the first will be by the current of a mill
+stream (as the figure demonstrates) where there is a water wheel, & on each
+end of the said wheel there is a copper crank solid, & valiant to sus-
+tain the force & weight of the said wheel & if the said wheel has ten feet of len-, e ohm
+feet in diameter the said cranks will have at least four inches in qua-, le, and
+
+will be adjusted to the middle of the places marked A. & there will also be two pieces of bo-
+is that will be rounded in the center and
+
+Thus, when the sun is at midday (as has been said above), its rays will strike against the said vessel at A, and this will cause a compression of the water inside, which will exit through pipe C and flow into vessel D. When this is half full, it will descend and cause valve G to rise. When this is open, the water from vessel F will flow onto the water wheel and cause the musical drum to turn, as has been demonstrated above, and the keys placed on the said drum will touch the keyboard M, which, being lowered, will open the valves in the wind chest X, and the wind in the said wind chest will submerge the organ pipes or trumpets that are above it. Now, to provide wind to the wind chest, it can be done in two ways: either by a reservoir that will be filled with the water that falls on the water wheel, or by bellows that will be raised by another water wheel that will be moved when vessel D descends, which will also open a valve like valve G. Now, because it is necessary (when the musical drum has turned once) that it stop precisely at the point where it began, so that when it begins to play again another time, the music is in time. Here is how it will be stopped. A small copper vessel will be made, marked E, with a small hole in the bottom, and it will be placed so that the cord supporting it is attached to a ring near valve G, and the water that will fill the said vessel will be led there by the pipe marked L, so that as soon as valve G is opened, the water immediately flows into the said vessel. And when the water is a little lowered from vessel F, then it will no longer flow into the said vessel E, which will always empty the water that is inside through the small hole in the bottom. It is necessary to adjust the time that the said vessel E takes to empty to the time that the water wheel remains making one revolution, and the said vessel being empty, valve G will close again, because it must be made so that it is heavier than the two vessels E and D when they are empty; and on the contrary, when one of the said vessels is full, that they are heavier than the said valve. And as for vessel D, it must empty sooner than E because it cannot keep as exact time as E. And here is how it will empty. When it is half full of the water that descends through pipe C, then it will lower, and so will E. Also, because they will be heavier than G, at the same time G will open, and the water will descend on the wheel and into the two vessels; and as soon as D is full, then the vessel will turn upside down and empty, and in the space of time that this is done, the water from vessel F will lower, and being lower than the top of pipe D, the water will no longer flow inside, but the end of pipe L must be a little lower than that of D so that water flows there longer. It remains to show how pipe A will be filled with water. Let a pipe be placed with a small valve under the said vessel just as in the preceding figure, and after the heat of the sun has caused the compression, and a part of the water of the said vessel has come out, after the sun has passed the said vessel, to avoid a vacuum, it will be filled by the said valve, as was taught in the 14th Problem. In short, if all the parts of this movement are well regulated, the desired effect will be achieved, with the admiration of the audience.
+
+EXPLANATION OF PLATE XXIII.
+
+To make an admirable machine which, being placed at the foot of a figure, will spout water when the sun shines on it, so that it will seem that the figure is spouting the said water.
+
+CORNEILLE TACITUS mentions in his history that there was in Egypt a statue of Memnon which, when the sun shone upon it, emitted a certain sound. Pausanias says he saw the said figure, and that this sound was similar to that of the strings of a harp when they break.
+
+The demonstration of this present figure results from what has been shown above in the ninth and tenth plates, which teach how to raise water (by the heat of the sun) in a copper or lead vessel, by means of a valve A. Now when the water is at F, it will be transported to C by siphon B, which, casting its water into C, causes the air to exit from it to animate the two organ pipes, which with the machine can be placed in the figure or in the pedestal, or otherwise if the machine is placed separately, one must use porteuents, and that the pipes alone are in the figure, which being of bronze, and hollow, will have air only through the mouth through which the sound of the organ pipes will exit.
+
+EXPLANATION OF PLATE XXIII.
+
+In this plate is figured the interior of the musical wind chest for the organs or hydraulic machines of which has been spoken.
+
+The wind chest of which has been spoken [in] plate 6 & 7 is here (for easier understanding) represented in three different forms, namely by the plan or ichnography, by orthography, &c.
+
+FORCES MOVVJÎITES.
+
+of well-dried oak, one could say many things, and expand more broadly, but I believe that it is not necessary here. I will only add what the excellent Poet Du Bartas says on this subject in the following verses.
+
+Thus [?], a single wind artfully varied
+By the panting bellows, a promise among
+The ingenious secret, enters into the valves
+Which, striking the keyboard, you organize [and] strike,
+
+This one in the engraving, & rises divided
+By the conduits & sparse [?] of the wind chest pierced.
+
+Animating all at once the sharp cymbals,
+The flutes with the sweet sound, & the sharp regals, &c.
+
+Now as for the systems and measurements of organ pipes, both in length, width, mouth, or languet, as well as the manner of registers, grand porteuent, tremulant, &c., that is deferred to the particular treatise on the manufacture of organs.
+
+EXPLANATION OF PLATE XXV.
+
+Lock to make streams navigable.
+
+Among other kinds of locks that could be produced to retain water and make rivers and (even) small streams navigable, I have observed this one to be very elegant.
+
+It is located between Venice and Padua on the stream that is between these two cities, which by art has been made navigable for the ease of commerce between these two cities. It is to be noted that the water A, which is towards the source or head of the stream, is always much higher than the water B, which is at the bottom of the second lock. Now to make boats and gondolas rise or descend, they are attached to an iron ring while the water contained between the two locks rises or falls either to rise towards A or descend towards B. The ingenious reader can easily see the effect of these locks without it being necessary to be prolix, and make another description than that of the figure.
+
+EXPLANATION OF PLATE XXVI.
+
+On top of what has been discussed above concerning pumps, I thought it would not be bad to add also this manner of forced pump which is of very good invention and of which I have seen the experience: what is advantageous here is that the pistons rise and fall perpendicularly in the barrels. It is easy to understand by the figure that there are 4 places in the shaft that are hollowed or grooved, and in half of these grooves, there are pegs A.E. engaging with the pegs that are in P. H. it will make them give way, & in lowering will make B. N. rise without the pegs in them preventing anything, because they slide in the void of the notches marked by D.C. & thus will rise & lower each in turn, to force water with very great violence up to a height of 50 or 60 feet, or higher if necessary.
+
+---
+
+*This is an LLM-generated translation using Gemini. Technical terms preserved in brackets where appropriate.*
+*Generated for the GEMI Digital Archive project.*

@@ -211,6 +211,89 @@ Multilingual support (French, German, Russian):
 - Term alignment across languages
 - Etymology tracking
 
+---
+
+## Claude Code Haiku Translation System (Active)
+
+### Overview
+
+GEMI uses Claude Code's built-in haiku sub-agent system for translating non-English historical texts (Latin, French, German, etc.). This approach avoids external API calls or additional billing — translations are performed using Claude Code's Task tool with `model: "haiku"` parameter.
+
+### How It Works
+
+1. **Spawn Haiku Agent**: Claude Code's Task tool with translation prompts
+   ```typescript
+   Task({
+     subagent_type: "general-purpose",
+     model: "haiku",
+     prompt: "Translate the following 17th-century Latin text to English..."
+   })
+   ```
+
+2. **Chunk Large Texts**: For texts over ~50k characters:
+   - Identify logical section breaks (chapter headings, proposition numbers)
+   - Process each section with a separate haiku agent in parallel
+   - Concatenate results maintaining document structure
+
+3. **Translation Guidelines for Agents**:
+   - Preserve mathematical notation and proposition numbering
+   - Keep technical terminology in brackets `[Latin term]`
+   - Maintain structural elements (headers, lists, corollaries)
+   - Note OCR artifacts or unclear passages with `[?]`
+   - Add brief scholarly context where helpful
+
+### Output Format
+
+Markdown files saved to `corpus/translations/`:
+```markdown
+# DOCUMENT TITLE
+## By Author Name (Year)
+### LLM-generated translation from [language]
+
+---
+
+[Translation content with preserved structure]
+
+---
+
+[Note: This is an LLM-generated translation. Technical terms preserved in brackets.]
+```
+
+### Integration with Web Interface
+
+The `TextViewer` component supports translations:
+- Toggle button: `EN` (translation) | `ORIG` (original)
+- Warning banner: "This is an LLM-generated translation"
+- Lazy loading: translation fetched only when toggled
+
+### Metadata Schema
+
+In `corpus/metadata.json`:
+```json
+{
+  "identifier": "1677_en_b33049683",
+  "has_translation": true,
+  "translation_filename": "1677_en_b33049683_en.txt"
+}
+```
+
+### Workflow for Adding Translations
+
+1. Read original text from `corpus/raw_texts/`
+2. Spawn haiku agents for translation (chunk if >50k chars)
+3. Save translation to `corpus/translations/{year}_{lang}_{identifier}_en.txt`
+4. Update `corpus/metadata.json` with translation fields
+5. Run `python scripts/export_for_web.py` to update web data
+6. Upload translation to Supabase: `python scripts/export_for_web.py --upload-supabase`
+
+### Current Translations
+
+| Document | Year | Language | Status |
+|----------|------|----------|--------|
+| Oughtred's *Institutiones Mechanicae* | 1677 | Latin | In progress |
+
+---
+
 #### 6. Knowledge Graph Agent
 **File:** `agents/knowledge_graph.py`
 

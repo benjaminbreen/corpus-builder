@@ -30,10 +30,13 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 CORPUS_DIR = Path("corpus")
 METADATA_FILE = CORPUS_DIR / "metadata.json"
 RAW_TEXTS_DIR = CORPUS_DIR / "raw_texts"
+TRANSLATIONS_DIR = CORPUS_DIR / "translations"
 
 PUBLIC_DIR = Path("public")
 DATA_OUTPUT_DIR = PUBLIC_DIR / "data"
 TEXTS_OUTPUT_DIR = PUBLIC_DIR / "texts"
+TRANSLATIONS_OUTPUT_DIR = PUBLIC_DIR / "translations"
+RAW_TEXTS_OUTPUT_DIR = PUBLIC_DIR / "raw_texts"
 
 CORPUS_INDEX_FILE = DATA_OUTPUT_DIR / "corpus-index.json"
 
@@ -51,6 +54,8 @@ def setup_directories():
     """Create output directories if they don't exist."""
     DATA_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     TEXTS_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    TRANSLATIONS_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    RAW_TEXTS_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     print(f"✓ Created output directories")
 
 
@@ -77,6 +82,9 @@ def export_corpus_index(metadata: list[dict]):
             "identifier": doc["identifier"],
             "title": doc["title"],
             "year": doc["year"],
+            "publication_year": doc.get("publication_year"),
+            "gutenberg_release_year": doc.get("gutenberg_release_year"),
+            "year_source": doc.get("year_source"),
             "creator": doc.get("creator"),
             "description": doc.get("description", "")[:300] if doc.get("description") else None,
             "topic": doc["topic"],
@@ -84,8 +92,12 @@ def export_corpus_index(metadata: list[dict]):
             "language": doc.get("language"),
             "source_url": doc["source_url"],
             "char_count": doc.get("char_count", 0),
+            "source": doc.get("source"),
             # Generate filename for storage/local reference
             "filename": Path(doc.get("local_path", "")).name if doc.get("local_path") else None,
+            # Translation support
+            "has_translation": doc.get("has_translation", False),
+            "translation_filename": doc.get("translation_filename"),
         }
         web_metadata.append(web_doc)
 
@@ -107,6 +119,7 @@ def copy_texts_for_pagefind(metadata: list[dict]):
     embedded for filtering.
     """
     copied = 0
+    raw_copied = 0
     skipped = 0
 
     for doc in metadata:
@@ -130,6 +143,13 @@ def copy_texts_for_pagefind(metadata: list[dict]):
             print(f"  Warning: Could not read {source_path}: {e}")
             skipped += 1
             continue
+
+        # Copy raw text for in-app viewing
+        raw_filename = Path(doc.get("local_path", "")).name
+        if raw_filename:
+            raw_out = RAW_TEXTS_OUTPUT_DIR / raw_filename
+            raw_out.write_text(text_content, encoding='utf-8')
+            raw_copied += 1
 
         # Create an HTML file that Pagefind can index
         # Include metadata as data attributes for filtering
@@ -170,8 +190,36 @@ def copy_texts_for_pagefind(metadata: list[dict]):
         copied += 1
 
     print(f"✓ Created {copied} HTML files for Pagefind indexing")
+    print(f"✓ Copied {raw_copied} raw text files for viewer")
     if skipped:
         print(f"  Skipped {skipped} documents (missing source files)")
+
+
+def copy_translations(metadata: list[dict]):
+    """
+    Copy translation files to public/translations/ for web access.
+    """
+    copied = 0
+
+    for doc in metadata:
+        if not doc.get("has_translation"):
+            continue
+
+        trans_filename = doc.get("translation_filename")
+        if not trans_filename:
+            continue
+
+        source_path = TRANSLATIONS_DIR / trans_filename
+        if not source_path.exists():
+            print(f"  Warning: Translation file not found: {source_path}")
+            continue
+
+        # Copy the translation file
+        dest_path = TRANSLATIONS_OUTPUT_DIR / trans_filename
+        shutil.copy2(source_path, dest_path)
+        copied += 1
+
+    print(f"✓ Copied {copied} translation files to {TRANSLATIONS_OUTPUT_DIR}")
 
 
 def upload_to_supabase(metadata: list[dict]):
@@ -243,6 +291,32 @@ def upload_to_supabase(metadata: list[dict]):
         print(f"  Skipped {skipped} documents (missing source files)")
     if errors:
         print(f"  Errors: {errors}")
+
+    # Also upload translations
+    trans_uploaded = 0
+    for doc in metadata:
+        if not doc.get("has_translation"):
+            continue
+        trans_filename = doc.get("translation_filename")
+        if not trans_filename:
+            continue
+        trans_path = TRANSLATIONS_DIR / trans_filename
+        if not trans_path.exists():
+            continue
+
+        try:
+            with open(trans_path, "rb") as f:
+                file_content = f.read()
+            response = supabase.storage.from_(STORAGE_BUCKET).upload(
+                trans_filename,
+                file_content,
+                {"content-type": "text/plain; charset=utf-8", "upsert": "true"}
+            )
+            trans_uploaded += 1
+        except Exception as e:
+            print(f"  Error uploading translation {trans_filename}: {e}")
+
+    print(f"✓ Uploaded {trans_uploaded} translation files to Supabase Storage")
 
 
 def print_summary(metadata: list[dict]):
@@ -325,6 +399,9 @@ def main():
     # Copy texts for Pagefind
     if not args.skip_texts:
         copy_texts_for_pagefind(metadata)
+
+    # Copy translations
+    copy_translations(metadata)
 
     # Upload to Supabase if requested
     if args.upload_supabase:
