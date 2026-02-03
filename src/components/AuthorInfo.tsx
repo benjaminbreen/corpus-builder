@@ -22,6 +22,23 @@ interface AuthorInfoProps {
   creator: string | string[] | undefined
 }
 
+// Common Latin to vernacular name mappings
+const LATIN_NAME_VARIANTS: Record<string, string> = {
+  'Christophorus': 'Christoph',
+  'Joannes': 'Johann',
+  'Johannes': 'Johann',
+  'Wolfgangus': 'Wolfgang',
+  'Franciscus': 'Franz',
+  'Georgius': 'Georg',
+  'Henricus': 'Heinrich',
+  'Fridericus': 'Friedrich',
+  'Guilielmus': 'Wilhelm',
+  'Carolus': 'Karl',
+  'Ludovicus': 'Ludwig',
+  'Antonius': 'Anton',
+  'Benedictus': 'Benedikt',
+}
+
 function extractAuthorName(creator: string): string {
   // Remove dates like "1635-1703" or "(1635-1703)"
   let name = creator.replace(/,?\s*\(?\d{4}\s*-\s*\d{4}\)?/g, '').trim()
@@ -30,6 +47,15 @@ function extractAuthorName(creator: string): string {
   // Remove trailing commas
   name = name.replace(/,\s*$/, '').trim()
   return name
+}
+
+function normalizeLatinName(name: string): string {
+  // Replace Latin name variants with vernacular forms
+  let normalized = name
+  for (const [latin, vernacular] of Object.entries(LATIN_NAME_VARIANTS)) {
+    normalized = normalized.replace(new RegExp(latin, 'gi'), vernacular)
+  }
+  return normalized
 }
 
 export function AuthorInfo({ creator }: AuthorInfoProps) {
@@ -64,10 +90,22 @@ export function AuthorInfo({ creator }: AuthorInfoProps) {
         if (!response.ok) {
           if (response.status === 404) {
             // Try alternative name formats
-            // e.g., "Sturm, Johann Christophorus" -> "Johann Christoph Sturm"
             const parts = cleanName.split(',').map(p => p.trim())
+            const namesToTry: string[] = []
+
             if (parts.length >= 2) {
-              const altName = `${parts[1]} ${parts[0]}`
+              // e.g., "Sturm, Johann Christophorus" -> "Johann Christophorus Sturm"
+              namesToTry.push(`${parts[1]} ${parts[0]}`)
+              // Also try with Latin names normalized
+              // e.g., "Johann Christophorus Sturm" -> "Johann Christoph Sturm"
+              const normalizedAlt = normalizeLatinName(`${parts[1]} ${parts[0]}`)
+              if (normalizedAlt !== `${parts[1]} ${parts[0]}`) {
+                namesToTry.push(normalizedAlt)
+              }
+            }
+
+            // Try each alternative name
+            for (const altName of namesToTry) {
               const altResponse = await fetch(
                 `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(altName)}`,
                 {
@@ -111,9 +149,25 @@ export function AuthorInfo({ creator }: AuthorInfoProps) {
     fetchWikipedia()
   }, [cleanName])
 
-  // Don't render anything if no author or still loading initial
-  if (!cleanName || loading) {
+  // Don't render if no author name
+  if (!cleanName) {
     return null
+  }
+
+  // Show subtle loading state
+  if (loading) {
+    return (
+      <div className="bg-paper-50 border border-paper-200 rounded-sm p-4 animate-pulse">
+        <div className="flex gap-4">
+          <div className="w-20 h-24 bg-paper-200 rounded-sm" />
+          <div className="flex-1 space-y-2">
+            <div className="h-4 bg-paper-200 rounded w-3/4" />
+            <div className="h-3 bg-paper-200 rounded w-full" />
+            <div className="h-3 bg-paper-200 rounded w-5/6" />
+          </div>
+        </div>
+      </div>
+    )
   }
 
   // Don't show if no Wikipedia data found
