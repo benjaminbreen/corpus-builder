@@ -122,7 +122,7 @@ export function AuthorInfo({ creator }: AuthorInfoProps) {
   }
 
   return (
-    <div className="mt-4 bg-paper-50 border border-paper-200 rounded-sm p-4">
+    <div className="bg-paper-50 border border-paper-200 rounded-sm p-4">
       <div className="flex gap-4">
         {/* Portrait */}
         {wikiData.thumbnail && (

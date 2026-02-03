@@ -252,16 +252,16 @@
       "Cremeri, Benedikt Dominik Anton, 1752-1795"
     ],
     "description": "Published anonymously. Text sometimes attributed to Wolfgang von Kempelen, sometimes attributed to Benedikt Dominik Anton Cremeri. Music by Anton Zimmermann. Cf. Hadamowsky, F. Die Wiener Hoftheater (Staatstheater) 1776-1966, I, 76. Cf. New Grove, XX, p. 687",
-    "summary": null,
+    "summary": "A 1780 German opera libretto by Wolfgang von Kempelen (inventor of the chess automaton) dramatizing the Greek myth of Andromeda and Perseus. Features themes of fate, sacrifice, divine intervention, and human agency\u2014concerns that parallel Kempelen's work on mechanical automata.",
     "topic": "chess_automaton",
-    "language_code": "en",
+    "language_code": "de",
     "language": "ger",
     "source_url": "https://archive.org/details/andromedaundpers00kemp",
     "char_count": 21444,
     "source": null,
     "filename": "1780_en_andromedaundpers00kemp.txt",
-    "has_translation": false,
-    "translation_filename": null
+    "has_translation": true,
+    "translation_filename": "1780_de_andromedaundpers00kemp_en.txt"
   },
   {
     "identifier": "bub_gb_SLYUAAAAYAAJ",

@@ -174,5 +174,49 @@
     "page": "Thesis VI",
     "tags": ["Blood", "Biblical Authority", "Vital Spirits", "Soul"],
     "text": "For the sacred Codex Deut. 12:2 also agrees with us, when it says so clearly: \"**The blood is the soul**.\" This opinion is also sometimes attributed to Critias and Empedocles... It is better here to consider a synecdoche of the part for the whole, so that blood is called soul because of the spirits that it always has present and active."
+  },
+  {
+    "id": "kempelen-andromeda-fate",
+    "doc_id": "andromedaundpers00kemp",
+    "source_title": "Andromeda und Perseus",
+    "year": 1780,
+    "language_code": "de",
+    "topic": "chess_automaton",
+    "page": "Act II",
+    "tags": ["Fate", "Divine Will", "Human Agency", "Kempelen"],
+    "text": "Wretched creature! you dare to penetrate the **fabric of fate**? . . . Forgive, Almighty ones, a creature whose senses are confused by the fear of annihilation. . . . Yes! the **oracle's decree** shall be fulfilled in me . . . Here I am. Without complaint — without resistance, I offer my neck to the judgment."
+  },
+  {
+    "id": "kempelen-andromeda-illusion",
+    "doc_id": "andromedaundpers00kemp",
+    "source_title": "Andromeda und Perseus",
+    "year": 1780,
+    "language_code": "de",
+    "topic": "chess_automaton",
+    "page": "Act II",
+    "tags": ["Illusion vs Reality", "Perception", "Fear", "Kempelen"],
+    "text": "What **dreadful images of monsters** float before my eyes. . . . The chill of death trembles through every nerve. Cold sweat of fear trickles down my forehead. . . . Already the monster held me in its jaws — already it plunged with me into the abysses of the sea. . . . Alas! — that it was only a **phantom**, that I had to revive to experience this torment once more."
+  },
+  {
+    "id": "kempelen-andromeda-human-divine",
+    "doc_id": "andromedaundpers00kemp",
+    "source_title": "Andromeda und Perseus",
+    "year": 1780,
+    "language_code": "de",
+    "topic": "chess_automaton",
+    "page": "Act III",
+    "tags": ["Human vs Divine", "Salvation", "Agency", "Kempelen"],
+    "text": "**Liberation?** . . . Do you claim to be a god, who may speak thus? . . . **No mortal can save me.** . . . No! delusion — blinding — away — away. . . . Recover yourself — Wake from this deathly slumber — perhaps the **gods send me** to your liberation."
+  },
+  {
+    "id": "kempelen-andromeda-monster",
+    "doc_id": "andromedaundpers00kemp",
+    "source_title": "Andromeda und Perseus",
+    "year": 1780,
+    "language_code": "de",
+    "topic": "chess_automaton",
+    "page": "Act III",
+    "tags": ["Deception", "Appearance", "Recognition", "Kempelen"],
+    "text": "**Monster!** Even in this form, I do not fail to recognize you — Even under this **disguise**, I recognize my murderer — here is your prey. . . . (to himself) The riddle unfolds. Her senses are confused. . . . But why chained here? . . . **The most lovable creature** I have seen on this earth."
   }
 ]

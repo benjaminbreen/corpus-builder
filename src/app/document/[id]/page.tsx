@@ -66,7 +66,10 @@ export default async function DocumentPage({ params }: PageProps) {
       <section className="container-content py-8">
         <div className="grid lg:grid-cols-[280px_1fr] gap-8">
           {/* Metadata panel */}
-          <aside className="lg:sticky lg:top-24 lg:self-start">
+          <aside className="lg:sticky lg:top-24 lg:self-start space-y-4">
+            {/* Author info from Wikipedia */}
+            {doc.creator && <AuthorInfo creator={doc.creator} />}
+
             <div className="bg-paper-100 border border-paper-200 rounded-sm p-5 space-y-4">
               {doc.publication_year ? (
                 <MetadataRow label="Publication Year" value={doc.publication_year.toString()} />
@@ -124,8 +127,6 @@ export default async function DocumentPage({ params }: PageProps) {
               </Link>
             </div>
 
-            {/* Author info from Wikipedia */}
-            {doc.creator && <AuthorInfo creator={doc.creator} />}
           </aside>
 
           {/* Document content */}
