@@ -1,6 +1,7 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, Suspense } from 'react'
+import { useSearchParams, useRouter } from 'next/navigation'
 import Link from 'next/link'
 
 interface Example {
@@ -43,11 +44,34 @@ const TERM_DESCRIPTIONS: Record<string, string> = {
   engine: 'From "war machines" to "power generators"',
 }
 
-export default function SemanticDriftPage() {
+function SemanticDriftContent() {
+  const router = useRouter()
+  const searchParams = useSearchParams()
+
   const [data, setData] = useState<SemanticDriftData | null>(null)
-  const [selectedTerm, setSelectedTerm] = useState<string>('intelligence')
-  const [selectedDecade, setSelectedDecade] = useState<string | null>(null)
   const [loading, setLoading] = useState(true)
+
+  // Read state from URL params (with defaults)
+  const selectedTerm = searchParams.get('term') || 'intelligence'
+  const selectedDecade = searchParams.get('decade')
+
+  // Update URL when selections change
+  const updateUrl = (term: string, decade: string | null) => {
+    const params = new URLSearchParams()
+    params.set('term', term)
+    if (decade) {
+      params.set('decade', decade)
+    }
+    router.push(`/semantic-drift?${params.toString()}`, { scroll: false })
+  }
+
+  const setSelectedTerm = (term: string) => {
+    updateUrl(term, null) // Clear decade when changing term
+  }
+
+  const setSelectedDecade = (decade: string | null) => {
+    updateUrl(selectedTerm, decade)
+  }
 
   useEffect(() => {
     fetch('/data/semantic-drift.json')
@@ -131,10 +155,7 @@ export default function SemanticDriftPage() {
             {Object.keys(data.terms).map(term => (
               <button
                 key={term}
-                onClick={() => {
-                  setSelectedTerm(term)
-                  setSelectedDecade(null)
-                }}
+                onClick={() => setSelectedTerm(term)}
                 className={`px-4 py-2 rounded-sm text-sm font-medium transition-colors ${
                   selectedTerm === term
                     ? 'text-white'
@@ -341,5 +362,23 @@ export default function SemanticDriftPage() {
         </div>
       </section>
     </div>
+  )
+}
+
+// Wrap in Suspense for static export compatibility with useSearchParams
+export default function SemanticDriftPage() {
+  return (
+    <Suspense fallback={
+      <div className="animate-fade-in">
+        <section className="container-content pt-16 pb-8">
+          <div className="text-center py-16">
+            <div className="inline-block w-6 h-6 border-2 border-copper-400 border-t-transparent rounded-full animate-spin mb-4" />
+            <p className="text-ink-400">Loading semantic analysis...</p>
+          </div>
+        </section>
+      </div>
+    }>
+      <SemanticDriftContent />
+    </Suspense>
   )
 }
