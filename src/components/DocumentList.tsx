@@ -33,12 +33,12 @@ export function DocumentList({
 
   // Get unique languages and topics from documents
   const languages = useMemo(() => {
-    const langs = [...new Set(documents.map((d) => d.language_code))]
+    const langs = Array.from(new Set(documents.map((d) => d.language_code)))
     return langs.filter(Boolean).sort()
   }, [documents])
 
   const topics = useMemo(() => {
-    const t = [...new Set(documents.map((d) => d.topic))]
+    const t = Array.from(new Set(documents.map((d) => d.topic)))
     return t.filter(Boolean).sort()
   }, [documents])
 

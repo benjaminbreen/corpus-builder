@@ -127,7 +127,7 @@ export default async function DocumentPage({ params }: PageProps) {
           {/* Document content */}
           <main>
             <TextViewer
-              filename={doc.filename}
+              filename={doc.filename ?? null}
               supabaseUrl={process.env.NEXT_PUBLIC_SUPABASE_URL || ''}
               hasTranslation={doc.has_translation}
               translationFilename={doc.translation_filename}

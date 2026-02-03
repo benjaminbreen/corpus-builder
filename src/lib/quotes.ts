@@ -16,9 +16,10 @@ export async function getQuotes(): Promise<Quote[]> {
     }
 
     const data = await fs.readFile(QUOTES_PATH, 'utf-8')
-    cachedQuotes = JSON.parse(data)
+    const parsed: Quote[] = JSON.parse(data)
+    cachedQuotes = parsed
     cachedQuotesMtimeMs = stat.mtimeMs
-    return cachedQuotes
+    return parsed
   } catch (error) {
     console.warn('Quotes index not found, returning empty list')
     return []

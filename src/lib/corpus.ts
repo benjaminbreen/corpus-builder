@@ -81,9 +81,9 @@ export async function getCorpusStats(): Promise<CorpusStats> {
   })
 
   // Get unique values
-  const decades = [...new Set(corpus.map((d) => Math.floor(d.year / 10) * 10))].sort()
-  const topics = [...new Set(corpus.map((d) => d.topic))].sort()
-  const languages = [...new Set(corpus.map((d) => d.language_code))].filter(Boolean).sort()
+  const decades = Array.from(new Set(corpus.map((d) => Math.floor(d.year / 10) * 10))).sort()
+  const topics = Array.from(new Set(corpus.map((d) => d.topic))).sort()
+  const languages = Array.from(new Set(corpus.map((d) => d.language_code))).filter(Boolean).sort()
 
   // Get recent documents (by download date, or just last 10)
   const recentDocuments = [...corpus]
@@ -133,18 +133,18 @@ export async function getDocumentsByLanguage(languageCode: string): Promise<Docu
 
 export async function getAllDecades(): Promise<number[]> {
   const corpus = await getCorpus()
-  const decades = [...new Set(corpus.map((d) => Math.floor(d.year / 10) * 10))]
+  const decades = Array.from(new Set(corpus.map((d) => Math.floor(d.year / 10) * 10)))
   return decades.sort()
 }
 
 export async function getAllTopics(): Promise<string[]> {
   const corpus = await getCorpus()
-  const topics = [...new Set(corpus.map((d) => d.topic))]
+  const topics = Array.from(new Set(corpus.map((d) => d.topic)))
   return topics.sort()
 }
 
 export async function getAllLanguages(): Promise<string[]> {
   const corpus = await getCorpus()
-  const languages = [...new Set(corpus.map((d) => d.language_code))]
+  const languages = Array.from(new Set(corpus.map((d) => d.language_code)))
   return languages.filter(Boolean).sort()
 }
