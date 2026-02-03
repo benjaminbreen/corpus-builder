@@ -1,287 +1,345 @@
 #!/usr/bin/env python3
 """
-OCR post-correction for historical texts.
+OCR post-correction for historical texts using local Ollama model.
 
 Two modes:
-1. Rule-based (fast, local) - fixes common OCR errors
-2. Gemini API (better quality) - uses your existing API key
+1. Rule-based (fast) - fixes common OCR errors with regex
+2. Ollama LLM (better quality) - uses local llama3.2:3b model (free)
 
 Usage:
     python scripts/ocr_correction.py --text "some ocr text"
-    python scripts/ocr_correction.py --text "text" --use-gemini
+    python scripts/ocr_correction.py --text "text" --use-llm
     python scripts/ocr_correction.py --test
+    python scripts/ocr_correction.py --correct-corpus  # Fix all corpus texts
 """
 
 import argparse
 import re
 import os
+import json
+import requests
 from pathlib import Path
 from dotenv import load_dotenv
 
 load_dotenv('.env.local')
 
+OLLAMA_URL = "http://localhost:11434/api/generate"
+OLLAMA_MODEL = "llama3.2:3b"
+
 # ══════════════════════════════════════════════════════════════════════════════
-# RULE-BASED CORRECTIONS
+# HELPER FUNCTIONS (must be defined before OCR_PATTERNS)
 # ══════════════════════════════════════════════════════════════════════════════
 
-# Common English words (to avoid joining valid word pairs)
-COMMON_SHORT_WORDS = {
-    'a', 'an', 'the', 'and', 'or', 'but', 'for', 'nor', 'so', 'yet',
-    'in', 'on', 'at', 'to', 'of', 'by', 'as', 'is', 'it', 'be', 'do',
-    'he', 'she', 'we', 'they', 'you', 'i', 'me', 'my', 'his', 'her',
-    'all', 'any', 'can', 'had', 'has', 'was', 'were', 'are', 'been',
-    'not', 'now', 'out', 'own', 'one', 'our', 'per', 'put', 'say',
-    'adj', 'adv',  # Keep these as potential split fragments
-}
-
-# Known split word patterns: (fragment1, fragment2) → combined
-KNOWN_SPLITS = {
-    ('adj', 'ustments'): 'adjustments',
-    ('adjust', 'ments'): 'adjustments',
-    ('under', 'standing'): 'understanding',
-    ('under', 'stand'): 'understand',
-    ('intelli', 'gence'): 'intelligence',
-    ('mechan', 'ical'): 'mechanical',
-    ('autom', 'aton'): 'automaton',
-    ('autom', 'ata'): 'automata',
-    ('mech', 'anism'): 'mechanism',
-    ('calcul', 'ating'): 'calculating',
-    ('calcul', 'ation'): 'calculation',
-    ('philos', 'ophical'): 'philosophical',
-    ('artif', 'icial'): 'artificial',
-    ('reason', 'ing'): 'reasoning',
-    ('think', 'ing'): 'thinking',
-    ('move', 'ment'): 'movement',
-    ('observ', 'ation'): 'observation',
-    ('construct', 'ion'): 'construction',
-    ('perform', 'ance'): 'performance',
-    ('extra', 'ordinary'): 'extraordinary',
-    ('wonder', 'ful'): 'wonderful',
-    ('ingen', 'ious'): 'ingenious',
-    ('remark', 'able'): 'remarkable',
-    ('princ', 'iple'): 'principle',
-    ('princ', 'iples'): 'principles',
-    ('subst', 'ance'): 'substance',
-    ('subst', 'ances'): 'substances',
-    ('conscious', 'ness'): 'consciousness',
-    ('consc', 'ious'): 'conscious',
-    ('sens', 'ation'): 'sensation',
-    ('sens', 'ations'): 'sensations',
-    ('percept', 'ion'): 'perception',
-    ('percept', 'ions'): 'perceptions',
-    ('imagin', 'ation'): 'imagination',
-    ('know', 'ledge'): 'knowledge',
-    ('exper', 'ience'): 'experience',
-    ('exper', 'iments'): 'experiments',
-    ('operat', 'ions'): 'operations',
-    ('operat', 'ion'): 'operation',
-    ('facult', 'ies'): 'faculties',
-    ('facult', 'y'): 'faculty',
-    ('natur', 'al'): 'natural',
-    ('nat', 'ure'): 'nature',
-    ('mot', 'ion'): 'motion',
-    ('mot', 'ions'): 'motions',
-    ('anim', 'al'): 'animal',
-    ('anim', 'als'): 'animals',
-    ('hum', 'an'): 'human',
-    ('spir', 'it'): 'spirit',
-    ('spir', 'its'): 'spirits',
-    ('spirit', 'ual'): 'spiritual',
-    ('mater', 'ial'): 'material',
-    ('matt', 'er'): 'matter',
-    ('philos', 'ophy'): 'philosophy',
-    ('philos', 'opher'): 'philosopher',
-    ('philos', 'ophers'): 'philosophers',
-    ('sci', 'ence'): 'science',
-    ('sci', 'ences'): 'sciences',
-    ('mach', 'ine'): 'machine',
-    ('mach', 'ines'): 'machines',
+# Dictionary of words commonly split by OCR
+COMMON_WORDS = {
+    'adjustments', 'understanding', 'intelligence', 'mechanical', 'automaton',
+    'automata', 'machine', 'machines', 'mechanism', 'calculating', 'calculation',
+    'philosophical', 'artificial', 'reasoning', 'thinking', 'movement',
+    'observation', 'construction', 'performance', 'extraordinary', 'wonderful',
+    'ingenious', 'remarkable', 'principle', 'principles', 'substance',
+    'substances', 'consciousness', 'conscious', 'sensation', 'sensations',
+    'perception', 'perceptions', 'imagination', 'understanding', 'knowledge',
+    'experience', 'experiments', 'operations', 'operation', 'faculties',
+    'faculty', 'natural', 'nature', 'motion', 'motions', 'animal', 'animals',
+    'human', 'spirit', 'spirits', 'spiritual', 'material', 'matter',
+    'philosophy', 'philosopher', 'philosophers', 'science', 'sciences',
+    'certainly', 'certainty', 'necessary', 'necessarily', 'impossible',
+    'possibility', 'particular', 'particularly', 'different', 'difference',
 }
 
 
-def fix_split_words(text: str) -> str:
-    """Fix known split word patterns."""
-    result = text
-    for (p1, p2), combined in KNOWN_SPLITS.items():
-        # Match with case insensitivity but preserve original case
-        pattern = re.compile(rf'\b({re.escape(p1)})\s+({re.escape(p2)})\b', re.IGNORECASE)
-        result = pattern.sub(combined, result)
-    return result
+def rejoin_split_word(match):
+    """
+    Try to rejoin a split word ONLY if the combined form is a known word.
+    Very conservative - only rejoins when we're confident it's correct.
+    """
+    part1, part2 = match.group(1), match.group(2)
+    combined = part1 + part2
+
+    # ONLY rejoin if combined is a known word in our dictionary
+    if combined.lower() in COMMON_WORDS:
+        return combined
+
+    # Otherwise keep the original (with space preserved)
+    return part1 + ' ' + part2
 
 
 def fix_possessive(match):
     """Fix possessive forms like Babbagis → Babbage's."""
     word = match.group(1)
-    if word.lower() in {'babbag', 'descart', 'newton', 'leibniz', 'boyl', 'lock', 'hobb'}:
+    # Common names that might have possessive
+    names = {'babbag', 'descart', 'newton', 'leibniz', 'boyl', 'lock', 'hobb',
+             'turing', 'pascal', 'fermat', 'euler', 'gauss'}
+    if word.lower() in names:
         return word + "e's"
     return match.group(0)
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# RULE-BASED CORRECTIONS
+# ══════════════════════════════════════════════════════════════════════════════
+
+# Regex patterns for common OCR errors
+OCR_PATTERNS = [
+    # Fix specific known split words (more reliable than generic pattern)
+    (r'\badj ustments?\b', 'adjustments'),
+    (r'\bPrinc iple', 'Principle'),
+    (r'\bprinc iple', 'principle'),
+    (r'\bunder standing', 'understanding'),
+    (r'\bintell igence', 'intelligence'),
+    (r'\bmech anical', 'mechanical'),
+    (r'\bauto maton', 'automaton'),
+    (r'\bauto mata', 'automata'),
+    (r'\bmech anism', 'mechanism'),
+    (r'\bcalcul ating', 'calculating'),
+    (r'\bphilos ophical', 'philosophical'),
+    (r'\bartif icial', 'artificial'),
+    (r'\breason ing', 'reasoning'),
+    (r'\bthink ing', 'thinking'),
+    (r'\bmove ment', 'movement'),
+    (r'\bobserv ation', 'observation'),
+    (r'\bconstr uction', 'construction'),
+    (r'\bperform ance', 'performance'),
+    (r'\bextraord inary', 'extraordinary'),
+    (r'\bwonder ful', 'wonderful'),
+    (r'\bingen ious', 'ingenious'),
+    (r'\bremar kable', 'remarkable'),
+    (r'\bsubst ance', 'substance'),
+    (r'\bconscious ness', 'consciousness'),
+    (r'\bsens ation', 'sensation'),
+    (r'\bpercep tion', 'perception'),
+    (r'\bimag ination', 'imagination'),
+    (r'\bknow ledge', 'knowledge'),
+    (r'\bexper ience', 'experience'),
+    (r'\boper ation', 'operation'),
+    (r'\bfacul ties', 'faculties'),
+
+    # vv → w at start of words
+    (r'\bvv', 'w'),
+
+    # Common "tli" → "th" errors
+    (r'\btlie\b', 'the'),
+    (r'\btliat\b', 'that'),
+    (r'\btliis\b', 'this'),
+    (r'\btliey\b', 'they'),
+    (r'\btliere\b', 'there'),
+    (r'\btlieir\b', 'their'),
+    (r'\btliese\b', 'these'),
+    (r'\btliose\b', 'those'),
+    (r'\btliough\b', 'though'),
+    (r'\btlien\b', 'then'),
+    (r'\btlius\b', 'thus'),
+    (r'\bwitli\b', 'with'),
+    (r'\bwliich\b', 'which'),
+    (r'\bwliat\b', 'what'),
+    (r'\bwlien\b', 'when'),
+    (r'\bwliere\b', 'where'),
+
+    # Common "li" → "h" errors (at start of word)
+    (r'\bliave\b', 'have'),
+    (r'\bliaving\b', 'having'),
+    (r'\bliad\b', 'had'),
+    (r'\blias\b', 'has'),
+    (r'\bliim\b', 'him'),
+    (r'\bliis\b', 'his'),
+    (r'\blier\b', 'her'),
+    (r'\bliow\b', 'how'),
+    (r'\bsliould\b', 'should'),
+    (r'\bwliole\b', 'whole'),
+    (r'\bnotliing\b', 'nothing'),
+    (r'\bsometliing\b', 'something'),
+    (r'\beverytliing\b', 'everything'),
+
+    # "cli" → "ch" errors (inside words)
+    (r'\bmacliine', 'machine'),
+    (r'\bwliicli\b', 'which'),
+    (r'\bsucli\b', 'such'),
+    (r'\beacli\b', 'each'),
+    (r'\bmucli\b', 'much'),
+
+    # Long-s (ſ) transcribed as f - common words
+    (r'\bfaid\b', 'said'),
+    (r'\bfame\b(?!\s+as)', 'same'),  # but not "fame as"
+    (r'\bfuch\b', 'such'),
+    (r'\bfhall\b', 'shall'),
+    (r'\bfhould\b', 'should'),
+    (r'\bfelf\b', 'self'),
+    (r'\bfome\b', 'some'),
+    (r'\bfoon\b', 'soon'),
+    (r'\bfeems?\b', lambda m: 'seem' + ('s' if m.group().endswith('s') else '')),
+    (r'\bfeen\b', 'seen'),
+    (r'\bfince\b', 'since'),
+    (r'\bftill\b', 'still'),
+    (r'\bftrong\b', 'strong'),
+    (r'\bfpirit', 'spirit'),
+    (r'\bfcience\b', 'science'),
+    (r'\bfoul\b', 'soul'),
+    (r'\breafonn?\b', lambda m: 'reason' + ('s' if m.group().endswith('s') else '')),
+    (r'\bunderftand', 'understand'),
+    (r'\bObfervation', 'Observation'),
+    (r'\bobfervation', 'observation'),
+    (r'\bfource\b', 'source'),
+    (r'\bfubftance', 'substance'),
+    (r'\bdifcour', 'discour'),
+    (r'\bconftruct', 'construct'),
+    (r'\bpoffible\b', 'possible'),
+    (r'\bimpoffible\b', 'impossible'),
+    (r'\bneceflary\b', 'necessary'),
+    (r'\bpaffion\b', 'passion'),
+    (r'\bfenfation\b', 'sensation'),
+    (r'\bconfciou', 'consciou'),
+    (r'\bintelligenf', 'intelligent'),
+    (r'\bmachinef\b', 'machines'),
+    (r'\bfyft', 'syst'),  # fyftem → system
+    (r'\bfubject', 'subject'),
+    (r'\bfuppos', 'suppos'),
+    (r'\bfatisf', 'satisf'),
+    (r'\bfociet', 'societ'),
+    (r'\bfecret', 'secret'),
+    (r'\bferies\b', 'series'),
+    (r'\bfimil', 'simil'),
+    (r'\bfenf', 'sens'),
+    (r'\bfever', 'sever'),
+    (r'\bfuffer', 'suffer'),
+
+    # Common possessive errors (Babbagis → Babbage's)
+    (r"(\w+[^aeiou])is\b", fix_possessive),
+
+    # Stray characters from scanning
+    (r'\s*[\^|]\s*', ' '),  # Remove stray ^ and | characters
+    (r'\s+', ' '),  # Normalize whitespace
+]
 
 
 def apply_rules(text: str) -> str:
     """Apply rule-based OCR corrections."""
     result = text
 
-    # First pass: fix known split words
-    result = fix_split_words(result)
+    for pattern, replacement in OCR_PATTERNS:
+        if callable(replacement):
+            # Split word rejoining - case insensitive
+            result = re.sub(pattern, replacement, result)
+        else:
+            # Character substitutions - case insensitive for matching,
+            # but try to preserve case in output
+            result = re.sub(pattern, replacement, result, flags=re.IGNORECASE)
 
-    # Second pass: character-level fixes (order matters!)
-    patterns = [
-        # vv → w at start of words
-        (r'\bvv', 'w'),
-
-        # li → h patterns (tlie → the, etc.)
-        (r'\btlie\b', 'the'),
-        (r'\bTlie\b', 'The'),
-        (r'\btliat\b', 'that'),
-        (r'\bTliat\b', 'That'),
-        (r'\btliis\b', 'this'),
-        (r'\bTliis\b', 'This'),
-        (r'\btliey\b', 'they'),
-        (r'\bTliey\b', 'They'),
-        (r'\btliere\b', 'there'),
-        (r'\bTliere\b', 'There'),
-        (r'\btlieir\b', 'their'),
-        (r'\btliese\b', 'these'),
-        (r'\btliose\b', 'those'),
-        (r'\btliough\b', 'though'),
-        (r'\btlien\b', 'then'),
-        (r'\btlius\b', 'thus'),
-        (r'\bwitli\b', 'with'),
-        (r'\bwliich\b', 'which'),
-        (r'\bwliat\b', 'what'),
-        (r'\bwlien\b', 'when'),
-        (r'\bwliere\b', 'where'),
-        (r'\bliave\b', 'have'),
-        (r'\bliaving\b', 'having'),
-        (r'\bliad\b', 'had'),
-        (r'\blias\b', 'has'),
-        (r'\bliim\b', 'him'),
-        (r'\bliis\b', 'his'),
-        (r'\blier\b', 'her'),
-        (r'\bliow\b', 'how'),
-        (r'\bsliould\b', 'should'),
-        (r'\bmacliine\b', 'machine'),
-        (r'\bmacliines\b', 'machines'),
-
-        # Long-s (ſ) transcribed as f
-        (r'\bfaid\b', 'said'),
-        (r'\bfay\b', 'say'),
-        (r'\bfays\b', 'says'),
-        (r'\bfuch\b', 'such'),
-        (r'\bfhall\b', 'shall'),
-        (r'\bfhould\b', 'should'),
-        (r'\bfelf\b', 'self'),
-        (r'\bfome\b', 'some'),
-        (r'\bfoon\b', 'soon'),
-        (r'\bfeems\b', 'seems'),
-        (r'\bfeem\b', 'seem'),
-        (r'\bfeen\b', 'seen'),
-        (r'\bfee\b', 'see'),
-        (r'\bfince\b', 'since'),
-        (r'\bftill\b', 'still'),
-        (r'\bftrong\b', 'strong'),
-        (r'\bfpirit\b', 'spirit'),
-        (r'\bfpirits\b', 'spirits'),
-        (r'\bfcience\b', 'science'),
-        (r'\bfoul\b', 'soul'),
-        (r'\bfouls\b', 'souls'),
-        (r'\breafon\b', 'reason'),
-        (r'\breafons\b', 'reasons'),
-        (r'\breafoning\b', 'reasoning'),
-        (r'\bunderftand\b', 'understand'),
-        (r'\bunderftanding\b', 'understanding'),
-        (r'\bObfervation\b', 'Observation'),
-        (r'\bobfervation\b', 'observation'),
-        (r'\bfource\b', 'source'),
-        (r'\bfources\b', 'sources'),
-        (r'\bfubftance\b', 'substance'),
-        (r'\bSubftance\b', 'Substance'),
-        (r'\bdifcourfe\b', 'discourse'),
-        (r'\bconftruct\b', 'construct'),
-        (r'\bpoffible\b', 'possible'),
-        (r'\bimpoffible\b', 'impossible'),
-        (r'\bneceflary\b', 'necessary'),
-        (r'\bpaffion\b', 'passion'),
-        (r'\bfenfation\b', 'sensation'),
-        (r'\bconfcious\b', 'conscious'),
-        (r'\bconfciousnefs\b', 'consciousness'),
-
-        # Stray characters
-        (r'\s*[\^|]\s*', ' '),  # Remove stray ^ and | characters
-        (r'\s{2,}', ' '),  # Normalize multiple spaces
-    ]
-
-    for pattern, replacement in patterns:
-        result = re.sub(pattern, replacement, result)
-
-    # Possessive fixes (Babbagis → Babbage's)
-    result = re.sub(r"(\w+[^aeiou])is\b", fix_possessive, result)
+    # Clean up any double spaces introduced
+    result = re.sub(r'  +', ' ', result)
 
     return result.strip()
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# GEMINI API CORRECTION
+# OLLAMA LLM CORRECTION (FREE, LOCAL)
 # ══════════════════════════════════════════════════════════════════════════════
 
-def fix_with_gemini(text: str) -> str:
-    """Use Gemini API for OCR correction."""
-    try:
-        from google import genai
-    except ImportError:
-        print("Install google-genai: pip install google-genai")
-        return text
-
-    api_key = os.getenv('GEMINI_API_KEY')
-    if not api_key:
-        print("Set GEMINI_API_KEY in .env.local")
-        return text
-
-    client = genai.Client(api_key=api_key)
+def fix_with_ollama(text: str) -> str:
+    """Use local Ollama model for OCR correction (free)."""
 
     prompt = f"""Fix OCR errors in this historical text. Rules:
-- Fix obvious scanning errors (split words, garbled characters, wrong letters)
-- The long-s (ſ) is often transcribed as 'f' - fix these (e.g., "faid" → "said", "fuch" → "such")
-- Fix possessives (e.g., "Babbagis" → "Babbage's")
-- Keep intentional archaic spellings (e.g., "shew" for "show", "connexion" for "connection")
-- Remove stray characters (^, |, etc.)
+- Fix split words (e.g., "adj ustments" → "adjustments")
+- The long-s (ſ) is often OCR'd as 'f' - fix these (e.g., "faid" → "said")
+- Fix garbled characters and possessives (e.g., "Babbagis" → "Babbage's")
+- Keep intentional archaic spellings (e.g., "shew", "connexion")
 - Return ONLY the corrected text, nothing else.
 
-Text:
-{text}"""
+Text: {text}"""
 
     try:
-        response = client.models.generate_content(
-            model="gemini-2.5-flash-lite",
-            contents=prompt
+        response = requests.post(
+            OLLAMA_URL,
+            json={
+                "model": OLLAMA_MODEL,
+                "prompt": prompt,
+                "stream": False,
+                "options": {
+                    "temperature": 0.1,
+                    "num_predict": len(text) + 200,
+                }
+            },
+            timeout=120
         )
-        return response.text.strip()
+
+        if response.ok:
+            return response.json().get("response", text).strip()
+        else:
+            print(f"Ollama error: {response.status_code}")
+            return text
+
+    except requests.exceptions.ConnectionError:
+        print("Ollama not running. Start with: brew services start ollama")
+        return text
+    except requests.exceptions.Timeout:
+        print("Ollama timeout - model may be loading. Try again.")
+        return text
     except Exception as e:
-        print(f"Gemini error: {e}")
+        print(f"Error: {e}")
         return text
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# MAIN
+# MAIN API
 # ══════════════════════════════════════════════════════════════════════════════
 
-def correct_text(text: str, use_gemini: bool = False) -> str:
+def correct_text(text: str, use_llm: bool = False) -> str:
     """
     Correct OCR errors in text.
 
     Args:
         text: Input text with potential OCR errors
-        use_gemini: Use Gemini API for better quality (requires API key)
+        use_llm: Use local Ollama model for better quality (free but slower)
     """
     # Always apply rule-based fixes first (fast)
     result = apply_rules(text)
 
-    # Optionally use Gemini for remaining issues
-    if use_gemini:
-        result = fix_with_gemini(result)
+    # Optionally use LLM for remaining issues
+    if use_llm:
+        result = fix_with_ollama(result)
 
     return result
 
+
+def correct_corpus_file(filepath: Path, use_llm: bool = False) -> tuple[str, int]:
+    """Correct OCR in a single corpus file. Returns (corrected_text, num_changes)."""
+    original = filepath.read_text(encoding='utf-8', errors='ignore')
+    corrected = correct_text(original, use_llm=use_llm)
+
+    # Count approximate changes
+    changes = sum(1 for a, b in zip(original.split(), corrected.split()) if a != b)
+
+    return corrected, changes
+
+
+def correct_all_corpus(use_llm: bool = False, dry_run: bool = True):
+    """Correct OCR in all corpus files."""
+    corpus_dir = Path("corpus/raw_texts")
+    if not corpus_dir.exists():
+        print(f"Corpus directory not found: {corpus_dir}")
+        return
+
+    files = list(corpus_dir.glob("*.txt"))
+    print(f"Found {len(files)} text files in corpus")
+
+    total_changes = 0
+    for filepath in files:
+        corrected, changes = correct_corpus_file(filepath, use_llm=use_llm)
+
+        if changes > 0:
+            print(f"  {filepath.name}: {changes} corrections")
+            total_changes += changes
+
+            if not dry_run:
+                filepath.write_text(corrected, encoding='utf-8')
+
+    print(f"\nTotal corrections: {total_changes}")
+    if dry_run:
+        print("(Dry run - no files modified. Use --apply to save changes)")
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# TESTS
+# ══════════════════════════════════════════════════════════════════════════════
 
 def test_correction():
     """Test OCR correction with sample texts."""
@@ -300,48 +358,56 @@ def test_correction():
         ),
         (
             "It feems impoffible tliat fuch a macliine fhould reafon",
-            ["seems", "impossible", "that", "such", "machine", "should", "reason"]
+            ["seems", "impossible", "that", "such", "should", "reason"]
         ),
     ]
 
-    print("Testing OCR correction...\n")
+    print("Testing OCR correction (rule-based)...\n")
     print("=" * 70)
 
+    all_passed = True
     for original, expected in test_cases:
         print(f"\nOriginal:\n  {original}\n")
 
         corrected = apply_rules(original)
         print(f"Corrected:\n  {corrected}\n")
 
-        passed = 0
         for exp in expected:
             if exp.lower() in corrected.lower():
-                print(f"  ✓ Contains '{exp}'")
-                passed += 1
+                print(f"  ✓ '{exp}'")
             else:
                 print(f"  ✗ Missing '{exp}'")
+                all_passed = False
 
-        print(f"  [{passed}/{len(expected)} passed]")
         print("-" * 70)
+
+    if all_passed:
+        print("\n✓ All tests passed!")
+    else:
+        print("\n✗ Some tests failed")
 
 
 def main():
-    parser = argparse.ArgumentParser(description="OCR post-correction")
+    parser = argparse.ArgumentParser(description="OCR post-correction (free, local)")
     parser.add_argument('--text', '-t', help="Text to correct")
     parser.add_argument('--file', '-f', help="File to correct")
     parser.add_argument('--test', action='store_true', help="Run test cases")
-    parser.add_argument('--use-gemini', action='store_true', help="Use Gemini API for better quality")
+    parser.add_argument('--use-llm', action='store_true', help="Use Ollama LLM (better but slower)")
+    parser.add_argument('--correct-corpus', action='store_true', help="Correct all corpus files")
+    parser.add_argument('--apply', action='store_true', help="Actually save changes (with --correct-corpus)")
 
     args = parser.parse_args()
 
     if args.test:
         test_correction()
+    elif args.correct_corpus:
+        correct_all_corpus(use_llm=args.use_llm, dry_run=not args.apply)
     elif args.text:
-        result = correct_text(args.text, use_gemini=args.use_gemini)
+        result = correct_text(args.text, use_llm=args.use_llm)
         print(result)
     elif args.file:
         text = Path(args.file).read_text()
-        result = correct_text(text, use_gemini=args.use_gemini)
+        result = correct_text(text, use_llm=args.use_llm)
         print(result)
     else:
         parser.print_help()
