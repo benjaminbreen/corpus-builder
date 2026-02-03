@@ -36,9 +36,9 @@ module.exports = {
         highlight: '#FFF3CD',
       },
       fontFamily: {
-        serif: ['var(--font-source-serif)', 'Georgia', 'serif'],
-        sans: ['var(--font-ibm-plex-sans)', 'system-ui', 'sans-serif'],
-        mono: ['var(--font-ibm-plex-mono)', 'monospace'],
+        serif: ['"Source Serif 4"', 'Georgia', 'serif'],
+        sans: ['"IBM Plex Sans"', 'system-ui', 'sans-serif'],
+        mono: ['"IBM Plex Mono"', 'monospace'],
       },
       fontSize: {
         // Slightly larger base for readability
