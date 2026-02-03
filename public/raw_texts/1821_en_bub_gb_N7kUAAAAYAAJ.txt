@@ -1,0 +1,1187 @@
+i 
+
+T 
+
+An attempt to analyse the automaton 
+chess player, of Mr. de Kempelen 
+
+Robert Willis, Wolfgang von Kennpelen 
+
+■digitized by Google 
+
+EX LIBRIS 
+
+SILAS W.HOWLAND 
+
+HARVARD COLLEGE LIBRARY 
+
+FROM TH£ COLLECTION OF 
+
+SILAS 
+
+AND 
+
+£R 8, 1938 
+
+Digitized by Google 
+
+Digitized by Coogle 
+
+Digitized by Google 
+
+Digitized by Gopgle 
+
+AN ATTEMPT TO ANALYSE 
+
+THB 
+
+AUTOMATON CHESS PLAYER. 
+
+Hoiiri.KTTand Brimvir, 
+fiiiMri, 19, rritk Ham, MM^ 
+
+I 
+
+Digitized by Google 
+
+# 
+
+Digitized by Google 
+
+AN ATTEMPT TO ANALYSE 
+
+THB 
+
+AUTOMATON CHESS PLAYER. 
+
+OF 
+
+MR. DE KEMPELEN. 
+
+W.TR Al. BASV METHOD OF IMITATING THE MOVEllEliTS OF THAT 
+
+CELEBRATliD FIGUBB- 
+
+ItLWTRATEO BY OWOINAL DRAWWOS. 
+
+TO WHICH IS ADDED, A COPIOUS COLLECTION OF 
+
+THE KNIGHT'S MOVES 
+
+. OVER THB CHBS8 BOARD. 
+
+/ 7J 
+
+LONDON: 
+
+PRI^J PED FUR J. BOOTH, 
+
+DITKH STRKKT, PORTLAHD »L*CB. 
+
+1821. 
+
+Digitized by Google 
+
+t 
+
+HARVARD COLLEGE LIBRART 
+
+eFQfirST OF 
+SILAS W. HOWLANO 
+HOVEMBEA 8| 1938 
+
+Mine eyes are made the foob o*.the other senses. 
+
+Shakspbabs. 
+
+I had not thought to have onlockt my lips 
+In this unhallowed air» but that this juggler 
+Would think to charm my judgment, as mine eyes. 
+
+Milton. 
+
+Digitized by Google 
+
+AN ATTEMFr TO ANALYSE, &c. 
+
+IHE Automaton Chess Player was iirst 
+introduced into England by Mr. de Kem- 
+peieu» its iuventer, about the year 1783* 
+It was brought again into this country two 
+years ago, and exhibited under the direcr 
+tion of a very ingenious gendeman, Mr. 
+MaelzeL 
+
+The annexed drawings, (plate 1, figs. 1 
+and 2,) represent the general appearance of 
+the machine. It runs on castors, and is 
+either seen on the floor when the doors 
+of the apartment are thrown open, or is 
+wheeled into the room at the conamence- 
+itient of tike exhibition. 
+
+Digitized by Google 
+
+6 
+
+The exhibiter, in order to shew the me- 
+chanism, as he informs the spectators, im- 
+locks the door (a, fig. X.) of the chest, which 
+exposes to view a small cupboard, lined 
+with black or dark coloured cloth, and 
+containing different pieces of machinery, 
+which seem to occupy the whole space. 
+He next opens the door (b, fig. 2.) at the 
+back of the same cupboard, and, holding 
+a lighted candle at the opening, still further 
+' exposes the machinery within. The candle 
+being withdrawn, the door (b) is then locked. 
+The drawer (g g, fig. 1.) in the firont of the 
+chest is next opened, and a set of chess 
+men, a small box of counters, and a 
+. cushion for the support of the Automaton's 
+arm, are taken out of it The exhibiter 
+now opens the two front doors (c c, fig. L) of 
+the large cupboard, and the back door (d, 
+fig. 2.) of the same, and applies a candle as 
+in the former case. This cupboard is lined 
+with cloth like the otlier, but it contains 
+
+Digitized by Google 
+
+I 
+
+7 
+
+only a few pieces of machinery. The 
+chest is now wheeled round, the garments of 
+the figure are iiited up, and the door (e, iig« 
+2,) in the ti luik, aiid auuther (r,) in the thigh, 
+are opened. But it must be observed that 
+the doors (b and d) are closed. The cir- 
+cumstance is mentioned, because Mr. de 
+Windibch, in his letters on this subject, has 
+a passage which would seem to imply that 
+Mr. MaekeFs mode of exhibiting the in- 
+terior differs from that which Mr. de Kem- 
+pelen employed. ** But do not imagine/* 
+says De Windisch, like many others, that 
+the inventer shuts one door as he opens 
+another; the entire Automaton is seen at 
+the same time uncovered, his garments 
+turned up, and the drawer opeped. as weU 
+as all the doors of the chest.'^ 
+
+Now a reference to De Kempelen's se- 
+cond drawing, published by Mechel, and 
+annexed to De Windisch's letters, vnll 
+
+Digitized by Google 
+
+8 
+
+shew that, when tlie chest was turned round, 
+the doors (b and d) were actually closed, as 
+they always have been under the direction 
+of Mr. MaelzeL In the chest of the latter 
+gentleman, indeed, the doors in question 
+are suspended by hinges attached to flie 
+upper part, (as in fig« 2), and consequently 
+close by their own gravity. But the fact is, 
+that the exhibiter never fails to lock them, 
+though he leaves the keys in one of the 
+locks. The other doors axe allowed to swing 
+about whilst the chebt is wheeled ruuud. 
+
+The chest is now restored to its former 
+position on the floor ; the doors in iront, 
+and the drawer, are closed and locked; 
+and the exhibiter, after he has occupied 
+some time at the back of tlie chest, in ap* 
+parently adjusting the machinery, removes 
+the pipe from the hand of the iGigure, 
+winds up the works, and the Automaton 
+begins to move. 
+
+9 
+
+These movements, resulting, as they 
+appear to do, ixom mere mechanism, yet 
+strongly unpressed with the distinctive cha- 
+racter of an intellectaal guidance, have ex- 
+cited the admiration of the curious during 
+a period little short of forty years. In 
+that time various conjectures have been 
+offered to the world as solutions of the 
+problem; but no one, as far as I know, 
+having attempted to imitate the movements, 
+it is fair to conclude, either that the means 
+proposed are inadequate to the end, or that 
+the description of th^m is too imperfect to 
+enable a workman to complete the ma- 
+chinery. 
+
+Automata may be divided into three 
+classes — ^the simple—the compound — and 
+the spurious. . 
+
+The hrst class comprises those insulated 
+Automata whose movements result from 
+
+10 
+
+mechanism alone ; by the aid of which they 
+perfonn certain actions, and continue them, 
+so long as the moving force is kept in an 
+active state. 
+
+' The second class includes those Auto- 
+mata, which, like tlie former, are moved 
+by machinery ; but, possessing at the same 
+time a conununication, not immediately 
+apparent, with human agency, are enabled 
+to change the regular order and succession 
+of their movements, according to existing 
+circumstances; and hence, in some mea- 
+sure, to assume the character of living 
+beings. . 
+
+The third class contains those Automata 
+which, under the semblance only of mecha- 
+nism, are wholly directed and controlled by 
+a concealed human agent 
+
+Digitized by Google 
+
+11 
+
+The pheoomena of the Chess Player are 
+inconsistent with the effects of mere me- 
+chanism ; for, however great and smpiising 
+the powers of mechanism may be, the 
+moremeuts which spring from it, are neces- 
+sarily limited and uniform ; it cannot usurp 
+and exercise the feculties of mind; it 
+cannot be made to vary its operations, so as 
+to meet the ever-varying circumstances of 
+a game of chess. This is the province of 
+intellect alone ; and the Chess Player must 
+consequently relinquish all claim to be ad- 
+mitted into the iirtit division. Let us ex- 
+amine its title to be ranked in the second 
+class. 
+
+The chess board contains sixty-four 
+squares, and in order to execute tibe move- 
+ments of the Chess Player, distinct trains 
+of machinery must be formed, which shall 
+be capable, when set in motion, of convey- 
+ing the hand of the Automaton to each, and 
+
+Digitized by Google 
+
+12 
+
+to any, of these several squares. Having 
+arrived at a square, and taken up a chess 
+man, it will be requisite, either to with- 
+draw the hand towards the side, and with- 
+out the limits of the board, for the pur- 
+pose of letting drop llie chess man there, 
+and thence to proceed to another square, 
+and remove a chess man to a third square ; 
+or it may be required to pass at once 
+from the first square to any other on 
+the board, and there to deposit the man. 
+These movements must be promptly per- 
+formed, and repeated as often as flie cir- 
+cumstances of the game may call for 
+them. 
+
+Setting aside a great variety of minor 
+details, it will be evident to any person, 
+even slightly acquainted with mechanics, 
+fliat the execution of &ese movements, so 
+extensive, so complicated, and so variable, 
+would be attended with diihculties almost 
+
+Digitized by GoQgle 
+
+13 
+
+itisurmouutable ; but we will suppose for a 
+moment that these obi>tacles are overcome ; * 
+let it be conceded that a machine has been 
+constructed so perfect, that, on gi'^'ing mo- 
+tion to the respective trains, the required 
+movement shall be instantly perfomed. 
+What then ? The main object will be still 
+unattaiued ! Where is the intelligence and 
+the " promethean heat" tliat can animate 
+the Automaton and direct its operations ? 
+Not only must an intellectual agent be pro* 
+vided, but between such an agent and his 
+deputy, the Automaton, a direct communi- 
+cation must be formed and preserved, liable 
+to no interruption, and yet so secret that 
+tlie penetrating eye of the most inquisitive 
+observer may not be able to detect it. 
+Till this be done, the Chess Player s title to 
+be admitted into the second division will, 
+at any rate, continue in abeyance. 
+
+I am aware that on this part of ihe 
+
+Digitized by Google 
+
+14 
+
+subject conjecture has been busy, and dif- 
+ferent plans have been devised for the 
+maintenance of the intercourse alluded to. 
+The task has been imposed on the exhibiter 
+of the machine, he being the only person 
+on whom it could devolve with even a sha- 
+dow of probability ; and to effect his purpose 
+it has been suggested that he might touch 
+certain springs, or pull " a wire not much 
+thicker than a hair/' or be furnished with a 
+powerful magnet. But such conjectures 
+are unworthy of serious refutation ; for 
+besides the uncertainty and constant liabi- 
+lity to interruption of such modes of com* 
+munication, they are actually at variance 
+with the unifonn conduct of the exhibiter. 
+Whoever has witnessed the exhibition will 
+have seen that the exhibiter is not confined 
+to a particular spot in the room, but, on the 
+contrary, that he is frequently, during the 
+process of the game* at a distance trom 
+the chest, far beyond the sphere of iniluence 
+
+Digitized by Google 
+
+15 
+
+of any of these proposed modes; and if, at 
+such times, the Automaton can move a 
+
+single joint, it is proof decisive that its 
+
+action springs from another source. 
+
+Having now shewn how difficult, and 
+perhaps impossible, it would be to execute 
+the movements of the Chess Player by me- 
+chanism, and maintain, at the same time, a 
+conununication with the agent, who would 
+be required to give life, as it were, and 
+intelligence to the operations, it becomes 
+necessary to inquire whether the prevailing 
+opinion, which attributes these movements 
+to machinery, be, or be not, established in 
+fact ; for, if this opinion should be found, 
+on examination, to originate merely in the 
+artful management and display of some 
+parts of the apparatus, and to rest on no 
+solid basis, there would be no longer any 
+embarrassment in appreciating the real 
+value of the Chess Player, nor in apportion* 
+
+Digitized by Google 
+
+16 
+
+ing a proper Btation for it, considered as a 
+work of art. 
+
+At llic commencement of the exhibition 
+the spectators are gratuitously made ac- 
+quainted with the interior of the chest, 
+which is divided into two unequal compart- 
+ments, and occupied by pieces of machi- 
+nery, so arranged, as apparently to render 
+the concealment of any human being im- 
+possible. When the movements of the 
+Automaton begin, the beholders, in the first 
+moments of surprise, and in the absence of 
+any ostensible living cause, very naturally 
+refer ihe effect to the mechanism, which has 
+been exhibited ; and with likelihood enough, 
+for the movements immediately follow the 
+familiar action and well known sound of 
+winding up clockwork, and are moreover 
+very skillfully accompanied by the grating 
+noise of moving wheels. But, these indica- 
+tions excepted, where is the evidence that 
+
+17 
+
+tbe machinery moves, or that the slightest 
+inilueiice is exerted by it on the arm of the 
+Automaton ? The whole is excluded liom 
+view, and a moment's reflection will con- 
+vince any one that no stress can be laid on 
+the winding up, nor on the accompanying 
+sounds, which are imitable in various ways. 
+
+If, however, no proof can be given of the 
+actual movement of the machinery, tlie fol- 
+lowing considerations will tend to shew that 
+it ranains quiescent, . and is probably not 
+
+formed ior motion. 
+
+An artist, whose talents had enabled him 
+
+to contrive madiinery capable of executing 
+the varied and extensive movements dis- 
+played by the Automaton, would surely be 
+desirous of laying open to view as much of 
+the mechanism of iiis contrivance, while in 
+actual motion, as he could do, consistentlj^ 
+with the reservation of his secret ; if for no 
+
+18 
+
+other reason, at least to convince the look- 
+ers-on that deception formed no part of his 
+plan. Now it cannot be reasonably urged» 
+in vindicatiou of tlie iiiventer's forbearance, 
+in the instance of the Chess Player, that 
+even a glance at any part of the machinery 
+in motion would betray the secret ; for a 
+question will immediately arise. Why then 
+is the machinery at Test so freely exposed ? 
+On that score no apprehension seems to 
+be entertained ; the chest is ostentatiously 
+opened, and the semblance, at least, of 
+wheels, and pullies, and levers, is submitted 
+to inspection without reserve: but when 
+their reality should appear, and their con- 
+nection with the Automaton be made mani* 
+fest, the doors are carefully closed, and the 
+spectators are required to pay large drafts 
+on their credulity, without any means of 
+further exanunation. The glaring contra- 
+diction between eager display on the one 
+hand, and studied concealment on ttie other. 
+
+Uiymzeo by <^OOgle 
+
+19 
+
+ean only be reconoUed by considering the 
+
+axhibition of the mechanism as a mere strjsi- 
+tageni) calculated to dibtract the attention, 
+and mislead the judgment, of the spe^ 
+tators. 
+
+The truth of this opinion receives addi-^ 
+tional support from the regular and mide* 
+viating mode of disclosing the interior of the 
+chest. If the mechanism were the real 
+object in view, the^ole being quiescent, 
+it would be matter of indifference which 
+part was iirsi laid open ; and accident alone, ' 
+unless pow^ful reasons operated against it, 
+would lead occasionally to some variation^ 
+But no variation has ever been observed to 
+take place. One uniibrm oj der, oi routine, 
+is strictly adhered to, and this circumstance 
+alone is sufficient to awaken suspicion, for 
+it shews plainly that more is intended by 
+the disclosure than is permitted to meet the 
+eye* 
+
+c 
+
+Digitized by Google 
+
+20 
+
+It has already been suggested, that little 
+stress could be laid on the Mrinding up : 
+indeed the simple act of turning round a 
+key or winder can offer no argument in 
+proof of the efficiency of the machinery, 
+unless at the same time it could be shewn 
+that the key, in turning, eitlier acted upon a 
+spring, or pulled up a weight, for the puiv 
+pose of giving motion to the machinery in 
+question. But unluckily for the Chess 
+Player, the phenomena afford positive proof 
+that the axis turned by the key is quite free, 
+and unconnected, either with a sprnig, or a 
+weight, or any system of machinery. 
+
+In all machines requiring to be wound 
+up, two consequences are inseparable from 
+their construction : the first is, that, in wind-* 
+ing up the machinery, the key is limited in 
+the number of its revolutions ; and the 
+second is, that some relative proportion must 
+be constantly maintained betwixt the wind* 
+
+Digitized by Google 
+
+81 
+
+ing up and the work performed, in ord^ to 
+enable the machine to continue its move- 
+ments. Now these results are not observ- 
+able in the Chess Player ; for the Automaton 
+will sometimes execute sixty-three moves 
+with only one winding up ; at other times 
+the exhibiter has been observed to repeat the 
+winding up after seven moves, and even three 
+moves; and once, probably from inadvert- 
+ence, without the intervention of a single 
+move ; whilst, in every instance, and the 
+circumstance, though trifling, calls for par- 
+ticular attention, (for, in these matters, be it 
+remembered, trifles light as air, are con- 
+firmations strong,") the key appeared toper- 
+form the same number of revolutions; 
+evincing thereby, that the revolving axis was 
+unconnected with machinery, except, per- 
+haps, a ratchet-wheel and click, or some 
+similar apparattfs, to enable it to produce 
+the necessary sounds, and consequently that 
+the key, like that of a child's watch, might 
+
+22 
+
+be turned, whenever the purposes of the 
+
+exhibition seemed to require it. 
+
+I shall now pass on to the third division, 
+and point out a method by which any per- 
+son, well skilled in the game, and not e^-> 
+ceeding the ordinary bulk or stature, may 
+secretly animate the Automaton, and suc- 
+cessfully imitate the movements of ]\Ir. De 
+Kempelen's Chess Player, 
+
+The general plan and dimensions of the 
+chest will be understood by inspecting the 
+plates, but some particulars, relative to thci 
+interior, will require further explanation. 
+
+The drawer (gg, plate 5,) when closed, 
+does not reach to the back oi the chest ; it 
+leaves a space (o) beliiiid it, about 1 foot 2 
+inches broad, 8 inches high, and 3 feet 11 
+inches long. Hiis space i* never exposed 
+to view, , 
+
+I 
+
+S3 
+
+The small cupboard is divided into two 
+parts by flie door or screen (i* fig* 6,) which 
+is moveable on a hinge, and is so contrived 
+that when n is closed, this screen may be 
+closed also. The machinery (h) occupies 
+the whole of the front division as far as i ; ' 
+th§ hinder division is nearly empty, and ' 
+communicates with the space behind tlie 
+drawer, the floor of this division being re* 
+moved. 
+
+The back of the great cupboard is double^ 
+and the part (p q,) to which the quadrants, 
+
+&c. are attached, moves on a joint (q), at the 
+upper puit, and forms, when raised, an 
+opening (s) between the two cupboards, by 
+carrying with it part of the partition (e), 
+which is composed of cloth stretched tight. 
+Fig. 10 shews the false back closed^ Fig. 
+11 shews the same raised, fonnihg the open- 
+ing (s) between the ciiambers. 
+
+Digitized by Google 
+
+«4 . 
+
+MTien the trnnk of fbe figure is exposed 
+by lifting up the dress, it will be seen that 
+a great part of it is occupied by an inner 
+
+trmik (n), which passes off towards the back 
+in the form of an arch, (fig. 2), and conceals 
+a portion of the interior from the view of 
+the spectators. This inner trunk opens to 
+the chest by an aperture ( r, fig. 9)? about 1 
+foot 3 inches high, by 1 foot broad. 
+
+When the false back is raised, the two 
+chambers, the trunks and the spac6 behind 
+the drawer, are all connected together. 
+
+The player may be introduced into the 
+chest through the sliding panel (u, fig. 6), at 
+the end. He will then elevate the false 
+back of the large cupboard, and assume the 
+position represented by the dotted lines in 
+figs. 3 and 4. Every thing being thus pre- 
+pared, " the charm's wound up," and tlie 
+
+Digitized by Google 
+
+25 . 
+
+exhibiter may begin his operations by open« 
+ing the door (a). Froin the crowded and 
+very ingenious disposition of the machinery 
+in this cupboard, the eye is unable to pene- 
+trate far beyond the opening, and the spec- 
+tator is led to conclude that the whole space 
+is occupied with a similar apparatus* This 
+illusion is strengtliened and confirmed by 
+observing the glimmering light which plays 
+among the intricacies of the machinery, and 
+occasionally meets the eye, when the hghted 
+candle is held at the door (b). A fact, too, 
+is ascertained, which is equally satisfactory, 
+though indeed for opposite reasons, to the 
+spectator and the exhibiter, viz. that no 
+opake body of any magnitude is interposed 
+between the light and the spectator's eye. 
+The door (b) must now be locked, and the 
+screen (i) closed, which being done at the 
+moment the light is withdrawn, will wholly 
+escape observation. 
+
+Digitized by Google 
+
+26 
+
+It has already beeu mentioned, that the 
+door (b), from its construction, closes by its 
+own weight ; but as the player's head will 
+presently be very near it, the secret would 
+be endangered, if, in turning round the 
+chest, this door were, by any accident, to 
+fly open ; it becomes necessary, therefore, 
+
+to make assurance double sure,"' and turn 
+the key. If the circumstance should be 
+observed, it will probably be considered as 
+accidental, the keys being immediately 
+wanted for the other locks* 
+
+* 
+
+The openmg (b) being once secured, and 
+
+the screen (i) closed, the success of the expe» 
+riment may be deemed complete. The 
+secret is no longer exposed to hazard ; and 
+the exhibiter is at Uberty to shape his con- 
+duct in any way, he may think, most likely 
+to secure the confidence of the spectators^ 
+and lead them insensibly from the main 
+
+37 
+
+object of piimiit The door (a) may be 
+safely left open; and ttus will tend to con- 
+firm the upmion, which tlie spectators pro- 
+bably formed on viewing the candle throng 
+flljs cupboard, that no person was concealed 
+withinit: it will further assure them that no- 
+thing can pass in the interior without their 
+
+knowledge^ so long as tiiis door conlinues 
+open. 
+
+The drawer stands next in the ordet of 
+saccession: it is opened, appereraly^ fiir 
+the purpose of taking out the chess mexiu 
+cushion, &c. but really to allow time for the 
+play^ to change his position, (see fig. 5.) 
+and to replace the false back and the par- 
+tition, preparatory to the opening of the 
+great cupboard. 
+
+The machinery is so thinly scattered oyer 
+this cupboard, that the eye .survejrs the 
+whole space at one glance, and it mi^t 
+
+Digitized by Cvj^.' v-c 
+
+28 
+
+« 
+
+seem unnecessary to opei^ a door at the 
+back, and to hold a lighted candle there, as 
+
+in the former instance ; but the artitice is 
+dictated by sound- policy, which teaches 
+that the exhibiter cannot be too assiduous 
+in afibrding facilities to ezpldre every comer 
+and recess, which, lie well knows, contain 
+nothing that he is desirous of coQcealing. 
+
+The chest may now be wheeled round 
+for the purpose of shewing the trunk of the 
+figure ; leaving, however, the front* doors 
+of the great chamber open. The bunch of 
+keys, too, should be suffered to remain in 
+the door (d); fortiie apparent carelessness of 
+such a proceeding will serve to allay any 
+suspicion, which the circumstance of lock- 
+ing the door (b) might have excited, more 
+especially as the two doors resemble one 
+another in point of construction. 
+
+M^en file drapery has been lifted up^^ 
+
+Digitized by Google 
+
+39 
+
+and die doors in (be trunk and thigh 
+opened, the chest may be returned to its 
+former situation, and the doors be closed* 
+In the mean-time the player should withdraw 
+his legs from behind the drawer, as he will 
+not so easily effect this movement a&er the 
+drawer has been pushed in. 
+
+Here let us pause awhile, and ccnnpare 
+the real state of the chest at this time, with 
+the impression which, at a similar period of 
+an exhibition of the Chess Player, has 
+generally been left on the minds of the 
+spectators; the bulk of whom Iiave con* 
+eluded flmt each part of the chest had been' 
+successively exposed ; and that the whole 
+was at that time open to inspection: whereas^ 
+on the contrary, it is evident that some 
+parts had been entirely withheld from view, 
+others but obscurely shewn, and that nearly 
+half of the chest was then excluded from 
+their sight. Hence we lesm how easily. 
+
+30 
+
+in matters of thb sort, llie judgment may 
+be led astray by an artftil combination of 
+
+circumstances, each assisting the other to- 
+
+wardij tlie attainmerit uf one object. 
+
+When the doors in front have been 
+dosed, the exhibiter may occupy as much 
+time, as he finds necessary, in apparently 
+adjusting the machinery at the back, 
+whilst the player is taking the position 
+described in figs. 7 and 8. In this position he 
+will find no difficulty in executing every 
+movement required of the Automaton: 
+his head being above the table, he will seethe 
+chess-board through the waistcoat, as easily 
+as through a veil; and his left hand extending 
+beyond the elbow oi the figure, he will be 
+enabled to guide its hand to any part of 
+the board, and to take up and let go a chess 
+man with no other deUcate mechanism" 
+than a string communicating with the fin- 
+gers. His right hand being within the 
+
+Digitized by 
+
+31 
+
+diesty may serve to keep in motion the 
+contrivance for producing the noise, which 
+is heard during the moves, and to per* 
+• form the other tricks of moving the 
+head, tapping on the chest, &c. 
+
+In order to faciUtate the introduction of 
+the player's left arm into the arm of the 
+figure, the elbow of the latter is obliged 
+to be drawn backwards; and to account 
+for, and conceal, this strained attitude, a 
+pipe is ingeniously placed in the Auto^ 
+maton's hand. This pipe must not be 
+removed till the other arrangements are 
+completed. 
+
+When all is ready, and the pipe re- 
+moved, the exliibiter may turn round the 
+winder, or key, to give the impression to 
+the spectators of winding up a spring, or 
+weight, and to serve as a signal to the 
+
+Digrtized by Google 
+
+33 
+
+piayer to set the head of the Automaton in 
+
+motion. 
+
+The above process is simple, feasible, 
+and eflfective; shewing indisputably that 
+the phenomena may be produced without 
+the aid of machinery, and thereby ren- 
+daring it probable that the Chess Player 
+belongs in reality to the third class of 
+Automata, and derives its merit solely 
+from the very ingenious mode by which 
+the concealment of a living agent is 
+effected. 
+
+In conducting this analysis, tlie author 
+disclaims even the sliglitest wish or inten^ 
+tion to depreciate, or detract from, the 
+real merits of Mr. De Kempelen: those 
+merits have long since received the stamp 
+of public approbation; indeed, a more 
+than ordinary share of skiU and ingenuity 
+
+Digitize<j by G 
+
+33 
+
+must have fallen to his lot> who could 
+imagine and execute a machine (it matters 
+not by what means the phenomena are 
+brought about) which has never failed to 
+delight tlie spectators, by exciting and 
+maintaining, above all other contrivances 
+of the kind, that pleasing delusion in the 
+mind, which the Roman poet has so hap- 
+pily denominated' Mentis gratimmm 
+ttrorJ* 
+
+December^ 1820. 
+
+Digitized by Google 
+
+35 
+
+EXPLANATIOJS OF THE PIATES. 
+
+• PLATE L 
+
+Fig. I. A perspective view of the Automatou, seen in 
+iroDty with all tke doors throvn opeo. 
+
+Tig, 2. An elevatioD of tliQ back of the Automatcm. 
+
+PLATE n. 
+
+Fig. d. An elevation of the front of the chest, the 
+dotted lines repTcsenting the - player in the 
+first position. 
+
+Fig. 4. A side elevation, shewing the player in the 
+same position. 
+
+PLATE III. 
+
+■ 
+
+Fig. 6* A front eleTatton^ shewing the second po« 
+sition. 
+
+Fig. 6. An horizontal section through the Ime WW. 
+fig. 6. 
+
+PLATE IV. 
+Fig« 7* A front elevation, shewing the third position. 
+
+Fig. 8. A side elevation of the same positioD. 
+
+PLATE V. 
+
+Fig. 9. A vertical section through the line XX, fig. 8. 
+
+Fig. 10. A yerttcal section through the line TY, 
+
+fig. 7, shewing the false back closed. 
+
+Fig, H. A similar section* shewing the false back 
+raised. 
+
+Digitized by Gopgle 
+
+36 
+
+THK FOLLOWING LBTTBES OP RBPBRBNCE AftB 
+
+BHPLOYBD IN ALL THB PLATES. 
+
+♦ 
+
+A Front door oi' the small cupboard* 
+
+II Back door oi' ditto. 
+CC Front doors of the large cupboard. 
+
+D Back door of ditto 
+
+£ Door in the trunk 
+
+F Door in the thigh. 
+GG The drawer. 
+
+H Machinery in front of the small cupboard. 
+I Screen behind the machinery. 
+K Opening caused by the removal of part of the 
+floor of the small cupboard. 
+
+h A box which serves to conceal an opening in the 
+floor of the kirgc cupboard, made to facilitate 
+the first position ; and which also serves as a 
+seat for the playe/ in the third position. 
+
+M A similar box to receive the toes of the player in 
+the first position. 
+
+N The inner chest, filling up part of the trunk. 
+
+() The space behind the drawer. 
+FQ The false back, turning on a joint at Q. 
+
+R Part of the partition formed of cloth stretched 
+tight, which is carried up by the fabe back» 
+to form the opening between the chambeics. 
+
+S The opening between the clianilK is. 
+
+T The opening connecting the trunk and chest, 
+which is partly concealed by the false back. 
+
+U Panel which is slipped aside to admit the player.. 
+
+37 
+
+* 
+
+APPENDIX. 
+
+THE Kaight'a move over the chess board has engaged 
+the attention of so many soientific men, that I cannot 
+doubt that a collection of different solutions of the 
+problem will prove acceptable to all admirers of 
+
+chess. 
+
+The Knight's path is of two kinds — terminable and 
+interminable — it is interminable, whenever the last, or 
+concluding, move of a series be made on a square^ 
+which lies within the Knight's reach of that from which 
+he orig;iually set oat--and terminable in every other 
+instance. 
+
+Euler published a paper in the Memoirs of the 
+* Academy of Berlin, 1759, which contains a method of 
+hiling up all the squares, setting out from one of the 
+coiners. It also contains an endless or interminable 
+rente ; and explains a principle by which these routes 
+may be varied so as to end upon any square. Mont* 
+mort, Demoivre, and Mairan, have severally given 
+solutions of the same problem. These solutions, will 
+be found in the following collection. 
+
+Digitized bv Google 
+
+38 
+
+■ 
+
+Observing that the AutomatoDy under the direction 
+of Mr. Maelzely occasionally traversed half the board, 1 
+was induced to pursue the subject, and I found that 
+
+the move might be perlormcii on any paralleiogram con- 
+sisting of squares and upwards, with the eTcep* 
+tion of Ji/teeu^kiLid eighteen squares. The whole board 
+admits of a great variety both in the teiminable and 
+Interminable rontes. 
+
+In describing the Knight's path, I have preferred 
+
+lines to ligures i the former giving a clearer idea of the 
+plan pursued* and affording a greater facility of eom* 
+
+paring one route with auuther, than the latttr. 
+
+DiBECTlONB FOK PLACING THE PLATEf. 
+
+Plale 1 to face the Title. 
+PlaUs '2to Pa^t 36. 
+1— 6#al0 38. 
+
+Digitized by Goo ^I 
+
+Digitized by Google 
+
+Digitized by Google 
+
+Digitized by Google 
+
+Digitized by Google 
+
+1 
+
+1 
+
+i 
+
+I 
+
+I 
+
+Digitized by Google 
+
+Digitized by Google 
+
+Digitized by Google 
+
+Mike. 
+
+Digitized by Google 
+
+Digitized by Gopgle 
+
+Digitized by Google 
+
+Digitized by Google 
+
+40 
+
+LIST OF THE KNIGHTS MOVES 
+
+Contamed in Plates Q, 7, S, 9, and 10, 
+
+Methods qf feffonmng the Move on Pardhhgrama hn fhm tk9 
+
+wkolo Board, 
+
+No. 1 the Move on 12 Squares 
+
+2 
+3 
+4 
+6 
+6 
+7 
+8 
+9 
+10 
+
+20 
+25 
+21 
+24 
+24 
+30 
+
+ae 
+
+32 
+
+No. 11 the MoYo on 35 Sqai 
+— 12 40- 
+
+13 
+
+14 
+15 
+16 
+
+48 
+
+49 
+
+17 an Intemunable Route 
+
+on 48 Squaies 
+
+18 Do. Do. 56 ' . • 
+
+Terminable Rorttes ooer the whole Board, 
+
+No. 20 By Euler 
+
+— 21 - Do. 
+
+— 22 - Do. 
+
+— 23 - Do. 
+
+No. 24 T?y Demoivre 
+~ 25 - Do. 
+
+— 26 - Mairan 
+
+— 27 - Montmort 
+
+No. 28 By the Author 
+30 - Do. 
+
+Laerminaie RmAee over the whole Board, 
+
+No. 30 By Euler 
+31 - Mons.W. 
+
+— 32 - the Author 
+
+— 3d - Do. 
+
+No. .34 By the Author 
+
+— 35 - Do. 
+
+— 30 - Do. 
+
+— 37 - Do. 
+
+No. 36Bytiie Author 
+— 39 - Do. 
+
+H o \v I. KT T and B Fi r M M BR , 
+Pcioter*, lo, FriUi Street^Sobo. 
+
+Digitized by Google 
+
+•Digitized by Gopgle 
+
+1 
+
+Mr- 
+
+'t 
+
+Digitized by Google 
+
+J 
+
+r 
+
+This book should be returned to 
+the Library on or before the last date 
+stamped below. 
+
+A fine of five cents a day is incurred 
+by retaining it beyond the specified 
+time. 
+
+Please return promptly. 
+
+DEC i\ 
+
+Digitized by Google

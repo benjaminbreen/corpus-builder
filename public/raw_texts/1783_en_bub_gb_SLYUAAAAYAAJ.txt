@@ -1,0 +1,1398 @@
+36 ?r. v-y. 7 
+
+HARVARD 
+COLLEGE 
+LI B RARY 
+
+1 
+
+I 
+
+V 
+
+■ 
+
+— = - _^ . Digitized by Goo<2 
+
+LETTRES 
+
+SUR 
+
+' ' ' » • 
+
+LEJOUEUR D'ECHECS 
+
+DE M. DE> KEMPELEK. 
+
+I 
+
+LETTRES 
+
+CHARLES GOTTLIEB DE WINDISCH 
+
+SUR 
+
+LEJOUEURD'ECHECS 
+
+DE M. DE KEMPELEN. 
+
+TRADUCTION LIBRE DE L'ALLEMAND , 
+
+Accompagnée de trois Gravures en taille-douce 
+qui repréf entent ce fameux Automate* 
+
+publiée 
+
+PAR CHRÉTIEN DE MECHEL, 
+
+■ 
+
+Membre de l'Académie Impériale & Royale 
+; de Vienne & de plufieurs autres. 
+
+aBasle chez l'Editeur. 
+
+MDCCLXXX1IL 
+
+Avec Privilège de S. M. Impériale & Royale. 
+
+Digitized by Google 
+
+HARVARD COLLEGE LIBRARY 
+BEQUEST OF 
+8ILAS W. HOWLAND 
+NOVEMBER 8, 1938 
+
+Digitized by Google 
+
+PREFACE. 
+
+L'Ide'e la plus hardie qu'un méca- 
+nicien ait jamais ofé concevoir , étôit 
+fans doute celle d'une machine qui 
+imitât par quelque chofe de plus que 
+la figure & le mouvement, le chef- 
+d'œuvre de la Création^Non-feulenient 
+JVL de Kempelen a conçu la chofe , 
+il l'a même exécutée ; & fon Joueur 
+d'Echecs eft fans coptredît l'automate 
+le plus furprenânt qui ait jamais exiftë. 
+En effet , avoit-on jamais vu aupara- 
+vant une figure purement mécanique, 
+réunir à la force mouvante , la force 
+dire&rice, ou, pour mieux dire, la 
+faculté de fe porter d'elle-même ça & 
+là félon des circonftances imprévues , 
+& que toute perfonne quelconque 
+pouvoit faire naître à fon gré ? Avoit- 
+
+A ij 
+
+iv . . 
+
+on jamais Vu une figure de bois 
+jouer le plus difficile & le plus com- 
+pliqué de tous les jeux , gagner fou- 
+vent la partie fur le joueur le plus 
+confommé , & le redreifer même , 
+s'il s'écartoit des règles du jeu ? 
+
+C'était un phénomène trop extraor- 
+dinaire pour ne pas faire grand bruit 
+lors de fon apparition; auffi les ga- 
+zettes & les journaux s'emprefferent- 
+ils de l'annoncer , # mais ce ne fut pas 
+fans en exagérer plus ou moins le 
+merveilleux. U n'en avoit paru juf- 
+qu'à préfent qu'une feule defcriptioiï' 
+exadte & dépouillée de toute exagé- 
+ration; c'eft celle que publia dès 1775 
+dans quelques papiers publics de pro- 
+vince , l'eftimable Auteur de l'Hif- 
+toire & de la Géographie du royaume 
+d'Hongrie , M. de Windisch , ami 
+
+intime de M. de Kempelen & fon 
+compatriote : mais cette defcription 
+• peu détaillée , & répandue dans une 
+fphère très-circonfcrite , n'étoit pas 
+fuffifante pour faire connoître , comme 
+elle méritoit de l'être, à l'Europe 
+éclairée , une invention aufli furpre- 
+nante & même aufli incroyable. 
+
+Le même Auteur que nous venons 
+de nommer s'eft donc acquis des droits 
+à la reconnoiflance du Public , en lui 
+fourniflànt dans les Lettres que nous 
+publions , des détails plus particuliers 
+de ce fameux Automate. U y rend 
+compte de toutes les parties qui lç 
+compofent, & les décrit d'une ma- 
+nière qui ne laifïe rien à défirer , fi 
+ce n'eft le fecret de l'Inventeur ; & 
+y ajoute quelques traits intéreflans, 
+trèsrpropres à faire connoître le mérite 
+
+Vf 
+
+fopérieur de cet homme fi digne de 
+la plus grande célébrité. 
+
+L'Editeur qui s'eft chargé de la pu- 
+blication de ces Lettres, ayant con- 
+tracté , pendant le long féjour qu'il a 
+fait à Vienne , d'étroites liaifons avec 
+M. de Kempelen , & vu fouvent jouer 
+fon Automate , fe félicite de pouvoir 
+jouiï , en s'acquittant de cet office , 
+du double avantage de prouver à ce 
+même Public fon empreifement à lui 
+plaire, & de donner en même tems 
+à fon illuftre ami , un témoignage 
+authentique de l'eftime particulière 
+qu'il lui a vouée, 
+
+m 
+
+« 
+
+Pour mieux remplir ce but , il a 
+joint à ces Lettrés , trois eitampes qui 
+repréfentent le Joueur d'Echecs en 
+autant .de lituations différentes , & 
+
+vij 
+
+avec d'autant plus de fidélité qu'elles 
+ont été gravées avec foin d'après les 
+propres deffeins de M. de Kempelen. 
+
+Dans la première, on le voit en 
+face , avant le jeu. 
+
+Dans la féconde , il eft vu par der* 
+rière , également avant le jeu. 
+
+La troifième le rçpréfente occupé 
+à jouer , le bras & la main levés. 
+
+Ces Eftampçs font d'une double 
+utilité. Ceux qui n'ont pas eu occa- 
+fion de voir l'Automate , pourront par 
+leur moyen , s'en former une idée 
+exa&e ; & elles rappelleront à ceux 
+qui ont joui du plaifir de l'avoir vu , 
+l'agréable fouvenir du chef-d'œuvre 
+le plus intérelfant que l'art ait jamais 
+produit Puilfent - elles auffi trank 
+
+vnj 
+
+■ mettre à la poftérité , la mémoire de 
+l'étonnant génie que ce fiècle a pro- 
+duit dans la perfonne de Monfieur de 
+Kempelen ! 
+
+PREMIERE LETTRE. 
+
+Presbourg le 7 Septembre 1783. 
+
+vous attendez pas , mon cher ami , 
+à me voir réfoudre toutes les queftions 
+que vous me faites fur le célèbre Joueur 
+d'Echecs de M. deKempelen. Les Ozanams , 
+les Guyots , & tous les auteurs de ce genre 
+ne réuffiroient pas mieux que moi à fatif- 
+faire à vos demandes. Prenez donc le parti 
+de mettre des bornes à votre curiofité , & 
+contentez-vous de ce que les obfervations 
+que j'ai faites avec foin me mettent à portée 
+de vous apprendre à cet égard. 
+
+Loin de croire â toutes les relations qui 
+
+Digitized by Googl 
+
+( io) 
+
+vous ont été faites , ou que vous avez eu 
+occafion de lire fur cette Machine , les ré- 
+flexions auxquelles elles vous ont entraîné 
+ne font , me dites-vous , qu'exciter de plus 
+en plus le défir que vous avez d'être mieux 
+inftruit, parce qu'elles augmentent vos dou- 
+tes fur la poflïbilité d'une chofe aufli in- 
+croyable. Ne vous en étonnez pas , mon 
+cher , puifque moi-même , qui ai vu cette 
+Machine ii fouvent , qui l'ai examinée , & 
+qui ai joué avçc elle , je me trouve dans 
+le cas de vous faire l'humiliant aveu , que 
+je ne la conçois pas mieux que vous. Ce 
+qui confole mon amour-propre , ç'eft que 
+bien d'autres , quoique doués de connoif- 
+fances plus profondes & d'une pénétration 
+plus vive , n'ont pas été plus heureux que 
+moi. Entre plufieurs milliers de perfonnes 
+de tout rang qui l'ont vue , il n'en eft au* 
+cune qui en ait découvert le fecret 
+
+( « ) 
+
+Cependant , dites vous , ce ne peut être 
+qu'une illufion; c'eft ce dont l'Auteur même 
+& tout être raifonnable conviendra avec 
+vous. Mais en quoi confifte cette illufion ? 
+Voilà le nœud gordien plus difficile à ré- 
+foudre que celui tranché jadis par Alexandre. 
+
+» 
+
+Qçft une illufion, foit! mais uneillufioa 
+qui fait honneur à Pefprit humain ; illufion 
+plus belle, plus furprenante, plus inconce- 
+vable, que toutes celles que l'on trouve 
+dans les différens recueils de récréations 
+mathématiques. 
+
+♦ ? 
+La première idée qui fe préfente en exa- 
+minant fuperficiellement le Joueur 
+checs, c'eft de foupçonner que fes mouve* 
+mens reçoivent leur impulfion immédiate- 
+ment de quelque être humain. Je ne fus 
+pas exempt de cette erreur : lorfque je vis 
+
+( 12 ) 
+
+pour la première fois l'Inventeur pouffer 
+hors d'une alcove fon Automate fixé à une 
+armoire allez volumineufe , je ne pus , non 
+plus que les autres affiûans , me défendre 
+du foupçon , que cette armoire recéloit 
+certainement un enfant , que je jugeai d'a- 
+près les dimenfions prifes au coup-d'œil 
+pouvoir être d'un âge de dix à douze ans. 
+Plufieurs d'entre les fpedateurs en étoient 
+fi perfuadés , qu'ils le difoient hautement ; 
+je me contentai d'applaudir en fecret à 
+leur fufpicion , mais je n'en fus pas moins 
+confondu , lorfque je vis M. de Kempelen 
+retrouffer les vétemens de l'Automate, fortir 
+le tiroir & ouvrir toutes les portes de l'ar- 
+moire , la promener , ainfi ouverte , au 
+moyen des roulettes fur lefquelles elle porte, 
+la tourner en tous fens & permettre à 
+tous les affiftans de l'examiner de tous les 
+côtés. 
+
+Digitized by Google 
+
+( 13 ) 
+
+Je ne fus pas , comme vous penfez bien , 
+un des moins empreffés à y porter mes re- 
+gards curieux; je n'en négligeai pas le plus 
+petit recoin, &ne trouvant cependant rien 
+dans toute fa capacité qui eût pu recéler le 
+volume de mon chapeau , mon amour-pro- 
+pre fut douloureufement affefté de voir 
+s'évanouir ainfi Une conjecture qui du pre r 
+mier abord m'avoit paru fi heureufe. 
+
+Je ne fais fi tous les fpe&ateurs éprouvè- 
+rent la même impreffion ; au moins crus-je 
+remarquer fur la phyfionomie de quelques- 
+uns d'entr'eux les traces d'une furprife ex- 
+trême. Une vieille dame furtout, qui fans 
+doute n'avoit pas encore oublié les contes 
+dont on avoit bercé fon enfance , fe figna * 
+en pouflànt un foupir dévot, & s'alla ca- 
+cher dans l'embrafure d'une fenêtre aflTez 
+éloignée pour n'être plus fi voifine de Pet 1 
+
+( H) 
+
+prit malin , qu'elle fuppofoit vraifemblable- 
+ment devoir animer la Machine. 
+
+. Mais il fonne minuit , & vous favez que 
+c'eft Theure à laquelle il eft le moins trai- 
+table, je ceffe mes plaiûnteries & vous 
+fouhaite le bon foin 
+
+< m!) 
+
+gît: 
+
+SECONDE LETTRE. 
+
+i 
+
+le 10 Septembre. 
+
+Je ne feurois trouver de terme qui rende 
+Tidée que je me fuis faite de vous , en lifent 
+dans votre dernière lettre toutes les ima- 
+
+m 
+
+KM 
+
+foupçonneux. 
+
+Vous n'en croyez ni à mes yeux , ni à 
+ceux de tant d'autres, ni même à leurs lu- 
+nettes ! Vous doutez que nous ayons bien 
+vu , & vous entaffez tant de fi & de mais , 
+que je ferois tenté de vous croire du nom- 
+bre de ceux qui foupçonnent de la magie 
+dans la Machine de M. de Kempelen. Un 
+peu de patience & vous faurez tout, jufqu'au 
+petit Retentum , que vraifemblablemenfc 
+l'Auteur ne confiera jamais à perfonne. 
+
+( ïO 
+
+Pour vous rendre ma defcription plus 
+claire & plus facile à concevoir , je joins 
+ici les copies des trois defleins de l'Automate 
+de M. de Kempelen, defleins qu'il a tracés 
+lui-même pour M. de Mechel , & qui par 
+conféquent ne fauroient être ni plus fidèles 
+ni plus exadts. 
+
+Le premier de ces defleins repréfente la 
+Machine telle que M. de Kempelen l'offre 
+à l'examen des curieux , avant de la faire 
+jouer; c'eft-à-dire, vue en face, les portes 
+de l'armoire ouvertes , & le tiroir forti de - 
+place. 
+
+Le fécond la montre dans le même état 
+vue par derrière, les vétemens de l'Automate 
+étant retroufTés pour mettre à découvert 
+le mécanifme de fon corps. 
+
+Le troifième repréfente l'Automate dans 
+le moment où il joue. 
+
+Digifà 
+
+< 1? ) 
+
+• A l'aide de ces deflèins & des détails que 
+je vais vous donner , vous pourrez vous 
+faire du tout une idée auffi nette que fi 
+vous aviez eu occafion de le voir jouer 
+vous-même. 
+
+Quant à Tordre que je vais fuivre, jç 
+ne puis , ce me femble , en adopter un plus 
+naturel que celui que j'ai obfervé conf- 
+tamment dans la marche des explications 
+données par l'Auteur même , & qui m'eft 
+devenu fi familier par le grand nombre 
+de repréfentations auxquelles il ma per- 
+mis d'aflifter , que je me croirois en état 
+moi-même de montrer la Machine, à la 
+petite difficulté près que je ne faurois par 
+où m'y prendre pour la mettre en mou- 
+vement 
+
+M. de Kempelen fait fa réfidence ici à 
+
+B 
+
+( i8 ) 
+
+Presbourg , & occupe avec fon aimable 
+famille le premier étage de fa maifon ; fon 
+petit atelier & fon cabinet, dans lequel 
+fe trouve l'Automate , font au fécond étage. 
+Quand il montre fon automate la compa- 
+gnie fe raflèmble dans l'appartement d'en 
+bas , d'où on la conduit à celui d'en haut. 
+En traver&nt l'atelier, qui fert en même 
+temps d'antichambre au cabinet, on n'y re- 
+marque que des outils de menuifier,ferrurier 
+& horloger jettes pêle-mêle & dans un dé- 
+fordre qui caraftérife la demeure d'un 
+mécanicien. Les murs du cabinet font 
+garnis en partie par de grandes armoires , 
+dont les unes contiennent des livres , les 
+autres des antiques , & les dernières enfin 
+une petite colleâion d'hiftoire naturelle ; 
+les places vuides entre ces armoires font 
+ornées de tableaux & d'eftampes , qui tous 
+font de la main du maître du logis. La 
+
+Digitized by Google 
+
+v ( 19 ) 
+
+partie fupérieure des armoires eft vitrée ; 
+la partie inférieure eft fermée par des 
+portes pleines à double battant , qui font 
+de bois de chêne ainfi que les armoires 
+mêmçs* Le plancher eft de bois de fapin. 
+
+J'ai cru devoir commencer par ces dé- 
+tails pour vous éviter une queftion , que 
+vous n'eufliez pas manqué de faire , au 
+cas que votre imagination , après 6'étre 
+fatiguée par bien des conjectures infruc- 
+tueufes, fe trouvât, ainli que la mienne, 
+dans la néceffité de recourir enfin à des 
+communications avec quelqu'appartement 
+voifin» 
+
+■ 
+
+Le premier objet qui frappe la vue en 
+entrant dans le cabinet , c'eft l'Automate , 
+qui eft placé en face de la porte. L'armoire 
+à laquelle il eft fixé a trois pieds & demi 
+
+B ij 
+
+(ao) 
+
+de large , deux pieds de profondeur , & 
+deux pieds & demi de haut Elle porte 
+fur quatre roulettes au moyen defquelles 
+elle peut être mue facilement d'un endroit 
+à l'autre. Derrière cette armoire Ton voit 
+une figure de grandeur humaine , habillée 
+à la Turque, aflife fur une'chaife de bois 
+affermie à demeure au corps dé l'armoire , 
+& qui fe meut avec elle lorfqu'on la pro- 
+mène dans l'appartement Cette figure eft 
+accoudée du bras droit fur la table ; de la 
+mairi gauche elle tient une longue pipe à 
+la Turque dans l'attitude d'une perfonne qui 
+vient de fumer. C'eft avec cette main qu'elle 
+joue lorfqu'on lui a ôté fa pipe. Devant 
+l'Automate eft un échiquier fixé à vis fur 
+la table & dont il ne détourne pas les 
+yeux. 
+
+■ . * 
+
+M. de Kempelen ouvre les portes de 
+
+Digitized 
+
+( 21 ) 
+
+devant de cette armoire & fort le tiroir 
+qui .eft au-defTous. L'armoire eft diviféé par 
+une cloifon en deux parties inégales ; celle 
+qui eft à gauche eft la plus étroite, elle 
+n'occupe guères que le tiers de la largeur 
+de l'armoire , & eft remplie de rouages , 
+leviers, cylindres & autres pièces d'horlo- 
+gerie. Dans celle à droite l'on voit quel- 
+ques roues , quelques barillets à reflforts & 
+deux quarts de cercle horifontaux. Le 
+refte eft rempli par une caflètte, un couffin 
+& une tablette fur laquelle l'on voit des 
+caraftères tracés en on 
+
+L'Inventeur fort la caffette & la pofe fur 
+qne petite table placée près de la machine; * 
+il en fait de même de la tablette , dont la 
+deftination eft d'être placée fur l'échiquier, 
+lorfque la partie d'échecs eft finie , pour 
+mettre par là l'Automate à même de ré- 
+
+pondre aux queftions qui lui font faites ; 
+ce dont je vous parlerai* une autre fois. Je 
+vous fouhaite le bon foir de tout mon 
+cœur. 
+
+(23 ) 
+
+TROISIEME LETTRE. 
+
+* 
+
+Le 14 Septembre* 
+
+I L faut que je revienne fur mes pas & que 
+j'ajoute ici quelques obfervations , que 
+j'aurois fans doute déjà dû faire dans mes 
+précédentes. Mais je fais , mon cher ami , 
+que vous n'exigez pas que mes relations 
+foient aufli compaffées qu'une folution ma- 
+thématique. Qu'importe un ordre trop 
+fcrupuleux pourvu que je reufTifle à fatis- 
+faire votre extrême impatience ? 
+
+Revenons à l'armoire. Dans le tiroir dont 
+je vous ai parlé, on trouve des échecs 
+d'ivoire rouges & blancs fur une tablette, 
+avec laquelle on les fort du tiroir pour les 
+placer à côté de l'échiquier. On y voit t de 
+. plus une caffette un peu allongée qui ren- 
+
+Digitized by Google 
+
+C *4 ) 
+
+ferme fix petits échiquiers qui indiquent 
+chacun une fin de partie difficile & diffé- 
+rente , que l'automate joue , lorfqu'on a 
+placé les échecs en conféquence fur fon 
+échiquier, & qu'il gagne certainement, 
+foit qu'on lui donne à jouer la partie des 
+rouges ou celle des blancs. 
+
+Javois oublié auffi d'obferyer que l'In- 
+venteur ouvre non-feulement les portes de 
+devant de l'armoire , mais auffi celles de 
+derrière, en lorte que tout le rouage devient 
+tranfparent au point de donner la convic- 
+tion la plus entière qu'aucun être vivant 
+n'y peut être caché ; pour la rendre plus 
+complette encore l'Inventeur place ordi- 
+nairement une bougie allumée dans l'in- 
+térieur de l'armoire , afin d'en éclairer mieux 
+tous les recoins. 
+
+► • 
+
+11 lève enfuite le caftan de l'Automate & 
+
+Digitized by Google 
+
+( 21 ) 
+
+le rabat par deffus fa tête de manière à 
+découvrir complettement fa ftrufture inté- 
+rieure, où Ton ne voit également que 
+léviers & rouages qui remplilTent fi bien 
+tout le corps de l'Automate , qu'il n'y auroit 
+pas de quoi y cacher un chat. 11 n'y a pas 
+jufqu'aux culottes à la turque qui ne foient 
+garnies d'une petite porte qu'il ouvre éga- 
+lement pour éloigner jufqu'à l'ombre du 
+foupçon. Voyez à ce fujet le fécond delTein. 
+Mais n'allez pas vous imaginer comme 
+bien d'autres que l'Inventeur ferme l'une 
+des portes lorfqu'il ouvre l'autre ; on voit 
+tout à la fois t Automate à nud , ayant les 
+vètemens retrouffés, & le tiroir ouvert ainfi 
+que toutes des portes de t armoire. C'eft dans 
+cet état qu'il la promène d'un endroit à 
+l'autre , & qu'il l'offre aux regards des 
+curieux. 
+
+Digitized by Google 
+
+( *0 
+
+Après avoir laifle le loilir de tout examiner à 
+il ferme toutes les portes de l'armoire, 
+& la place derrière une baluftrade , qui 
+a pour objet d'empêcher les fpe&ateurs d'é- 
+branler la Machine en s'appuyant fur elle 
+lorfque l'Automate joue , & de réferver li- 
+bre pour l'Inventeur une place afiez fpa- 
+cieufe dans laquelle il fe promène, s'approi. 
+chant par fois de l'armoire, foit de droite 
+foitde gauche, fans y toucher néanmoins , 
+que lorfqu'il eft tems de remonter le$ ref- 
+forts. Enfin il paffe fes mains dans l'inté- 
+rieur de l'Automate pour y difpofer les 
+mouvemens dans l'ordre convenable, & 
+finit par placer un couffin fous le bras avec 
+lequel cet Automate doit jouer.- 
+
+11 faut auffi que j'ajoute au fujet de la 
+petite- caffette , que M. de Kempelen la 
+place fur une petite table près de la Ma- 
+
+1 4 
+
+( »7 ) 
+
+chine , fans qu'il y ait cependant aucuno 
+communication apparente, foit entre la 
+Machine & la table, foit entre la Machine 
+ou la cafTette , à laquelle l'Inventeur à ce- 
+pendant afTez fouvent recours durant le 
+jeu de l'Automate ; car il l'ouvre de tems 
+à autre pour regarder dans fon intérieur , 
+qui refte un feçret pour les Ipedtateurs. 
+
+L'on croit généralement que cette cafc 
+fette eft un Cmple hors-d'œuvre employé 
+uniquement pour fefciner les yeux ; cepen^ 
+dant je tiens de l'Inventeur les affurances 
+les plus pofitives , qu'elle lui eft fi indifpen- 
+làblement néceflàire , que fans elle l'Auto- 
+mate ne pourroit pas jouer ; & il ajoute 
+que lorfqu'il publiera fon fecret , l'on fera 
+convaincu de la vérité de ce qu'il avance. 
+
+0 
+
+Quand aux caraâères tracés en or fur la 
+
+Dîgitized by Google 
+
+• ( *8 ) 
+
+tablette , dont je vous ai auffi parlé , ils fer* 
+vent à une récréation nouvelle , lorfque la 
+partie d'Echecs eft finie. On place alors cette 
+tablette fur l'échiquier, & l'Automate fa- 
+tisfait aux.queftions des affiftans en portant 
+le doigt fycceffivement fur les différentes 
+lettres néceffirires pour énoncer fes réponfes. 
+Pour préparer cette récréation l'Inventeur 
+arrange quelques pièces dans l'intérieur de v 
+la machine , & c'eft-là la feule circonftance 
+où je l'aye vu y porter la main , ce qui 
+n'arrive jamais pour les parties d'Echecs. 
+
+( 39 ) 
+
+QUATRIEME LETTRE. 
+
+Le 18 Septembre 
+
+Nous voici parvenus au point de voir 
+jouer la Machin*. Je dois vous prévenir, 
+pour être exaft en tout, que l'Automate 
+, joue de la main gauche ; j'en demandai la 
+raifon & j'appris que ce fut dans l'origine 
+une diftraftion de l'Auteur , qui ne s'en ap- 
+perçut, que lorfque le travail fe trouva 
+trop avancé pour qu'il fut poflîble de rec- 
+tifier ce petit défaut très-indifférent par lui- 
+même ; que nous importe en effet que le 
+Titien ait peint fes tableaux de la main 
+droite ou de la main gauche ? 
+
+L'Automate, lorfqu'il a un coup à jouer, 
+lève fon bras lentement , & le dirige du 
+côté de l'échiquier où eft la pièce qu'il veut 
+
+( 30 ) 
+
+mouvoir. Il porte fa main fur cette pièce, 
+ouvre les doigts pour la failir , la prend * 
+la traniporte & la pofe à la place qu'il lui 
+deftine, retire fon bras & le repofe de nou- 
+veau fur fon couffin ; s'il eft queftion de 
+prendre une des pièces dp fon adverfaire , 
+il fait les mêmes mouvemens pour s'en fai- 
+fir, la place hors de l'échiquier , revient 
+prendre la fienne & la pofe à la place de 
+celle qu'il a enlevée. 
+
+A chaque coup qu'il joue on entend un 
+bruit fourd de rouages, à peu près comme 
+celui d'une pendule à répétition. Ce bruit 
+cefle dès que le coup eft fini & que le bnta 
+de l'Automate fe retrouve fur le couffin ; & 
+ce n'eft qu'alors que fon adverfaire peut 
+recommencer un nouveau coup. 
+
+C'eft toujours l'Automate quia le trait; 
+
+( 31 ) 
+
+on peut paffer cette incivilité & accorder 
+ce léger avantage à un joueur de bois* 
+
+A chaque coup de l'adverfaire il remue 
+la tête & parcourt des yeux tout l'échi- 
+quier. Lorfqu'il donne Echec à' la Reine il 
+incline la tête deux fois ; il l'incline trois 
+fois en donnant Echec au Roi. 11 branle la 
+tête lorfqu'on feit faire une feuffe marche 
+à une pièce , ce qui arrive fouvent , parce 
+que fon adverfaire ou les fpedlateurs font 
+curieux de voir comment il fe comporte 
+dans un cas pareil : mais il ne s'en tient pas 
+à ce branlement de tête , & fi par exemple 
+on fait faire au Fol la marche du Cavalier, 
+l'Automate remet ce Fol à la cafe d'où il 
+
+• 
+
+eft parti , & continue à jouer fon coup , ce 
+qui en fait perdre un à l'adverfaire pour le 
+punir de fa diftra&ion ou de fon erreur vo- 
+lontaire. C'eft encore un petit avantage que 
+
+» 
+
+■ 
+
+t 
+
+( 32 ) 
+
+< 
+
+l'Inventeur a dû fe réferver pour fe faciliter , 
+autant que poflible, les moyens de gagner 
+les parties , fon attention fe trouvant lî fort 
+diftraite d'ailleurs , qu'il ne peut en porter 
+qu'une bien légère à jouer plus ou moins 
+bien; circonftance qui dans le fond doit 
+paroître bien indifférente à tout fpedateur 
+raifonnable ; qu'importe en effet que l'Au- 
+tomate gagne ou perde les parties pourvu 
+que les coups qu'il joue foient juftes & 
+réguliers ? 
+
+L'Inventeur prie ceux qui entreprennent 
+de jouer contre l'Automate,de vouloir bien 
+avoir l'attention de placer les pièces juftes 
+au milieu des cafés , cette précaution étant 
+néceffaire pour éviter que l'Automate en 
+ouvrant la main pour prendre une de ces 
+pièces, ne foit dans le cas de porter à faux, 
+ou même de souffrir du dommage, fi l'un 
+
+ou 
+
+Digitized by Google 
+
+ou l'autre des doigts fe trouvoit * appuyé 
+fur la pièce au lieu de la faifir par le côté. 
+Lofque le coup eft joué il n'eft plus per- 
+mis de le changer ; cette règle eft obfer- 
+vée exactement pat l'Automate , & eft 
+également de rigueur pour fon adverfaire. 
+» - ■ • 
+
+ta Machine rte peut jouer que dix ou 
+douze coups fans être remontée ; mais vous 
+conviendrez , mon cher , que la Ample opé- 
+ration de remonter les reflbrts du bras de 
+l'Automate , ne peut -produire d'autre effet 
+Çue de lui rendre fa force mouvante , fans 
+avoir rien de commun d'ailleurs avec fa 
+force directrice , ou pour mieux dire avec 
+la faculté de fe porter d'après les circonftan- 
+ces de-çà ou de-là, ce en quoi , cependant 
+confifte le plus grand mérite de la Machine ; 
+& vous trouverez fans doute , ainli que moi ; 
+que de toutes les circooftances relatives a ' 
+
+G 
+
+( 34 ) 
+
+cette fktneufe Machine la plus inconceva» 
+ble , c'eft que cette opération fi indifférente 
+foit la feule qu'on voie faire à l'Inventeur, 
+& que ce . foit auffi là le feul moment où 
+il touche à PAutomate* 
+
+Des mathématiciens de tout pays ont 
+examiné cette Machine avec ^attention la 
+plus fcrupuleufe fans avoir pu découvrir la 
+moindre trace indicative de fa manière 
+d'opérer. Je me fuis trouvé plufieurs fois 
+dans la pièce où jouoit l'Automate, entouré 
+de 20 à 3operfonnes, qui ne détournoient 
+pas leurs yeux de deffus PInventeur ; nous 
+Pavons toujours vu fe tenir fcrupuleufement 
+éloigné de la Machine de trois à quatre pas * 
+ne faire autre chofe que de regarder par 
+fois dans la caffette dont il a été parlé ci- 
+deffus , & ne fe trahir jamais par aucun 
+mouvement qui eût pu nous paroître fut 
+
+Digitized 
+
+( 35 ) 
+
+Cfeptible d'influer d'une manière quelconque 
+fur la Machine. 
+
+Ceux qui fe font rendus familiers les 
+
+* 
+
+effets finguliers duMagnétifuie dans les Ré- 
+créations Mathématiques , qui ont fait tant 
+de bruit à Paris , croyent que l'aiman eft le 
+moyen employé pour régler les mouvemens 
+du bras de l'Automate ; mais fcns s'arrêter à 
+toutes les objeûions qui pourroient être 
+faites contre cette conje&ure > l'Auteur pour 
+la détruire d'un mot permet à qui voudra 
+l'eflàyer de placer fur la Machine l'aiman le 
+plus fort & le mieux monté* & cela fans 
+craindre que les opérations de cette Ma* 
+Chine puilTent en fouffrir la moindre altéra- 
+tion. 
+
+-- 
+
+* m 
+
+Le faut du cavalier auquel cette Machine 
+fait parcourir tout l'échiquier , eft trop 
+
+C a 
+
+C 3* 1 
+
+remarquable pour n'en pas faire tneritioiii 
+Voici ce que c'eft : lorfque tous les écheCi 
+font enlevés , un defc fpeâateurs place un 
+cavalier fuir là cafe qu'il juge à propos de 
+choifir. L'Automate y porte la main auffi- 
+tôt & lui fait parcourir , ën partant dé 
+cette cafe & en obfervant exactement li 
+% marche du cavalier , les 64 cafés de Péchi- 
+quier , fans en fnanquer une & fans revenir 
+deux fois à la même ; ce qui fe vérifie par 
+les jetons que l'un des fpeétateurs place lui- 
+même fur chaque cafe qu'a touché le 
+cavalier , en obfervant de mettre un jeton 
+blanc fur celle d'où il part , & dés jetons 
+rouges fur toutes celles qu'il parcourt 
+enfuite fucceffivement Effeyez d'en fairé 
+autant vous-même fur votre échiquier i 
+peut-être y réuffirez-vous mieux que moi ; 
+toutes mes tentatives là-defîus ont été fans 
+fticcès. 
+
+( 37 ) 
+
+Je crois pouvoir me flatter maintenant 
+d'avoir fatisfait votre curiofité , levé vos 
+doutes & prévenu toute objedion nouvelle. 
+Il ne me réfte qu'à vous faire connoître les 
+qualités perfonneljes de M. de Keqipelen, 
+vous donner une idée de fon mérite & 
+vous inftruire de quelques particularités 
+qui ont donné lieu à Texiftence de fon 
+Joueur cPEcbecs. Ce fera l'objet de quel- 
+ques lettres encore. . 
+
+( 38 ) 
+
+* 
+
+CINQUIEME LETTRE, 
+
+Le ai Septembre. 
+
+Jufqu'où Pefprit d'invention ofera-t-il fe 
+porter encore ! Pouvoit - on concevoir une 
+idée plus téméraire que celle - ci : je vais 
+faire une figure de bois qui jouera aux 
+échecs. Je ne reviens pas de mon étonne- 
+ment, guand j'y réfléchis, & je fuis per- 
+fuadé qu vous éprouvez la même furprife. 
+L'Automate de M. de Keftipelen eft pour 
+Pefprit & les yeux , mais à un degré bien 
+fupérieur , ce qu'eft pour l'oreille le Joueur 
+de flûte de M. de Vaucanfon. 
+
+En 1769 , M. deKempelen fe trouvant 
+à Vienne pour des objets relatifs à fon 
+fervice, il fut mandé à la Cour pour aflifter 
+comme connoiffeur à quelques jeux ma* 
+
+( 10 ) 
+
+gnétiques qu-un François nommé Pelletier 
+
+devoit produire en préfence de feue Sa Ma- 
+
+jefté rhnpératrice. L'entretien familier que 
+
+cette augufte Souveraine daigna avoir avec 
+
+M. de Kempelen pendant la durée de ces 
+
+jeux ayant entraîné ce dernier à laifler 
+
+échapper le propos qu'il fe croiroit en état 
+
+de faire une Machine dont les effets feroient 
+
+bien plus furprenans & l'illufion bien plus 
+
+complette que dans tout ce que Sa Majelté 
+
+venoit de voir, Elle faifit auffitôt cette ou- 
+
+• 
+
+verture &, témoigna un défir fi vif de voir 
+cette idée fe réalifer , qu'Elle tira de lui la 
+promette de s'en occuper fatjs délai. II tint 
+parole & completta dans Pefpace de fix 
+mois l'exécution entière d'un Automate 
+qui furpaffe tout ce qu'on a vu en ce 
+genre. 
+
+Ce chef-d'œuvre fut à peine fini qu'il le 
+
+( 4* > 
+
+tranfporta à Vienne , où il excita la furprife 
+& l'admiration 4e Sa Majefté & de fon 
+augufte Famille , des Miniftres étranger^ 
+. & de ceux du pays , .des Savans , des 
+Artiftes & en un mot de tous ceux qui 
+virent jouer cet Automate ou qui jouèrent 
+
+* 
+
+avec lui. 
+> ■ . 
+
+Le bruit s'en répandit dans une grande 
+partie de l'Europe. Les gazettes & les 
+journaux s ? empreflerent d'en annoncer les 
+merveilles, & il en refulta ce qui arrive 
+toujours lorsqu'elles fe portent de bouche 
+en bouche, que les annonces en devin- 
+rent de plus en plus fautives, contradio, 
+toircs & exagérées. L'Inventeur étoit bien 
+loin d'ambitionner cette, célébrité , & plus 
+éloigné encore de vouloir faire paffer 
+Machine pour un prodige. 11 la donna pour 
+cç qu'elle çft, pour upe Machine qui n'eft 
+
+( 4i ) 
+
+pas fans njérite du côté du mécanifine, 
+mais dont les effets ne p^roiflent fi merveil- 
+leux qije par la hardieffe de l'idée , & par 
+l'heureux .choix des moyens qu'il emploie 
+pour faire illufion. 
+
+» C'eft ce qui me détermina dès l'année 
+1773? à en drefTer une notiçe plus exafte, 
+que je rencjis publique alors par la voie 
+de quelques journaux allemands, & que 
+j'ai inférée depuis dans ma Géographie du 
+Royaume de Hongrie. y 
+
+■ » 
+
+■ 
+
+M. de Kçmpelen fe croyant afTez payé 
+par les applaudiflemens que cette Machine 
+lui ayoit valus , & voulant jouïr plus long- 
+teçis du plaifir d'en ppfTéder feul le fecret, 
+dédaigna plufieurs offres qui lui furent 
+faites de fommes jffez fortes par gens qui 
+fondoient fur fon acquifition des fpécu* 
+
+- 
+
+lations de fortune. 
+
+<4*> 
+
+Il alla même jufqu'à négliger cet Auto* 
+jnate pour fe livrer à de nouvelles recher- 
+ches & à .de nouvelles inventions rnéca*» 
+nique?, dont l'objet fut plus fétieux & 
+plus dirigé vers l'utilité publique. Il refufa 
+aux inftances de fes amis & d'une foule 
+de curieux de tout pays la fatisfedtion de* 
+voir cette Machine fi vantée , fous prétexte 
+que les différens transports qu'elle avoit éC 
+fuyés l'avoient endommagée. 11 l'a voit effec- 
+tivement défalfemblée en partie , & depuis 
+plulieurs années il la IaifToit dans un état 
+de délabrement , dont il ne l'eût peut-être 
+pas tirée de long-tems encore , fî Sa Ma jefté 
+l'Empereur , auquel rien n'échappoit de ce 
+qui pouvoit rendre le féjour de fa Cour 
+agréable au Comte & à la Comteiïe du 
+Nord, ne fefut refTouvenue heureufement 
+de la Machine de M. de Kempelen , qui 
+pour ûtisfkire aux défirs de fon augufte 
+
+( 43 ) 
+
+Maître s'occupa avec tant de zèle & d'ac- 
+tivité des réparations (ans nombre» qu'un 
+fi grand abandon avoit rendues néceffaires , 
+qu'il réulfit dans l'efpace de cinq femaines 
+à remettre fon Automate en état d'être 
+produit à ces auguftes Etrangers , dont elle 
+excita la furprife & l'admiration , & qui 
+lui confeillèrent , ainfi que la plupart des 
+Grands de la Cour, de faire voyager cette 
+Machine en pays étrangers. Sa Majefté 
+l'Empereur agréa cette idée , & accorda à 
+l'Auteur la permiflion de s'abfenter à cet 
+effet pendant deux ans. 
+
+Ces circonftances le déterminèrent à fe 
+rendre enfin aux vœux d'un public éclairé , 
+qui depuis tant d'années lui témoignoit 
+avec une confiance fi flatteufe le défir le 
+plus vif de jouir du plaifir de voir & d'ad- 
+mirer ce chef-d'œuvre. Mais pour rendre 
+
+(44) 
+
+cette Machine en état de voyager , îl foilitf 
+y faire des changemens aflez confidérables 
+pour faciliter les moyens de la monter, 
+démonter & emballer ; & ces changemens 
+exigèrent un tems aflez lpng, pour em- 
+pêcher que l'Auteur ne pût mettre la der- 
+nière main à une autre machine bien plus 
+digne d'admiration , & qui fera l'objet de 
+la lettre fuivante. EflTayez en attendant de 
+fleyinçr ce que ce peut être. 
+
+■ 
+
+SIXIEME LETTRE* 
+
+Le Septembre. 
+
+A quoi croyez-vous donc que M. dé 
+Kempelen s'occupe maintenant ? à une ba- 
+biole à une Machine qui parle ! Con v 
+
+venez qu'il faut être doué d'un génie créa- 
+teur, hardi & indompté pour fe livrer à 
+un projet de cette efpèce ; & le croiroit-on * 
+il a tout lieu d'efpérer une réuflite com- 
+plette. 11 a déjà obtenu des, fuccès aflTez 
+marqués pour prouver la poflibilité dé cette 
+Machine , & mériter de la part des Savans , 
+qu'ils portent léur attention fur cette in- 
+vention nouvelle & inconnue jufqu'à pré- 
+fent. Sa machine répond aflez clairement 
+& diftinctemefct à quelques quettions; la 
+voix en eft agréable & douce, il n'y a 1 
+que l'R qu'elle prononce en grafleyànt & 
+
+Digitized by Google 
+
+( 4* ) 
+
+• 
+
+avec un certain ronflement. Lorsqu'on n'a 
+
+pas bien compris fa réponfe, elle la répète 
+
+plus lentement ; & fi on l'exige encore une 
+
+fois , elle la répète de nouveau , mais avec 
+
+le ton de l'humeur & de l'impatience. Je 
+
+lui ai ouï prononcer fort bien & fort difc 
+
+tinftement en différentes langues les mots 
+
+& les phrafes, que voici : 
+
+Mots; 
+Papa* Româ. 
+
+Maman. Madame. 
+
+Ma femme. La Rein& 
+
+Mon mari. Le Roi. 
+
+A propos. A Paris; 
+
+Marianna; \ Allons. 
+Phrases. 
+
+Maman aimez-moi. 
+
+Ma femme eft mon amie. Sec Sec 
+Il fe pourroit bien, direz-vous, qu'il y 
+eût encore de tillufion ; non mon Ami , 
+tout eft dû à l'Art J'ai vu fur une tabld 
+
+( 4? ) 
+
+line petite caiflè , de la grandeur d'une cage 
+moyenne, & couverte d'un rideau ; à côté 
+un petit Soufflet d'Orgue , & à chaque ré- 
+ponfe j'ai, remarqué que l'Inventeur pafToit 
+fe main fous le rideau. Mais à ce fujet il 
+faut que je vous rapporte une anecdote 
+plaifante à laquelle ce parleur invilible a 
+donné lieu. Une demoifelle de ma con- 
+noiflànce entra dans la chambre où étoit 
+cette Machine , l'Inventeur qui s'y trouvoit 
+tout feul , la fàlua & lui adreffa la parole , 
+mais une voix différente de la fienne s'étant 
+fait entendre en méme-tems & ayant ap* 
+pelle cette demoifelle bien diftinâement 
+par fon nom de baptême , la frayeur la prit 
+au point de la faire fuir à toutes jambes , & 
+ce ne fut qu'avec beaucoup de peine qu'on 
+parvint à la raflurer , en lui expliquant ce 
+que (fétoit , & en la mettant à même de 
+s'en co nvaincre en lui montrant la Machine. 
+
+Google 
+
+(48 ) 
+
+Ce parleur n'a pas encore la forme d'uiî 
+Corps humain ; c'eft une fimple caffetté 
+carrée ayatit quelques ouvertures, dans 
+lesquelles l'Inventeur îtiet fes ttiains pour 
+faite jouer plùfieurs mutations, refforts 
+& clapets , fuivarit les mots que la Machine 
+doit articuler. Pour ne pas augmenter pour 
+la route le volume de fes bagages , l'Au- 
+teur a cru devoir différer jufqu'à fon arri- 
+' vée à Paris le revêtement extérieur de tette 
+Machine. Il fe propofe de lui donner leà 
+apparences d'un enfant de cinq à fix ans ; 
+parce qu'elle a une voix analogue à cet 
+âge, qui eft d'ailleurs plus relatif & pro- 
+portionné à l'état aftuel dé cette Machiné 
+bien éloigné encore du point de perfeftioo; 
+S'il lui arrive de prononcer mal quelques 
+înots, elle fe conciliera plus facilement; 
+ayant les apparences d'uii enfant, l'indul- 
+gence dont elle a befoin encore. 
+
+M. 
+
+■ 
+
+(49 ) 
+
+M. de Kempelen lui*même ne regarde 
+cette Machine que comme une ébauche, 
+& eft bien loin de la croire ou de l'an* 
+noncer comme achevée. Il eft le premier 
+à dire qu'elle lui coûtera encore des peines 
+infinies pour la conduire à û perfeftion ; 
+il lui fuffit en attendant d'être parvenu, 
+à l'aide de fes effais & de fes découvertes, 
+au point de fe convaincre lui-même , & . 
+de pouvoir convaincre les Savans , de la 
+poffibilité de conftruire une machine par- 
+lante. Que de lumières les Savans ne tire* 
+ront-ils pas un jour de cette nouvelle in- 
+vention pour reftifier fardes principes plus 
+certains la théorie de la parole ! Je me 
+réjouis d'avance de voir bientôt les differ- 
+tations que cette Machine va feire éclore 
+à Paris , qù elle fera fon début. 
+
+* - * ■ 
+
+* 
+
+p 
+
+: 
+
+( Ço ) 
+
+SEPTIEME LETTRE. 
+
+Le 30. Septembre. 
+
+Oui, mon cher Ami, je vais vous faire 
+connoitre cet homme , que fon mérite , 
+fes talens , & fes rares qualités ont rendu 
+fi juftement célèbre! En liaifons avec lui, 
+. & honoré de fon amitié depuis une longue 
+fuite d'années , il me feroit facile de vous 
+donner de fa perfonne une Biographie 
+complette ; mais je crois devoir me réduire 
+à ce qui le caraétérife comme Artifte. 
+
+M. WolfFgang de Kempelen , âgé d'en- 
+viron 46 ans , eft Gentilhomme Hongrois , 
+& Confeiller Aulique à la Chambre Royale 
+des Domaines de Hongrie. Son goût l'a 
+porté dès fa tendre jeunefle à l'étude de 
+la phyfique & des mathématiques & lui 
+
+■ 
+
+( Si ) 
+
+a fait faire des progrès étonnans dans la 
+partie des mécaniques. Sa paffion domi- 
+nante eft d'inventer, à quoi il emploie 
+prefque tous les momens que les devoirs 
+de fon état laiffent à fa difpofition ; fa per- 
+févérance a été couronnée par plufieurs 
+fuccès, & moi-même j'ai vû plufieurs in- 
+ventions qui ne doivent leur exiftence qu'à 
+lui , & dont quelques-unes vous font fàris- 
+doute déjà connues. 
+
+11 a facrifié la plus grande partie de fa 
+fortune à la recherche des moyens de per- 
+fedtionner & Amplifier la Machine à feu 
+des Anglois , & s'eft acquis par des efTais 
+multipliés , foit en petit foit en grand , une 
+théorie fi complette de ce chef-d'œuvre 
+de l'elprit humain , qu'il fçait la mettre à 
+la portée d'un chacun par lçs explications 
+les plus lumineufes qu'il donne avec une 
+
+D % 
+
+( st ) 
+
+tblubilité étonnante. Il m'a fait voir plu* 
+fiçurs expériences en ce genre neuves, 
+importantes & qui certainement n'avoient 
+pas été tentées avant lui. Ce qui me fur* 
+
+i 
+
+prend le plus, c'eft qu'il foit fi rare de 
+l'entendre parler de mécanique , quoiquè 
+ce foit fa paflion dominante, & que ce- 
+pendant dès qu'on le met fur ce chapitre , 
+il devienne fi communicatif , & affede fi 
+peu de myftère fur fes inventions, fur- 
+tout lorfqu'il a ? faire à un connoiffeur. 
+
+• • * • * 
+
+Une des inventions les plus importantes 
+& les plus extraordinaires de ce Siècle eft 
+celle qu'il a mife en oeuvre à la cascade 
+du château impérial de Schœnbrun, par 
+laquelle en employant, au moyen d'un 
+cilindre horizontal, la réadion de l'eau 
+qui defcend de la montagne par des tuyaux 
+de conduite, il réuflit à mettre en mou- 
+
+( Ï3 ) 
+
+vement un nombre de pompes aflèz grand 
+four rendre à la cascade une partie de 
+Peau qui s'en eft écoulée, égale à celle 
+qui met le cilindre en mouvement Mais 
+comme il eft trop modefte pour faire bruit 
+de fes inventions dans le monde littéraire 
+en en donnant des déferiptions lui-même, 
+je me propofe dès que j'aurai un moment 
+à moi de rédiger & publier une 
+en forme de cette dernière. 
+
+L'Invention dp fon Automate joueur 
+d'échecs eft celle qui le flatte le moins ; il 
+lui arrive fouvent delà traiter de bagatelle, 
+' & quoiqu'à la confidérer Amplement com- 
+me machine , quelque foit la manière de la 
+mettre en mouvement, elle ait certainement 
+un mérite mécanique très-grand , il eft le 
+premier à avouer avec une modeftie rare , 
+qu'une grande partie delà réputation qu'elle 
+
+- 
+
+C H ) 
+
+tfeft faite, n'eft due qu'à la manière heureufe 
+qu'il emploie pour faire iUujtotk Quant à 
+moi , je fuis perfuadé que fi même JVL de 
+Kempelen en montrant fon Automate,pre- 
+noit le parti de dévoiler auffi l'influence 
+fecrette qui en dirige les mouvemens, on 
+n'en trouveroit pas moins un mérite réel 
+dans cette invention , & que le fuccès feul 
+d'une idée aufli hardie exciteroit autant 
+d'admiration qu'elle donneroit de fatisfac- 
+tion à tous les fpeâateurs. L'Invention 
+d'un bras mécanique dont tous les mou- 
+vemens font fi naturels , qui Cjifit , enlève 
+& pofe tout avec tant de grâce , ce bras 
+fut-il dirigé vifiblement par les deux mains * 
+de l'Inventeur, offre à elle feule tant de 
+difficultés qu'elle fuffiroit pour aflurer la 
+réputation de bien des artiftes. 
+
+Il fe prépare maintenant au voyage qu'il 
+
+( ÏS ) 
+
+fe propofe de faire en Allemagne, en France 
+& en Angleterre. Son premier projet avoit 
+été de faire voyager fes Machines fous la 
+conduite de gens affidés, fans les accom- 
+pagner lui-même. Mais des réflexions plus 
+mûres & fa propre expérience Payant con- 
+vaincu , que fi des accidens inévitables dans 
+une route auffi longue venoient à y caufer 
+quelques dérangemens , il faudroit fe réfou- 
+dre à fe confier à des artiftes étrangers, 
+ou à perdre les frais du voyage. Cette con- 
+fidération le force à les accompagner uni- 
+quement pour en foigner les réparations 
+fans s'aftreindre à montrer lui-même ces 
+
+4 
+
+Machines , ce qui fe fera par les perfonnes 
+qu'il a choifies à cet effet. 11 eft à craindre 
+que fes compatriotes n'ayent plus la làtis- 
+fàftion de revoir parmi eux ces cheft-d'œu- 
+vres d'un génie hongrois, auxquels cepen- 
+dant ils ont tant de droit, & dont ils ont 
+tant de raifon de fe glorifier. 
+
+Diqiti 
+
+( 5* ) 
+
+J'çntrevois tout le défir que vous auriez 
+de voir par vous-même tout ce que je viens 
+de vous détailler fur cette Machine ,- il n'eft 
+queftion que d'un voyage d'environ 100 
+lieues & vos voeux feront fittisfaits. Je vous 
+embntfTé , & fuis tout à vous. 
+
+C. G. de "Windisch. 
+
+Fin. 
+
+- 
+
+■ 
+
+Digitized by.Goo 
+
+Digitized by Googl 
+
+by VjO( 
+
+Digitized by Goq 
+
+I 
+
+• « 
+
+♦ 1 
+
+■A 
+
+'►.V* i y Google

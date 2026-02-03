@@ -500,6 +500,117 @@ SEARCH_TOPICS = {
             "aleatorio",
         ],
     },
+
+    # ══════════════════════════════════════════════════════════════════════════
+    # NEW TOPICS: Designed to surface obscure/forgotten texts
+    # These prioritize pamphlets, reactions, debates, and popular accounts
+    # ══════════════════════════════════════════════════════════════════════════
+
+    "vitalism_debates": {
+        # Debates on mechanism vs vitalism - is life just machinery?
+        "en": [
+            "vital principle",
+            "vital force",
+            "animal machine",
+            "living machine",
+            "vitalism",
+            "life force",
+            "organic machine",
+        ],
+        "fr": [
+            "principe vital",
+            "force vitale",
+            "machine animale",
+            "vitalisme",
+        ],
+        "de": [
+            "Lebenskraft",
+            "Vitalismus",
+            "lebende Maschine",
+        ],
+    },
+
+    "chess_automaton": {
+        # The Mechanical Turk and chess-playing automata debates
+        "en": [
+            "chess automaton",
+            "automaton chess player",
+            "Maelzel",
+            "mechanical chess",
+            "Kempelen",
+            "chess-playing machine",
+        ],
+        "fr": [
+            "joueur d'échecs automate",
+            "automate joueur d'échecs",
+        ],
+        "de": [
+            "Schachtürke",
+            "Schachautomat",
+        ],
+    },
+
+    "machinery_labor": {
+        # Anxieties about machines replacing human labor
+        "en": [
+            "machinery and labor",
+            "effects of machinery",
+            "machinery question",
+            "labor saving machinery",
+            "machinery displacing",
+            "automatic labor",
+            "machinery wages",
+        ],
+    },
+
+    "universal_language": {
+        # Dreams of universal/philosophical language and mechanical logic
+        "en": [
+            "universal character",
+            "philosophical language",
+            "universal language",
+            "real character",
+            "artificial language",
+        ],
+        "la": [
+            "lingua universalis",
+            "characteristica universalis",
+        ],
+    },
+
+    "popular_wonders": {
+        # Popular accounts of mechanical marvels
+        "en": [
+            "wonders of machinery",
+            "marvels of mechanism",
+            "mechanical wonders",
+            "triumphs of machinery",
+            "wonders of science",
+        ],
+    },
+
+    "artificial_beings_fiction": {
+        # Artificial beings in fiction (not Frankenstein)
+        "en": [
+            "mechanical man story",
+            "automaton tale",
+            "artificial man",
+            "living statue",
+            "brass head",
+            "speaking head",
+        ],
+    },
+
+    "reactions_pamphlets": {
+        # Reactions to famous works - pamphlets, letters, remarks
+        "en": [
+            "remarks on automaton",
+            "observations on machine",
+            "letter concerning automaton",
+            "examination of automaton",
+            "account of automaton",
+        ],
+    },
 }
 
 # Supported languages with their Internet Archive language codes
@@ -576,28 +687,41 @@ def get_decade(year: int) -> str:
     return f"{(year // 10) * 10}s"
 
 
-def get_ocr_text_url(identifier: str) -> Optional[str]:
-    """Get the URL for OCR'd text file if available."""
+def get_ocr_text_url(identifier: str) -> Optional[tuple[str, str]]:
+    """
+    Get the URL for OCR'd text file if available.
+    Returns (url, file_type) tuple.
+
+    Priority:
+    1. _djvu.txt - plain text, cleanest
+    2. _abbyy.gz - compressed XML OCR (needs parsing)
+    3. Any .txt file with 'ocr' in name
+
+    NOTE: We skip _hocr.html files as they contain HTML markup.
+    """
     try:
         item = ia.get_item(identifier)
         files = list(item.get_files())
 
-        # Prefer higher-quality OCR derivatives when available
-        for f in files:
-            if f.name.endswith('_abbyy.gz'):
-                return f"https://archive.org/download/{identifier}/{f.name}"
-
-        for f in files:
-            if f.name.endswith('_hocr.html') or f.name.endswith('_hocr.htm'):
-                return f"https://archive.org/download/{identifier}/{f.name}"
-
+        # Priority 1: djvu.txt is plain text, cleanest option
         for f in files:
             if f.name.endswith('_djvu.txt'):
-                return f"https://archive.org/download/{identifier}/{f.name}"
+                return (f"https://archive.org/download/{identifier}/{f.name}", "djvu")
 
+        # Priority 2: abbyy.gz is gzipped XML, needs parsing
+        for f in files:
+            if f.name.endswith('_abbyy.gz'):
+                return (f"https://archive.org/download/{identifier}/{f.name}", "abbyy")
+
+        # Priority 3: any other txt file with 'ocr' in name
         for f in files:
             if f.name.endswith('.txt') and 'ocr' in f.name.lower():
-                return f"https://archive.org/download/{identifier}/{f.name}"
+                return (f"https://archive.org/download/{identifier}/{f.name}", "txt")
+
+        # Priority 4: any plain .txt file (might be transcription)
+        for f in files:
+            if f.name.endswith('.txt') and not f.name.endswith('_files.txt'):
+                return (f"https://archive.org/download/{identifier}/{f.name}", "txt")
 
         return None
     except Exception as e:
@@ -605,12 +729,55 @@ def get_ocr_text_url(identifier: str) -> Optional[str]:
         return None
 
 
-def download_text(url: str, identifier: str) -> Optional[str]:
-    """Download text content from URL."""
+def download_text(url: str, identifier: str, file_type: str = "txt") -> Optional[str]:
+    """
+    Download text content from URL.
+
+    Handles different file types:
+    - txt/djvu: plain text, return as-is
+    - abbyy: gzipped XML, decompress and extract text from charParams
+    """
+    import gzip
+    import re
+    from html import unescape
+
     try:
-        response = requests.get(url, timeout=30)
+        response = requests.get(url, timeout=60)
         response.raise_for_status()
-        return response.text
+
+        if file_type == "abbyy":
+            # Decompress gzip and extract text from ABBYY XML
+            try:
+                decompressed = gzip.decompress(response.content)
+                xml_text = decompressed.decode('utf-8', errors='ignore')
+
+                # ABBYY format: text is character-by-character in <charParams>X</charParams>
+                chars = re.findall(r'<charParams[^>]*>([^<]*)</charParams>', xml_text)
+                text = ''.join(chars)
+
+                # Add spacing based on line/paragraph structure
+                # Insert space at line ends, newline at paragraph ends
+                xml_text_spaced = re.sub(r'</line>', ' ', xml_text)
+                xml_text_spaced = re.sub(r'</par>', '\n', xml_text_spaced)
+
+                # Re-extract with spacing hints
+                chars = re.findall(r'<charParams[^>]*>([^<]*)</charParams>', xml_text_spaced)
+                text = ''.join(chars)
+
+                # Unescape HTML entities
+                text = unescape(text)
+
+                # Clean up whitespace
+                text = re.sub(r' +', ' ', text)
+                text = re.sub(r'\n+', '\n', text)
+
+                return text.strip()
+            except Exception as e:
+                print(f"  Error parsing ABBYY XML: {e}")
+                return None
+        else:
+            return response.text
+
     except Exception as e:
         print(f"  Error downloading {identifier}: {e}")
         return None
@@ -697,7 +864,8 @@ def search_and_download(languages_to_search: list[str] = None, topics_to_search:
         topics_to_search = list(SEARCH_TOPICS.keys())
 
     # Track what we've downloaded (avoid duplicates)
-    downloaded = set()
+    downloaded = set()  # Track by identifier
+    downloaded_titles = set()  # Track by title+year to catch different scans of same work
     metadata_index = []
 
     # Load existing metadata if resuming
@@ -706,6 +874,13 @@ def search_and_download(languages_to_search: list[str] = None, topics_to_search:
         with open(metadata_file) as f:
             metadata_index = json.load(f)
             downloaded = {item['identifier'] for item in metadata_index}
+            # Build title+year index for deduplication
+            for item in metadata_index:
+                title = item.get('title', '')
+                year = item.get('year')
+                if title and year:
+                    title_key = f"{year}_{title[:50].lower().strip()}"
+                    downloaded_titles.add(title_key)
         print(f"Resuming: {len(downloaded)} items already downloaded")
 
     total_downloaded = len(downloaded)
@@ -765,19 +940,27 @@ def search_and_download(languages_to_search: list[str] = None, topics_to_search:
                         date = result.get('date')
                         year = extract_year(date)
 
+                        # Skip duplicates: check if we have a similar title+year
+                        title_key = f"{year}_{title[:50].lower().strip()}"
+                        if title_key in downloaded_titles:
+                            continue
+                        downloaded_titles.add(title_key)
+
                         if not year:
                             continue
 
                         print(f"      [{year}] {title[:50]}...")
 
                         # Get OCR text URL
-                        text_url = get_ocr_text_url(identifier)
-                        if not text_url:
+                        text_result = get_ocr_text_url(identifier)
+                        if not text_result:
                             print(f"        No OCR text available, skipping")
                             continue
 
+                        text_url, file_type = text_result
+
                         # Download text
-                        text = download_text(text_url, identifier)
+                        text = download_text(text_url, identifier, file_type)
                         if not text or len(text) < 500:
                             print(f"        Text too short or empty, skipping")
                             continue

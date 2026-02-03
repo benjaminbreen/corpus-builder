@@ -1,0 +1,879 @@
+This is a digital copy of a book that was preserved for generations on library shelves before it was carefully scanned by Google as part of a project 
+to make the world's books discoverable online. 
+
+It has survived long enough for the copyright to expire and the book to enter the public domain. A public domain book is one that was never subject 
+to copyright or whose legal copyright term has expired. Whether a book is in the public domain may vary country to country. Public domain books 
+are our gateways to the past, representing a wealth of history, culture and knowledge that's often difficult to discover. 
+
+Marks, notations and other marginalia present in the original volume will appear in this file - a reminder of this book's long journey from the 
+publisher to a library and finally to you. 
+
+Usage guidelines 
+
+Google is proud to partner with libraries to digitize public domain materials and make them widely accessible. Public domain books belong to the 
+public and we are merely their custodians. Nevertheless, this work is expensive, so in order to keep providing this resource, we have taken steps to 
+prevent abuse by commercial parties, including placing technical restrictions on automated querying. 
+
+We also ask that you: 
+
++ Make non-commercial use of the files We designed Google Book Search for use by individuals, and we request that you use these files for 
+personal, non-commercial purposes. 
+
++ Refrain from automated querying Do not send automated queries of any sort to Google's system: If you are conducting research on machine 
+translation, optical character recognition or other areas where access to a large amount of text is helpful, please contact us. We encourage the 
+use of public domain materials for these purposes and may be able to help. 
+
++ Maintain attribution The Google "watermark" you see on each file is essential for informing people about this project and helping them find 
+additional materials through Google Book Search. Please do not remove it. 
+
++ Keep it legal Whatever your use, remember that you are responsible for ensuring that what you are doing is legal. Do not assume that just 
+because we believe a book is in the public domain for users in the United States, that the work is also in the public domain for users in other 
+countries. Whether a book is still in copyright varies from country to country, and we can't offer guidance on whether any specific use of 
+any specific book is allowed. Please do not assume that a book's appearance in Google Book Search means it can be used in any manner 
+anywhere in the world. Copyright infringement liability can be quite severe. 
+
+About Google Book Search 
+
+Google's mission is to organize the world's information and to make it universally accessible and useful. Google Book Search helps readers 
+discover the world's books while helping authors and publishers reach new audiences. You can search through the full text of this book on the web 
+
+at http : //books . google . com/| 
+
+Digitized by VjOOQ IC 
+
+SG- 3 67 r. 9 9. 3 j' 
+
+3 
+
+HARVARD 
+
+COLLEGE 
+LIBRARY 
+
+Digitized by VjOOQ IC 
+
+f ^l-f^- 
+
+f 
+
+- • ' ^ • 
+
+' \ 
+
+' - "l 
+
+*► 
+
+f ,( 
+
+■', . u-'- 
+
+V/ 
+
+1 
+
+f 
+
+f £' I' . 
+
+) 
+
+1 
+
+! 
+
+t8^*j 
+
+OBSERVATIONS 
+
+OK TH|I 
+
+^iutomaton ^^tm pa^et. 
+
+Digitized by VjOOQ IC 
+
+S. OoMiel^ Pruiter> little Queen Street, LoiukxL 
+
+Digitized by VjOOQ IC 
+
+OBSERVATIONS 
+
+ON THE 
+
+;9tttoinaton: 
+CHESS PLAYER, 
+
+NOn^ EXHIBITED IN LONDON, 
+
+AT 
+
+4, SPRING GARDENS. 
+
+BY AN OXFORD GRADUATE. 
+
+ut fpeciosa dehinc miracula promat. — HoR. 
+
+lontion: 
+
+PRINTED FOR J. HATCHARD, 
+
+NO. 190, OPPOSITB ALBANY^ PICCADILLY; 
+
+AMD SOLD BT ALL THE BOOKSELLERS. 
+
+1819. 
+
+Price One ShiUing, 
+
+, Digitized by VjOOQl£ 
+
+S&^6fc^&.q^. 2.S 
+
+HARVARD COUEGE LIBRARY 
+
+BEQUEST OF 
+
+8IUS W. HOWLANO 
+
+NOYEIIBER 8, 1938 
+
+Digitized by 
+
+Google 
+
+PREFACE. 
+
+The science of mechanics is one of those 
+in which the ingenuity of modem artists 
+appea;rs with superior advantage. ^ The 
+ancients, Mdth the single exception of Ar- 
+chimedes, had but an imperfect knowledge 
+of the mysteries of this science, as theit 
+
+attempts in the construction of inistnir 
+ments for marking time, and of the oi^an, 
+sufl&clently prove. This inferiority may be 
+accounted for upon the principle, that the 
+highest discoveries in mechanics do not 
+depend upon the capacity, however en- 
+a3 
+
+Digitized by 
+
+Google 
+
+6 PRBFACB. 
+
+> 
+
+larged, of any individual, but upon the 
+successive discoveries of many individuals, 
+during ages, combined at length, by some 
+powerful genius, and directed to the com- 
+pletion of one great object. Hence it was 
+reserved to modern times, to witness the 
+invention of those exquisite and grand 
+'combiiaations of mechanism, which are 
+displayed in the numerous kinds of watch 
+and clock work, and in the higher ordear 
+of wind instruments, in their several varie- 
+ties : and hence the present age has pro- 
+duced the most finished pieces of mecha- 
+nical science, in the Flute-player of Mon- 
+sieur de Vaucanson, the Tnimpeter of 
+Maelzel*, the Panharmonicon of Mr. 
+
+♦ This piece of mechanism is shown, together with 
+the Automaton Chess Player, at 4, Spring Gardens. 
+
+Digitized by VjOOQIC 
+
+PREFACE. 7 
+
+Gurk, and the Apollonicon of our cele- 
+brated native mechanicians, Messrs. Flight 
+arid Robson*. Notwithstanding, how- 
+ever, the superior ingenuity of modem 
+artists, in mechanics, which these scien- 
+tific inventions discover, it seems to be a 
+thing absolutely impossible,, that any piece 
+of mechanism should b^ invented, which, 
+possessing perfect mechanical motion, 
+should appear to exert the intelligence of 
+a reasoning agent. This seeming impos- 
+sibility is surmounted in the construction 
+of the Automaton Chess Player. The 
+stretch of invention shown in this unpa- 
+ralleled instance of mechanicid skill, wiU 
+
+* This grand instrument, which performs by me- 
+chanical action^ or may be played upon by five pro- 
+fessors at once, is shown at the rooms, No, 101,. St. Mas^ 
+tint's Lane. 
+
+A 4 
+
+Digitized by VjOOQ IC 
+
+9 PREFACEr 
+
+be fujly appreciated only by those who can 
+fbmi m cstipaate of the variety of qombi^ 
+notions amongst the pieces which a game 
+pf Chess presents : the constant exercise 
+oC acute judgment required in anticipating 
+the 4^signs of an antagonist, or in frus- 
+trating those which cannot be foreseen; 
+and the experience in the game, which 
+fldust be attained by any individual, before 
+h^ can become quaUfied to be a skilM 
+Chess Player. Some accurate notion, how- 
+ever, of the surprising powers which the 
+inventor of this singular piece of mecha- 
+nism has displayed, even they who are, 
+unacquainted, or but slightly acquainted, 
+with the game of Chess, may derive from 
+a faithful description of it, with respect to' 
+its construction, so far as that can be ex- 
+plained, and its general manner of work- 
+
+Digitized by 
+
+Gao^k 
+
+PREFACE. 9 
+
+iag. Such a description, likewise, may- 
+be acceptable to those who are adepts in 
+the game, to call to their recollection, aifjr 
+interesting circumstance relating to the 
+Automaton, which they may have forgot- 
+ten; and to be a slight memorial of a mas- 
+terpiece of human ingenuity which excited 
+their liveliest curiosity and adiniratjion. 
+
+^* indocti discant, axdtnt meminisse periti.^ 
+
+Digitized by VjOOQ IC 
+
+•\ 
+
+Digitized by VjOOQ IC 
+
+OBSERVATIONS, 
+
+Sfc. 
+
+The celebrated piece of mechanism, caUed 
+the Automaton Chess Player, was the in- 
+vention of Wolffgang de Kempelen, a 
+Hungarian gentleman, Aulic Counsellor 
+to the Royal Chamber of the domains of 
+the Emperor in Hungary. His genius, for 
+mechanics appeared in early life; and 
+when matured by study, and experimental 
+observation to which the leisure that his 
+employment afforded him, was chiefly de- 
+voted, displayed' itself in various inven- 
+
+Digitized by VjOOQ IC 
+
+,1? OBSBKVATIONS ON THE 
+
+tions and improvemente of great public 
+utility. 
+
+Being at- Vienna, in the year 1769, 
+tqjon business of office, be was invited, by 
+order of the Empress Maria Theresa, ta 
+be present at certain experiments of mag'^ 
+netism, which were to be exhibited before 
+herself and the Ii^)6rial court, by a 
+Frenchman, of the name of Pelletier* 
+During the exhibition, M. de Kempelen, 
+who was honoured with the familiar ccm- 
+versation of the Empress, dropped a hint 
+thathethought himself competent to con*' 
+sti!uct a piece of mechanism, which should 
+produce effects far more dur(»ising and 
+unaccountable than those which she then 
+Ivitnessed* Tlie curiosity of the Em- 
+press b^ng strongly reused, is^he ies:|M-essed 
+a lively desh-e to see l^ idea carried 
+into execution, and drew fircwn him a pro* 
+mise that he would gratify bejf WisW 
+
+Digitized by VjOOQ IC 
+
+AUTXKWATON CHESS PLAVttR, J3 
+
+irithout 4elay. M. de Kempelen kepi his 
+word ; and within the space of six month* 
+completed his Automaton Chess Player. 
+
+- At Vienna^ where it was first produced, 
+dt excited the' highest astonishment aiid 
+admiration of tli^ £mp*ess and heir court, 
+and of many iUustrious and scientific p^i*' . 
+sons, who examined its exlraordamiry 
+powers. Hie report of them qui<ikly 
+spread ; and the newspapers of the time 
+speak, of them in unnieasured testns of 
+approbatibn^^ The inventor, however, with 
+that indi£ference to p(^ular favour which 
+qharaDteri8;es true genius, not only de-' 
+clined makir^ ft public exhibition of ^* 
+Automaton, and refused considerable pe- 
+aniary offers fi*om persons desirous of pur- 
+qhasing^it} but^inhisardourfor prosecut- 
+ing s<»ne new mechanical pursuit, actually 
+laid it aside, and even proceeded in part 
+to take it to pieces. 
+
+Digitized by dOOgLC 
+
+14 OB8BRVATIONS ON THE 
+
+In this disordered state it remaiiwd 
+during many years, when, on the oecasicm 
+of a visit made by the Grand Duke Paul, 
+of Russia, with his consort, to the court 
+of Vienna, the Emperor Joseph II. recol- 
+lecting the invention of M. de Kempel^, 
+signified a wish that he should exhiUt it 
+tot the gratification of these august p»- 
+sonages. In the course of five weeks, tte 
+numerous repairs which it required, were 
+(completed by the indefatigable genius of 
+its inventor; and on being produced bef<^e 
+the Imperial visiters, it excited no less 
+astonishment and admiration than at its 
+first appearance. Upon this, occasion^ 
+M .^ Kempelen was urged and prevailed 
+upon to satisfy general curiosity by exhi- 
+biting it publicly in Germany and in others 
+countries. Accordingly, the Emperor having 
+granted him permission to absent himself 
+from the duties of his employment during 
+two years, he travelled with his Antoma- 
+
+Digitized by,VjOOQlC 
+
+AUTOMATON CHESS PLAYER. 15 
+
+ibn,*^ into various part^ of Germany and to 
+Paiis; and in the year 1785, he vmted 
+England. At his death, which to0k {^ce 
+about the year 1803, the Automaton eanae 
+into possession of his son, whQ sold it to 
+the present exhibiter, a maji, apparently 
+of great ability ia the science of mec^- 
+mcs, and inferior only to M. de Kempekn 
+himself. 
+
+' ThiB short histodcal notice, touching 
+tiie inventor of the Automaton Chess 
+Player, ?ind the circumstances which led 
+to its invention and first exhibition^ natu*- 
+rally precedes a description of the Auto- 
+maton itself. ; ' 
+
+The room where it is at presait exhi- 
+bited, has an inner apartment, within 
+which appears the figure of a Turk, as 
+large as life, dressed after the Turkish fa- 
+sjbicm, sitting bdiind a cheat of three feet 
+aiid a half in length, two feet in breadth. 
+
+Digitized by 
+
+Google 
+
+16 OflSERVATIONS ON THE 
+
+ftnd ^wo feet and a half in height, to whidi 
+it is attac^ied by the wooden seat on which 
+it sits. The chest iA placed lipon four cas- 
+ters, and together with the figure, may 
+^be easily moved to any part of the rpom* 
+On the plain surface formed by the top of 
+the chest, in the centre, is a raised im- 
+moveable chess-board of handsome dimen- 
+sions, upon which the figure has its eyes 
+fixed ; its right ann and hand being ex- 
+tended on the chest, and its left arm 
+somewhat raised, as if in the attitude 6i 
+holding a Turkish pipe, which originally 
+was placed in its hand. 
+
+The exhibiter begins by wheeling tbe 
+chest to the entrance of the apartment with- 
+in which it stands, and in face of the spec- 
+tators. He then opens certain doors con* 
+trived in the chest, two in front, and two 
+at the back, at tlie same time pulling put 
+a long shallot drawer at the bottom of the 
+
+Digitized by 
+
+Googk 
+
+AUTOMATON CHSaa PXiAYCR. 17 
+
+tjhest made to contain the chess men, a 
+cushion for the arm of the figure to rest 
+upon, and some , counters. Two lesser 
+doors, aud a green cloth screen; contrived 
+in the body of the figure, and in its lowcsr 
+parts^ are likewise opened, and the Turkish 
+rphe which covers them is raised ; so that 
+the construction both of the figure and 
+chest internally is displayed. lb this state 
+the Automaton is moved round for the ex* 
+amin&tion of the spectators ; and to ba- 
+nish all suspicion from the most sceptical 
+.mind, that aay living subject is concealed 
+within any part of it, the e;2diibite]' intro- 
+duces a lighted candle into the body of the 
+chest and ^ure, by which the interior of 
+each is, in a great measure, rendered trans- 
+parent, and the most secret comer is 
+shown; Here it may be observed, that 
+the same precaution to remove suspicion 
+ift used, if requested, at the close as at 
+
+B 
+
+Digitized by VjOOQ IC 
+
+18 OBSERVATIONS ON THE - 
+
+the commencement of a game of Chess, 
+with the Automaton. 
+
+The chest is divided, by a partition, 
+into two unequal chambers. That to the 
+right of the figure is the narrowest, and 
+occupies scarcely one third of the body of 
+the chest. It is filled with little wheels, 
+levers, cylinders, and other machinery 
+used in clock-work. That to the left con- 
+tains a few wheels, some small barrels 
+with springs, and two quarters of a circle 
+placed horizontally. The body and lower 
+parts of the figure contain certain tubes 
+which seem to be conductors to the machi- 
+nery. After a suflScient time, during which 
+each spectator may satisfy his scruples 
+and his curiosity, the exhibiter recloses 
+the doors of the chest and figure, and the 
+drawer at bottom ; naakes some arrange- 
+ments in the body of the figure, winds up 
+the works with a key inserted into a small 
+
+Digitized by VjOOQ IC 
+
+AUTOMATON CHESS PLAYER. 19 
+
+opening on the side of the chest, places a 
+cushion under the left arm of the figure^ 
+which now rests upon it, and inidtes any 
+individual present , to play a game of 
+Chess. 
+
+At one and three o'clock in the afler-^ 
+noon, the Automatoa plays only ends of 
+games, with any person who may be pre- 
+sent. On these occasions the pieces are 
+placed on the bdard, according to a pre- 
+concerted arrangement ; and the Auto- ^ 
+maton invariably wins the game. But at 
+eight o'clock every evening, it plays an 
+entire game against any antagonist who 
+may oflfer himself, and generally is the 
+winner, although the inventor had not this 
+issue in view as a necessary event. 
+
+In playing a game, the Automaton 
+makes choice of Che white pieces, and al-^ 
+ways has the first move. These are small 
+B 2 . 
+
+Digitized by 
+
+Google 
+
+20 Observations on the 
+
+advantages towards winning the game 
+which are cheerfully conceded. It plays 
+with the left hand, the right arm arid hand 
+being constantly extended on the ctest, 
+behind which it is seated. This slight in- 
+congruity proceeded from absence of mind 
+in the inventor, who did not perceive his 
+mistake till the machinery of the Atito-' 
+maton was too far completed to admit of 
+the mistake being rectified. At the com- 
+mencement of a game, the Automaton 
+moves its head, as if taking a view of the 
+board; the same motion occurs at the 
+close of a game. In making a move, it 
+slowly raises its left ai'm from the cushion 
+jplaced under it, and directs it towards the 
+square of the piece to be moved. Its 
+hand and fingers open on touching the 
+piece, which it takes u|), and conveys to 
+any proposed square. The arm, then, re- 
+turns with a natural motion to the cushion 
+upon which it usually rests. In taking a 
+
+Digitized by Google 
+
+AUTOMATON CHE^S PLAYER. 21 
+
+piece, the Automaton makes the saiue 
+motions of the arm and hand to lay hold 
+of the piece, which it conveys trom the 
+board ; and then returning to its own piece, 
+it takes it up, and places it on the vacant 
+square. These motions are performed with 
+perfect correctness; and the dexterity with 
+which the arm acts, especially in the deli- 
+cate operation of castling, seems to be the 
+result of spontaneous feelihg, bending at 
+the shoulders elbow, and knuckles, and 
+cautiously avoiding to touch any other 
+piece than that which is to be moved, nor 
+ever making a false move. 
+
+After a move made by its antagonist, 
+the Automaton remains for a few moments 
+only inactive, as if meditating its next 
+move ; upon which the motioni^ of the left 
+ann and hand follow. On giving cheek to 
+the King, it moves its head as a signal. 
+When a false move is made by its aptago- 
+B 3 
+
+Digitized by 
+
+Google 
+
+22 OBSERVATIONS ON THE . 
+
+nist, which frequently occurs, through cu-f 
+riosity to observe in what manner the Au* 
+tomatoh will act: as, for instance, if a 
+Knight be made to move like a Castle, the . ; 
+Automaton taps impatiently on the chest, . 
+with its right hand, replaces the Knight 
+on its foimer square, and not permitting 
+its antagonist to recover his move, pro- 
+ceeds immediately to move one of its own 
+pieces : thus appearing to punish him for 
+his inattention. The little advantage in 
+play which is hereby gained, makes the 
+Automaton more a match for its antagor 
+nist, and seems to have been coAtemplated 
+by the inventor as an additional resource 
+towards winning the game. 
+
+It is of importahce that the person 
+matched against the Automaton, should 
+be attentive, in moving a piece, to place it 
+precisely in the centre of its square; 
+fitherwise the figure, in attempting to lay 
+
+Digitized by 
+
+Google 
+
+AUTOMATON CHESS PLAYBH. • 25 
+
+hold of the piece, may miss its hoid, or 
+even sustain some injury in the delicate 
+mechanism of the fingers. When the per- 
+son has made amove, no alteration in it 
+can take place : and if a piece be touched, 
+it must be played somewhere. This rule 
+is strictly observed by the Automaton. If 
+its antagonist hesitates to move for a con- 
+siderable time, it taps smailly on the top 
+of the chest with the. right hand, which is 
+constantly extended upon it, as if testify- 
+ing impatience at his delay- 
+
+During the time that the Automaton is 
+in motion, a low sound of clock- work 
+running down is heard, which ceases soon 
+after its arm returns to the cushion ; and 
+then its antagonist may make his move. 
+The works are wound up at intervals, after 
+ten or twelve moves, by the exhibiter,;who: 
+is usually employed in walking up and 
+do\f n the apartment in which the Autor 
+
+» 4 
+
+Digitized by VjOOQ IC 
+
+94 OBSERVATIONS ON T«£ 
+
+niftton is shown, approaching, however, 
+the chest from time to time, especially on 
+its right side. 
+
+At the conclusion of the exhibition of 
+the Automaton, on the removal of the chess 
+men from the board,, one of the sqpecta^ 
+tors indiscriminately is requested to place 
+a Knight upon any square of the board 
+at pleasure. The Automaton immediaiely 
+takes up the Knight, and beginning from 
+that square, it moves the piece, according 
+tp, its proper iftotion, so as to touch each 
+of the sixty-three squares of the chess 
+board in turn, witibiout missing one, or re- 
+turning to the same square. The square 
+from which the Knight proceeds is marked 
+by a white counter; and the squares guc-^ 
+oessively touched, by red counters, which 
+at length occupy all the othw squares of 
+\\i% bQard. 
+
+Digitized by VjOOQ IC 
+
+AUTOMATON CHEl^ PLAVBR. 26 
+
+The description now given of the Au- 
+tomaton Chess Player, with respect to its 
+construction, so far as that can be ex- 
+plained, and its general manner of work- 
+ing, naturally suggests an interelsting in- 
+quiry : What are the immediate causes by 
+which its unparalleled phenomena are pro- 
+duced ? 
+
+To this inquiry no satisfactory answer 
+has yet been made. It is allowable^ thfere- 
+fpre, to hazard some observations in reply 
+to it. The causes sought for appear to 
+be two, which are distinct from each othCT 
+— a moving force from which the left arm 
+^ and hand of the Automaton derive the 
+action peculiar to those parts of the body; 
+and a directing force, by which the saitoe 
+arm and hand, when raised and prepared td, 
+act, are guided on this side or that, ad* 
+cording to circumstances, many of which 
+(Cannot possibly be anticipated, and each 
+of which requires the exertion of the rea- 
+
+Digitized by VjOOQIC 
+
+26 OBSERVATIONS ON THE 
+
+scming faculty, sometimes in a high degree. 
+To explain the nature of the moving force,, 
+which is employed, is the province of the 
+prpfessed mechanician, who can accomit 
+for it upon fixed mechanical principles. 
+The operation of that force at a cer- 
+tain time after each move of an antago- 
+nist, seems to depend upon the momentaiy 
+interference of the exhibiter, who though 
+usually employed ip walking up and down^ 
+approaches the chest when theAutomaton 
+is about to make a move (p. 20), and 
+appears to touch some spring, near to the 
+arm of the figure, on the right side, which 
+spring may set in motion the works by 
+which the arm and hand of the Automaton 
+are raised fi-om the cushion, are made to 
+bend at their several joints, so as to 
+grasp the piece to which they may be 
+guided by the directing force, and tq 
+retain it for a given moment of time, 
+after which, on disposing of the piece, 
+the arm and hand become relaxed, and are 
+
+Digitized by VjOOQ IC 
+
+AUTOMATON CHESS PLAYER. 27 
+
+broiiglit back to their usujal position. In case 
+a piece is to be taken, or a. false move is 
+made by an antagonist, ox the Automa- 
+ton castles (p. 21), by a peculiar manner 
+of touching the spring, these mechanical 
+motions of the arm and hand might be re- 
+peated de. suite; with a variation only in 
+the return of the arm, which would not take 
+. place until the end of the repetition. But 
+the mystery in the action of the Auto- 
+maton—a mystery not less hard to be 
+solved by professed mechanician^, than by 
+persons unacqiiainted with the science of 
+mechanics, arises from the nature and 
+operation of the directing fo;'ce by which 
+the arm and hand of the Automaton, when 
+raised and prepared to act by the moving 
+force, are guided with a precision and 
+judgment that baffles the skill even of ex- 
+perienced chess players.' Various conjec- 
+tures have been made upon this subject. 
+It was supposed, for a tinie^ that the di- 
+
+Digitized by 
+
+Google 
+
+28 OBSERVATIONS ON THE 
+
+reeling force was some concel^led load- 
+stone^ iinta tlie inventor of the Automaton 
+showed the boundless nature of such a 
+supposition, by permitting any person to 
+place the most powerful loadstone in con- 
+tact with the figure, or upon any part of 
+the chest to which it is attached* 
+
+The most obvious solution of the na*- 
+ture and operation of the directing force 
+may be drawn fix>m the hypothesis, that 
+a living subject is enclosed within the left 
+or larger chamber of the chest, who gindes 
+the arm and hand of the Automaton when 
+raised, either in this or that direction, ac- 
+cording to the ever varying appearance of 
+the game, which might be discerned 
+through a transparent chess-board. It is . 
+sufficient^ howeVer, in order to refute this 
+hypothesis, to repeat what has heeu al- 
+ready mentioned in page 17, that both be- 
+fore and after the exhibition of the Auta- 
+
+Digitized by VjOOQ IC 
+
+AUTOMATON CHESS PLAYER. 29 
+
+itiaton, the exhibiter is willing to lay opea 
+for the examination oi every spectator its 
+entire construction internally, so as to sa- 
+tisfy the most incredulous person, that no 
+concealment whatsoever of a living subject 
+Can take place. 
+
+With more semblance of reason, it 
+has been conjectured that there is a com- 
+munication between the left arm and hand 
+pf the Automaton, and a person placed in 
+an adjoining room, who, though unseen, 
+himself, is a spectator of the gamie; aind 
+that by means of this communication, the 
+directing force required maybe conveyed 
+at the time when the arm and himd are 
+raised. This conjecture, however plau- 
+sible, may be answered by the statement 
+of a plain fact, referred to before, that M- 
+de Kempelen exhibited his Automaton, on 
+two diflferent occasions, at the Imperial 
+palace of Vienna; and it Is absolutely chi- 
+merical to suppose, that upon those occa- 
+
+Digitized by VjOOQ IC 
+
+30 OBSERVATIONS ON THE 
+
+sions, any communication could be opened 
+with an adjoining apartment iri the palace 
+to that in which the Automaton was exhi- 
+bited. Still the question returns, What 
+is the nature and operation of the direct- 
+ing force, by which the left ami and hand 
+of the Automaton when raised, and pre- 
+pared to act, are guided? 
+
+With respect to the nature of this di- 
+recting force, there can be only one rea- 
+sonable opinion, that it must proceed from 
+the immediate direction of some human 
+agent ; and since there is no communica- 
+tion with such an agent concealed within 
+the chest, or in a room adjoining, it must 
+proceed from the immediate direction of 
+the exhibiter himself. 
+
+Nevertheless thfe operation of this di- 
+recting force, or in what secret manner the 
+exhibiter' directs the arm and hand of thef 
+Automaton when raised, yet remains to 
+
+Digitized by VjOOQ IC 
+
+AUTOMATON CHESS PLAYER. 31 
+
+be explained. M. de Kempelen once 
+threw out a hint, that the chief merit of 
+his invention lay in the successful manner 
+in which he deceived the spectators; by 
+which hint he seemed to imply not only 
+that the exhibiter does interfere in an un^ 
+perceived manner in directing the drm and 
+hand of the Automaton when raised, ac- 
+coMing to the varying circumstances of 
+a game of Chess; but that the mode of 
+such interference is very simple. In fact, 
+when the arm and hand are raised and 
+prepared to act by the operation of the 
+moving force already explained, the action 
+of. a wire or piece of catgut, not much 
+thicker than a hair, would be suflBcieiit to 
+guide them in any direction ; which action, 
+from the delicacy of the medium used, 
+might be communicated in a manner 
+
+wholly unperceived by the spectators*. 
+
+•» ■ ■ . ■ «ii 
+
+* There can be; little doubt that the peculiar action 
+of the Automaton (p. 24), by which the Knight is 
+
+Digitized by VjOOQ IC 
+
+,v 
+
+*|^ Probably the precise tiiiite aifid instra* 
+^^ ment of communicating this action, which 
+are circjtanstances systematically kept ^- 
+\^^!d^^\n\l never be discovered; and the con- 
+ception of them, I^^Cts the Highest ho- 
+nour upon the ingenuity of the inventor. 
+IPcf construct an arm and hand capable of 
+performing the orcMaary functions of those 
+parts, would be of^itgelf sufficient to se- 
+cure the* reputation of an artisT; but to 
+make the same arm and hand almost 
+comiterparts of living members in a reason- 
+ing agent, displays a power of invention 
+as bold and 6r1grai^>^as any that has cvct 
+been exhibited to the world. 
+
+tnacte to touch eaehof the 6S square^, oLthe chess-toimi 
+in turn, depends :,i^^ the action of^^mchinerj' alone, 
+without any interference of the exhibiter, except in pre- ' 
+viously winding up the works* The motions of iS^e 
+head of die figure, and its tapping on the chest (pp. 
+go— 23), are a kind of hors d'oeuvre* 
+
+THE END. 
+
+^. Gindtell, Printer, Littlt i^ueen Street, London, 
+
+Digitized by VjOOQ IC 
+
+Digitized by VjOOQ IC 
+
+Digitized by VjOOQ IC
