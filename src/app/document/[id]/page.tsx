@@ -85,16 +85,7 @@ export default async function DocumentPage({ params }: PageProps) {
               <MetadataRow label="Topic" value={TOPIC_NAMES[doc.topic] || doc.topic} />
               <MetadataRow label="Characters" value={doc.char_count.toLocaleString()} />
 
-              {doc.summary && (
-                <div>
-                  <div className="meta-label mb-1">Summary</div>
-                  <p className="font-sans text-sm text-ink-600 leading-relaxed">
-                    {doc.summary}
-                  </p>
-                </div>
-              )}
-
-              {doc.description && !doc.summary && (
+              {doc.description && (
                 <div>
                   <div className="meta-label mb-1">Description</div>
                   <p className="font-sans text-sm text-ink-600 leading-relaxed">
@@ -135,6 +126,18 @@ export default async function DocumentPage({ params }: PageProps) {
 
           {/* Document content */}
           <main>
+            {doc.summary && (
+              <div className="mb-6 bg-copper-50 border border-copper-200 rounded-sm p-4">
+                <div className="flex items-start gap-3">
+                  <span className="text-copper-600 text-lg mt-0.5">✦</span>
+                  <div>
+                    <div className="text-xs font-medium text-copper-700 uppercase tracking-wide mb-1">Summary</div>
+                    <p className="text-sm text-ink-700 leading-relaxed">{doc.summary}</p>
+                  </div>
+                </div>
+              </div>
+            )}
+
             <TextViewer
               filename={doc.filename ?? null}
               supabaseUrl={process.env.NEXT_PUBLIC_SUPABASE_URL || ''}
