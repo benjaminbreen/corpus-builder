@@ -25,7 +25,8 @@ export function TextViewer({
   const [loadingTranslation, setLoadingTranslation] = useState(false)
   const [error, setError] = useState<string | null>(null)
   const [fontSize, setFontSize] = useState<'sm' | 'base' | 'lg'>('base')
-  const [showTranslation, setShowTranslation] = useState(false)
+  // Default to showing translation if available
+  const [showTranslation, setShowTranslation] = useState(hasTranslation)
 
   // Fetch original text
   useEffect(() => {

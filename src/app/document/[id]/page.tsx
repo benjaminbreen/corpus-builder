@@ -3,6 +3,7 @@ import { getDocument, getCorpus, LANGUAGE_NAMES, TOPIC_NAMES } from '@/lib/corpu
 import { getQuotesByDocument } from '@/lib/quotes'
 import { notFound } from 'next/navigation'
 import { TextViewer } from '@/components/TextViewer'
+import { AuthorInfo } from '@/components/AuthorInfo'
 
 interface PageProps {
   params: Promise<{ id: string }>
@@ -122,6 +123,9 @@ export default async function DocumentPage({ params }: PageProps) {
                 {LANGUAGE_NAMES[doc.language_code] || doc.language_code}
               </Link>
             </div>
+
+            {/* Author info from Wikipedia */}
+            {doc.creator && <AuthorInfo creator={doc.creator} />}
           </aside>
 
           {/* Document content */}
