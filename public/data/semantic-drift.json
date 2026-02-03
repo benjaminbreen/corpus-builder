@@ -12,7 +12,7 @@
         "entendement",
         "reason"
       ],
-      "total_contexts": 1568,
+      "total_contexts": 1562,
       "decades_covered": 23,
       "drift": [
         {
@@ -380,8 +380,8 @@
         },
         {
           "decade": "1870s",
-          "similarity_to_origin": 0.959,
-          "num_contexts": 112,
+          "similarity_to_origin": 0.9604,
+          "num_contexts": 109,
           "examples": [
             {
               "text": "inexpressible joy found himself cast for the part of \u201cColonel Damas\u201d in Bulwer\u2019s comedy of the \u201cLady of Lyons.\u201d Now this was his pet _r\u00f4le_, and at the intelligence he felt all his dramatic genius kindle into a fresh flame. \u201cBoys,\u201d he said, straightening up his dignified form, \u201cBoys, you will see me...",
@@ -408,13 +408,13 @@
               "doc_id": "b21309875"
             },
             {
-              "text": "that of stretching towards regions into which the senses cannot penetrate. Is the mind to follow the senses, instead of leading, controlling, and directing them? Are the senses to govern the intellect and to dictate to it the conditions under which it may work ? But even the dis- ciples of the physi...",
+              "text": "that the exact way should be pointed out in which new facts afford support to the doctrine, and that we should be furnished with something more definite to guide our reason than what is called the \u201c tendency \u201d of investigation, of thought, or opinion; for this \u201ctendency,\u201d when carefully analyzed, wi...",
               "year": 1870,
               "title": "Protoplasm; or, life, force, and matter/ [electron",
               "doc_id": "b21309875"
             }
           ],
-          "similarity_to_previous": 0.9765
+          "similarity_to_previous": 0.978
         },
         {
           "decade": "1880s",
@@ -452,7 +452,7 @@
               "doc_id": "EtudeOctober1887"
             }
           ],
-          "similarity_to_previous": 0.9861
+          "similarity_to_previous": 0.9854
         },
         {
           "decade": "1890s",
@@ -494,8 +494,8 @@
         },
         {
           "decade": "1900s",
-          "similarity_to_origin": 0.941,
-          "num_contexts": 94,
+          "similarity_to_origin": 0.9406,
+          "num_contexts": 91,
           "examples": [
             {
               "text": "ler\u2019s paper): \u2018Lhe nireling \u2018press. take the position that the reso- lution was unfairly drawn, and that the Opposition. were \u2018simply using Mr..Baourassa.. Intelligence at once suggests that this prop= osition is absurd. Mr. \u201cBourassa acted \u2018froma sense of public duty quite independently pe either p...",
@@ -504,13 +504,13 @@
               "doc_id": "RDM_1907040901"
             },
             {
-              "text": "By re Sidene Richardson Copyright, 1906, by May McKeon It\u2018 was pretty\u201d generally understood that the Billy Daltons were drifting apart. - There was no particular reason: for this state.of affairs, save the lack of something better to do... _ You see, they had just enough money so-that Billy did not ...",
+              "text": "possible to gain admission to any of the public hospitals \u2018because they, were: all overcrowded.\u2019 He \u2018stole a pair-of shoes to get himself -arrested,. reason- ing. that\u2019 in\u00abthe jail he\u2019 would -receive medical treatment. He was given the | necessary medical-attention and when: he recovered his health ...",
               "year": 1907,
               "title": "News (1907-04-09)",
               "doc_id": "RDM_1907040901"
             },
             {
-              "text": "possible to gain admission to any of the public hospitals \u2018because they, were: all overcrowded.\u2019 He \u2018stole a pair-of shoes to get himself -arrested,. reason- ing. that\u2019 in\u00abthe jail he\u2019 would -receive medical treatment. He was given the | necessary medical-attention and when: he recovered his health ...",
+              "text": "known \u2018and progressive sub-division\u2018are now being put an'the market. They are very choice portions of this sub-division, and are offered at very reason- able figures. They comprise Two 5-acre Lots One 3-aere Lot Three 1-acre Lots. Most of these have been reserved, \u2018Dats are now offered for sale",
               "year": 1907,
               "title": "News (1907-04-09)",
               "doc_id": "RDM_1907040901"
@@ -528,7 +528,7 @@
               "doc_id": "ACN_1907050201"
             }
           ],
-          "similarity_to_previous": 0.9939
+          "similarity_to_previous": 0.994
         },
         {
           "decade": "1910s",
@@ -554,7 +554,7 @@
               "doc_id": "gutenberg_72556"
             }
           ],
-          "similarity_to_previous": 0.9704
+          "similarity_to_previous": 0.9693
         },
         {
           "decade": "1920s",
@@ -776,7 +776,7 @@
         "machine man",
         "robot"
       ],
-      "total_contexts": 1083,
+      "total_contexts": 1073,
       "decades_covered": 20,
       "drift": [
         {
@@ -1142,15 +1142,9 @@
         },
         {
           "decade": "1890s",
-          "similarity_to_origin": 0.9187,
-          "num_contexts": 445,
+          "similarity_to_origin": 0.9186,
+          "num_contexts": 443,
           "examples": [
-            {
-              "text": ". You can search through the full text of this book on the web at |http: //books .google .com/I .^mw^r .^ % I ^^HABN^\" THREE TALES THE GHOST THE BRAZEN ANDROID THE CARPENTER BY WILLIAM DOUGLAS O'CONNOR btcn ou BOSTON AND NEW YORK HOUGHTON. MIIFLIN AND COMPANY 1892 So? 6 K \\>>9c:J \u2022:^- \u2022%",
-              "year": 1891,
-              "title": "Three Tales: The Ghost, The Brazen Android, The Ca",
-              "doc_id": "threetalesghost00congoog"
-            },
             {
               "text": "of the flower and symbol of olden time first- class knighthood here in the nineteenth century. Thrice blessed be his memory. Walt Whitman. CONTENTS FAOI THE GHOST 1 THE BRAZEN ANDROID 79 THE CARPENTER 211 THE GHOST. At the West End of Boston is a quarter of some fifty streets, more or less, commonly...",
               "year": 1891,
@@ -1164,19 +1158,25 @@
               "doc_id": "threetalesghost00congoog"
             },
             {
-              "text": ". Crown 8vo, gilt top, #1.00. THREE TALES: \u201cx6mo; $2.28, HOUGHTON, MIFFLIN & COMPANY, Boston AND New York. Paki TALES THE GHOST THE BRAZEN ANDROID THE CARPENTER BY WILLIAM DOUGLAS O\u2019CONNOR BOSTON AND NEW YORK HOUGHTON, MIFFLIN AND COMPANY Che Riverside Press, Cambridge 1892 Copyright, 1891,",
-              "year": 1892,
-              "title": "Three tales : the ghost, the brazen android, the c",
-              "doc_id": "threetalesghostb00ocon"
+              "text": "\"VViiO can rebuild before the eye of the mind a single ordinary dwelling of the vanished Lon- don of the middle of the thirteenth century ? It 80 THE BRAZEN ANDROID, was a dwarfish, squalid structure, of such crazy unsubstantiality that, with a stout iron crook and two strong cords, provided by the ...",
+              "year": 1891,
+              "title": "Three Tales: The Ghost, The Brazen Android, The Ca",
+              "doc_id": "threetalesghost00congoog"
             },
             {
               "text": "federations, \u2014 they weigh weight; but in God\u2019s scale \u2014 remember!\u2014 on the day of hope, re- member ! \u2014 your least service to Humanity out- weighs them all.\u201d THE BRAZEN ANDROID. \u201cHe (Roger Bacon) enter\u2019d into the depth of Mechanical Sciences, and was so well acquainted with the force of Elastick bodies...",
               "year": 1892,
               "title": "Three tales : the ghost, the brazen android, the c",
               "doc_id": "threetalesghostb00ocon"
+            },
+            {
+              "text": "Wao can rebuild before the eye of the mind a single ordinary dwelling of the vanished Lon- don of the middle of the thirteenth century? It 80 THE BRAZEN ANDROID. was a dwarfish, squalid structure, of such crazy unsubstantiality that, with a stout iron crook and two strong cords, provided by the ward...",
+              "year": 1892,
+              "title": "Three tales : the ghost, the brazen android, the c",
+              "doc_id": "threetalesghostb00ocon"
             }
           ],
-          "similarity_to_previous": 0.9472
+          "similarity_to_previous": 0.9469
         },
         {
           "decade": "1900s",
@@ -1214,7 +1214,7 @@
               "doc_id": "SCC_1907051701"
             }
           ],
-          "similarity_to_previous": 0.9493
+          "similarity_to_previous": 0.9492
         },
         {
           "decade": "1910s",
@@ -1270,8 +1270,8 @@
         },
         {
           "decade": "1930s",
-          "similarity_to_origin": 0.9134,
-          "num_contexts": 13,
+          "similarity_to_origin": 0.9116,
+          "num_contexts": 11,
           "examples": [
             {
               "text": "flagship, driving projectors fiercely aflame, rushed to come to grips with the _Dresden_. \"You intimated something about help,\" Martin suggested. \"Can you release some of the other ships from the automaton's yoke, after all?\" \"Got to--or roast. This is bound to be a battle of attrition--we can't cru...",
@@ -1292,12 +1292,12 @@
               "doc_id": "gutenberg_68558"
             }
           ],
-          "similarity_to_previous": 0.9653
+          "similarity_to_previous": 0.9659
         },
         {
           "decade": "1950s",
-          "similarity_to_origin": 0.9149,
-          "num_contexts": 72,
+          "similarity_to_origin": 0.9136,
+          "num_contexts": 66,
           "examples": [
             {
               "text": "\ufeffThe Project Gutenberg eBook of The Miserly Robot This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever",
@@ -1312,7 +1312,7 @@
               "doc_id": "gutenberg_65128"
             },
             {
-              "text": "Credits: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team at http://www.pgdp.net *** START OF THE PROJECT GUTENBERG EBOOK THE MISERLY ROBOT *** The Miserly Robot By R. J. Rice Lowndes didn't like Nestor. For Nestor",
+              "text": "The Miserly Robot By R. J. Rice Lowndes didn't like Nestor. For Nestor was a robot--managing his finances. And Nestor had only one thought in his brain: save money! [Transcriber's Note: This etext was produced from",
               "year": 1958,
               "title": "The Miserly Robot",
               "doc_id": "gutenberg_65128"
@@ -1330,7 +1330,7 @@
               "doc_id": "gutenberg_31611"
             }
           ],
-          "similarity_to_previous": 0.9774
+          "similarity_to_previous": 0.9764
         },
         {
           "decade": "1970s",
@@ -1356,7 +1356,7 @@
               "doc_id": "byte-magazine-1978-09"
             }
           ],
-          "similarity_to_previous": 0.9583
+          "similarity_to_previous": 0.9561
         }
       ]
     },
@@ -1374,7 +1374,7 @@
         "device",
         "apparatus"
       ],
-      "total_contexts": 2428,
+      "total_contexts": 2424,
       "decades_covered": 26,
       "drift": [
         {
@@ -1903,7 +1903,7 @@
         {
           "decade": "1890s",
           "similarity_to_origin": 0.9458,
-          "num_contexts": 591,
+          "num_contexts": 590,
           "examples": [
             {
               "text": "There was a patient gained, likely to do Dr. Kenton more good than any patient he had lost. There was a kettle singing on the stove, and blowing off a happier steam than any engine ever blew on that railroad whose unmarketable stock had singed Dr. Kenton's fingers. There was a yellow gleam flickerin...",
@@ -1940,8 +1940,8 @@
         },
         {
           "decade": "1900s",
-          "similarity_to_origin": 0.9356,
-          "num_contexts": 647,
+          "similarity_to_origin": 0.9351,
+          "num_contexts": 644,
           "examples": [
             {
               "text": ". : They will assist: the assimila- tion~of the\u2019 ailment, and}. used: ac- cording *.to... direction | will. restore healthy.-digestion.~\". a patie \u2018A\u2019 Marvelous Machine. A.machine: which. threads: a. thous- \\ 9-- = European - Peace... A league: of peace already pretty well \u2018exists in\u2019 Europe by: vir...",
@@ -1974,7 +1974,7 @@
               "doc_id": "ACN_1907050201"
             }
           ],
-          "similarity_to_previous": 0.9865
+          "similarity_to_previous": 0.9862
         },
         {
           "decade": "1910s",
@@ -2000,7 +2000,7 @@
               "doc_id": "gutenberg_72556"
             }
           ],
-          "similarity_to_previous": 0.9344
+          "similarity_to_previous": 0.9338
         },
         {
           "decade": "1920s",

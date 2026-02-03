@@ -64,20 +64,34 @@ TERM_VARIANTS = {
 # ══════════════════════════════════════════════════════════════════════════════
 
 # Boilerplate phrases to filter out (Google Books, HathiTrust, etc.)
+# Using flexible patterns to handle OCR errors (e.g., "hâve" for "have")
 BOILERPLATE_PATTERNS = [
-    r'google book search',
-    r'automated querying',
-    r'automated queries',
-    r'non-commercial use',
+    r'google book',           # Catches "Google Book Search", "Google Books"
+    r'automat\w* quer',       # "automated querying", "automated queries" (even with OCR errors)
+    r'non.?commercial',       # "non-commercial" with possible OCR artifacts
+    r'commercial part',       # "commercial parties"
     r'public domain',
-    r'copyright law',
+    r'copyright',
     r'generated from',
     r'hathitrust',
-    r'digitized by',
+    r'digitiz\w* by',         # "digitized by", "digitizing by"
     r'scanned from',
-    r'this is a digital copy',
+    r'digital copy',
     r'terms of service',
-    r'google\'s mission',
+    r'google.s mission',      # "google's mission" with OCR variation
+    r'we also ask that you',
+    r'use the\w* files',      # "use these files", "use thèse files"
+    r'technical restrictions',
+    r'restrictions on auto',
+    r'search for use by',
+    r'conducting research',
+    r'refrain f\w+m',         # "refrain from" / "refrain fivm" (OCR)
+    r'personal.{1,5}non.?commercial',  # "Personal, non-commercial"
+    r'expensive.{1,20}resource',       # "this work is expensive...resource"
+    r'abuse by commercial',
+    r'books\s*\.?\s*google',   # "books.google.com" with OCR spaces
+    r'http\s*:',               # Any URL
+    r'full text of this book',
 ]
 
 def is_boilerplate(text: str) -> bool:
