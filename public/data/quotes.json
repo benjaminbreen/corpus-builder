@@ -119,5 +119,60 @@
     "page": "29-31",
     "tags": ["Human Agent", "Artificial Reasoning", "Biomechanics"],
     "text": "With respect to the nature of this directing force, there can be only one reasonable opinion, that it must proceed from the immediate direction of **some human agent**... To construct an arm and hand capable of performing the ordinary functions of those parts, would be of itself sufficient to secure the reputation of an artist; but to make the same arm and hand almost **counterparts of living members in a reasoning agent**, displays a power of invention as bold and original, as any that has ever been exhibited to the world."
+  },
+  {
+    "id": "sturm-soul-substance",
+    "doc_id": "b30766990",
+    "source_title": "Brutorum animas esse substantias",
+    "year": 1683,
+    "language_code": "la",
+    "topic": "vitalism_debates",
+    "page": "Thesis II",
+    "tags": ["Animal Soul", "Substance", "Human-Animal Distinction", "Materialism"],
+    "text": "Just as the rational soul of man is proved by indubitable arguments to be an **immaterial and incorporeal substance**, so we establish that the souls of brute animals are not only material, but also **corporeal**, and are not to be removed from the number of substances. Thus, a significant and notable distinction appears between man and brute animals."
+  },
+  {
+    "id": "sturm-descartes-critique",
+    "doc_id": "b30766990",
+    "source_title": "Brutorum animas esse substantias",
+    "year": 1683,
+    "language_code": "la",
+    "topic": "vitalism_debates",
+    "page": "Thesis I",
+    "tags": ["Cartesianism", "Automata", "Animal Soul", "Anti-Mechanism"],
+    "text": "Many, with Democritus, Leucippus, Empedocles, etc., consider the human mind and these same brute souls to be material... Some reduce them so far as to remove them from the number of substances and make them mere accidents, with only the rational soul of man excepted, such as **Descartes, who compare animals to automatons**, William Pembel, Adriaan Heereboord."
+  },
+  {
+    "id": "sturm-divisibility-argument",
+    "doc_id": "b30766990",
+    "source_title": "Brutorum animas esse substantias",
+    "year": 1683,
+    "language_code": "la",
+    "topic": "vitalism_debates",
+    "page": "Thesis IV",
+    "tags": ["Divisibility", "Materialism", "Animal Soul", "Experimental Evidence"],
+    "text": "Earthworms, eels, and vipers, when divided, **move for some time**, and contract when pricked... A longer worm, divided into ten or more parts, retains the sensitive soul in all parts for a time; for if one part is touched, it writhes to the place of pain. This reason, by which we conclude **materiality from divisibility**, is of such weight that no firmer or greater one can be given."
+  },
+  {
+    "id": "sturm-soul-as-fire",
+    "doc_id": "b30766990",
+    "source_title": "Brutorum animas esse substantias",
+    "year": 1683,
+    "language_code": "la",
+    "topic": "vitalism_debates",
+    "page": "Thesis VII",
+    "tags": ["Vital Fire", "Respiration", "Animal Spirits", "Physiology"],
+    "text": "Not improbably, Honoratus Fabri and Willis, from different principles, believed these brute souls to be **fiery**, like Democritus, since they all have common properties with fire... The necessity of drawing in air is equally applicable here; for animals, especially the hotter ones, if prevented from breathing, quickly die."
+  },
+  {
+    "id": "sturm-blood-is-soul",
+    "doc_id": "b30766990",
+    "source_title": "Brutorum animas esse substantias",
+    "year": 1683,
+    "language_code": "la",
+    "topic": "vitalism_debates",
+    "page": "Thesis VI",
+    "tags": ["Blood", "Biblical Authority", "Vital Spirits", "Soul"],
+    "text": "For the sacred Codex Deut. 12:2 also agrees with us, when it says so clearly: \"**The blood is the soul**.\" This opinion is also sometimes attributed to Critias and Empedocles... It is better here to consider a synecdoche of the part for the whole, so that blood is called soul because of the spirits that it always has present and active."
   }
 ]

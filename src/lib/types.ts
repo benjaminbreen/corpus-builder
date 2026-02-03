@@ -14,6 +14,7 @@ export interface Document {
   date?: string
   creator?: string
   description?: string | string[]
+  summary?: string  // Human-readable summary of the document
   subject?: string | string[]
   topic: string
   search_term?: string
@@ -66,6 +67,7 @@ export const LANGUAGE_NAMES: Record<string, string> = {
   ru: 'Russian',
   es: 'Spanish',
   it: 'Italian',
+  la: 'Latin',
 }
 
 // Topic display names

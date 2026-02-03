@@ -19,6 +19,10 @@ import json
 import shutil
 import argparse
 from pathlib import Path
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv('.env.local')
 
 # Add parent directory to path for imports
 sys.path.insert(0, str(Path(__file__).parent.parent))
@@ -40,9 +44,12 @@ RAW_TEXTS_OUTPUT_DIR = PUBLIC_DIR / "raw_texts"
 
 CORPUS_INDEX_FILE = DATA_OUTPUT_DIR / "corpus-index.json"
 
-# Supabase configuration (from environment variables)
-SUPABASE_URL = os.environ.get("SUPABASE_URL") or os.environ.get("NEXT_PUBLIC_SUPABASE_URL")
-SUPABASE_KEY = os.environ.get("SUPABASE_SERVICE_KEY")  # Use service key for uploads
+# Supabase configuration (loaded dynamically after dotenv)
+def get_supabase_config():
+    url = os.environ.get("SUPABASE_URL") or os.environ.get("NEXT_PUBLIC_SUPABASE_URL")
+    key = os.environ.get("SUPABASE_SERVICE_KEY")
+    return url, key
+
 STORAGE_BUCKET = "corpus-texts"
 
 
@@ -87,6 +94,7 @@ def export_corpus_index(metadata: list[dict]):
             "year_source": doc.get("year_source"),
             "creator": doc.get("creator"),
             "description": doc.get("description", "")[:300] if doc.get("description") else None,
+            "summary": doc.get("summary"),  # Human-readable summary
             "topic": doc["topic"],
             "language_code": doc.get("language_code", "en"),
             "language": doc.get("language"),
@@ -230,13 +238,15 @@ def upload_to_supabase(metadata: list[dict]):
         print("Error: supabase-py not installed. Run: pip install supabase")
         sys.exit(1)
 
-    if not SUPABASE_URL or not SUPABASE_KEY:
+    supabase_url, supabase_key = get_supabase_config()
+
+    if not supabase_url or not supabase_key:
         print("Error: Supabase credentials not found in environment variables.")
         print("Set SUPABASE_URL and SUPABASE_SERVICE_KEY")
         sys.exit(1)
 
-    print(f"Connecting to Supabase: {SUPABASE_URL}")
-    supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
+    print(f"Connecting to Supabase: {supabase_url}")
+    supabase: Client = create_client(supabase_url, supabase_key)
 
     # Check if bucket exists, create if not
     try:

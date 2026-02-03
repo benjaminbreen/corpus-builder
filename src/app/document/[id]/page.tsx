@@ -85,7 +85,16 @@ export default async function DocumentPage({ params }: PageProps) {
               <MetadataRow label="Topic" value={TOPIC_NAMES[doc.topic] || doc.topic} />
               <MetadataRow label="Characters" value={doc.char_count.toLocaleString()} />
 
-              {doc.description && (
+              {doc.summary && (
+                <div>
+                  <div className="meta-label mb-1">Summary</div>
+                  <p className="font-sans text-sm text-ink-600 leading-relaxed">
+                    {doc.summary}
+                  </p>
+                </div>
+              )}
+
+              {doc.description && !doc.summary && (
                 <div>
                   <div className="meta-label mb-1">Description</div>
                   <p className="font-sans text-sm text-ink-600 leading-relaxed">

@@ -2,7 +2,7 @@
 """
 Translate non-English corpus texts using Google Gemini API.
 
-Uses Gemini 2.5 Flash Lite for fast, cheap translations of Latin, French, etc.
+Uses Gemini 2.0 Flash for fast, cheap translations of Latin, French, etc.
 
 Usage:
     python scripts/translate_with_gemini.py                    # Translate all non-English
@@ -21,7 +21,7 @@ from dotenv import load_dotenv
 # Load environment variables
 load_dotenv('.env.local')
 
-import google.generativeai as genai
+from google import genai
 
 # ══════════════════════════════════════════════════════════════════════════════
 # CONFIGURATION
@@ -35,8 +35,8 @@ TRANSLATIONS_DIR = CORPUS_DIR / "translations"
 # Languages that need translation (ISO codes)
 NON_ENGLISH_CODES = {'fr', 'la', 'de', 'it', 'es', 'ru'}
 
-# Gemini configuration
-MODEL_NAME = "gemini-2.5-flash-lite"  # Fast and cheap
+# Gemini configuration - using current recommended model (2025/2026)
+MODEL_NAME = "gemini-2.5-flash-lite"
 MAX_CHUNK_CHARS = 80000  # ~20k tokens, safe for context window
 
 LANGUAGE_NAMES = {
@@ -53,15 +53,15 @@ LANGUAGE_NAMES = {
 # ══════════════════════════════════════════════════════════════════════════════
 
 def setup_gemini():
-    """Initialize Gemini API."""
-    api_key = os.environ.get("GEMINI_API_KEY")
+    """Initialize Gemini API client."""
+    api_key = os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY")
     if not api_key:
         print("Error: GEMINI_API_KEY not found in environment")
         print("Set it in .env.local or export GEMINI_API_KEY=...")
         sys.exit(1)
 
-    genai.configure(api_key=api_key)
-    return genai.GenerativeModel(MODEL_NAME)
+    # Modern google-genai SDK - client auto-configures from env
+    return genai.Client(api_key=api_key)
 
 
 def load_metadata() -> list[dict]:
@@ -120,12 +120,12 @@ def chunk_text(text: str, max_chars: int = MAX_CHUNK_CHARS) -> list[str]:
     return chunks
 
 
-def translate_chunk(model, text: str, source_lang: str, chunk_num: int, total_chunks: int) -> str:
+def translate_chunk(client, text: str, source_lang: str, chunk_num: int, total_chunks: int) -> str:
     """Translate a single chunk of text."""
 
     lang_name = LANGUAGE_NAMES.get(source_lang, source_lang)
 
-    prompt = f"""You are translating a {lang_name} text from a 17th-century book that was OCR scanned. The scan has many errors and artifacts.
+    prompt = f"""You are translating a {lang_name} text from a historical book that was OCR scanned. The scan may have errors and artifacts.
 
 This is part {chunk_num} of {total_chunks} of the document.
 
@@ -155,27 +155,36 @@ TEXT TO TRANSLATE (with OCR errors):
 ENGLISH TRANSLATION (clean, readable):"""
 
     try:
-        response = model.generate_content(prompt)
+        response = client.models.generate_content(
+            model=MODEL_NAME,
+            contents=prompt
+        )
         return response.text.strip()
     except Exception as e:
         print(f"  Error translating chunk {chunk_num}: {e}")
         return f"[Translation error for chunk {chunk_num}: {e}]"
 
 
-def translate_document(model, doc: dict) -> str | None:
+def translate_document(client, doc: dict) -> str | None:
     """Translate a full document, handling chunking if needed."""
 
     local_path = doc.get('local_path')
     if not local_path:
-        print(f"  No local path for {doc['identifier']}")
-        return None
-
-    source_path = Path(local_path)
-    if not source_path.exists():
-        source_path = RAW_TEXTS_DIR / Path(local_path).name
-        if not source_path.exists():
-            print(f"  Source file not found: {local_path}")
+        # Try to find file by filename pattern
+        identifier = doc['identifier']
+        possible_files = list(RAW_TEXTS_DIR.glob(f"*{identifier}*"))
+        if possible_files:
+            source_path = possible_files[0]
+        else:
+            print(f"  No local path for {doc['identifier']}")
             return None
+    else:
+        source_path = Path(local_path)
+        if not source_path.exists():
+            source_path = RAW_TEXTS_DIR / Path(local_path).name
+            if not source_path.exists():
+                print(f"  Source file not found: {local_path}")
+                return None
 
     # Read source text
     text = source_path.read_text(encoding='utf-8', errors='ignore')
@@ -193,7 +202,7 @@ def translate_document(model, doc: dict) -> str | None:
     for i, chunk in enumerate(chunks, 1):
         print(f"  Translating chunk {i}/{len(chunks)}...", end=' ', flush=True)
 
-        translated = translate_chunk(model, chunk, source_lang, i, len(chunks))
+        translated = translate_chunk(client, chunk, source_lang, i, len(chunks))
         translated_chunks.append(translated)
 
         print(f"done ({len(translated):,} chars)")
@@ -293,7 +302,7 @@ def main():
 
     # Setup Gemini
     print("Initializing Gemini API...")
-    model = setup_gemini()
+    client = setup_gemini()
     print(f"Using model: {MODEL_NAME}\n")
 
     # Translate each document
@@ -301,7 +310,7 @@ def main():
         print(f"\n[{i}/{len(docs)}] {doc['identifier']}")
         print(f"  Title: {doc['title'][:60]}...")
 
-        translation = translate_document(model, doc)
+        translation = translate_document(client, doc)
 
         if translation:
             filename = save_translation(doc, translation)

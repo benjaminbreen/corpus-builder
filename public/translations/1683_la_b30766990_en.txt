@@ -1,0 +1,243 @@
+# Brutorum animas esse substantias, & quidem corporeas, brevi dissertatiuncula demonstrat,
+## By Sturm, Johann Christophorus, 1635-1703, praeses (1683)
+### LLM-generated translation from Latin
+
+---
+
+**DISSERTATION ON THE SUBSTANCE OF THE SOULS OF BRUTE ANIMALS.**
+
+And indeed **CORPOREAL**,
+
+A Brief Little Dissertation
+
+[?] demonstrates.
+
+This Dissertation,
+
+Under the Presidency of
+
+THE MOST EXCELLENT AND MOST AMPLE LORD JOH. CHRISTOPHORUS
+
+STURMIUS.
+
+Professor of Philosophy, Mathematics, and Physics in this Esteemed University of Nuremberg at Altdorf, Most Renowned Everywhere,
+
+TO MY LORD PATRON AND TEACHER,
+
+Forever Revered,
+
+Against the Arguments of Opposing Sentiments
+
+He will publicly defend
+
+THE AUTHOR AND RESPONDENT
+
+JOHANNES SCHNAPPERUS,
+
+Of Giengen in Swabia.
+
+On the first day of June, in the Year of the Christian Epoch
+
+1683.
+
+At Altdorf,
+
+Printed by Heinrich Meyer, University Printer.
+
+To the Illustrious Republic of Ulm,
+
+Included and Free,
+
+To the Illustrious GYMNASIUM.
+
+To the NOBLEST, MOST REVEREND,
+
+MOST EXCELLENT, MOST SAGACIOUS, MOST EXPERIENCED, MOST AMPLE,
+
+AND MOST ILLUSTRIOUS
+
+LORD DIRECTOR.
+LORDS SCHOLASTICS.
+LORDS PROFESSORS.
+LORDS VISITORS,
+
+And other Teachers of the Same,
+
+My Lords Patrons, Benefactors, Supporters,
+
+To you, with the utmost humility of spirit and holy reverence,
+
+This exercise, whatever it may be,
+
+For the further commendation of myself and my studies, with a grateful mind and due observance,
+
+I give, dedicate, and consecrate.
+
+JOHANNES SCHNAPPERUS,
+Author and Respondent.
+
+[?]
+
+[?]
+
+[?]
+
+[?]
+
+[?]
+
+[?]
+
+[?]
+
+[?]
+
+[?]
+
+[?]
+
+[?]
+
+[?]
+
+I confess, I am ashamed, [?] of my own little work, which, in Aristotle's Sophistical Refutations, Book I, chapter i, p. 111, 223, Volume I, I observed: that some things are truly what they appear to be, while others merely appear to be what they are not. I hope therefore that the Reader will interpret me benevolently, if I, who am what I am, however I may be, wish to appear to be, rather than one who is not, and to test my own strengths, however small they may be. For reason, indeed, forbade me to hide my faith in this way.
+
+Because of this present matter, concerning the CORPOREAL SOULS OF BRUTE ANIMALS, I have indeed elaborated it thinly and have committed it to paper, and rather as an Academic Exercise than more polished and accurate, I have undertaken to defend and protect it publicly. For that is deceptive and unjust, and this is somewhat more difficult: since it is much more prompt and easier for anyone to defend those things which he himself has conceived in his mind, than those which have been conceived by others, which for the most part are more difficult to conceive. Therefore, to good advisors, I present these my endeavors, and if the work itself does not merit it, at least the will does. According to that saying of the Sulmonian [Ovid], Book 3, Pontic, Elegy 4, p. 214:
+
+"Though strength be lacking, the will is still worthy of praise."
+
+May it be so, in the most holy name of Jesus.
+
+**Thesis I.**
+
+Various opinions of various people, concerning both human and brute souls, occur here and there, which, besides being erroneous, are also dangerous. For there are those who believe them to be endowed with a certain faculty of reasoning, both the ancients and the moderns, although they place them at a lower degree of reason, such as Gassendi and Hieronymus Rorarius. Others, thinking it more philosophical to philosophize gently, contend that brute souls are immaterial and spiritual, though lacking reason, such as Henry More, Enchiridion Metaphysicum, chapter 28, section 15. While on the other hand, many, with Democritus, Leucippus, Empedocles, etc., consider the human mind and these same [brute souls] to be material; see Aristotle, Book I of the Soul, chapter 2, p. 408. Anaxagoras seems to have anticipated these by asserting that there is a mind implanted in all animals, both small and large, both excellent and less excellent. Aristotle, loc. cit. Some reduce them so far as to remove them from the number of substances and make them mere accidents, with only the rational soul of man excepted, such as Descartes, who compare animals to automatons, William Pembel, Adriaan Heereboord, Professor, during his life, at Leiden. See his Meletemata Philosophica, p. 162. So that these divergences of opinion clearly prove the truth of that assertion of Aristotle, Book I of the Soul, chapter 1, p. 467, where he says: "It is indeed very difficult, in every respect and entirely, to finally gain some certainty about the soul." See Scaliger, Exercitationes 307, Section 12, p. 896.
+
+**II.**
+
+Meanwhile, just as the rational soul of man is proved by indubitable arguments to be an immaterial and incorporeal substance, so we establish that the souls of brute animals are not only material, but also corporeal, and are not to be removed from the number of substances. Thus, a significant and notable distinction appears between man and brute animals, since their souls agree only in this, that they are substances, but in all other respects they differ; these are material and corporeal, those are immaterial and incorporeal; these are corruptible and dissolvable, those are incorruptible and immortal; these are devoid of reason and judgment, those are richly endowed with them.
+
+**III.**
+
+Therefore, our entire task consists in proving, that the Soul of a Brute Animal is 1. a substance, and II. indeed, also material. For once materiality is proved, it naturally follows that they are corporeal. That they are substantial is proved by their most noble actions of perceiving, imagining, remembering, and similar ones, which certainly cannot proceed from an accident. We argue thus: "Whatever is the source of these most noble operations of perceiving sensible things, and also of remembering and imagining, that is a substance and not an accident. But these operations are from the soul of brute animals; therefore, the soul of brute animals is a substance, not an accident." Adriaan Heereboord indeed objects, saying: "They are mistaken who resort to some substantial form, in order to give a reason for operations that happen from natural bodies, since accidents suffice here. For he says in express words: 'Accidents can act immediately and in themselves, not by virtue of some substantial form.'" To better understand the author's mind, we note that the dispute for us at present is not about the difference between soul and form. For simply, they cannot resort to them. For, for example, elements have forms, but not souls. We readily admit that even the most learned men use these terms interchangeably in the present matter, so that they have said "soul" for "form," and "form" for "soul," a meaning that was undoubtedly also held by our Heereboord. But, to come closer to the matter itself, it is false and absurd that accidents can act immediately and in themselves, and not by virtue of some substantial subject. For, Adrian, can mere and humble accidents act without a substance? Even if someone believed that the principle of these actions is a mixture and temperament of various accidents, it is nevertheless necessary to posit another underlying subject in which they are rooted. For the existence of accidents is plainly non-existence, and indeed, according to our Heereboord himself, it is not even possible by the absolute power of God for an accident to exist or act without a subject. See his Meletemata Philosophica, p. 42. To this, Heereboord replies: "Indeed, a subject must be posited in which these accidents are rooted. And these are the spirits of animals."
+
+Why then do we not rather attribute the name of soul to these spirits themselves, as a substantial subject, than to a mixture of qualities within them? Certainly, if this animal spirit is not only an organ, but also the primary principle of all sensation; if there is no other substance in brute animals that uses these spirits as instruments of sensing (which Heereboord does not assert in so many words, but confirms by arguments from his Pembelius, Meletemata Philosophica, Dispute 36, number 8), then it is necessary to consider these very spirits as the soul of brute animals, and therefore substantial.
+
+**IV.**
+
+Having thus demonstrated that the souls of brute animals are substances, we proceed further to prove, as would have already been clear from what has been said, that their substance is material and corporeal. This is suggested, I. by their division within an organic body along with their limbs, so that they continue to perform manifest operations, which were formerly attributed to them, even after dissection. Thus, says the Most Illustrious Thomas Willis (see Treatise on Brute Animals, chapter 2, p. 11), earthworms, eels, and vipers, when divided, move for some time, and contract when pricked. To this can be added another experience, as the Most Excellent Lord PRESIDENT taught me in his private lectures. It had been ordered by the magistrate somewhere that a sorcerer be beheaded. This having been done, when the corpse, which at evening seemed entirely lifeless, was to be prepared by anatomical exercise, those to whom this task belonged observed, not without astonishment, that the thumb of the right foot moved and bent several times. Then, these men, marveling at this miracle, as if at an omen and an unexpected event, [failed to realize] that we can best explain the cause of this movement by the presence of certain spirits remaining in that part of the body. And lest we stray too far, let anyone go to the butcher's shop, and I affirm with utmost conviction, they will perceive with us. For there, for example, the flesh of an ox, already cut into pieces, will move and tremble slightly here and there, for the reason just stated. This reason, by which we conclude materiality from divisibility, is of such weight that no firmer or greater one can be given. "For these forms," (these are the words of the most acute investigator of nature, Johannes Sperlingius, see Institutions of Physics, p. 124), "are divisible in part, and in part the thing itself shows it. Then, bringing testimonies from Toledo, Coimbra, Zabarella, and Marfani to bear on the present matter, the aforementioned author proceeds: "When animals are dissected, the part pertaining to the head moves toward the head, the part attached to the tail moves toward it. When serpents are divided, the head lives with the chest, the belly also lives. A longer worm, divided into ten or more parts, retains the sensitive soul in all parts for a time; for if one part is touched, it writhes to the place of pain, and does not one part that has been touched suffer, while another part that has not been touched also suffers?" These things, from Sperlingius, have been recited at length because they greatly aid the truth. What follows there can also be added – as well as Scaliger, Subtleties, Exercitationes 246, section 11, p. 14, where he presents himself as a witness.
+
+**V.**
+
+II. It is suggested that the souls of brute animals are material, because at the same time they perform diverse functions through diverse organs, and are therefore necessarily coextensive, and present in their various parts. For at the same instant, the eye sees, the ear hears, the nostrils smell, the tongue tastes, and any external limbs exert touch and motion, while meanwhile the viscera and the heart also perform their functions. Since there is no other cause for this than the presence of coextensive spirits, we rightly establish them as divisible and material. Furthermore, the greater force of this our argument will be evident from the fact that when the spirit is withdrawn from the limbs, they immediately become devoid of both sensation and motion and die; this is known even to common people, see Chemnitz, Isagoge, Book 1, chapter 9, p. 65. Compare with Willis on the generation of fungi, p. 71.
+
+**VI.**
+
+This opinion, lest it seem absurd to anyone, or conceived only in our own brain, has as its authors men who are in every way most learned, not only Epicurus, Democritus, Diogenes Laertius, Lucretius (who, most absurdly, considered the human soul to be of the same kind), but also, if we believe Willis, Hippocrates, Galen, Plato, Pythagoras; and among the moderns, Gassendi, John Fernel, Hormeus, Descartes, Hogeland, Willis himself, and, what may surprise you, Honoratus Fabri, and even the Duke of Pennati himself, who in his book On Youth and Old Age, 2, p. 59, makes express mention of [?]
+
+For the sacred Codex Deut. 12:2 also agrees with us, when it says so clearly: "The blood is the soul." This opinion is also sometimes attributed to Critias and Empedocles; see Aristotle, Book I of the Soul, chapter 4. They indeed object (see Ashenfeld, Philosophia Sobria, Part 1, Section 2, Question 4) that in this place [blood] is a metonymy for the subject, and that by these words is indicated at least the seat of the soul, and therefore it should be explained according to the explanation of Scripture itself, which exists in Leviticus, chapter 17, verse 8: "The soul of the flesh is in the blood." Luther translates: "The life of the flesh is in its blood." But it is better here to consider a synecdoche of the part for the whole, so that blood is called soul because of the spirits that it always has present and active (and therefore vegetative). Although we allow each to abound in its own sense,
+
+**VII.**
+
+And not improbably, Honoratus Fabri and Willis, from different principles, believed these brute souls to be fiery, like Democritus (see Aristotle, Book I of the Soul, 2, p. 469), since they all have common properties with fire. And indeed, the properties of fire are commonly stated as three. The first of these is that as soon as fire is kindled, a free and continuous access of air is granted. This is not only so that vaporous effluvia, which would otherwise suffocate the flame, may be carried away and perpetually depart, but also, in the judgment of the most learned men, so that a nitrose food may be supplied to the fire. For every fire, as it is composed of sulfurous particles, which it extracts from combustible material, oil, fat, wood, etc., requires especially nitrose particles for the increase of the flame. I think it beyond doubt that the air is replete with such things, especially with the suffrage of so many and great authorities, among whom are also Cosmopolita, Digby, etc. (see Digby, Symposia, p. 34).
+
+Not to mention now the reason, why fire burns more intensely at one time and more weakly at another, according to the varying state of the air. For in winter, the air is maximally abundant in nitrogen, and therefore the force of the flame appears stronger; but in summer, the nitrose particles are dispersed by the sun, and the fire is dispersed to such an extent that it is commonly believed to be extinguished by the sun. Furthermore, it is certain, as experience, the teacher of all things, teaches, and against which it is not permitted to resist, that vitriol restores itself from the air; which is a clear indication that the air abounds with vitriol. Who would not then believe that nitrogen also flies about in the air? Finally, the necessity of free air access is more fully demonstrated: if, for example, a lighted lamp is placed in a large glass globe, and it is tightly sealed, and then the air is exhausted through a tube, the flame will shortly after, having previously ascended gradually in the wick, expire. See Robert Boyle, Experiments, Physical-Mechanical, folio. How these things can be applied to the souls of brute animals, we shall now consider. The necessity of drawing in air is equally applicable here; for animals, especially the hotter ones, if prevented from breathing, quickly die. Nor is it for others to object that animals exhale because fuliginous matter, to be expelled, is retained, which by its weight weighs down the heart and inhibits its movement. But in truth, this is false and gratuitously assumed, as the pneumatic pump demonstrates most certainly to the eye; for if, for example, a mouse is placed under a receiver, and the air is exhausted, it immediately falls as if dead, but upon the admission of air, it revives; which is an indubitable argument that it was not the retained soot, but the negation of air, that brought about death.
+
+**VIII.**
+
+And let no one think that this is true only in hotter and sanguineous animals, but not in bloodless ones. We say that in bloodless animals too, the matter is such, as the most noble Italian Malpighi proved by experiment. The thought occurred to him whether caterpillars, for example, also needed air to sustain life. This matter seemed to require further investigation, and he approached the matter in the following way: he poured oil on the animalcule, or, if you prefer, on the entire head of this pest, and it continued to live there nevertheless; but after he had dripped several drops of oil over its entire back, it seemed to die, because the spiracles open all over the back were thus obstructed, preventing the admission of air. From this, it can be inferred that even the vilest animals, such as butterflies, flies, etc., respire in a certain way; but how this happens in each case, one cannot easily determine. It suffices for us, meanwhile, to have proved that such animals require the access of air to live, not indeed to cool the vital fire, as Aristotle in his book On Youth and Old Age, chapter 3, p. 59, opines, but so that nitrose food may be supplied, and soot expelled, which has already been stated in the preceding thesis.
+
+**IX.**
+
+We proceed to the second property of fire, which is this: that it receives a perpetual and constant supply of sulfurous food, which, if it is withdrawn from the fire or otherwise corrupted, it immediately dies; as is seen in a lamp, which, deprived of oil or mixed with water, is extinguished. In precisely the same way, the brute soul fares. For as the vital flame consumes, removes, and disposes of a large part of its nourishment elsewhere, it necessarily requires it to be restored again, as each person experiences daily within himself; therefore we eat, we drink, so that the body may have its nourishment. Furthermore, this vital heat varies in its degrees according to the variation of foodstuffs; so if the nourishment is thin and watery, the heat is also more moderate; but if it is very sulfurous, as noble wines are, the blood is immediately inflamed, and often erupts into what is almost an open conflagration.
+
+The third property of fire still remains, which we shall also touch upon briefly. This consists in the fact that, if the flame wishes to be preserved, something must continually evaporate, namely, that its sooty effluvia may constantly fly away, otherwise threatening suffocation to the fire. This is again evident to the eye in a lamp covered with glass, which, as long as it enjoys free access of air removing soot, not only becomes brighter but also, with fuel present, more durable; but with the ventilation of air prohibited, the smoke and vapors gradually diminish and extinguish the light. Just as the flame, so also the life of the blood requires ventilation, to which end, in addition to the larger spiracles, there are also innumerable smaller ones, which we call the pores of the skin, gaping everywhere throughout the body, abundantly emit soot or effluvia falling from the heated blood; this expulsion of vapors they call transpiration. The Germans call it: "Die Ausdünstung des Geißels." Or from the illustrious Digby, "Aussflüsse des Geisters." See Treatise on Symposia, p. 2. Whoever desires more on this matter should consult Widdrington on the ignition of blood, whom we have also followed as a guide.
+
+**X.**
+
+And let no one think that our opinion is absurd, or that it is confined to our own brain, or that it is a new concept. We are not to doubt it, or to be diverted from our opinion by objections that are brought against us. They say: If, according to our opinion, the soul is fire, then it must follow that it is not only warm, but also luminous, and therefore visible, since all fire, by its nature, heats and gives light. But let us say: even if the brute soul, being fiery, is inherently luminous, it is composed of sulfurous and inflammable particles, it cannot, however, be seen because of its extreme tenuity, which it possesses. Hence it is that it burns in the heart and vessels, as if in almost closed receptacles, and does not blaze brightly, but perhaps remains in the form of a furnace or vapor or breath. I say, even if blood is openly flaming and fiery, it could happen that its radiance, being extremely subtle, is not perceived by our sight; just as on bright nights we do not perceive glowing iron, or will-o'-the-wisps, or rotting wood, or many other things that glow for a long time. I say, in many cases, this fiery soul has also given clear indications of light. Indeed, Willis relates, on the authority of another, that in some warm and vaporous sanguineous animals, when lying down in the evening near the fire or a lamp, the inner coverings would emit a very thin, glowing flame. Frid. Slare also testifies (see Ephemerides Lipsiensis, p. 283) from his compatriot D. Cremer, that he has often heard that rubbing his body with fresh and warmed wool makes both glow; and a Nobleman from Bristol told him that his stockings often glow after a long walk. Let us pass over in silence the sparks that emit from the manes of horses, and the fur of cats and other warm animals when rubbed, and the phosphors, previously prepared from urine, and, in Slare's judgment, better still prepared from blood itself, provide a flammable substance for the flame.
+
+**XI.**
+
+And II. let no objection be raised against our opinion proposed in §. 7, because, with Aristotle (Book On Respiration, chapter 1), they say that not all animals respire, such as fish, and therefore it is false that respiration is necessary for life. But we reply: If the word "respiration" is taken to mean the intake and exhalation of air through the mouth and nose by means of the lungs, then it is true that fish and other aquatic animals do not respire.
+
+But if the word "respiration" is taken to mean any kind of admission and reciprocal expulsion of air, by whatever means or organ it occurs, then we deny Aristotle's conclusion. (1) Because fish have a kind of vesicle filled with air, which gradually enlarges with these vesicles, which experiments show to have common properties with our air. (2) It is not so absurd, but rather highly probable, that air lurks in water, not indeed in great quantity, but a little, which can be seen in water in an exhausted vessel, which boils of its own accord. (3) We say that, according to Aristotle's hypothesis, air must be in water: for he posits that common water is a mixed body, and a mixture is not from elsewhere than the four elements; therefore, if water has the other elements mixed in, it will also necessarily have air.
+
+**XII.**
+
+And III. Adriaan Heereboord with his Pembelius does not divert us from our principal opinion, when they say: "The soul of brute animals is not a corporeal substance, because it informs matter and body, that is, it permeates all parts of matter, and mixes itself with all, even the smallest, so as to attribute to each its essence and species-appropriate powers." For thus he explains the word "inform." See Meletemata Philosophica, p. 145. And hence he concludes that if the souls of brute animals were substances, and indeed corporeal ones, the penetration of dimensions, naturally impossible, would have to be admitted, by which same argument Aristotle also uses in Book I of the Soul, chapter 5. Reply: We concede indeed that all forms permeate the organic and most inorganic parts of the body, such as nerves, muscles, ears, blood, etc., and mix with all, so as to attribute to each its species-appropriate powers: but from this it does not yet follow that the essence of this information is to permeate even the smallest atoms of these parts. It does not follow, I say, but it is sufficient that it be contiguous and mixed with its parts. Just as, for example, air, when introduced into a pneumatic organ by a bellows' blast, as it were animates it, and its entire pipes and cavities of organic parts, but not their minutest portions, by blowing; or as the same air is contained within the pores of bread, hoofs, ivory, fossil bone, etc., without penetration of dimensions, and emerges bubbling when pressed by water poured over it.
+
+**XIII.**
+
+Therefore, this consequence of Aristotle is misleading, by which he concludes: "Since the soul is in every sensing body, it is necessary for two bodies to be in the same place, if the soul is posited to be some body." See Book I of the Soul, chapter 5, p. 472. For not all parts of the body are so compact and filled that not even a tiny space remains for spirits to hide themselves. Rather, along with food and drink, the future portions of vital fire and animal spirit to be restored are brought in large quantities into the stomach, from there into the viscera, from these then to the heart and brain, from these into the arteries and nerves, and thus circulate throughout the entire body. Thomas Willis observed a notable example in one of his friends; for he, being somewhat intoxicated by a large draught of wine and becoming heated, solemnly swore that he had been able to read letters even late at night for some time. From this it is evident that spirits are immediately distributed throughout the entire body along with the chyle.
+
+**XIV.**
+
+And V. We need not fear that the soul, lacking this privilege of forms, is not the source and origin of all actions. Reply: You rely on the false principle that all matter, whatever it may be, is purely a passive principle and the root of mere passion; just as Ebelus also posits, see Aphorisms of Metaphysics, Dispute XI, Rule 3, p. 186. They indeed prove that forms ought to have active powers in themselves and nothing ought to be prior to them. But we deny both: just as animal matter is an organic body, so that subtle inorganic body, which is diffused throughout all organs, can have active powers from another and yet be the constitutive principle of this composite, since in this composite at least nothing is prior.
+
+**XV.**
+
+And VI. We shall not be intimidated by the authority of Aristotle, who, in Book I of the Soul, chapter 3, impugning the opinion that made the soul a self-moving number, denies that the soul is movable in itself, for thus are his words: "It is one of those things which cannot be, that motion itself [to the soul] should pertain." Our edition of Melanchthon renders it: "It appears to be one of those things which cannot be, that motion itself should pertain to it." From this, one would infer with him: "Whatever is not movable in itself, is not a body." But the soul is not movable in itself. E. But Reply: by denying the minor premise, which Aristotle proves. Because if the soul were movable, it would sometimes be transferred from the body, either entirely or in part. But if this is conceded (as we also concede that it happens successively), he further infers that what has gone out will again enter, and consequently animals will rise from the dead. For thus he clearly states: "But if, he says, this happens (that it changes its place), it can also happen that what has gone out may again enter the body. From this it will come about that those animals which have died will rise again." But we deny the consequence. Just as fire, receding from the wick of a burning candle due to its lightness, i.e., being expelled by the heavier surrounding air, does not return to it, nor can it return, being prevented by the same cause that expelled it, so the airy and extremely light substance, which constitutes the soul of brute animals, once abandoned, will not return to the body and animate and govern it anew, and there is no need to fear this.
+
+**XVI.**
+
+And VII. Let no objection be raised against our opinion if opponents except from our §. 3: "To whatever the most noble actions, sensation, imagination, memory, etc., depend, that is not a body: but from the soul of brute animals, etc." E. But we will limit the major premise, and the matter will be clear. "To whatever such operations depend, with judgment, conscience: that is not a body."
+
+But with the major premise thus limited, we deny the minor premise, and we grant to brute animals no other sensation, nor any other imagination or memory, than that which is devoid of judgment, conscience, etc.
+
+We believe that such functions cannot be performed by animal spirits, with no other distinct soul, as long as the opposite has not been clearly demonstrated to us. Which indeed Adriaan Heereboord also admits, and by this very fact shows that truth cannot be suppressed. For he says explicitly and very soberly, in the place already cited above: "Animal spirits are not only the organ, but also the primary principle of all sensation, nor is there any other substance to be added, which might use these spirits as organs." This is our very opinion, and thus
+
+at least in words it differs, but in reality it is in complete agreement with us, and thus it establishes the soul of brute animals as truly corporeal. The remaining objections, which someone might raise from Heereboord against us, we refer partly to him, as being trivial; partly we reserve them for our conflict. Meanwhile, we give thanks to God for the strength granted to us, offering humble thanks.
+
+END.
+
+PARADOXES
+To be defended for the sake of exercise only.
+
+I.
+That something of brute animals will rise again on the Last Day is neither impious to believe, nor contrary to Holy Scripture.
+
+II.
+It is wondrous to me, why the Magi of Persia, from the sole light of nature, recognized that resurrection of the dead, otherwise impossible by nature, which, however, SEEMS ridiculous to REASON. Acts 17:18, 20. Indeed, madness. Acts 26:24. See Diogenes Laertius, Book 1, on the lives of the Philosophers, p. 6 F.
+
+III.
+If, rejecting it more than all others, one were to establish in some way [this idea], it would be nothing absurd, with the authority of Scripture brought to bear. See Jeremiah 5:8 and 2 Peter 2:22, &c.
+
+IV.
+The opinion of those who distinguish the Rational Soul of man from its form is perhaps not so inept.
+
+V.
+Socrates does not seem to me to have spoken so absurdly when he stated that Natural Speculation could bear no fruit, and that it was unnecessary for the duties of life, and therefore he first introduced Ethics. See Diogenes Laertius, Book II, p. 37 F., Life of Socrates.
+
+VI.
+Lippius can be excused, who stated that the souls of brute animals perish only at the final judgment, on the testimony of my most desired patron, Master M. Feslin, p. 76.
+
+To oppose the brute soul to the human mind
+[?] of yours, a work worthy of a man;
+Worthy also of no small favor from any just person:
+Which, believe me, the Muse will procure for you.
+
+To applaud these hastily written lines
+The AUTHOR of this Dissertation,
+Most Learned, willed
+
+THE PRESIDENT.
+
+Into Christian arms, alas! while the whole world
+Is almost rushing, and in its own
+entrails rather paints a bloody sword,
+Than can destroy these barbarians of the Turks,
+While a holier ardor for battle rips you away,
+Into battle, my friend, protected by the shield of such a President,
+Happily; may the arena grant you a more perennial Laurel, than will
+[?] the hands of a thousand citizens stained with blood.
+
+Thus, congratulating, applauded
+His dearest Fellow Student,
+
+JOH. CASIMIRUS GATLLMANN,
+Candidate of Medicine.
+
+---
+
+*This is an LLM-generated translation using Gemini. Technical terms preserved in brackets where appropriate.*
+*Generated for the GEMI Digital Archive project.*

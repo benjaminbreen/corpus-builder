@@ -378,10 +378,44 @@ Powers the public GEMI website:
 | Text storage | PostgreSQL + full-text search | Or Elasticsearch for scale |
 | Document storage | S3-compatible object storage | For raw texts |
 | AI analysis | Claude API (Anthropic) | Via `anthropic` Python SDK |
+| Translation | Google Gemini API | Via `google-genai` Python SDK |
 | Knowledge graph | Neo4j | For relationship queries |
 | Web interface | Next.js + React | Static generation where possible |
 | Visualization | D3.js, Observable | Interactive term evolution |
 | Hosting | Vercel + AWS | Or university infrastructure |
+
+---
+
+## LLM Model Configuration
+
+### Gemini API (Translation)
+
+**Current model (2025/2026):** `gemini-2.5-flash-lite`
+
+⚠️ **DEPRECATED MODELS - DO NOT USE:**
+- `gemini-2.0-flash` - deprecated as of late 2025
+- `gemini-1.5-flash` - deprecated
+- `gemini-1.5-pro` - deprecated
+
+**Setup:**
+1. Get API key from [Google AI Studio](https://aistudio.google.com/)
+2. Add to `.env.local`: `GEMINI_API_KEY=your_key_here`
+3. Use the modern `google-genai` SDK (not the deprecated `google-generativeai`)
+
+**Python usage:**
+```python
+from google import genai
+
+client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
+response = client.models.generate_content(
+    model="gemini-2.5-flash-lite",
+    contents="Your prompt here"
+)
+```
+
+### Claude API (Analysis)
+
+Use current Claude models via the Anthropic SDK for document analysis tasks.
 
 ---
 
