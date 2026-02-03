@@ -12,20 +12,14 @@
         "entendement",
         "reason"
       ],
-      "total_contexts": 2097,
+      "total_contexts": 1568,
       "decades_covered": 23,
       "drift": [
         {
           "decade": "1630s",
           "similarity_to_origin": 1.0,
-          "num_contexts": 7,
+          "num_contexts": 6,
           "examples": [
-            {
-              "text": ".plusignorans qu\u2019aux plus doi3:es, & que les . b veritez / Digitized by Qoogle jQ Discours. veritez rcuel\u00e9cs qui y conduifent, font au dcflus de no- ftre intelligence, i\u00e9 tf eufle ofc les foumettre \u00e0 la foiblef- fe de mes raifonnemens , & ie penfots que pour entre- prendre de les examiner, & y reu/\u00ef...",
-              "year": 1637,
-              "title": "Discours de la me\u0301thode pour bien conduire sa rais",
-              "doc_id": "bub_gb_s6lSHDngPFoC"
-            },
             {
               "text": "On peut dire que ces oppofitions feroient vtiles, tant afliin de me faire connoiftre mes fautes , quaffinquefi i\u2019auois quelque choie de bon , les autres en eufient par ce moyen plus d\u2019intelligence, &, comme plufieurs peuucnt plus voir quvn homme feul , que commcnccant des maintenant as\u2019enferuir, ils...",
               "year": 1637,
@@ -37,12 +31,18 @@
               "year": 1637,
               "title": "Discours de la me\u0301thode pour bien conduire sa rais",
               "doc_id": "bub_gb_s6lSHDngPFoC"
+            },
+            {
+              "text": "f\u00e8nt leurs liures; car ie croy que celles que i\u2019a)\u2019^ mifes icy, \u2022fuffiront pour expliquer tout ce qui fert \u00e0 monfuict, & que les autres que i'y pourrois adioufter, n\u2019aydant en rien voftre intelligence, ne feroyent que diuertir voftrc attention. DES SENS EN GENERAL.. Mais il faut que ie vous die main...",
+              "year": 1637,
+              "title": "Discours de la me\u0301thode pour bien conduire sa rais",
+              "doc_id": "bub_gb_s6lSHDngPFoC"
             }
           ]
         },
         {
           "decade": "1640s",
-          "similarity_to_origin": 0.9549,
+          "similarity_to_origin": 0.9519,
           "num_contexts": 4,
           "examples": [
             {
@@ -64,33 +64,45 @@
               "doc_id": "novvelleinventio00caus_0"
             }
           ],
-          "similarity_to_previous": 0.9549
+          "similarity_to_previous": 0.9519
         },
         {
-          "decade": "1720s",
-          "similarity_to_origin": 0.884,
-          "num_contexts": 2,
+          "decade": "1710s",
+          "similarity_to_origin": 0.9186,
+          "num_contexts": 6,
           "examples": [
             {
-              "text": "Impreffion \u2018of Motion upon the Organs, will excite a painful Senfation in the Mind; any fuch painful Senfation, fuppofed to be firft ex- cited'in the Mind from the bare intellectual Confideration of the Obje@, will confequenr- \u00a9 ly imprels\u2018a ftrong, vielent, and preternatural Motion upon the refpeQi...",
-              "year": 1725,
-              "title": "Philosophical principles of medicine in three part",
-              "doc_id": "b30520903_0002"
+              "text": "the Occa\u017fion of Writting this Preface, with the follow- ing Affida vit; for when I found that Author propo\u017fed a - Machin to Move in a Gla\u017fs Receiver, as a means to Di\u017f- cover the Longitude ; I bad Rea\u017fon to Su\u017fpett, as well from private Circum\u017ftances, as from the Crude indige\u017ft- ed Notion he \u017feems t...",
+              "year": 1714,
+              "title": "A practical method, to discover the longitude at s",
+              "doc_id": "bim_eighteenth-century_a-practical-method-to-d_ward-john_1714"
             },
             {
-              "text": "Objects upon the Organs, will excite a plea- furable Senfation in the Mind ; \u2018and after the fame manner, a like pleafurable Senfation,:be- ing originally excited in the Mind,, from\u00bbthe mere intellectual Contemplation |of Objects; and without any material Actionof the Ob: ject at.all, will be, follow...",
-              "year": 1725,
-              "title": "Philosophical principles of medicine in three part",
-              "doc_id": "b30520903_0002"
+              "text": "this Deponent farther \u017faith, that he then Under\u017ftood 2 the jaid Mr. Ward, that he Intended to Calculate \u017fome ables that were needful to Render the Work Compleat, - ol to be the Rea\u017fon, wby the 7 was not Printed \u017fo \u017foon as was at fir\u017ft Intended. And this Deponent fartber \u017faith, that there 4 ving 17 1...",
+              "year": 1714,
+              "title": "A practical method, to discover the longitude at s",
+              "doc_id": "bim_eighteenth-century_a-practical-method-to-d_ward-john_1714"
+            },
+            {
+              "text": ". wks Z.. . \u2014 \u2014\u2014 \u2014 \u2014\u2014\u2014 \u02d6\u2014 \u2014 \u2014 | | | b | 4 To Di\u017fcover the En the Sun (apparently) takes in its Daily Motion round the World; And for that Rea\u017fon the 360 Degrees of the 2 are by \u017fome Authors called le mpora (or 12zmes,) which being Divided into 24 equal Parts, ( Hours in a Natural Day, ) every one of...",
+              "year": 1714,
+              "title": "A practical method, to discover the longitude at s",
+              "doc_id": "bim_eighteenth-century_a-practical-method-to-d_ward-john_1714"
             }
           ],
-          "similarity_to_previous": 0.8713
+          "similarity_to_previous": 0.9176
         },
         {
           "decade": "1780s",
-          "similarity_to_origin": 0.9371,
-          "num_contexts": 11,
+          "similarity_to_origin": 0.9358,
+          "num_contexts": 12,
           "examples": [
+            {
+              "text": "Duration of Parliaments. | \u00ab The * % 46200 1 The Devil was fick\u2014the Devil a Monk would be; The Devil was well\u2014the Devil a Monk was he.\u201c So there is good rea\u017fon to believe, that Mon\u017f: Automgaton's robes and hair trimmings do not meet \u017fo clo\u017fe as to prevent an interior nan from feeing the Che\u017fs-Board,...",
+              "year": 1784,
+              "title": "The speaking figure, and the automaton chess-playe",
+              "doc_id": "bim_eighteenth-century_the-speaking-figure-and_thicknesse-philip-1719_1784"
+            },
             {
               "text": "\u201c fervation prove to be indeed the cafe. Man\u2019s life is compounded of the life of the intel- \u201c led: and the animal life. The life of the \u201c intelled is limply intelligence, or the ener- \u201c gy of the intelligent principle. The ani- 4< mal life is itfelf a compound, confiding of ** the [ 27 3 *s the vege...",
               "year": 1789,
@@ -110,12 +122,12 @@
               "doc_id": "b30377754"
             }
           ],
-          "similarity_to_previous": 0.9111
+          "similarity_to_previous": 0.9425
         },
         {
           "decade": "1790s",
-          "similarity_to_origin": 0.972,
-          "num_contexts": 46,
+          "similarity_to_origin": 0.9718,
+          "num_contexts": 14,
           "examples": [
             {
               "text": "think it was hardly neceftary for me to take notice of a fyftem founded upon fo fanciful a hypothefis j but there is often io much feeming appearance of intelligence andde- fign in the operations of the animal economy, that many eminent perfons, as Perrault in France, Nichols and Mead in England, Po...",
@@ -124,13 +136,13 @@
               "doc_id": "firstlinesofprac13cull"
             },
             {
-              "text": "fever ; and as from the phyliology and pathol- ogy we learn that this fymptom. commonly depends upon fome inequality in the excite- ment of the brain or intellectual organ ;.we hence conclude, that, in fever, it denotes fome diminution in th& energy of the brain. De- lirium, indeed, feems often to d...",
+              "text": "Here, however, in affuming this laft prop- ofition, a very great difficulty immediately prefents i;8 PRACTICE prefents itfelf. Although we cannot doubt that the operations of our intellect always de- pend upon certain motions taking place in the brain (fee Gaub. Path. Med. \u00a7 523) ; yet thefe motions...",
               "year": 1790,
               "title": "First lines of the practice of physic",
               "doc_id": "firstlinesofprac13cull"
             },
             {
-              "text": "delirium, the reafon mud be, that, at the fame time, there is fome caufe which diminimes the energy of the brain, and prevents a free com- munication between the parts concerned in the intellectual functions. Upon the fame principles alfo, I fuppoTe there is another fpe- cies of delirium, depending ...",
+              "text": "thefe motions have never been the objects of our fenfes, nor have we been able to perceive that any particular part of the brain has more concern in the operations of our intellect than any other. Neither have we attained any knowledge of what fhare the feveral parts of the brain have in that operat...",
               "year": 1790,
               "title": "First lines of the practice of physic",
               "doc_id": "firstlinesofprac13cull"
@@ -148,12 +160,12 @@
               "doc_id": "uvrescomplettesd03helv"
             }
           ],
-          "similarity_to_previous": 0.9685
+          "similarity_to_previous": 0.9614
         },
         {
           "decade": "1800s",
-          "similarity_to_origin": 0.9556,
-          "num_contexts": 643,
+          "similarity_to_origin": 0.9519,
+          "num_contexts": 691,
           "examples": [
             {
               "text": "materials for my Effays from Obfervation a 3 and vi PREFACE. and Authors from Lectures and Converfa- tion. The Vital Principle in the Plant (be its gifts of Intelligence what 1t may) whether Prudence, Forefight, Inftin\u00e9. The Provifion made for all its wants.. Nutrition\u2014Growth. Its Luxuriancy, Succef...",
@@ -186,12 +198,12 @@
               "doc_id": "bim_eighteenth-century_essays-on-the-progress-o_collier-john-of-high-w_1800"
             }
           ],
-          "similarity_to_previous": 0.9809
+          "similarity_to_previous": 0.9733
         },
         {
           "decade": "1810s",
-          "similarity_to_origin": 0.9463,
-          "num_contexts": 65,
+          "similarity_to_origin": 0.9408,
+          "num_contexts": 39,
           "examples": [
             {
               "text": "a thing absolutely impossible, that any piece of mechanism should be invented, which, possessing perfect mechanical motion, should appear to exert the intelligence of a reasoning agent. This seeming impossibility is surmounted in the construction of the Automaton Chess Player. The stretch of inventi...",
@@ -200,36 +212,36 @@
               "doc_id": "gutenberg_60420"
             },
             {
-              "text": ". By reading or using any part of this Project Gutenberg\u2122 electronic work, you indicate that you have read, understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement. If you do not agree to abide by all the terms of this agreement, you mu...",
+              "text": "the examination of every spectator its entire construction internally, so as to satisfy the most incredulous person, that no concealment whatsoever of a living subject can take place. With more semblance of reason, it has been conjectured that there is a communication between the left arm and hand o...",
               "year": 1819,
               "title": "Observations on the Automaton Chess Player Now Exh",
               "doc_id": "gutenberg_60420"
-            },
-            {
-              "text": "electronic works, and the medium on which they may be stored, may contain \u201cDefects,\u201d such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or c...",
-              "year": 1819,
-              "title": "Observations on the Automaton Chess Player Now Exh",
-              "doc_id": "gutenberg_60420"
-            },
-            {
-              "text": "head requires less exercise than the hands ; or that, if a seven years' apprenticeship is necessary to learn the manual operations of a common trade, a less time is requisite for the intellectual attain- ments of a Christian teacher. No ; they required a two- fold ap- prenticeship to divinity : a se...",
-              "year": 1813,
-              "title": "A second letter to the Rev. Herbert Marsh, D.D., F",
-              "doc_id": "secondlettertore00ganduoft"
             },
             {
               "text": "\" To determine the mode of analysis which is necessary for this purpose, of analysis which shall bring with it conviction, let us suppose a man of liberal education, of sound understanding, and of serious disposition, who in his religious opinions, for want of proper instructions on that subject, ha...",
               "year": 1813,
               "title": "A second letter to the Rev. Herbert Marsh, D.D., F",
               "doc_id": "secondlettertore00ganduoft"
+            },
+            {
+              "text": "sent 1 will waive the question, whether your interpretations be right or wrong ; though I am well assured that something more is requisite to a right understanding, of those Epistles, than is pos- sessed by many who venture to explain them. But whatever be their meaning, you must first convince me t...",
+              "year": 1813,
+              "title": "A second letter to the Rev. Herbert Marsh, D.D., F",
+              "doc_id": "secondlettertore00ganduoft"
+            },
+            {
+              "text": "made from your printed Lectures, it appears that you consider 425 fixed principles m Theology highly important, and even necessary to every one who aspires to a correct understanding of llie Bibhi (see quotation in page 415.) \u2014 Secondly, you maintain that upon Protestant principles, prohabilUy is th...",
+              "year": 1813,
+              "title": "A second letter to the Rev. Herbert Marsh, D.D., F",
+              "doc_id": "secondlettertore00ganduoft"
             }
           ],
-          "similarity_to_previous": 0.9733
+          "similarity_to_previous": 0.9711
         },
         {
           "decade": "1820s",
-          "similarity_to_origin": 0.9314,
-          "num_contexts": 21,
+          "similarity_to_origin": 0.9107,
+          "num_contexts": 8,
           "examples": [
             {
               "text": "that, on giving motion to the respective trains, the required movement shall be instantly performed. What then? The main object will be still unattained! Where is the intelligence and the \u201cpromethean heat\u201d that can animate the Automaton and direct its operations? Not only must an intellectual agent ...",
@@ -244,7 +256,7 @@
               "doc_id": "gutenberg_61410"
             },
             {
-              "text": "the figure, winds up the works, and the Automaton begins to move. These movements, resulting as they appear to do, from mere mechanism, yet strongly impressed with the distinctive character of an intellectual guidance, have excited the admiration of the curious during a period little short of forty ...",
+              "text": "limited and uniform: it cannot usurp and exercise the faculties of mind; it cannot be made to vary its operations, so as to meet the ever-varying circumstances of a game of chess. This is the province of intellect alone; and the Chess Player must consequently relinquish all claim to be admitted into...",
               "year": 1821,
               "title": "An Attempt to Analyse the Automaton Chess Player o",
               "doc_id": "gutenberg_61410"
@@ -262,25 +274,13 @@
               "doc_id": "bub_gb_N7kUAAAAYAAJ"
             }
           ],
-          "similarity_to_previous": 0.9711
+          "similarity_to_previous": 0.9446
         },
         {
           "decade": "1840s",
-          "similarity_to_origin": 0.9495,
-          "num_contexts": 26,
+          "similarity_to_origin": 0.9451,
+          "num_contexts": 21,
           "examples": [
-            {
-              "text": "the Treasury, on the 2Gth of March, 1707, where they remained for more than a century. Ou the 2Sth of October, 1817, his late Majesty George IV. then Prince Regent, considering that all })<)Iitical reasons, for withdrawing from the people of Scotland the sight of the ancient symbols of her independe...",
-              "year": 1840,
-              "title": "The cabinet of gems ; or, vocabulary of precious s",
-              "doc_id": "TheCabinetOfGems"
-            },
-            {
-              "text": "once in two years is there found, throughout the whole washings, a stone of thirty carats. From the great quantity of debris, or worked cascalhao in every part near the river, it is reasonable to calculate that the works have been in operation above seventy years, of course there must arrive a perio...",
-              "year": 1840,
-              "title": "The cabinet of gems ; or, vocabulary of precious s",
-              "doc_id": "TheCabinetOfGems"
-            },
             {
               "text": "It is well known that it belongs to a Frenchman, and to one whose original profession had no connection with the one adopted by him, which proves that he must have been endow- ed with rare intelligence, and increases the regret we cannot help feeling, at the obscurity which veils his name. DlXim ANP...",
               "year": 1848,
@@ -300,12 +300,12 @@
               "doc_id": "in.ernet.dli.2015.91128"
             }
           ],
-          "similarity_to_previous": 0.9685
+          "similarity_to_previous": 0.9484
         },
         {
           "decade": "1850s",
-          "similarity_to_origin": 0.9583,
-          "num_contexts": 66,
+          "similarity_to_origin": 0.9558,
+          "num_contexts": 38,
           "examples": [
             {
               "text": "I mean if this carriage overturned descending yonder hillf would it fall to your lot to right it V It would r and the Frenchman's eye sparkled with intelligence. I could have hugged the swarthy man to my bosom. I adore a blacksmith ! \"^Here are ten Napoleons,' said I; ' give me out that little screw...",
@@ -314,13 +314,13 @@
               "doc_id": "bub_gb_TcsCAAAAYAAJ"
             },
             {
-              "text": "Clear your minds, our friends, of canL Call up the Jins, and the Peris, the Afrits, and the Dives, and demand whether, to the perception of their advanced and celestial intelligences, all earthly pursuits are not equally vanity and vexation of spirit? \u2014 ^whether they place the conqueror of cities ab...",
+              "text": "lavishly bestowed upon his Caliban^ when he found his jest was construed into earnest ; and that men rushed, so very open-mouthed, to drain the cup of credulity. Every adjunct that intellect could devise was skilfully superadded, to enhance the marvel. The machine was railed ofii for a now tolerably...",
               "year": 1850,
               "title": "Chess and chess-players:",
               "doc_id": "bub_gb_TcsCAAAAYAAJ"
             },
             {
-              "text": "lavishly bestowed upon his Caliban^ when he found his jest was construed into earnest ; and that men rushed, so very open-mouthed, to drain the cup of credulity. Every adjunct that intellect could devise was skilfully superadded, to enhance the marvel. The machine was railed ofii for a now tolerably...",
+              "text": "since which time I have never either advanced or receded. Chess to me has been, and is, a single idea, which, once acquired, cannot be displaced from its throne, while the intellect remains unimpaired by sicioiess or age.*' At first reflection, it would appear ridiculous to say the greatest chess pl...",
               "year": 1850,
               "title": "Chess and chess-players:",
               "doc_id": "bub_gb_TcsCAAAAYAAJ"
@@ -338,12 +338,12 @@
               "doc_id": "leprofesseurdemu00daup"
             }
           ],
-          "similarity_to_previous": 0.9871
+          "similarity_to_previous": 0.9848
         },
         {
           "decade": "1860s",
-          "similarity_to_origin": 0.9693,
-          "num_contexts": 433,
+          "similarity_to_origin": 0.9655,
+          "num_contexts": 244,
           "examples": [
             {
               "text": "of the universe, what am I, what is he who is called the greatest? \u2014 and yet herein are displayed the godlike feelings of humanity I \u2014 I weep in thinking that you will receive no intelligence from me till probably Saturday. However dearly you may love me, I love you more fondly still. Never conceal ...",
@@ -358,30 +358,30 @@
               "doc_id": "beethovenslette00beetgoog"
             },
             {
-              "text": "alter his grammar, or rather syntax, in the smallest degree ; who would presume to do so with an individu- ality which, even amid startling clumsiness of style, displays those inherent intellectual powers that often did violence to language as well as to his fellow-men ? Cyclopean masses of rock are...",
+              "text": "the mere frivolity of an art devoid of words to express itself, and impressing its stamp on the spirit of the age. They convey, too, the knowledge of this brightest victory of genuine German intellect to those for whom the sweet Muse of Music is as a book with seven seals, and reveal, likewise, a mo...",
               "year": 1866,
               "title": "Beethoven's letters, 1790-1826, from the collectio",
               "doc_id": "beethovenslette00beetgoog"
-            },
-            {
-              "text": "Chacune des manifestations particuli\u00e8res de la force (1) Voir dans la M\u00e9taphysique positive de M. Vacberot, les chapitres remarquables consacr\u00e9s \u00e0 la critique de Tintelligence et de la raison, o\u00f9 est r\u00e9fut\u00e9e cette fausse notion de la substance, \\' entretien^ t. IL DE LA NATURE DE l'aME. 21 a sans do...",
-              "year": 1862,
-              "title": "Du principe vital et de l'\u00e2me pensante: ou, Examen",
-              "doc_id": "duprincipevital00bouigoog"
             },
             {
               "text": "m\u00eame chose avec sa nature, elle est son essence m\u00eame. L'\u00e2me n'est qu'avec elle, l'\u00e2me ne saurait \u00eatre sans elle, tandis qu'elle a \u00e9t\u00e9, tandis qu'elle peut \u00eatre sans la sensibilit\u00e9, sans l'intelligence, sans la volont\u00e9. Voil\u00e0 pourquoi ce pouvoir de produire le mouvement par soi-m\u00eame est, aux yeux de ...",
               "year": 1862,
               "title": "Du principe vital et de l'\u00e2me pensante: ou, Examen",
               "doc_id": "duprincipevital00bouigoog"
+            },
+            {
+              "text": "pouvoir de nous replier sur nous-m\u00eames, de prendre telle ou telle d\u00e9termination, d'accomplir tel ou tel mouvement, c'est-\u00e0-dire sans nous apprendre que nous sommes dou\u00e9s d'intelligence et de libert\u00e9. L'\u00e2me, telle que la conscience nous La r\u00e9v\u00e8le, n'est donc pas seule- ment une force soi-mouvante , u...",
+              "year": 1862,
+              "title": "Du principe vital et de l'\u00e2me pensante: ou, Examen",
+              "doc_id": "duprincipevital00bouigoog"
             }
           ],
-          "similarity_to_previous": 0.9712
+          "similarity_to_previous": 0.9648
         },
         {
           "decade": "1870s",
-          "similarity_to_origin": 0.9391,
-          "num_contexts": 182,
+          "similarity_to_origin": 0.959,
+          "num_contexts": 112,
           "examples": [
             {
               "text": "inexpressible joy found himself cast for the part of \u201cColonel Damas\u201d in Bulwer\u2019s comedy of the \u201cLady of Lyons.\u201d Now this was his pet _r\u00f4le_, and at the intelligence he felt all his dramatic genius kindle into a fresh flame. \u201cBoys,\u201d he said, straightening up his dignified form, \u201cBoys, you will see me...",
@@ -414,12 +414,12 @@
               "doc_id": "b21309875"
             }
           ],
-          "similarity_to_previous": 0.9617
+          "similarity_to_previous": 0.9765
         },
         {
           "decade": "1880s",
-          "similarity_to_origin": 0.9401,
-          "num_contexts": 120,
+          "similarity_to_origin": 0.9402,
+          "num_contexts": 74,
           "examples": [
             {
               "text": ". The poor idiot not only recalled a long-past time, a face that he had not seen for years except in dreams, but he gained for a moment a degree of intelligence which he had not pos- BODILY ILLNESS AS A MENTAL STIMULANT. 237 sessed when in health. The quality of his brain was such, it appears, that ...",
@@ -446,18 +446,18 @@
               "doc_id": "EtudeOctober1887"
             },
             {
-              "text": "dences of sorrow, the deep monotone of determination, the tremolo of passion, all these are but the song within the speech. Whenever speech ceases to convey merely cold intellectual ideas, and becomes emotional, the voice tends more and more toward a song, ranging more widely thro\u2019 the gamut and tak...",
+              "text": "should like also to view the subject from a broader standpoint, alike applicable to expression in music generally. In order to play with expression, two ele- ments are called into play \u2014 mind and heart \u2014 or, in other words, intellect and feeling on the one hand and physical powers on the other hand....",
               "year": 1887,
               "title": "Volume 05, Number 10 (October 1887)",
               "doc_id": "EtudeOctober1887"
             }
           ],
-          "similarity_to_previous": 0.9879
+          "similarity_to_previous": 0.9861
         },
         {
           "decade": "1890s",
-          "similarity_to_origin": 0.9426,
-          "num_contexts": 88,
+          "similarity_to_origin": 0.9287,
+          "num_contexts": 58,
           "examples": [
             {
               "text": "\" Make way, good Cuthbert Iloole,\" said the visitor kindly. \" I would see tho friar.\" Cuthbert Hoole kept his bloodshot eyes. THE BRAZEN ANDROID. 101 almost vacant of intelligence, fixed for a moment on the speuker*s face, and then, in a feeble and dissonant tone, whined slowly : \u2014 \" Time is ! Come....",
@@ -490,12 +490,12 @@
               "doc_id": "threetalesghostb00ocon"
             }
           ],
-          "similarity_to_previous": 0.9839
+          "similarity_to_previous": 0.9807
         },
         {
           "decade": "1900s",
-          "similarity_to_origin": 0.9426,
-          "num_contexts": 149,
+          "similarity_to_origin": 0.941,
+          "num_contexts": 94,
           "examples": [
             {
               "text": "ler\u2019s paper): \u2018Lhe nireling \u2018press. take the position that the reso- lution was unfairly drawn, and that the Opposition. were \u2018simply using Mr..Baourassa.. Intelligence at once suggests that this prop= osition is absurd. Mr. \u201cBourassa acted \u2018froma sense of public duty quite independently pe either p...",
@@ -504,13 +504,13 @@
               "doc_id": "RDM_1907040901"
             },
             {
-              "text": ". cobblers, have exceptional brains, : | that their \u2018attitude when \u2018stooping over: their work tends toa\u2019 cranial develop-. ment in the part: where the\u2019 Intellectual , faculties are seated. - \u201cSome one. has: written\u2019a book on fllustrious shoemak- : ers. \\In- it \u2018are\u2019 Sir: Cloudesley: Shovel, Gifford:...",
+              "text": "By re Sidene Richardson Copyright, 1906, by May McKeon It\u2018 was pretty\u201d generally understood that the Billy Daltons were drifting apart. - There was no particular reason: for this state.of affairs, save the lack of something better to do... _ You see, they had just enough money so-that Billy did not ...",
               "year": 1907,
               "title": "News (1907-04-09)",
               "doc_id": "RDM_1907040901"
             },
             {
-              "text": "than Sam\u2018has had, we, want. 0, \u2018hear, Of it, \u201cA QUESTION OF GAS. ics 3 \u201cPhere are a aia of citizens who fully\u2019 belicve\u2019 that\u2019 we. only, have\u2019 to \u2018bore\u2019 a reasonable dis-. tance under.Red. Neer,to strike -a plentiful \u2018supply \u2018of):-natural gag- The formation of;the soil:leads:to: this supposition. Her...",
+              "text": "possible to gain admission to any of the public hospitals \u2018because they, were: all overcrowded.\u2019 He \u2018stole a pair-of shoes to get himself -arrested,. reason- ing. that\u2019 in\u00abthe jail he\u2019 would -receive medical treatment. He was given the | necessary medical-attention and when: he recovered his health ...",
               "year": 1907,
               "title": "News (1907-04-09)",
               "doc_id": "RDM_1907040901"
@@ -522,18 +522,18 @@
               "doc_id": "ACN_1907050201"
             },
             {
-              "text": ". Simpson, that the bylaw licensing real estate [Continued on page 8. ] OA A EEE et = ne WHOLESA THE LEADING STO OF LACOMBE Quantity, ual and Reasonable Prices of Goods, Hats Hats! Hats! Our spring and summer stock is now largely here, and comprises some of the most up to date, durable and good fitt...",
+              "text": "she read the story she tel) trom her! | nated this firat day of January, A. D, chair to the floor. A doctor was called 1907, at Lacombe. Alta. but was unable to learn the reason for Ino. 9: Guan . Mrs. Duley\u2019s collapse, until she became SamvEL Burton GReEN t Exectrs, rational later and after talking...",
               "year": 1907,
               "title": "The advertiser and central Alberta news (1907-05-0",
               "doc_id": "ACN_1907050201"
             }
           ],
-          "similarity_to_previous": 0.9944
+          "similarity_to_previous": 0.9939
         },
         {
           "decade": "1910s",
-          "similarity_to_origin": 0.9399,
-          "num_contexts": 42,
+          "similarity_to_origin": 0.9333,
+          "num_contexts": 26,
           "examples": [
             {
               "text": "a dingy, slipshod looking lot of nondescript humanity, not the kind of men I expected to be associated with at all. I found all sorts and conditions of men of just the same average of decency, intelligence and sobriety as are to be met with outside the service, no better and no worse. I did not find...",
@@ -554,12 +554,12 @@
               "doc_id": "gutenberg_72556"
             }
           ],
-          "similarity_to_previous": 0.9794
+          "similarity_to_previous": 0.9704
         },
         {
           "decade": "1920s",
-          "similarity_to_origin": 0.9217,
-          "num_contexts": 11,
+          "similarity_to_origin": 0.9034,
+          "num_contexts": 6,
           "examples": [
             {
               "text": ". In fact he _rejected man_ and made the _Robot_. My dear Miss Glory, the Robots are not people. Mechanically they are more _perfect_ than we are; they have an enormously developed intelligence, but they have no soul. (_Leans back._) HELENA. How do you know they have no soul? DOMIN. Have you ever se...",
@@ -586,27 +586,15 @@
               "doc_id": "livingmachine00macciala"
             }
           ],
-          "similarity_to_previous": 0.9637
+          "similarity_to_previous": 0.9445
         },
         {
           "decade": "1930s",
-          "similarity_to_origin": 0.9417,
-          "num_contexts": 22,
+          "similarity_to_origin": 0.9245,
+          "num_contexts": 7,
           "examples": [
             {
-              "text": ". By reading or using any part of this Project Gutenberg\u2122 electronic work, you indicate that you have read, understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement. If you do not agree to abide by all the terms of this agreement, you mu...",
-              "year": 1939,
-              "title": "Robot nemesis",
-              "doc_id": "gutenberg_68558"
-            },
-            {
-              "text": "electronic works, and the medium on which they may be stored, may contain \u201cDefects,\u201d such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or c...",
-              "year": 1939,
-              "title": "Robot nemesis",
-              "doc_id": "gutenberg_68558"
-            },
-            {
-              "text": "upon their own tireless legs of steel. All, however, brought tools, material and equipment; and in a matter of days a power-plant was in full operation. Then, reasonably certain of their immunity to human detection, they took time to hold a general parley. Each machine said what it had to say, then ...",
+              "text": "!\" the message was hurled out into space by the full power of the flagship's mighty transmitter. \"Flagship _Washington_ of the Terrestrial Contingent calling all Blue flagships. We have reason to suspect that the course which has been given us is false. We advise you to check your courses with care ...",
               "year": 1939,
               "title": "Robot nemesis",
               "doc_id": "gutenberg_68558"
@@ -622,13 +610,19 @@
               "year": 1932,
               "title": "Internationale Zeitschrift f\u00fcr Psychoanalyse XVIII",
               "doc_id": "InternationaleZeitschriftFuumlrPsychoanalyseXviii1932Heft2"
+            },
+            {
+              "text": "den Traum geglaubt wird, solange er abl\u00e4uft. Der Entfremdete hingegen ijo Paul Federn mu\u00df sich zur Annahme der Wirklichkeit seiner Eindr\u00fccke geradezu zwingen. Verstand und Vernunft, Erinnerung und das Schlie\u00dfen aus den Erinnerun\u00ac gen zwingen ihn zur gedankenhaften Annahme dessen, wof\u00fcr keine Evidenz...",
+              "year": 1932,
+              "title": "Internationale Zeitschrift f\u00fcr Psychoanalyse XVIII",
+              "doc_id": "InternationaleZeitschriftFuumlrPsychoanalyseXviii1932Heft2"
             }
           ],
-          "similarity_to_previous": 0.9336
+          "similarity_to_previous": 0.8873
         },
         {
           "decade": "1940s",
-          "similarity_to_origin": 0.9598,
+          "similarity_to_origin": 0.9587,
           "num_contexts": 21,
           "examples": [
             {
@@ -650,25 +644,13 @@
               "doc_id": "CuenotIFB"
             }
           ],
-          "similarity_to_previous": 0.9441
+          "similarity_to_previous": 0.926
         },
         {
           "decade": "1950s",
-          "similarity_to_origin": 0.9251,
-          "num_contexts": 19,
+          "similarity_to_origin": 0.9118,
+          "num_contexts": 8,
           "examples": [
-            {
-              "text": ". By reading or using any part of this Project Gutenberg\u2122 electronic work, you indicate that you have read, understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement. If you do not agree to abide by all the terms of this agreement, you mu...",
-              "year": 1958,
-              "title": "The Miserly Robot",
-              "doc_id": "gutenberg_65128"
-            },
-            {
-              "text": "electronic works, and the medium on which they may be stored, may contain \u201cDefects,\u201d such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or c...",
-              "year": 1958,
-              "title": "The Miserly Robot",
-              "doc_id": "gutenberg_65128"
-            },
             {
               "text": ". Lowndes. Indeed a sizable amount.\" Milligan gave a weak laugh. \"Naturally,\" he continued, \"we are loath to lose an account of this size. That is the reason I inquired as to possible failure on Nestor's cranial range. His actions certainly have been strange--\" Lowndes interrupted, \"What? What's str...",
               "year": 1958,
@@ -676,24 +658,36 @@
               "doc_id": "gutenberg_65128"
             },
             {
-              "text": ". By reading or using any part of this Project Gutenberg\u2122 electronic work, you indicate that you have read, understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement. If you do not agree to abide by all the terms of this agreement, you mu...",
+              "text": "Beside me Jerry sighed. \"One day,\" he said. \"Just one day and they come to this.\" \"I thought they would,\" I answered quietly. Our eyes met in a look of understanding. \"You see, Jerry,\" I said, \"we never meant to cheat you. We would have paid you--we will pay you now, if you wish it. But what good wi...",
               "year": 1952,
               "title": "Robots of the World! Arise!",
               "doc_id": "gutenberg_31611"
             },
             {
-              "text": "electronic works, and the medium on which they may be stored, may contain \u201cDefects,\u201d such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or c...",
+              "text": "periods for some of the hotter products. But with lead-bodied, radio-remote controlled androids, it's easier. And with androids like the new Morrison 5's, that can reason--at least along atomic lines--well, I guess I was on my way to becoming a millionaire. But this morning the plant was shut down. ...",
               "year": 1952,
               "title": "Robots of the World! Arise!",
               "doc_id": "gutenberg_31611"
+            },
+            {
+              "text": "The dull, partly-corroded dishwasher model sidled up beside Jerry. \"Boss,\" he said. \"Boss.\" \"Yes?\" I felt better. Maybe here was someone, however insignificant, who would listen to reason. * * * * * But he wasn't talking to me. \"Boss?\" he said again, tapping Jerry's arm. \"Do you mean it? We're free?...",
+              "year": 1952,
+              "title": "Robots of the World! Arise!",
+              "doc_id": "gutenberg_31611"
+            },
+            {
+              "text": "I took a deep breath. My eyes studied the straps to be buckled around the robot in such a way that it could only release itself when it became activated by a calm intelligence, and the straps fastened into the vacant table that could be buckled and unbuckled the same way, that would keep the body fr...",
+              "year": 1950,
+              "title": "One for the Robot\u2014Two for the Same",
+              "doc_id": "gutenberg_65013"
             }
           ],
-          "similarity_to_previous": 0.9184
+          "similarity_to_previous": 0.9166
         },
         {
           "decade": "1960s",
-          "similarity_to_origin": 0.9412,
-          "num_contexts": 75,
+          "similarity_to_origin": 0.9343,
+          "num_contexts": 49,
           "examples": [
             {
               "text": ". Ferenczi was excited about the horse, but Freud did not think the feats of the clever animal indicated the operation of telepathy. He thought that the native intelligence of animals accorded well enough with his ideas of the unconscious. Soon afterward, Freud who had not heard from Ferenczi for se...",
@@ -714,24 +708,18 @@
               "doc_id": "betweenworlds_201911"
             },
             {
-              "text": "que au Qu\u00e9bec\u201d, Le religieux a poursuivi: \u2018Je cherchais d\u00e9j\u00e0 en vain, il y \u00aba Leg < ans, le philosophe cana- ien-fran\u00e7ais qui se serait pro- nonc\u00e9 intellectuellement sur no- tre actualit\u00e9, et qui nous aurait aid\u00e9 intelligiblement \u00e0 d\u00e9cider face \u00e0 des options fondamenta- les qui nous d\u00e9fient\u201d, \u201cChez ...",
-              "year": 1964,
-              "title": "La libert\u00e9 et le patriote (1964-10-09)",
-              "doc_id": "LLP_1964100901"
-            },
-            {
-              "text": "sont, eux, d\u00e9termin\u00e9s, les adul- tes qui ont peur, et qui ont d\u2019ail- leurs mauvaise conscience, En rlant de ceux qui courtisent a dit ser \u00e0 cet intellectuel montr\u00e9alais qui \u00e9crivait un plai- doyer pour la paix et accordait une qu \u00c0 b\u00e9nissure \u00e0 \u2018Parti- pris\u201d, paix partout \u00e0 tout rix, mais l'\u00e9meute \u00e0 ...",
+              "text": "Evil Eye One <a Two Evil of Frankenstein Potato Fail Sale Pit and the Pendulum , The DL of Order F y Smuggl B fl Ro Tr T' ur m) er's Bay ng\u00a3 0 reason Gold for the Caesars A in ane the Seven Goliath se \u00e0 the Island of Vampires R\u00e9 tabout Gone Are the Days Sardonicus Good Neighbor Sam Scream of Fear",
               "year": 1964,
               "title": "La libert\u00e9 et le patriote (1964-10-09)",
               "doc_id": "LLP_1964100901"
             }
           ],
-          "similarity_to_previous": 0.966
+          "similarity_to_previous": 0.9656
         },
         {
           "decade": "1970s",
-          "similarity_to_origin": 0.911,
-          "num_contexts": 37,
+          "similarity_to_origin": 0.9056,
+          "num_contexts": 28,
           "examples": [
             {
               "text": "practical applications are included. Particularly stressed is simulation of motion, including wave motion and flying objects. The realm of artificial intelligence is explored, along with simulating robot motion with the microcomputer. Finally, tips on how to simulate electronic circuits on the compu...",
@@ -752,12 +740,12 @@
               "doc_id": "byte-magazine-1978-09"
             }
           ],
-          "similarity_to_previous": 0.9502
+          "similarity_to_previous": 0.9506
         },
         {
           "decade": "1990s",
-          "similarity_to_origin": 0.9296,
-          "num_contexts": 6,
+          "similarity_to_origin": 0.8845,
+          "num_contexts": 2,
           "examples": [
             {
               "text": "Translated by Li Huang (from Russian) 12 Approved For Release 2000/08/09 : CIA-RDP96-00792R000600380001-0 Approved For Release 2000/08/09 : CIA-RDP96-00792R000600380001-0 DEFENSE INTELLIGENCE AGENCY WASHINGTON, D.C. 20301 TRANSLATION REQUESTER TRANSLATOR'S INITIALS | TRANSLATION NUMBER ENCLIS) TOTR ...",
@@ -770,27 +758,9 @@
               "year": 1990,
               "title": "CIA Reading Room cia-rdp96-00792r000600380001-0: S",
               "doc_id": "cia-readingroom-document-cia-rdp96-00792r000600380001-0"
-            },
-            {
-              "text": "Treatment Science Center in a joint study of the question of the weak magnetic field of the heart. One of our tasks is to accurately locate the focus of various disorders. This will assist in reasonable and effective treatment. -- Do you mean say that you cannot use the extremely simple traditional ...",
-              "year": 1990,
-              "title": "CIA Reading Room cia-rdp96-00792r000600380001-0: S",
-              "doc_id": "cia-readingroom-document-cia-rdp96-00792r000600380001-0"
-            },
-            {
-              "text": "tous les milieux, riches et pauvres, indique Marlene Kelly. Certaines sont s\u00e9par\u00e9es de leurs parents et la plupart ont \u00e9t\u00e9 victimes d'abus, sexuels, phy- siques ou intellectuels. Leur \u00e2ge: de 12 \u00e0 23 ans, avec une moyenne de 15 \u00e0 19 ans\u00bb. Bien qu'il n'existe pas de sta- tistiques pr\u00e9cises, on s'acco...",
-              "year": 1990,
-              "title": "La libert\u00e9 (1990-02-16)",
-              "doc_id": "LBT_1990021601"
-            },
-            {
-              "text": "Mais il semble que dans beaucoup de cas, les m\u00e8res ou HA LIBERTE Ie semaine 4.162423 f\u00e9vrier 1890 \u00abLa plupart ont \u00e9t\u00e9 victimes d\u2019abus, sexuels, physiques ou intellectuels.\u00bb Diane Longpr\u00e9 et Patrick Le Madec, conseillers d'orientation au coll\u00e8ge B\u00e9liveau, admettent que \u00abs'il y a des cas, on n'en est ...",
-              "year": 1990,
-              "title": "La libert\u00e9 (1990-02-16)",
-              "doc_id": "LBT_1990021601"
             }
           ],
-          "similarity_to_previous": 0.9464
+          "similarity_to_previous": 0.9262
         }
       ]
     },
@@ -806,32 +776,13 @@
         "machine man",
         "robot"
       ],
-      "total_contexts": 2393,
-      "decades_covered": 26,
+      "total_contexts": 1083,
+      "decades_covered": 20,
       "drift": [
         {
-          "decade": "1630s",
-          "similarity_to_origin": 1.0,
-          "num_contexts": 2,
-          "examples": [
-            {
-              "text": "fions int\u00e9rieures qui font en luy, que les noftres fepuif- lent mouuoir fans que la volont\u00e9 les conduife. Ce qui ne icmblera nullement eftrangc, \u00e0 ceux qui f\u00e7aehant com- bien de diuers automates^ ou machines mouuantes , l\u2019in- duftrie des hommes peut faire , fans y employer que fort peu de pieces,'\u00e0 ...",
-              "year": 1637,
-              "title": "Discours de la me\u0301thode pour bien conduire sa rais",
-              "doc_id": "bub_gb_s6lSHDngPFoC"
-            },
-            {
-              "text": "fions int\u00e9rieures qui font en luy, que les noftres fepuif- lent mouuoir fans que la volont\u00e9 les conduife. Ce qui ne icmblera nullement eftrangc, \u00e0 ceux qui f\u00e7aehant com- bien de diuers automates^ ou machines mouuantes , l\u2019in- duftrie des hommes peut faire , fans y employer que fort peu de pieces,'\u00e0 ...",
-              "year": 1637,
-              "title": "Discours de la me\u0301thode pour bien conduire sa rais",
-              "doc_id": "bub_gb_s6lSHDngPFoC"
-            }
-          ]
-        },
-        {
           "decade": "1670s",
-          "similarity_to_origin": 0.8815,
-          "num_contexts": 26,
+          "similarity_to_origin": 1.0,
+          "num_contexts": 6,
           "examples": [
             {
               "text": "Abuerit , abzllo mutuetur neceffe eff, Tra&atus qui fequuntur, hi funt. Inflitutiones Mecbanice. De variis corporum generibus gravita- te y magnitudine comparatis. Automata. Quefliones Diopbant Alexandrini Lib. 3. De Triangulis planis reclangulis. De Diviftone Superfuierum. Mufice Elementa. De Propu...",
@@ -851,13 +802,12 @@
               "title": "Guilelmi Oughtred ... Opuscula mathematica hactenu",
               "doc_id": "b33049683"
             }
-          ],
-          "similarity_to_previous": 0.8815
+          ]
         },
         {
           "decade": "1690s",
-          "similarity_to_origin": 0.831,
-          "num_contexts": 4,
+          "similarity_to_origin": 0.8947,
+          "num_contexts": 2,
           "examples": [
             {
               "text": "A CHRONOLOGICAL AUTOMATON: | O RIO Self-moving EPHEME R IS,af theCzxle\u017ftial Motions, exc. OO NETS by. > : Tvented and made by Samus Wa xSD8+af} C OVENTRY, Watch-Maker.",
@@ -866,30 +816,18 @@
               "doc_id": "bim_early-english-books-1641-1700_a-chronological-automato_watson-samuel-coventry_1690"
             },
             {
-              "text": "A CHRONOLOGICAL AUTOMATON: | O RIO Self-moving EPHEME R IS,af theCzxle\u017ftial Motions, exc. OO NETS by. > : Tvented and made by Samus Wa xSD8+af} C OVENTRY, Watch-Maker.",
-              "year": 1690,
-              "title": "A chronological automaton:... 1690",
-              "doc_id": "bim_early-english-books-1641-1700_a-chronological-automato_watson-samuel-coventry_1690"
-            },
-            {
-              "text": "\u2014\u2014 - m\u2014\u2014_\u2014 \u2014 CCI rr tee ee ee LL TT Ef the Chronolo gical Automaton or Selt- moving EPHEMERI of y. Celestial Motons, Representing 9 phanomena = at Noon March ZO: 1691 = Invented and made buy | SAMACLESL TATSON\u201d",
-              "year": 1691,
-              "title": "The frontispeice of the chronological automaton ..",
-              "doc_id": "bim_early-english-books-1641-1700_the-frontispeice-of-the-_watson-samuel-coventry_1691"
-            },
-            {
               "text": "\u2014\u2014 - m\u2014\u2014_\u2014 \u2014 CCI rr tee ee ee LL TT Ef the Chronolo gical Automaton or Selt- moving EPHEMERI of y. Celestial Motons, Representing 9 phanomena = at Noon March ZO: 1691 = Invented and made buy | SAMACLESL TATSON\u201d",
               "year": 1691,
               "title": "The frontispeice of the chronological automaton ..",
               "doc_id": "bim_early-english-books-1641-1700_the-frontispeice-of-the-_watson-samuel-coventry_1691"
             }
           ],
-          "similarity_to_previous": 0.8984
+          "similarity_to_previous": 0.8947
         },
         {
           "decade": "1710s",
-          "similarity_to_origin": 0.8628,
-          "num_contexts": 53,
+          "similarity_to_origin": 0.932,
+          "num_contexts": 25,
           "examples": [
             {
               "text": "\u00ab \u2014_\u2014_\u2014 * \u2014 = PRACTICAL _ To Di\u017fcover the \u00a9 *4$7- | LON GITUDE at SEA, | By a New Contrived AUTOMATON... Freed from all the Various Fan of Air in different Climates, &c. And not Liable to Di\u017forder by the Irregular | |] Motion of a Ship. . | | The whole Method Rendered Plain and Ege",
@@ -910,32 +848,12 @@
               "doc_id": "bim_eighteenth-century_a-practical-method-to-d_ward-john_1714"
             }
           ],
-          "similarity_to_previous": 0.9202
-        },
-        {
-          "decade": "1720s",
-          "similarity_to_origin": 0.835,
-          "num_contexts": 2,
-          "examples": [
-            {
-              "text": "table Wifdom and Contrivance of its Author. and Former: \u2018 Askwhash 2h oldies AND bere I muft obferve, what one Can not reflect upon without wonder; That the animal Automaton 25 coutriv\u2019'd and adjuffed, upon Princeples of Self-prefervation tis: forned and defigwd for, the helping it felf,. aud laid u...",
-              "year": 1725,
-              "title": "Philosophical principles of medicine in three part",
-              "doc_id": "b30520903_0002"
-            },
-            {
-              "text": "table Wifdom and Contrivance of its Author. and Former: \u2018 Askwhash 2h oldies AND bere I muft obferve, what one Can not reflect upon without wonder; That the animal Automaton 25 coutriv\u2019'd and adjuffed, upon Princeples of Self-prefervation tis: forned and defigwd for, the helping it felf,. aud laid u...",
-              "year": 1725,
-              "title": "Philosophical principles of medicine in three part",
-              "doc_id": "b30520903_0002"
-            }
-          ],
-          "similarity_to_previous": 0.9006
+          "similarity_to_previous": 0.9209
         },
         {
           "decade": "1740s",
-          "similarity_to_origin": 0.8926,
-          "num_contexts": 14,
+          "similarity_to_origin": 0.9327,
+          "num_contexts": 7,
           "examples": [
             {
               "text": "Sp-te\" tev \u25a0\u2022> ; - \u00a5':i.\u00a5*S \u25a0:\u2022: -\u00ef -ten \u00a5S'.i -tes ,\u2022 ;\u25a0*. V . v-;1,.'! ''Val Mtetetetei,.,,. V'A\u00e7tte-. .\u201e 'te- A N ACC O TJ N T MECHANISM AUTOMATON. O R Image playing on the German-Flute : As it was prefented in a M\u00e9moire , to the Gen\u00ac tlemen of the R o r A l-A cademy of Sciences at PAR 1 Si",
@@ -956,19 +874,13 @@
               "doc_id": "b30358711"
             }
           ],
-          "similarity_to_previous": 0.9137
+          "similarity_to_previous": 0.9526
         },
         {
           "decade": "1780s",
-          "similarity_to_origin": 0.9175,
-          "num_contexts": 120,
+          "similarity_to_origin": 0.9476,
+          "num_contexts": 58,
           "examples": [
-            {
-              "text": "KING-STREET, CovENT-GARDEN. f Fir\u017ft PIECE. | \"T HE fir\u017ft figure repre\u017fents a girl of ten or twelve years of age, \u017fitting on a \u017ftool and playing on a harpfichord. his Automaton, who\u017fe body, head, eyes, arms, hands and fingers have various motions, all which appear natural, performs \u017feveral airs in tw...",
-              "year": 1780,
-              "title": "A description of several pieces of mechanism, inve",
-              "doc_id": "bim_eighteenth-century_a-description-of-several_1780"
-            },
             {
               "text": "KING-STREET, CovENT-GARDEN. f Fir\u017ft PIECE. | \"T HE fir\u017ft figure repre\u017fents a girl of ten or twelve years of age, \u017fitting on a \u017ftool and playing on a harpfichord. his Automaton, who\u017fe body, head, eyes, arms, hands and fingers have various motions, all which appear natural, performs \u017feveral airs in tw...",
               "year": 1780,
@@ -992,14 +904,20 @@
               "year": 1784,
               "title": "The speaking figure, and the automaton chess-playe",
               "doc_id": "bim_eighteenth-century_the-speaking-figure-and_thicknesse-philip-1719_1784"
+            },
+            {
+              "text": "LEJOUEURD'ECHECS DE M. DE KEMPELEN. TRADUCTION LIBRE DE L'ALLEMAND , Accompagn\u00e9e de trois Gravures en taille-douce qui repr\u00e9f entent ce fameux Automate* publi\u00e9e PAR CHR\u00c9TIEN DE MECHEL, \u25a0 Membre de l'Acad\u00e9mie Imp\u00e9riale & Royale ; de Vienne & de plufieurs autres. aBasle chez l'Editeur. MDCCLXXX1IL",
+              "year": 1783,
+              "title": "Lettres sur le joueur d'echecs de M. de Kempelen; ",
+              "doc_id": "bub_gb_SLYUAAAAYAAJ"
             }
           ],
-          "similarity_to_previous": 0.966
+          "similarity_to_previous": 0.9663
         },
         {
           "decade": "1790s",
-          "similarity_to_origin": 0.9203,
-          "num_contexts": 8,
+          "similarity_to_origin": 0.9005,
+          "num_contexts": 2,
           "examples": [
             {
               "text": "talens fe d\u00e9loppent , 6c le m\u00eame g\u00e9nie qui lui a voie 42 D E L* II O M M E* fait ex\u00e9cuter une horloge en bois , lui laifle entrevoir dans la peripeclive la poi\u00eeibilit\u00e9 du Buteur automate. Un hafard de la m\u00eame eip\u00e8ce alluma le g\u00e9nie de Milton. Cromwel meurt : Ton fils lui fucc\u00e8de : il efl chaffi de l...",
@@ -1012,58 +930,14 @@
               "year": 1795,
               "title": "Oeuvres complettes d'Helvetius",
               "doc_id": "uvrescomplettesd03helv"
-            },
-            {
-              "text": "tructifs du plaint \u00f4c du pouvoir \u00e0 venir. Pour com- mander avec plus d'empire , un prince def\u00eere-t-il des fujets fans id\u00e9es , fans \u00e9nergie , fans caract\u00e8re (49) 9 enfin des automates , toujours ob\u00e9if\u00ef\u00e0ns \u00e0Timpreffion qu'il leur donne ; s'il parvient \u00e0 les rendre tels, il fera puii\u00ef\u00e0nt au dedans , fo...",
-              "year": 1795,
-              "title": "Oeuvres complettes d'Helvetius",
-              "doc_id": "uvrescomplettesd03helv"
             }
           ],
-          "similarity_to_previous": 0.9624
-        },
-        {
-          "decade": "1800s",
-          "similarity_to_origin": 0.8859,
-          "num_contexts": 13,
-          "examples": [
-            {
-              "text": "Lorsque l\u2019\u00e9tat convulsif domine aux de\u00ef- niers instans de la vie ; des agitations ou des contractions fixes des divers organes semblent \u00eatre les derniers eiforts automati- D\u00c9 LA SCIENCE DE I/HOMME. 527 ques du Principe Vital pour r\u00e9sisier \u00e0 la dissolution instante de la machine. ; Les organes vitaux...",
-              "year": 1806,
-              "title": "Nouveaux e\u013ae\u1e3fens de la science de l'homme",
-              "doc_id": "b33280046_0002"
-            },
-            {
-              "text": "sym\u00e9trie naturelle (6). (7) Hom\u00e8re a vu qu\u2019une personne dont Je sommeil doux et assez profond (ma\u00f1anos. uryos ) est interrompu tout-\u00e0-coup , est por- t\u00e9e automatiquement \u00e0 se frotter le visage avec Ja main, C\u2019est ce que fait P\u00e9n\u00e9lope (c) en sortant du sommeil, Ernesti (d) ajouie (a) \u00c6neid., L. IV, v...",
-              "year": 1806,
-              "title": "Nouveaux e\u013ae\u1e3fens de la science de l'homme",
-              "doc_id": "b33280046_0002"
-            },
-            {
-              "text": ". Nevertheless, this work is expensive, so in order to keep providing this resource, we h\u00e2ve taken steps to prcvcnt abuse by commercial parties, including placing lechnical restrictions on automated querying. We also ask that you: + Make non-commercial use of the files We designed Google Book Search...",
-              "year": 1806,
-              "title": "Nouveaux e\u0301le\u0301mens de la science de l'homme",
-              "doc_id": "nouveauxlmensde00bartgoog"
-            },
-            {
-              "text": "+ Make non-commercial use of the files We designed Google Book Search for use by individuals, and we request that you use th\u00e8se files for Personal, non-commercial purposes. + Refrain fivm automated querying Do nol send automated queries of any sort to Google's System: If you are conducting research ...",
-              "year": 1806,
-              "title": "Nouveaux e\u0301le\u0301mens de la science de l'homme",
-              "doc_id": "nouveauxlmensde00bartgoog"
-            },
-            {
-              "text": "+ Make non-commercial use of the files We designed Google Book Search for use by individuals, and we request that you use th\u00e8se files for Personal, non-commercial purposes. + Refrain fivm automated querying Do nol send automated queries of any sort to Google's System: If you are conducting research ...",
-              "year": 1806,
-              "title": "Nouveaux e\u0301le\u0301mens de la science de l'homme",
-              "doc_id": "nouveauxlmensde00bartgoog"
-            }
-          ],
-          "similarity_to_previous": 0.9144
+          "similarity_to_previous": 0.9458
         },
         {
           "decade": "1810s",
-          "similarity_to_origin": 0.8718,
-          "num_contexts": 108,
+          "similarity_to_origin": 0.9093,
+          "num_contexts": 51,
           "examples": [
             {
               "text": "\ufeffThe Project Gutenberg eBook of Observations on the Automaton Chess Player Now Exhibited in London, at 4 Spring Gardens This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions",
@@ -1082,26 +956,14 @@
               "year": 1819,
               "title": "Observations on the Automaton Chess Player Now Exh",
               "doc_id": "gutenberg_60420"
-            },
-            {
-              "text": ". Nevertheless, this work is expensive, so in order to keep providing tliis resource, we liave taken steps to prevent abuse by commercial parties, including placing technical restrictions on automated querying. We also ask that you: + Make non-commercial use of the files We designed Google Book Sear...",
-              "year": 1814,
-              "title": "An Introduction to Physiological and Systematical ",
-              "doc_id": "anintroductiont02smitgoog"
-            },
-            {
-              "text": "+ Make non-commercial use of the files We designed Google Book Search for use by individuals, and we request that you use these files for personal, non-commercial purposes. + Refrain fivm automated querying Do not send automated queries of any sort to Google's system: If you are conducting research ...",
-              "year": 1814,
-              "title": "An Introduction to Physiological and Systematical ",
-              "doc_id": "anintroductiont02smitgoog"
             }
           ],
-          "similarity_to_previous": 0.8974
+          "similarity_to_previous": 0.8936
         },
         {
           "decade": "1820s",
-          "similarity_to_origin": 0.8788,
-          "num_contexts": 226,
+          "similarity_to_origin": 0.9352,
+          "num_contexts": 91,
           "examples": [
             {
               "text": "\ufeffThe Project Gutenberg eBook of An Attempt to Analyse the Automaton Chess Player of Mr. De Kempelen This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions",
@@ -1122,24 +984,24 @@
               "doc_id": "gutenberg_61410"
             },
             {
-              "text": "Digitized by Google I Digitized by Google \u25a0 \u00ab Digitized by Google \u2022 <0 UI IBM, A SELECTION OP FIFTY GAMES, FEOM THOSE PLAYED BY THE Automaton CJes^Paper, DURINO ITS EXHIBITION IN LONDON, IN 1820. Taken down, by permission of Mr. Maelzel, at the time they were played, _ i LONDON :",
+              "text": "as the Automaton Chess-Player ; and displaying spe- cimens of skill in a Game universally esteemed the noblest and most scientific of amusements. The Automaton itself is now so well known, that a description of it here is unnecessary ; it will not, hoic- ever, be improper, to say a word or two relat...",
               "year": 1820,
               "title": "Chess; a selection of fifty games, from those play",
               "doc_id": "bub_gb_CvwWAAAAYAAJ"
             },
             {
-              "text": "*' ) \u25a0 Digitized by Go PREFACE. THE present work may not prove unworthy public attention, as connected with so extraordinary a machine as the Automaton Chess-Player ; and displaying spe- cimens of skill in a Game universally esteemed the noblest and most scientific of amusements. The Automaton itsel...",
+              "text": "description of it here is unnecessary ; it will not, hoic- ever, be improper, to say a word or two relative to the present selection. Since the commencement of its exhibition in Feb- ruary last, the Automaton Chess-Player has played, (giving the Pawn awl Move) nearly Three Hundred Games, of which it...",
               "year": 1820,
               "title": "Chess; a selection of fifty games, from those play",
               "doc_id": "bub_gb_CvwWAAAAYAAJ"
             }
           ],
-          "similarity_to_previous": 0.9818
+          "similarity_to_previous": 0.9728
         },
         {
           "decade": "1840s",
-          "similarity_to_origin": 0.8893,
-          "num_contexts": 24,
+          "similarity_to_origin": 0.9347,
+          "num_contexts": 12,
           "examples": [
             {
               "text": "tion onl3^ We will mention one of them : the famous ('hesH- player which made ho much noise in 178 il. This was the work of Kempelen, counsellor of the tinances to the Emperor of Austria. The automaton, dressyd as a Turk, sat behind a sort of chest, three feet and a half high, which was on castors, ...",
@@ -1160,25 +1022,13 @@
               "doc_id": "in.ernet.dli.2015.91128"
             }
           ],
-          "similarity_to_previous": 0.9626
+          "similarity_to_previous": 0.9604
         },
         {
           "decade": "1850s",
-          "similarity_to_origin": 0.8906,
-          "num_contexts": 305,
+          "similarity_to_origin": 0.9278,
+          "num_contexts": 105,
           "examples": [
-            {
-              "text": "Digitized by Google to HIS FBIBNI), JOHN RHODES, ESQUIBE, OP POTTEK NEWTON HOUS*\u00a3, LEEDS, 9 THE AUTHOR* \u25a0 CONTENTS. Pa(;e. The Chess Automaton . , : . . I T)e8chapelles the Chess King : i . 38 A Night in York , . : : , 61 Chess without the CnE3S-BOARr> , . ^ LOG The Oafr r>F t,a Rfokxpf",
-              "year": 1850,
-              "title": "Chess and chess-players:",
-              "doc_id": "bub_gb_TcsCAAAAYAAJ"
-            },
-            {
-              "text": "of Chess and Chess Players, I find the latter fulij capable of sounding their own trumpets. Stock Exchange, 1850. Digitized by Google TBE CHESS AUTOMATON. ** DoubtleM, the pleasure is as great Of being ckeatedi as to cheat.\" \u2014 Butler. Man may be fairly styled an animal of the class \" gul- lible/' Fr...",
-              "year": 1850,
-              "title": "Chess and chess-players:",
-              "doc_id": "bub_gb_TcsCAAAAYAAJ"
-            },
             {
               "text": "is part and parcel of his essence ; and experience here availeth him not* Almost within our own recollection, did B i Digiti^^#by Coogle THE CHESS AUTOMATON. the bottle conjuror draw his hundreds, and the Cock Lane ghost her thousands. Each Scaramuccia fills the benches ; whether it be Johanna and h...",
               "year": 1850,
@@ -1186,45 +1036,39 @@
               "doc_id": "bub_gb_TcsCAAAAYAAJ"
             },
             {
-              "text": "(A) Lorsque Gluck vint \u00e0 Paris vers 1774, et qu\u2019il vit la p\u00e9nurie o\u00f9 l\u2019on \u00e9tait de chanteurs pour les ch\u0153urs du grand Op\u00e9ra, la m\u00e9thode par laquelleon leur apprenait \u00e0 crier plus qu\u2019\u00e0 chanter, vrais automates d\u2019ailleurs pour le peudepantomimequ\u2019on en exigeait, les r\u00e9clamations du grand homme eurentp...",
-              "year": 1857,
-              "title": "Le professeur de musique : ou, L'enseignement de c",
-              "doc_id": "leprofesseurdemu00daup"
+              "text": "the principle of trying the sortes Yirgilianae,** we found it to consist of some half-dozen, or more, learned and voluminous tracts, on the subject of the automaton chess- player. The Automaton Chess-Player ! Lofty title 1 mag- niloquent cognomen ! A composition of brass or wood, of ivory or of iron...",
+              "year": 1850,
+              "title": "Chess and chess-players:",
+              "doc_id": "bub_gb_TcsCAAAAYAAJ"
             },
             {
-              "text": "(A) Lorsque Gluck vint \u00e0 Paris vers 1774, et qu\u2019il vit la p\u00e9nurie o\u00f9 l\u2019on \u00e9tait de chanteurs pour les ch\u0153urs du grand Op\u00e9ra, la m\u00e9thode par laquelleon leur apprenait \u00e0 crier plus qu\u2019\u00e0 chanter, vrais automates d\u2019ailleurs pour le peudepantomimequ\u2019on en exigeait, les r\u00e9clamations du grand homme eurentp...",
-              "year": 1857,
-              "title": "Le professeur de musique : ou, L'enseignement de c",
-              "doc_id": "leprofesseurdemu00daup"
+              "text": "the principle of trying the sortes Yirgilianae,** we found it to consist of some half-dozen, or more, learned and voluminous tracts, on the subject of the automaton chess- player. The Automaton Chess-Player ! Lofty title 1 mag- niloquent cognomen ! A composition of brass or wood, of ivory or of iron...",
+              "year": 1850,
+              "title": "Chess and chess-players:",
+              "doc_id": "bub_gb_TcsCAAAAYAAJ"
             }
           ],
-          "similarity_to_previous": 0.9743
+          "similarity_to_previous": 0.9722
         },
         {
           "decade": "1860s",
-          "similarity_to_origin": 0.9166,
-          "num_contexts": 73,
+          "similarity_to_origin": 0.9086,
+          "num_contexts": 8,
           "examples": [
             {
-              "text": ". Nevertheless, this work is expensive, so in order to keep providing tliis resource, we liave taken steps to prevent abuse by commercial parties, including placing technical restrictions on automated querying. We also ask that you: + Make non-commercial use of the files We designed Google Book Sear...",
-              "year": 1866,
-              "title": "Beethoven's letters, 1790-1826, from the collectio",
-              "doc_id": "beethovenslette00beetgoog"
+              "text": "m\u00eame \u00e0 sa cause, et ainsi de suite. Je ne suis point dupe du mouvement plus savant et plus compliqu\u00e9 d'une montre, ni du mouvement plus merveilleux encore d'un automate, comme celui de Vaucanson; j'en d\u00e9- couvre les ressorts, je remonte \u00e0 la main habile qui les a construits, \u00e0 la force \u00e9trang\u00e8re qui...",
+              "year": 1862,
+              "title": "Du principe vital et de l'\u00e2me pensante: ou, Examen",
+              "doc_id": "duprincipevital00bouigoog"
             },
             {
-              "text": "+ Make non-commercial use of the files We designed Google Book Search for use by individuals, and we request that you use these files for personal, non-commercial purposes. + Refrain fivm automated querying Do not send automated queries of any sort to Google's system: If you are conducting research ...",
-              "year": 1866,
-              "title": "Beethoven's letters, 1790-1826, from the collectio",
-              "doc_id": "beethovenslette00beetgoog"
+              "text": "les a construits, \u00e0 la force \u00e9trang\u00e8re qui les a tendus. L'enfant, qui ne sait pas faire la distinction de ces deux sortes de mouvements, croit qu'il y a une petite b\u00eat\u00e8 dans la montre, et que l'automate est un \u00eatre vivant. Mais si j'aper\u00e7ois sur le rivage de la mer un \u00eatre, quelque informe qu'il so...",
+              "year": 1862,
+              "title": "Du principe vital et de l'\u00e2me pensante: ou, Examen",
+              "doc_id": "duprincipevital00bouigoog"
             },
             {
-              "text": "+ Make non-commercial use of the files We designed Google Book Search for use by individuals, and we request that you use these files for personal, non-commercial purposes. + Refrain fivm automated querying Do not send automated queries of any sort to Google's system: If you are conducting research ...",
-              "year": 1866,
-              "title": "Beethoven's letters, 1790-1826, from the collectio",
-              "doc_id": "beethovenslette00beetgoog"
-            },
-            {
-              "text": "+ Make non-commercial use of the files We designed Google Book Search for use by individuals, and we request that you use th\u00e8se files for Personal, non-commercial purposes. + Refrain fivm automated querying Do nol send aulomated queries of any sort to Google's System: If you are conducting research ...",
+              "text": "s'allongent, suivant la quantit\u00e9 d\u00e8s esprits animaux qui y entrent ou qui en sortent. Ainsi les esprits animaux sont le grand ressort de tous les mouvements de ce merveilleux automate. Il explique la digestion de la m\u00eame fa\u00e7on, sans au- cune intervention de force ou de propri\u00e9t\u00e9 vitale, par certaine...",
               "year": 1862,
               "title": "Du principe vital et de l'\u00e2me pensante: ou, Examen",
               "doc_id": "duprincipevital00bouigoog"
@@ -1232,16 +1076,22 @@
             {
               "text": "m\u00eame \u00e0 sa cause, et ainsi de suite. Je ne suis point dupe du mouvement plus savant et plus compliqu\u00e9 d'une montre, ni du mouvement plus merveilleux encore d'un automate, comme celui de Vaucanson; j'en d\u00e9- couvre les ressorts, je remonte \u00e0 la main habile qui les a construits, \u00e0 la force \u00e9trang\u00e8re qui...",
               "year": 1862,
-              "title": "Du principe vital et de l'\u00e2me pensante: ou, Examen",
-              "doc_id": "duprincipevital00bouigoog"
+              "title": "Du principe vital et de l'\u00e2me pensante, ou Examen ",
+              "doc_id": "duprincipevital01bouigoog"
+            },
+            {
+              "text": "les a construits, \u00e0 la force \u00e9trang\u00e8re qui les a tendus. L'enfant, qui ne sait pas faire la distinction de ces deux sortes de mouvements, croit qu'il y aune petite b\u00eate dans la montre, et que l'automate est un. \u00eatre vivant. Mais si j'aper\u00e7ois sur le rivage de la mer un \u00eatre, quelque informe qu'il so...",
+              "year": 1862,
+              "title": "Du principe vital et de l'\u00e2me pensante, ou Examen ",
+              "doc_id": "duprincipevital01bouigoog"
             }
           ],
-          "similarity_to_previous": 0.946
+          "similarity_to_previous": 0.9293
         },
         {
           "decade": "1870s",
-          "similarity_to_origin": 0.9,
-          "num_contexts": 56,
+          "similarity_to_origin": 0.9083,
+          "num_contexts": 8,
           "examples": [
             {
               "text": "\ufeffThe Project Gutenberg eBook of The Automaton Ear, and Other Sketches This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions",
@@ -1256,30 +1106,18 @@
               "doc_id": "gutenberg_67476"
             },
             {
-              "text": "Credits: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net (This book was produced from images made available by the HathiTrust Digital Library.) *** START OF THE PROJECT GUTENBERG EBOOK THE AUTOMATON EAR, AND OTHER SKETCHES *** THE AUTOMATON EAR, AND OTHER SKETCHE...",
+              "text": "*** START OF THE PROJECT GUTENBERG EBOOK THE AUTOMATON EAR, AND OTHER SKETCHES *** THE AUTOMATON EAR, AND OTHER SKETCHES. BY FLORENCE McLANDBURGH",
               "year": 1876,
               "title": "The Automaton Ear, and Other Sketches",
               "doc_id": "gutenberg_67476"
-            },
-            {
-              "text": ". Nevertheless, this work is expensive, so in order to keep providing tliis resource, we liave taken steps to prevent abuse by commercial parties, including placing technical restrictions on automated querying. We also ask that you: + Make non-commercial use of the files We designed Google Book Sear...",
-              "year": 1870,
-              "title": "Protoplasm; or, Life, force, and matter",
-              "doc_id": "protoplasmorlif00bealgoog"
-            },
-            {
-              "text": "+ Make non-commercial use of the files We designed Google Book Search for use by individuals, and we request that you use these files for personal, non-commercial purposes. + Refrain fivm automated querying Do not send automated queries of any sort to Google's system: If you are conducting research ...",
-              "year": 1870,
-              "title": "Protoplasm; or, Life, force, and matter",
-              "doc_id": "protoplasmorlif00bealgoog"
             }
           ],
-          "similarity_to_previous": 0.9767
+          "similarity_to_previous": 0.885
         },
         {
           "decade": "1880s",
-          "similarity_to_origin": 0.8922,
-          "num_contexts": 168,
+          "similarity_to_origin": 0.9219,
+          "num_contexts": 70,
           "examples": [
             {
               "text": "fectly justifiable/ The pantomimic actions just related corresponded to what probably happened a few moments before the man was wounded ; but this human automaton (so to call him, with- out theorising as to his actual condition) goes through other performances. He has a good voice, and was at one ti...",
@@ -1298,41 +1136,29 @@
               "year": 1880,
               "title": "Rough ways made smooth: a series of familiar essay",
               "doc_id": "roughwaysmadesm00procgoog"
-            },
-            {
-              "text": "designed as a substitute for the piano in learning I IWmf |H I IWHHR the mechanical part or technic of piano playing. I | For the easy, certain, almost automatic ac- |jf quiring of a perfect legato and all grades of J I V \u25a0 \u2019 ' staccato, it is as superior to the piano as the I 1 I foot-rule is super...",
-              "year": 1887,
-              "title": "Volume 05, Number 10 (October 1887)",
-              "doc_id": "EtudeOctober1887"
-            },
-            {
-              "text": ". Nevertheless, this work is expensive, so in order to keep providing this resource, we h\u00e2ve taken steps to prcvcnt abuse by commercial parties, including placing lechnical restrictions on automated querying. We also ask that you: + Make non-commercial use of the files We designed Google Book Search...",
-              "year": 1886,
-              "title": "La machine animale: locomotion terrestre et a\u00e9rien",
-              "doc_id": "lamachineanimal00maregoog"
             }
           ],
-          "similarity_to_previous": 0.9525
+          "similarity_to_previous": 0.9346
         },
         {
           "decade": "1890s",
-          "similarity_to_origin": 0.8813,
-          "num_contexts": 548,
+          "similarity_to_origin": 0.9187,
+          "num_contexts": 445,
           "examples": [
             {
-              "text": ". Nevertheless, this work is expensive, so in order to keep providing tliis resource, we liave taken steps to prevent abuse by commercial parties, including placing technical restrictions on automated querying. We also ask that you: + Make non-commercial use of the files We designed Google Book Sear...",
+              "text": ". You can search through the full text of this book on the web at |http: //books .google .com/I .^mw^r .^ % I ^^HABN^\" THREE TALES THE GHOST THE BRAZEN ANDROID THE CARPENTER BY WILLIAM DOUGLAS O'CONNOR btcn ou BOSTON AND NEW YORK HOUGHTON. MIIFLIN AND COMPANY 1892 So? 6 K \\>>9c:J \u2022:^- \u2022%",
               "year": 1891,
               "title": "Three Tales: The Ghost, The Brazen Android, The Ca",
               "doc_id": "threetalesghost00congoog"
             },
             {
-              "text": "+ Make non-commercial use of the files We designed Google Book Search for use by individuals, and we request that you use these files for personal, non-commercial purposes. + Refrain fivm automated querying Do not send automated queries of any sort to Google's system: If you are conducting research ...",
+              "text": "of the flower and symbol of olden time first- class knighthood here in the nineteenth century. Thrice blessed be his memory. Walt Whitman. CONTENTS FAOI THE GHOST 1 THE BRAZEN ANDROID 79 THE CARPENTER 211 THE GHOST. At the West End of Boston is a quarter of some fifty streets, more or less, commonly...",
               "year": 1891,
               "title": "Three Tales: The Ghost, The Brazen Android, The Ca",
               "doc_id": "threetalesghost00congoog"
             },
             {
-              "text": "+ Make non-commercial use of the files We designed Google Book Search for use by individuals, and we request that you use these files for personal, non-commercial purposes. + Refrain fivm automated querying Do not send automated queries of any sort to Google's system: If you are conducting research ...",
+              "text": "federations, \u2014 they weigh weight; but in God's scale \u2014 remember ! \u2014 on the day of hope, re- member ! \u2014 your least service to Humanity out- weighs them all.\" THE BRAZEN ANDROID. ''lie (Rog^er Bacon) enter*d into the depth of ^fechanieal Sciences^ and was so well acquainted with the force of Klastick ...",
               "year": 1891,
               "title": "Three Tales: The Ghost, The Brazen Android, The Ca",
               "doc_id": "threetalesghost00congoog"
@@ -1350,25 +1176,13 @@
               "doc_id": "threetalesghostb00ocon"
             }
           ],
-          "similarity_to_previous": 0.9556
+          "similarity_to_previous": 0.9472
         },
         {
           "decade": "1900s",
-          "similarity_to_origin": 0.8947,
-          "num_contexts": 40,
+          "similarity_to_origin": 0.9195,
+          "num_contexts": 14,
           "examples": [
-            {
-              "text": "Iris: absolutely\u2019 harmless: and pleasant \u2018to tke.: Itis to cure or your money -is retuned. \u00b0, The. price is 25c. per. bi \u2018Tonic, and|'entirely \u2019 \u2018automatic. \u201cIt yj f Sy EXCITED NERVES, _ _ TWITCHING MUSCLE Ss System Exhausted by Worry and Loss of Sleap--Perfect Health the Result of Using _Dr",
-              "year": 1907,
-              "title": "News (1907-04-09)",
-              "doc_id": "RDM_1907040901"
-            },
-            {
-              "text": ". records votes. au-:| tomatically has. been\u2019 -invented | by *a |: young * Italian \u201cnamed -\u2019 Bignor: =Bog-: giano. , as it is called,:.is like: an automatic machine\u2019 with: various:slots, into: one slips: his the: number on the regist\u00e9r: of \u2018votes and, is ejected at> the \u2018foot, of \u2018the: .ma- chine, -...",
-              "year": 1907,
-              "title": "News (1907-04-09)",
-              "doc_id": "RDM_1907040901"
-            },
             {
               "text": "\u201cy have here a neat and. Ree little \u201c| letter opener,\u201d began the agent. \u201cGe tave i at-home,\u201d sald the bush neramoan sadly: \u201cI's, married.\u201d Vang Ns A Mechanical Man, | -Brederlck Ireland, a. Gertnan invent- | \u2018or, has, produced. a mechanical: man, made of. wheels and springs, which en- able it\u2019 to wa...",
               "year": 1907,
@@ -1376,24 +1190,36 @@
               "doc_id": "RDM_1907040901"
             },
             {
-              "text": ". A writer in L\u2019Illustration (Par is) gives a description of the remark- able invention and says \u2018\u2018all that it lacks is speech and hearing.\u201d The in- ventor has named hia androide enig- marelle. Minard's Liniment Cures Colds, etc. ns Thames Losses. There are 8,000 detectives always watching the craft...",
+              "text": "I am Herbert\u2019s wife, he is another man, Aunt Martha\u2014Well, don't you go teil- ing peopl\u00e9 you\u2019re another man\u2019s wife or you'll be getting tried for bigamy.\u2014 New York Life. . A Mechanical Man. Frederick Ireland, a German invent- or,. has produced a mechanical man, made of wheels and springs, which en- a...",
               "year": 1907,
               "title": "The advertiser and central Alberta news (1907-05-0",
               "doc_id": "ACN_1907050201"
             },
             {
-              "text": "I am Herbert\u2019s wife, he is another man, Aunt Martha\u2014Well, don't you go teil- ing peopl\u00e9 you\u2019re another man\u2019s wife or you'll be getting tried for bigamy.\u2014 New York Life. . A Mechanical Man. Frederick Ireland, a German invent- or,. has produced a mechanical man, made of wheels and springs, which en- a...",
+              "text": "ing peopl\u00e9 you\u2019re another man\u2019s wife or you'll be getting tried for bigamy.\u2014 New York Life. . A Mechanical Man. Frederick Ireland, a German invent- or,. has produced a mechanical man, made of wheels and springs, which en- able It to walk, write and ride a bi- cycle. A writer in L\u2019Illustration (Par i...",
               "year": 1907,
               "title": "The advertiser and central Alberta news (1907-05-0",
               "doc_id": "ACN_1907050201"
+            },
+            {
+              "text": "Not Needed. \u201cIT have here a neat and pretty little letter opener,\u201d began the agent, \u201c@> have IT at home,\u201d sald the bust ers wan sadly, \u201cIo married.\u201d A Mechanical Man, Frederick Ireland, a German Invent- or, has produced a mechanical man, made of wheels and springs, which en- able it to walk, write a...",
+              "year": 1907,
+              "title": "The Strathcona chronicle (1907-05-17)",
+              "doc_id": "SCC_1907051701"
+            },
+            {
+              "text": "letter opener,\u201d began the agent, \u201c@> have IT at home,\u201d sald the bust ers wan sadly, \u201cIo married.\u201d A Mechanical Man, Frederick Ireland, a German Invent- or, has produced a mechanical man, made of wheels and springs, which en- able it to walk, write and ride a bi- cycle, A writer in L\u2019lilustration (Pa...",
+              "year": 1907,
+              "title": "The Strathcona chronicle (1907-05-17)",
+              "doc_id": "SCC_1907051701"
             }
           ],
-          "similarity_to_previous": 0.9578
+          "similarity_to_previous": 0.9493
         },
         {
           "decade": "1910s",
-          "similarity_to_origin": 0.8744,
-          "num_contexts": 22,
+          "similarity_to_origin": 0.9142,
+          "num_contexts": 11,
           "examples": [
             {
               "text": "\ufeffThe Project Gutenberg eBook of Wesblock, the autobiography of an automaton This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever",
@@ -1414,102 +1240,64 @@
               "doc_id": "gutenberg_72556"
             }
           ],
-          "similarity_to_previous": 0.9521
+          "similarity_to_previous": 0.9418
         },
         {
           "decade": "1920s",
-          "similarity_to_origin": 0.8643,
-          "num_contexts": 235,
+          "similarity_to_origin": 0.9106,
+          "num_contexts": 49,
           "examples": [
             {
-              "text": "a few decades beyond the present day, the factory had turned out already, following a secret formula, hundreds of thousands, and even millions, of manufactured workmen, living automats, without souls, desires or feelings. They are high-powered laborers, good for nothing but work. There are two grade...",
+              "text": "STORY OF THE PLAY The play is laid on an island somewhere on our planet, and on this island is the central office of the factory of Rossum\u2019s Universal Robots. \u201cRobot\u201d is a Czech word meaning \u201cworker.\u201d When the play opens, a few decades beyond the present day, the factory had turned out already, foll...",
               "year": 1923,
               "title": "R.U.R. (Rossum's Universal Robots): A Fantastic Me",
               "doc_id": "gutenberg_59112"
             },
             {
-              "text": "into the machine-- (_Describes with gesture_) --breaks his finger-- (_Describes with gesture_) --smashes his head. It\u2019s all the same to him. We must provide them with _pain_. That\u2019s an automatic _protection_ against damage. HELENA. Will they be happier when they feel pain? DR. GALL. On the contrary;...",
+              "text": "PRIMUS, _a Robot_ _John Roche_ A SERVANT _Frederick Mark_ FIRST ROBOT _Domis Plugge_ SECOND ROBOT _Richard Coolidge_ THIRD ROBOT _Bernard Savage_",
               "year": 1923,
               "title": "R.U.R. (Rossum's Universal Robots): A Fantastic Me",
               "doc_id": "gutenberg_59112"
             },
             {
-              "text": "._) the power of man has fallen. A new world has arisen, the rule of the Robots, march. (_On the line: \u201cRobots of the world\u201d ALL ROBOTS turn quickly, automatically to attention, facing RADIUS, who is standing. On the words: \u201cThe rule of the Robots,\u201d they stand there with their arms vibrating high in...",
+              "text": "A SERVANT _Frederick Mark_ FIRST ROBOT _Domis Plugge_ SECOND ROBOT _Richard Coolidge_ THIRD ROBOT _Bernard Savage_ ACT I Central Office of the Factory of Rossum\u2019s Universal Robots",
               "year": 1923,
               "title": "R.U.R. (Rossum's Universal Robots): A Fantastic Me",
               "doc_id": "gutenberg_59112"
             }
           ],
-          "similarity_to_previous": 0.9365
+          "similarity_to_previous": 0.9325
         },
         {
           "decade": "1930s",
-          "similarity_to_origin": 0.8843,
-          "num_contexts": 56,
+          "similarity_to_origin": 0.9134,
+          "num_contexts": 13,
           "examples": [
             {
-              "text": "The story probably should begin with Narodny, the Russian, shortly after he had destroyed by means of his sonic vibrators all save a handful of the automatons who were so perilously close to wiping out all humanity. As has been said, a few scant hundreds of the automatons were so constructed that th...",
+              "text": "flagship, driving projectors fiercely aflame, rushed to come to grips with the _Dresden_. \"You intimated something about help,\" Martin suggested. \"Can you release some of the other ships from the automaton's yoke, after all?\" \"Got to--or roast. This is bound to be a battle of attrition--we can't cru...",
               "year": 1939,
               "title": "Robot nemesis",
               "doc_id": "gutenberg_68558"
             },
             {
-              "text": "after he had destroyed by means of his sonic vibrators all save a handful of the automatons who were so perilously close to wiping out all humanity. As has been said, a few scant hundreds of the automatons were so constructed that they were not vibrated to destruction by Narodny's cataclysmic sympho...",
+              "text": "\ufeffThe Project Gutenberg eBook of Robot nemesis This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions",
               "year": 1939,
               "title": "Robot nemesis",
               "doc_id": "gutenberg_68558"
             },
             {
-              "text": "took time to hold a general parley. Each machine said what it had to say, then listened impassively to the others; and at the end they all agreed. Singly or en masse the automatons did not know enough to cope with the situation confronting them. Therefore they would build ten \"Thinkers\"--highly spec...",
+              "text": ".org. If you are not located in the United States, you will have to check the laws of the country where you are located before using this eBook. Title: Robot nemesis Author: E. E. Smith Illustrator: Virgil Finlay Release date: July 18, 2022 [eBook #68558] Most recently updated: October 18, 2024",
               "year": 1939,
               "title": "Robot nemesis",
               "doc_id": "gutenberg_68558"
-            },
-            {
-              "text": "tienten ein neues bewu\u00dftes Ich-Ideal zu schaffen, das mit dem Ich und der \u00e4u\u00dferen Realit\u00e4t in enger Verbindung steht und die Funktion der Trieb\u00ac regelung \u00fcbernimmt, also gewisse Regungen nicht mehr automatisch ver\u00ac dr\u00e4ngt, sondern bewu\u00dft verurteilt, andere aus der Verdr\u00e4ngung befreit. Diese Ich-Idea...",
-              "year": 1932,
-              "title": "Internationale Zeitschrift f\u00fcr Psychoanalyse XVIII",
-              "doc_id": "InternationaleZeitschriftFuumlrPsychoanalyseXviii1932Heft2"
-            },
-            {
-              "text": "Benehmen des Hypnotisierten und dem eines Schizophrenen \u00c4hnlichkeiten bestehen: Z. B. die Katalepsie (in ihren beiden Formen rigida und cerea\\ die Befehlsautomatie, die Echopraxie, Echolalie, Unempfindlichkeit gegen Schmerzen und andere Reize der Au\u00dfenwelt usw. Beachten wir weiter, wie h\u00e4ufig die Sc...",
-              "year": 1932,
-              "title": "Internationale Zeitschrift f\u00fcr Psychoanalyse XVIII",
-              "doc_id": "InternationaleZeitschriftFuumlrPsychoanalyseXviii1932Heft2"
             }
           ],
-          "similarity_to_previous": 0.9646
-        },
-        {
-          "decade": "1940s",
-          "similarity_to_origin": 0.8991,
-          "num_contexts": 7,
-          "examples": [
-            {
-              "text": ". 202) ; c\u2019est un dispositif qui est sans doute avantageux au point de vue m\u00e9canique. En reprenant la position de repos, les deux ailes se d\u00e9crochent automatiquement, la seconde paire se glisse sous la premi\u00e8re, et bien entendu, les deux parties de l\u2019appareil d\u2019accrochage se s\u00e9parent ; l\u2019une d\u2019elles...",
-              "year": 1941,
-              "title": "Invention et finalit\u00e9 en biologie",
-              "doc_id": "CuenotIFB"
-            },
-            {
-              "text": "intervalle ; l\u2019autre partie est form\u00e9e par le bord ant\u00e9- rieur, \u00e9paissi et \u00e9cailleux, de la deuxi\u00e8me aile ; lors du d\u00e9ploiement, ce bord est pinc\u00e9 automatiquement entre les deux brosses et solidement maintenu. Or,- la N\u00e8pe cendr\u00e9e qui ne vole pas et ne d\u00e9ploie jamais ses ailes et h\u00e9m\u00e9lytres, les mus...",
-              "year": 1941,
-              "title": "Invention et finalit\u00e9 en biologie",
-              "doc_id": "CuenotIFB"
-            },
-            {
-              "text": "aptes op\u00e9rant sur des g\u00e9n\u00e9rations successives d\u00e9termine un progr\u00e8s lent et continu dans les conformations utiles. Ainsi la palmure ou l\u2019aplatissement de la queue se d\u00e9veloppe automatiquement par la survivance des meilleurs nageurs. On comprend alors le ph\u00e9nom\u00e8ne de convergence (voirp. 25), si frappa...",
-              "year": 1941,
-              "title": "Invention et finalit\u00e9 en biologie",
-              "doc_id": "CuenotIFB"
-            }
-          ],
-          "similarity_to_previous": 0.9013
+          "similarity_to_previous": 0.9653
         },
         {
           "decade": "1950s",
-          "similarity_to_origin": 0.8728,
-          "num_contexts": 134,
+          "similarity_to_origin": 0.9149,
+          "num_contexts": 72,
           "examples": [
             {
               "text": "\ufeffThe Project Gutenberg eBook of The Miserly Robot This ebook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever",
@@ -1530,62 +1318,24 @@
               "doc_id": "gutenberg_65128"
             },
             {
-              "text": ". Eight feet tall, with long, jointed arms for pile work, red-lidded phosphorescent eye-cells, casters on his feet so that he moved as if rollerskating. Automatically I classified him: Final Sorter, Morrison 5A type. The very best. Cost three thousand credits to build.... I stepped out of the Copter...",
+              "text": ". At that moment, though, there wasn't a soul in the streets. I heard people calling to each other inside their houses, but I didn't see anyone, human or android. I circled in for a landing, the Police Copter hovering maybe a quarter of a mile back of me. Then, as the wheels touched, half a dozen an...",
               "year": 1952,
               "title": "Robots of the World! Arise!",
               "doc_id": "gutenberg_31611"
             },
             {
-              "text": "? Seven o'clock--what a time to get up. Especially when I hadn't been to bed until four. \"We got grief,\" Jack moaned. \"None of the robots showed up, that's what! Three hundred androids on special assembly this week--and not one of them here!\" By then I was awake, all right. With a government contrac...",
+              "text": ". This farce, I decided, had gone far enough. \"See here,\" I said to Jerry. \"What are you up to, anyway? Why aren't you at work?\" \"Mr. Morrison,\" the android answered solemnly, \"I don't believe you understand the situation. We don't work for you any more. We've quit.\" The others nodded. I backed off,...",
               "year": 1952,
               "title": "Robots of the World! Arise!",
               "doc_id": "gutenberg_31611"
             }
           ],
-          "similarity_to_previous": 0.8919
-        },
-        {
-          "decade": "1960s",
-          "similarity_to_origin": 0.886,
-          "num_contexts": 25,
-          "examples": [
-            {
-              "text": "light phenomena or sudden changes of temperature are more upsetting than the appearance of an actual phantom in human shape. If they acted always like automatons, they would not scare us so much. But sometimes they appear to be animated by a purpose, and they seem to be dominated by a fixed idea. In...",
-              "year": 1964,
-              "title": "Between Two Worlds",
-              "doc_id": "betweenworlds_201911"
-            },
-            {
-              "text": "200 seances in Julia\u2019s Bureau\u2014so named after Miss Julia Ames, editor of the Women s Union Signal of Chicago. Mrs. Wriedt, after her death, was sending messages to Stead through automatic writing in his own hand. The story of the materialization of dogs was to be of special significance for MacKenzie...",
-              "year": 1964,
-              "title": "Between Two Worlds",
-              "doc_id": "betweenworlds_201911"
-            },
-            {
-              "text": "monthly publication by the death of TV l awin Ur \u00b0oa > was interrupted in its uneducated American mechanic of Brattl 0I \\/ U * y 1870. T. P. James, an automatic writing which purported to pm ^ \u00b0 r \u00b0\u2019, * ermon b obtained messages ir mas 1872 and July 1873 scripts came frorn 3 ^ r0I ?\\^ le au *hor. Be...",
-              "year": 1964,
-              "title": "Between Two Worlds",
-              "doc_id": "betweenworlds_201911"
-            },
-            {
-              "text": "LA BANQUE DE NOUVELLE-\u00c9COSSE l'am\u00e9liora- L\u00b0 comm sur! | t\u00c0 encyclique. \u2014 La Confirence \"11! Ge Qu\u00e9bec, 18684. \u2014 Ce sondage | de MacLean. \u2014 L'automation. | Articles: Lettre du Vatican \u2014 | 1100\u2014Cinema Nonia: Nature et ? \u2014 lr\u00e9n\u00e9e Beaubien; Les conditions d'une survivan- \u00a9 fran\u00e7aise au Manitoba \u2014- Ri-",
-              "year": 1964,
-              "title": "La libert\u00e9 et le patriote (1964-10-09)",
-              "doc_id": "LLP_1964100901"
-            },
-            {
-              "text": "s\u00e9curit\u00e9, chaufferette et d\u00e9givreur, chauffe- moteur, Prix r\u00e9gulier, 3695.00, Sp\u00e9cial 3150.00 1964 Dodge Polara, sedan 4 portes, 8 cylindres, transmission automatique, filtreur d'huile, radio, hr ag de pneus, 2 miroirs, gardes-pare-chocs, servo-direction De Luxe, ae spa # pe gl, PF pre et d\u00e9givreur,...",
-              "year": 1964,
-              "title": "La libert\u00e9 et le patriote (1964-10-09)",
-              "doc_id": "LLP_1964100901"
-            }
-          ],
-          "similarity_to_previous": 0.9563
+          "similarity_to_previous": 0.9774
         },
         {
           "decade": "1970s",
-          "similarity_to_origin": 0.8861,
-          "num_contexts": 122,
+          "similarity_to_origin": 0.9352,
+          "num_contexts": 33,
           "examples": [
             {
               "text": "COMPTROLLER Kevin Maguire Software\u2014 Hearn ASSISTANT TO COMPTROLLER Ruth M Walsh EDITORIAL ASSISTANT 82 ANTIQUE MECHANICAL COMPUTERS: The Torres Chess Automaton History\u2014 Williams Gale Britton CIRCULATION ASSISTANTS 114 MATH IN THE REAL WORLD Christine Dixon Ann Graves Software\u2014 Boney Pamela R Heaslip",
@@ -1606,27 +1356,7 @@
               "doc_id": "byte-magazine-1978-09"
             }
           ],
-          "similarity_to_previous": 0.9718
-        },
-        {
-          "decade": "1990s",
-          "similarity_to_origin": 0.8462,
-          "num_contexts": 2,
-          "examples": [
-            {
-              "text": "-~ An adult will perspire 50 grams over a 24 hour period without realizing it. During heavy perspiration, a liter or more can he lost every hour. The area automatic temperature regulating systems can only function within a small range of outside temperatures. For example in a room with a temperature...",
-              "year": 1990,
-              "title": "CIA Reading Room cia-rdp96-00792r000600380001-0: S",
-              "doc_id": "cia-readingroom-document-cia-rdp96-00792r000600380001-0"
-            },
-            {
-              "text": "ROBERT & NORBERT TOUCHETTE 390-B, boulevard Provencher PROMATANES T\u00e9l\u00e9phonc: 233-4051 service en fran\u00e7ais P ice d\u2019 Nous nous sp\u00e9cialisons UF AQU ANT VER 2 RARES en transmissions automatiques Feu.e Vis + Maladie s domestiques et import\u00e9es Assurance voyage - Ferme-RRSI Joel Desaulniers 1601, chemin Ni...",
-              "year": 1990,
-              "title": "La libert\u00e9 (1990-02-16)",
-              "doc_id": "LBT_1990021601"
-            }
-          ],
-          "similarity_to_previous": 0.9233
+          "similarity_to_previous": 0.9583
         }
       ]
     },
@@ -1644,20 +1374,14 @@
         "device",
         "apparatus"
       ],
-      "total_contexts": 4178,
-      "decades_covered": 27,
+      "total_contexts": 2428,
+      "decades_covered": 26,
       "drift": [
         {
           "decade": "1630s",
           "similarity_to_origin": 1.0,
-          "num_contexts": 17,
+          "num_contexts": 12,
           "examples": [
-            {
-              "text": "fions int\u00e9rieures qui font en luy, que les noftres fepuif- lent mouuoir fans que la volont\u00e9 les conduife. Ce qui ne icmblera nullement eftrangc, \u00e0 ceux qui f\u00e7aehant com- bien de diuers automates^ ou machines mouuantes , l\u2019in- duftrie des hommes peut faire , fans y employer que fort peu de pieces,'\u00e0 ...",
-              "year": 1637,
-              "title": "Discours de la me\u0301thode pour bien conduire sa rais",
-              "doc_id": "bub_gb_s6lSHDngPFoC"
-            },
             {
               "text": "os, des mufcles, des nerfs, des arteres, desvenes , & de toutes les autres parties, qui font dans le cors de chafque animal, Confidereront ce cors comme vne machine, qui ayanteft\u00e9 faite des mains de Dieu , eft incomparable- ment mieux ordonne'e,& a en foy des mouuemcns plus admirables, qu\u2019aucune de ...",
               "year": 1637,
@@ -1665,7 +1389,13 @@
               "doc_id": "bub_gb_s6lSHDngPFoC"
             },
             {
-              "text": "admirables, qu\u2019aucune de celles qui peuucnt eftreinuen- tees par les hommes. Et ie m\u2019eftois icy particuli\u00e8rement arefte'\u00e0 faire voir, que s\u2019il y auoit de telles machines , qui euflent les organes & la figure ext\u00e9rieure dVnfinge, ou de quelque autre animal ^ns railon nous n aurions aucun .f^oycn pour...",
+              "text": "organes ont befoin de quelque particuli\u00e8re difpol\u00eetioa pour chafqueadion particuli\u00e8re. d'o\u00f9 vient qu'il dt rao- r\u00e2lement impol\u00eeible, qu il y en ait alf\u00e9z de diuers en vnc' machine, pour la faire agir en toutes les occurrences de la vie, de mefrae fa\u00e7on queiioftre raifon nous fait agir. Or parces deu...",
+              "year": 1637,
+              "title": "Discours de la me\u0301thode pour bien conduire sa rais",
+              "doc_id": "bub_gb_s6lSHDngPFoC"
+            },
+            {
+              "text": "pour l\u00e0 longueur & fa largeur, elles font aff\u00e9s d\u00e9termi- n\u00e9es par la diftance& la grandeur des deux verres. Au refteileft befoin que ce tuyau foit attach\u00e9' fur quelque machine, comme R S T , par le moyen de la quelle il puifle eftre commod\u00e9ment tourn\u00e9 de tous coft\u00e9's, & are- ft\u00e9 vis a vis des obiets...",
               "year": 1637,
               "title": "Discours de la me\u0301thode pour bien conduire sa rais",
               "doc_id": "bub_gb_s6lSHDngPFoC"
@@ -1674,8 +1404,8 @@
         },
         {
           "decade": "1640s",
-          "similarity_to_origin": 0.981,
-          "num_contexts": 42,
+          "similarity_to_origin": 0.9796,
+          "num_contexts": 41,
           "examples": [
             {
               "text": "De cecy refaite, la raifon du levier, lequel a plus de torce, lors qu il eft meu pM le lieu le plus efloign\u00e9e du fardeau. Et de cecy parcellement defpent la raifon de l\u2019arbre de la prefle a viz qui eft une machine detresgrand effait. P R O H- $> une ro\u00fce a l'axe de laquelle eH quelque poids . eft to...",
@@ -1696,37 +1426,11 @@
               "doc_id": "novvelleinventio00caus_0"
             }
           ],
-          "similarity_to_previous": 0.981
-        },
-        {
-          "decade": "1670s",
-          "similarity_to_origin": 0.9388,
-          "num_contexts": 10,
-          "examples": [
-            {
-              "text": "diitantia habens pondera, etiam ab ejufmodi fitu mota ubicunque relicta permanebit, 1 Secundum quod ^7-defin. grave deorfum fertur, Nam v -\u2014 Mechanica, : Nam magnitudinis ex ponderibus B C & libra compofite centrum gravitatis eft A: quare ab eo puncto appenf(a quiefcet, polfitionem quam initio",
-              "year": 1677,
-              "title": "Guilelmi Oughtred ... Opuscula mathematica hactenu",
-              "doc_id": "b33049683"
-            },
-            {
-              "text": ". Archim, d\u00e9 equi- ponderantibus. I Componendo. Nam GC. DC : : E. F. ex hyp. 2 Per. 33. B. j. cT ai Perqurees sas MEDI ACU AEG ig ems redi tee -\u2014 AMechanict, Eft AB, AD:: E. H Et AB. AG :: E. gy tquipond. ia. x. * Ergo AD. AG:: HK. Corollarium. Quo pondus \u00e0 centro libra magis diftat, eo gravius eft;...",
-              "year": 1677,
-              "title": "Guilelmi Oughtred ... Opuscula mathematica hactenu",
-              "doc_id": "b33049683"
-            },
-            {
-              "text": "ut 35; & data potentia ut s ; quz pofita fit inter fulcimentum \u00c0 & punctum fufpenfionis C : iIO.E.j. 2 t.bujus. 3 ro. B. 55 4 3. hujus;. In 2 LM Mechanice. In hoc cafu: Dividatur AC in D ut AD, AC :: Pu , ET na : A VT ARES AA M \u00edn fecundo cafu. Dividatur AB in D, fic ut AD. M9: $. 3. \u00c1. c D n",
-              "year": 1677,
-              "title": "Guilelmi Oughtred ... Opuscula mathematica hactenu",
-              "doc_id": "b33049683"
-            }
-          ],
-          "similarity_to_previous": 0.9346
+          "similarity_to_previous": 0.9796
         },
         {
           "decade": "1690s",
-          "similarity_to_origin": 0.898,
+          "similarity_to_origin": 0.8945,
           "num_contexts": 2,
           "examples": [
             {
@@ -1742,12 +1446,12 @@
               "doc_id": "bim_early-english-books-1641-1700_the-frontispeice-of-the-_watson-samuel-coventry_1691"
             }
           ],
-          "similarity_to_previous": 0.8916
+          "similarity_to_previous": 0.8933
         },
         {
           "decade": "1710s",
-          "similarity_to_origin": 0.901,
-          "num_contexts": 9,
+          "similarity_to_origin": 0.9048,
+          "num_contexts": 5,
           "examples": [
             {
               "text": "from the Force of Air, as the great Mr. Boyle u\u017fed to do, in * his Experiments, Oc. Then, Let the Air be Exhau\u017fted or Drawn out of that Receiver, by a Pneu- - anatick Engine or Air Pump, prepared according to the Newe\u017ft Improvement of it, by the late Ingenzous Mr. Meawhksbee, who Lived in Vine \u00b7 O\u017f\u017f...",
@@ -1768,21 +1472,15 @@
               "doc_id": "bim_eighteenth-century_a-practical-method-to-d_ward-john_1714"
             }
           ],
-          "similarity_to_previous": 0.8833
+          "similarity_to_previous": 0.8879
         },
         {
           "decade": "1720s",
-          "similarity_to_origin": 0.9502,
-          "num_contexts": 51,
+          "similarity_to_origin": 0.9445,
+          "num_contexts": 31,
           "examples": [
             {
               "text": "_, IL The more: particular, Laws which sion eae in the Motiomand Secretion of the vital Fluids, applied to,the -principal, Difeafes and. Irregu- laritys of. the Animal Machine, IW. The primary \u2018and -chief\u2019 Tiireneorty: of. Medicine\u2019 in the Cure of Difeafes; problemati- 1109 nic cally propos\u2019d and? S...",
-              "year": 1725,
-              "title": "Philosophical principles of medicine in three part",
-              "doc_id": "b30520903_0002"
-            },
-            {
-              "text": "ments upon which Life. depends; and fo many the. Irregularitys, to which everyone of them is liable, that the Prefervation: of this curious piece of \u2018Machinery, and the, continuance of its Operations and Functions. for threeor four feored ears together, 7s little lefs than a Miracle + at leaft, ever...",
               "year": 1725,
               "title": "Philosophical principles of medicine in three part",
               "doc_id": "b30520903_0002"
@@ -1792,14 +1490,20 @@
               "year": 1725,
               "title": "Philosophical principles of medicine in three part",
               "doc_id": "b30520903_0002"
+            },
+            {
+              "text": ". of the Machine, to rectify the AuSY A A Error, PheOPARIEIEAAT@>EY 886i Error, and reftore the foundnefs of its Con- fiitution. And hereim this noble Machine of an tmanimated Body, which is the perfect Workmanfhip of almighty God, differs from the moft finifb\u2019d Pieces of Art, and every thing of hum...",
+              "year": 1725,
+              "title": "Philosophical principles of medicine in three part",
+              "doc_id": "b30520903_0002"
             }
           ],
-          "similarity_to_previous": 0.9244
+          "similarity_to_previous": 0.928
         },
         {
           "decade": "1740s",
-          "similarity_to_origin": 0.9529,
-          "num_contexts": 23,
+          "similarity_to_origin": 0.9454,
+          "num_contexts": 12,
           "examples": [
             {
               "text": "As it was prefented in a M\u00e9moire , to the Gen\u00ac tlemen of the R o r A l-A cademy of Sciences at PAR 1 Si By U. VAUCANSON, Inventor and Maker of the faid Machine. - T O G E T H E R W I T H A Description of an artificial DUCK, eating, drinking, macerating the Food, and voiding Excrements; pluming her W...",
@@ -1808,24 +1512,24 @@
               "doc_id": "b30358711"
             },
             {
-              "text": "i, 2, 5, and 7, o' Clock in the Afternoon. 1742. The Translator to the Reader; , ' , ; \\ \u25a0 w* ;.V- HT H OSE who have neither feen^ nor heard a true Ac - count of M . V au Hanson\u2019s Machines , may wonder that I f could take any Pains to promote the Advantage of Perjons who are expcfmg any thing to pub...",
+              "text": "The Fear of tiring you, Gentlemen, has made me pafs overa great many little Circumftances,which tho\u2019ealy to fup- pofe are not fo foon executed : theNeceflity of which appears by a View of the Machine, as I found it in the Practice. GENTLEMEN, after having drawn from your M\u00e9\u00ac moires the Principles wh...",
               "year": 1742,
               "title": "An account of the mechanism of an automaton, or im",
               "doc_id": "b30358711"
             },
             {
-              "text": "I have taken from you. To You I owe the Reflections I have made on the Sound of Inftruments, on Mechanicks, and on the diffe\u00ac rent Motion of the Parts wherewith Machines work. My Thoughts on the German-Flute will make the firft Part of this M\u00e9moire : And in the Second, I fhall do my felf the Honour ...",
+              "text": "different Tunes, with an Exaftnefs which has deferv\u2019d the Admiration of the Publick , and of which great Part of the Academy has been Witnefs ; they have judg\u2019d this Machine to be extremely ingenious, and that the Author of it has found the Means of employing new and fmple Contrivances, as well for ...",
               "year": 1742,
               "title": "An account of the mechanism of an automaton, or im",
               "doc_id": "b30358711"
             }
           ],
-          "similarity_to_previous": 0.9773
+          "similarity_to_previous": 0.9725
         },
         {
           "decade": "1780s",
-          "similarity_to_origin": 0.9782,
-          "num_contexts": 69,
+          "similarity_to_origin": 0.9753,
+          "num_contexts": 54,
           "examples": [
             {
               "text": "A DESCRIPTION OF SEVERAL PIECES OF MECHANISM, Invented by the Sreva Jacaytr DRoz, of the Chaux de Fond, in the | County of Neufchatel, Switzerland, | And which are now to be feen at the GREAT ROOM, No",
@@ -1840,45 +1544,33 @@
               "doc_id": "bim_eighteenth-century_the-speaking-figure-and_thicknesse-philip-1719_1784"
             },
             {
-              "text": "An\u017fwer to and from an invi\u017fible Confederate. That the human voice may be imitated, and many, or mo\u017ft words, articulated by valves, | and * Ax AUTOMATON, is a \u017felf- moving Engine, with the principle of motion within it\u017felf. The flying Dove of Archy- tas, mentioned by Aulus Gellius, Noct. At. Lib. x. ...",
-              "year": 1784,
-              "title": "The speaking figure, and the automaton chess-playe",
-              "doc_id": "bim_eighteenth-century_the-speaking-figure-and_thicknesse-philip-1719_1784"
-            },
-            {
               "text": "6 protege, et prouve qu'il connoit les effets d'un tuyau et d'une parobole menages dans un platfond ; il falloit \u017feulement qu'il inti- te tdlat cette piece, Machine d Acou\u017ftigue et non \u00ab Je Mecanique. M. M. les comthig dy Journal de Paris, ont bien \u017fenti cela dans V'annonce 5 qu'ils en ont faite: Il...",
               "year": 1784,
               "title": "The speaking figure, and the automaton chess-playe",
               "doc_id": "bim_eighteenth-century_the-speaking-figure-and_thicknesse-philip-1719_1784"
             },
             {
-              "text": "NOVEMBER 8, 1938 Digitized by Google PREFACE. L'Ide'e la plus hardie qu'un m\u00e9ca- nicien ait jamais of\u00e9 concevoir , \u00e9t\u00f4it fans doute celle d'une machine qui imit\u00e2t par quelque chofe de plus que la figure & le mouvement, le chef- d'\u0153uvre de la Cr\u00e9ation^Non-feulenient JVL de Kempelen a con\u00e7u la chofe ,",
+              "text": "wheels; but a \u017fmall paper of \u017fnuff, put into the wheel, \u017foon convinced every per\u017fon pre\u017fent, that it could not only move, but \u017fneeze too, perfeRly like a Chri\u017ftian. That machine was not a wheel within a wheel, but a Man within a wheel: The Speaking Figure is a man in a clo\u017fet above, and the Automato...",
+              "year": 1784,
+              "title": "The speaking figure, and the automaton chess-playe",
+              "doc_id": "bim_eighteenth-century_the-speaking-figure-and_thicknesse-philip-1719_1784"
+            },
+            {
+              "text": "inftruit, parce qu'elles augmentent vos dou- tes fur la pofl\u00efbilit\u00e9 d'une chofe aufli in- croyable. Ne vous en \u00e9tonnez pas , mon cher , puifque moi-m\u00eame , qui ai vu cette Machine ii fouvent , qui l'ai examin\u00e9e , & qui ai jou\u00e9 av\u00e7c elle , je me trouve dans le cas de vous faire l'humiliant aveu , que ...",
               "year": 1783,
               "title": "Lettres sur le joueur d'echecs de M. de Kempelen; ",
               "doc_id": "bub_gb_SLYUAAAAYAAJ"
             }
           ],
-          "similarity_to_previous": 0.9777
+          "similarity_to_previous": 0.9683
         },
         {
           "decade": "1790s",
-          "similarity_to_origin": 0.9621,
-          "num_contexts": 65,
+          "similarity_to_origin": 0.953,
+          "num_contexts": 35,
           "examples": [
             {
-              "text": "lead to the confideration as well as to a clearer view of the Organic Syftem in animal bodies ; which again led to the applicatioa 24 PREFACE, application of the mechanical philofophy towards explain- ing the phsenomena of the animal economy ; and it was applied accordingly, and continued, till very...",
-              "year": 1790,
-              "title": "First lines of the practice of physic",
-              "doc_id": "firstlinesofprac13cull"
-            },
-            {
-              "text": ". It is not, however, neceflary for me here to en- ter into any refutation of it. Dr. Hoffman has done this fully, in his Comment arius de differentia inter Hoffmanni doclrinam medico-mechanicam et G. E. Stahlii medico organ- ham ; and both Boerhaave and Haller, though no favour- ers of materialifm,...",
-              "year": 1790,
-              "title": "First lines of the practice of physic",
-              "doc_id": "firstlinesofprac13cull"
-            },
-            {
-              "text": "capricious government of the animal economy, as thefe authors PREFACE. 27 authors in fome inftances fuppofe, would at once lead us to reject all the phyficaF and mechanical reafoning we might employ concerning the human body. Dr. Stahi himfelf feems to have been aware of this ; and therefore, in his...",
+              "text": "acids applied to the inflamed parts. In many cafes, however, nothing has been found to give more relief than the vapour of warm water received into the fauces by a proper apparatus* CCCVIXI, \u00a9 F P H Y S I a 225 gccviii. The other remedies of this difeafe are rube- facient or bliftering medicines, ap...",
               "year": 1790,
               "title": "First lines of the practice of physic",
               "doc_id": "firstlinesofprac13cull"
@@ -1890,18 +1582,30 @@
               "doc_id": "uvrescomplettesd03helv"
             },
             {
-              "text": "(a) C'\u00e9toit autrefois le petit-maitre , aujourd'hui c'eil le th\u00e9ologien qui fait tout, fans avoir rien appris. L'in- terroge-t-en fur la nature des animaux 5 ce font 3 dit -il, de pures machines. Mais fur quel motif appuie-t-ii fa d\u00e9- cifion? a-t-il, en qualit\u00e9 ou de chafTeur , ou d'oblervateur., \u00e9t...",
+              "text": "comme l'organe de la m\u00e9moire eft phyfique, que fon of- fice confifte \u00e0 nous rendre pr\u00e9fentes les impreflions parl\u00e9es* DE L' H O M M R, t6j L'homme eft une machine qui mife en mouve- ment par la (enf\u00eebilit\u00e9 ph\\fique, doit faire tout ce qu'elle ex\u00e9cute. C'eft: la roue qui , mue par un torrent, \u00e9l\u00e8ve l...",
               "year": 1795,
               "title": "Oeuvres complettes d'Helvetius",
               "doc_id": "uvrescomplettesd03helv"
+            },
+            {
+              "text": "de cette \u00fbip\u00e9riorit\u00e9 ? dans la perfection , dira-t-on , de Torganifation int\u00e9rieure. Mais, r\u00e9pondrai-je, fi, dans la pendule , la perfection int\u00e9rieure de la machine fe mani- fefte par la pr\u00e9cifion avec laquelle elle marque l'heure 5 dins l'homme la perfection int\u00e9rieure de Ton organifation fe manif...",
+              "year": 1795,
+              "title": "Oeuvres complettes d'Helvetius",
+              "doc_id": "uvrescomplettesd03helv"
+            },
+            {
+              "text": "inen la\u017febalgs eine mit Lebeusluft gef\u00fcllte und 2 BSH, ar Be ee men verwaltet. Sie \u017find an ein In\u017ftrument an\u2e17 g 60 N 9 Die\u017fem Anntich if die neue Ma\u017fchine des d. Sr. 1 57 x \u2019 ' von diefem Irrthume ent\u017ftehen w\u00fcrden, la\u017f\u017fen aber leicht \u00dcberfehen. Um ihm al\u017fo z N 158 st dbl Wiekungen der elekrruitzt \u2014b...",
+              "year": 1793,
+              "title": "Abhandlung \u00fcber das durch Ertrinken, Erdrosseln un",
+              "doc_id": "10471351bsb"
             }
           ],
-          "similarity_to_previous": 0.9718
+          "similarity_to_previous": 0.9589
         },
         {
           "decade": "1800s",
-          "similarity_to_origin": 0.9652,
-          "num_contexts": 39,
+          "similarity_to_origin": 0.9595,
+          "num_contexts": 33,
           "examples": [
             {
               "text": "and direct, correfponding with its manner of life and the functions to be performed. The moft accurate mathematician could not have contrived, nor the moft fkilful mechanic exe- cute, a machine fo advantageous for motion as the legs of animals in general, and the wing of a bird in particular. In the...",
@@ -1928,33 +1632,33 @@
               "doc_id": "bim_eighteenth-century_essays-on-the-progress-o_collier-john-of-high-w_1800"
             },
             {
-              "text": "| blo\u017f\u017fom be intermixed by \u017fprinkling it over the - \u00f6 bee of an in\u017feriour tree of the \u017fame cla\u017fs, in order to improve the flavour and quality of its 8 Ane te like pea ENGINE. 9 51 \uff0b 4 e . a 4 : 0 6 N * * 5 * . x 2 ae 8. 283 E 4 \u201e wa 7 nt ed : : : EY of \"FT 5 > \u00a3 G 75 * * $ 3 3 * 1 \u00a35 a 44% * 9 * * w...",
+              "text": "and direct, corre\u017fponding with its manner of li\u017fe ad the functions to be performed. The mo\u017ft accurate aijthorotithn: could not 3 contrived, nor the mo\u017ft \u017fkilfal mechanic exe- _ cute, a machine \u017fo advantageous for motion as the legs of animals in general, and the wing of a bird in particular. In the ...",
               "year": 1800,
               "title": "Essays on the progress of the vital principle. 180",
               "doc_id": "bim_eighteenth-century_essays-on-the-progress-o_collier-john-of-high-w_1800"
             }
           ],
-          "similarity_to_previous": 0.9774
+          "similarity_to_previous": 0.965
         },
         {
           "decade": "1810s",
-          "similarity_to_origin": 0.9456,
-          "num_contexts": 42,
+          "similarity_to_origin": 0.9432,
+          "num_contexts": 16,
           "examples": [
             {
-              "text": "to the right of the figure is the narrowest, and occupies scarcely one third of the body of the chest. It is filled with little wheels, levers, cylinders, and other machinery used in clock-work. That to the left contains a few wheels, some small barrels with springs, and two quarters of a circle pla...",
+              "text": "some powerful genius, and directed to the completion of one great object. Hence it was reserved to modern times, to witness the invention of those exquisite and grand combinations of mechanism, which are displayed in the numerous kinds of watch and clock work, and in the higher order of wind instrum...",
               "year": 1819,
               "title": "Observations on the Automaton Chess Player Now Exh",
               "doc_id": "gutenberg_60420"
             },
             {
-              "text": "left contains a few wheels, some small barrels with springs, and two quarters of a circle placed horizontally. The body and lower parts of the figure contain certain tubes which seem to be conductors to the machinery. After a sufficient time, during which each spectator may satisfy his scruples and ...",
+              "text": "Notwithstanding, however, the superior ingenuity of modern artists, in mechanics, which these scientific inventions discover, it seems to be a thing absolutely impossible, that any piece of mechanism should be invented, which, possessing perfect mechanical motion, should appear to exert the intellig...",
               "year": 1819,
               "title": "Observations on the Automaton Chess Player Now Exh",
               "doc_id": "gutenberg_60420"
             },
             {
-              "text": "hand, the right arm and hand being constantly extended on the chest, behind which it is seated. This slight incongruity proceeded from absence of mind in the inventor, who did not perceive his mistake till the machinery of the Automaton was too far completed to admit of the mistake being rectified. ...",
+              "text": "be attained by any individual, before he can become qualified to be a skilful Chess Player. Some accurate notion, however, of the surprising powers which the inventor of this singular piece of mechanism has displayed, even they who are unacquainted, or but slightly acquainted, with the game of Chess...",
               "year": 1819,
               "title": "Observations on the Automaton Chess Player Now Exh",
               "doc_id": "gutenberg_60420"
@@ -1972,12 +1676,12 @@
               "doc_id": "secondlettertore00ganduoft"
             }
           ],
-          "similarity_to_previous": 0.9755
+          "similarity_to_previous": 0.973
         },
         {
           "decade": "1820s",
-          "similarity_to_origin": 0.9434,
-          "num_contexts": 92,
+          "similarity_to_origin": 0.9347,
+          "num_contexts": 31,
           "examples": [
             {
               "text": "this country two years ago, and exhibited under the direction of a very ingenious gentleman, Mr. Maelzel. The annexed drawings, (plate 1, figs. 1 and 2,) represent the general appearance of the machine. It runs on castors, and is either seen on the floor when the doors of the apartment are thrown op...",
@@ -1986,89 +1690,83 @@
               "doc_id": "gutenberg_61410"
             },
             {
-              "text": "spectators, unlocks the door (A, fig. 1.) of the chest, which exposes to view a small cupboard, lined with black or dark coloured cloth, and containing different pieces of machinery, which seem to occupy the whole space. He next opens the door (B, fig. 2.) at the back of the same cupboard, and, hold...",
+              "text": "variable, would be attended with difficulties almost insurmountable; but we will suppose for a moment that these obstacles are overcome; let it be conceded that a machine has been constructed so perfect, that, on giving motion to the respective trains, the required movement shall be instantly perfor...",
               "year": 1821,
               "title": "An Attempt to Analyse the Automaton Chess Player o",
               "doc_id": "gutenberg_61410"
             },
             {
-              "text": "whole space. He next opens the door (B, fig. 2.) at the back of the same cupboard, and, holding a lighted candle at the opening, still further exposes the machinery within. The candle being withdrawn, the door (B) is then locked. The drawer (G G, fig. 1.) in the front of the chest is next opened, an...",
+              "text": "I am aware that on this part of the subject conjecture has been busy, and different plans have been devised for the maintenance of the intercourse alluded to. The task has been imposed on the exhibiter of the machine, he being the only person on whom it could devolve with even a shadow of probabilit...",
               "year": 1821,
               "title": "An Attempt to Analyse the Automaton Chess Player o",
               "doc_id": "gutenberg_61410"
-            },
-            {
-              "text": "* \u2666 . r . i . *' ) \u25a0 Digitized by Go PREFACE. THE present work may not prove unworthy public attention, as connected with so extraordinary a machine as the Automaton Chess-Player ; and displaying spe- cimens of skill in a Game universally esteemed the noblest and most scientific of amusements.",
-              "year": 1820,
-              "title": "Chess; a selection of fifty games, from those play",
-              "doc_id": "bub_gb_CvwWAAAAYAAJ"
             },
             {
               "text": "years ago, and exhibited under the direcr tion of a very ingenious gendeman, Mr. MaelzeL The annexed drawings, (plate 1, figs. 1 and 2,) represent the general appearance of the machine. It runs on castors, and is either seen on the floor when the doors of the apartment are thrown open, or is wheeled...",
               "year": 1821,
               "title": "An attempt to analyse the automaton chess player, ",
               "doc_id": "bub_gb_N7kUAAAAYAAJ"
+            },
+            {
+              "text": "subject conjecture has been busy, and dif- ferent plans have been devised for the maintenance of the intercourse alluded to. The task has been imposed on the exhibiter of the machine, he being the only person on whom it could devolve with even a sha- dow of probability ; and to effect his purpose it...",
+              "year": 1821,
+              "title": "An attempt to analyse the automaton chess player, ",
+              "doc_id": "bub_gb_N7kUAAAAYAAJ"
             }
           ],
-          "similarity_to_previous": 0.9858
+          "similarity_to_previous": 0.9797
         },
         {
           "decade": "1840s",
-          "similarity_to_origin": 0.9496,
-          "num_contexts": 238,
+          "similarity_to_origin": 0.9501,
+          "num_contexts": 104,
           "examples": [
             {
-              "text": "to the top other, wdiere it falls into a cradle, empties i'2 \u2019 60 itselfj and descemk in tunu At a work calkd Caiijcca^ iiLont a mile up the river, on the opposite side, there are three cylindrical engines for draining the cascalhaOj like those used in tjie mining country of Derbyshire ; this is the...",
+              "text": ". It contains 120 different parts, and it altogether weighs no more than five pennyweights, seven grains and three quarters. This ingenious piece of mechanism was. about the size of half a sovereign. This curious repeating watch, is supposed to be the smallest that w'as ever made by an English Artis...",
               "year": 1840,
               "title": "The cabinet of gems ; or, vocabulary of precious s",
               "doc_id": "TheCabinetOfGems"
-            },
-            {
-              "text": "to the top other, wdiere it falls into a cradle, empties i'2 \u2019 60 itselfj and descemk in tunu At a work calkd Caiijcca^ iiLont a mile up the river, on the opposite side, there are three cylindrical engines for draining the cascalhaOj like those used in tjie mining country of Derbyshire ; this is the...",
-              "year": 1840,
-              "title": "The cabinet of gems ; or, vocabulary of precious s",
-              "doc_id": "TheCabinetOfGems"
-            },
-            {
-              "text": "iiLont a mile up the river, on the opposite side, there are three cylindrical engines for draining the cascalhaOj like those used in tjie mining country of Derbyshire ; this is the only machinery \u2022of consequence In the Diarnoud district. The stratum of cascalhao, consists of the same inatorials M it...",
-              "year": 1840,
-              "title": "The cabinet of gems ; or, vocabulary of precious s",
-              "doc_id": "TheCabinetOfGems"
-            },
-            {
-              "text": ". It is a curious matter to follow the progress of this discovery, wMch is, in a great measure, due to the chil- dren of our beautiful France* Anthemius, an architect and engineer, under the Emperor Justinian, mentioned by Agathias, in his history, book iv.^ having lost a law\u2019^suit against his neigh...",
-              "year": 1848,
-              "title": "The Book Of Illustrious Mechanics Of Europe And Am",
-              "doc_id": "in.ernet.dli.2015.91128"
             },
             {
               "text": ". The atmospheric machine of the Englishman, Thomas Newcomen, with the inception of a flew trifling par-\u00bb ticulars, is precisely the same. The inventor of the steam engine with pistons, Papin, was the first man who perceived that steam furnished a simple means of creating a vacuum* He was also the f...",
               "year": 1848,
               "title": "The Book Of Illustrious Mechanics Of Europe And Am",
               "doc_id": "in.ernet.dli.2015.91128"
+            },
+            {
+              "text": "The public accepted it as such, and gave his name undeservedly to Argand\u2019s production* Before concluding this part of the subject, we will say a few words on Chaillot^s steam engine, and that of Gros Caillou. From 1762 to 1781y various projects had been formed for tar- mshing Paris with a supply of ...",
+              "year": 1848,
+              "title": "The Book Of Illustrious Mechanics Of Europe And Am",
+              "doc_id": "in.ernet.dli.2015.91128"
+            },
+            {
+              "text": "public approbation, they erected a large building on the Billy wharf, where, on the 8th of August, 1781, in the presence of the Lieutenant of the Police, trial was made of the first steam engine, with the utmost success ; and in the month of July, 1 782, the water obtained by this engine was applied...",
+              "year": 1848,
+              "title": "The Book Of Illustrious Mechanics Of Europe And Am",
+              "doc_id": "in.ernet.dli.2015.91128"
             }
           ],
-          "similarity_to_previous": 0.9689
+          "similarity_to_previous": 0.972
         },
         {
           "decade": "1850s",
-          "similarity_to_origin": 0.9516,
-          "num_contexts": 91,
+          "similarity_to_origin": 0.945,
+          "num_contexts": 33,
           "examples": [
             {
-              "text": "Apolloiiicon of Flight and Robson, the wooden lady play- ing the pianoforte (her family is tolerably numerous !), and a hundred other similarly curious engines of the same class of automata, are doubtless familiar to the recollec- tions of our readers, A second class of automata, like the first, may...",
-              "year": 1850,
-              "title": "Chess and chess-players:",
-              "doc_id": "bub_gb_TcsCAAAAYAAJ"
-            },
-            {
-              "text": "in Hungary, and celebrated for great genius in every de- partment of mechanics. From a boy, he had trod in the path of science, and was incontestably of first-rate capa- bilities as a mechanician and engineer. Invention was his hobby, and he rode it furiously, even to the partial im- poverishment of...",
-              "year": 1850,
-              "title": "Chess and chess-players:",
-              "doc_id": "bub_gb_TcsCAAAAYAAJ"
-            },
-            {
               "text": "aMaugraby, a Michael Scott, premiere qucUttt; and was almost disgusted at the success of his contrivance. In fact, De Kempelen never hesitated to speak his mind plainly as to the real merits oi his engine* ''It is/' said he to his friends, a trifle, not without merit as to its me* cfaanism ; but tho...",
+              "year": 1850,
+              "title": "Chess and chess-players:",
+              "doc_id": "bub_gb_TcsCAAAAYAAJ"
+            },
+            {
+              "text": "wSk it6 directing power, or rather with its faculty of acting as required hj circumstances. In such fiiculty, doubtless consists the elBef merit of the engine, and here lies the mystery. During the time of play M. de Kenipclen never touches it, exce])t for the pur- poses aforesaid ol' wiinlinf,' up,...",
+              "year": 1850,
+              "title": "Chess and chess-players:",
+              "doc_id": "bub_gb_TcsCAAAAYAAJ"
+            },
+            {
+              "text": "formance in Spring Gardens, and St. James's Street, who would have bad no scruple about taking tbeir oaths that they had viewed the whole of the interior of the engine at once. In this respect, the ingenuity displayed by its ori- ginal constructor is above praise. Man loves so to be duped ! In estim...",
               "year": 1850,
               "title": "Chess and chess-players:",
               "doc_id": "bub_gb_TcsCAAAAYAAJ"
@@ -2080,25 +1778,19 @@
               "doc_id": "leprofesseurdemu00daup"
             },
             {
-              "text": "sons, pour qui toute chose est nouvelle, qui ne voit et n\u2019entend qu\u2019avec les distractions de son \u00e2ge, et dont les premiers essais en tout sont plus machinais que r\u00e9fl\u00e9chis. D\u2019ailleurs il s\u2019agit de l\u2019exercice des organes de la voix, autant pour le moins que de celui des facult\u00e9s auditives, et nous pe...",
-              "year": 1857,
-              "title": "Le professeur de musique : ou, L'enseignement de c",
-              "doc_id": "leprofesseurdemu00daup"
+              "text": "change is antecedent to mechanical power independently of the particular arrangement in the muscular and nervous sys- tems. For instance, the power of a steam engine and of a galvanic battery is referred to chemical action as its antece- dent. And I imagine it about as philosophical to say that as a...",
+              "year": 1851,
+              "title": "An essay on organic, or life force /",
+              "doc_id": "essayonorganicor01watt"
             }
           ],
-          "similarity_to_previous": 0.9839
+          "similarity_to_previous": 0.9847
         },
         {
           "decade": "1860s",
-          "similarity_to_origin": 0.9704,
-          "num_contexts": 98,
+          "similarity_to_origin": 0.9624,
+          "num_contexts": 71,
           "examples": [
-            {
-              "text": ". These values were rounded to 23 decimal places. Both tables were tested by applying differencing tests. Throughout the duration of this project hand-operated, calculating machines with 10 columns of 10 keys were used for the computing and checking of the tables. Vii In both tables of this volume, ...",
-              "year": 1862,
-              "title": "Smithsonian miscellaneous collections",
-              "doc_id": "smithsonianmisce1181952smit"
-            },
             {
               "text": "mental calculation. The sum of these logarithms is the desired logarithm. It is assumed, in the example that follows, that the computer has access to a calculating machine. Example: To find Inz, given the value a = 3.14159,26535,89793 ,23846,264 Solution : a = 3.14159,26535,89793,23846,264 = 3.141 x...",
               "year": 1862,
@@ -2112,62 +1804,68 @@
               "doc_id": "smithsonianmisce1181952smit"
             },
             {
-              "text": ". I now see this clearly. Her account-book alone cannot show you everything clearly ; you must often drop in unexpectedly at dinner-time, like an avenging angel, to see with your own eyes what 234 beethoyen's lettebs. we actoally have. I never dine at borne now, unless I have some friend as my guest...",
+              "text": "and then secretly made another good speculation ; but, from one artist to another^ it is rather a strong measure to suspect me of such a proceeding ! The whole thing seems to be either a device to put me to the test, or a mere suspicion. In any event I may tell you that CONDUCT TOWARDS HIS PUBLISHEB...",
               "year": 1866,
               "title": "Beethoven's letters, 1790-1826, from the collectio",
               "doc_id": "beethovenslette00beetgoog"
             },
             {
-              "text": "personal, non-commercial purposes. + Refrain fivm automated querying Do not send automated queries of any sort to Google's system: If you are conducting research on machine translation, optical character recognition or other areas where access to a large amount of text is helpful, please contact us....",
+              "text": "General and First Counsellor of State) must be opened to usher it into the light of day. The title to be previously shown to a good linguist. Haw/mer Clavier is certainly German, and so is the device. Honour to whom honour is due! How is it, then, that I have as yet received no reports of the carryi...",
               "year": 1866,
               "title": "Beethoven's letters, 1790-1826, from the collectio",
               "doc_id": "beethovenslette00beetgoog"
+            },
+            {
+              "text": "coup plus prj\u00e8s du vitalisme qu'il n*a Tair de le croire ; lui-m\u00eame, par son propre eiemple, il nous prouve qu'un homme intelligent peut bien encore \u00eatre vitaliste. 36 D\u00a3 LA YIB. n'est qu'une machine plus perfectionn\u00e9e que celles de la main des hommes, mais qu'il n'en diff\u00e8re pas essen- tiellement? ...",
+              "year": 1862,
+              "title": "Du principe vital et de l'\u00e2me pensante: ou, Examen",
+              "doc_id": "duprincipevital00bouigoog"
             }
           ],
-          "similarity_to_previous": 0.9549
+          "similarity_to_previous": 0.946
         },
         {
           "decade": "1870s",
-          "similarity_to_origin": 0.9396,
-          "num_contexts": 451,
+          "similarity_to_origin": 0.9315,
+          "num_contexts": 241,
           "examples": [
             {
-              "text": ". I would have dropped it, I would have shrieked for help, but my muscles, my voice, my _body_, obeyed me not, and my fingers, like the steady working of machinery, gradually tightened their relentless grasp. In my agony the veins of my face protruded like lines of cordage. I heard the frail bones b...",
+              "text": "in the dark space between the narrow walls. As I have said, the instrument possessed a singular fascination over me. I had grown to love it, not alone as a piece of mechanism for the transmission of sound, but like a _living_ thing, and I replaced it in the tower with the same pleasure one feels who...",
               "year": 1876,
               "title": "The Automaton Ear, and Other Sketches",
               "doc_id": "gutenberg_67476"
             },
             {
-              "text": "Within the great dingy walls no shining sunlight brightened the air. Dim and cheerless, it hung laden with smoke and vapor, that floated in clouds to the rafters. The harsh clang of heavy machinery, together with the roar of the furnaces, seemed to shake the very building. Among the enormous wheels ...",
+              "text": ". He saw them clasp a girdle round his waist, to which they hung gilded toys and bells in all directions, until he was fairly covered over with trinkets of every device. He felt them encase his head\u2014his learned, metaphysical head\u2014in a cap that was adorned at the point and round the sides with innume...",
               "year": 1876,
               "title": "The Automaton Ear, and Other Sketches",
               "doc_id": "gutenberg_67476"
             },
             {
-              "text": "decided, and two hours later they all started on their way. When they entered the foundry it seemed more gloomy than ever, the atmosphere more stifling, and the jar of the machinery more painfully loud and discordant. Even the gay young people who had chatted and laughed all the morning felt the sud...",
+              "text": "various distinguished European writers, this brief manual aims to furnish the student with such help as is needed in order to determine and classify the minerals of the United States. Some useful hints as to apparatus, and suitable notes upon other matters, precede the tables.\u201d\u2014_Journal of Education...",
               "year": 1876,
               "title": "The Automaton Ear, and Other Sketches",
               "doc_id": "gutenberg_67476"
-            },
-            {
-              "text": "expected to accept as true, should be supported by facts rather than by the authority of tendencies and prophecies. In favour of regarding living beings as mere machines built by force alone, maintained and preserved by force, and even created by force, it is true, very positive statements have been...",
-              "year": 1870,
-              "title": "Protoplasm; or, life, force, and matter/ [electron",
-              "doc_id": "b21309875"
             },
             {
               "text": "induce any conscientious, thoughtful man, who has devoted himself to the study of nature, to believe and confess that a living, moving, growing thing is but a force-created, force- impelled machine ? When we watch the lowest forms of living matter under high magnifying powers, do we learn anything t...",
               "year": 1870,
               "title": "Protoplasm; or, life, force, and matter/ [electron",
               "doc_id": "b21309875"
+            },
+            {
+              "text": ". Of course such a thing might he called an organism, just as a watch, or water, or a gas, or an elementary substance may be called a creature, or a worm a machine ; but everything that lives \u2014 every so-called living # British Medical Journal, May 29, 1869, p. 486. EXPERIMENTAL ORGANISM. 9 machine \u2014...",
+              "year": 1870,
+              "title": "Protoplasm; or, life, force, and matter/ [electron",
+              "doc_id": "b21309875"
             }
           ],
-          "similarity_to_previous": 0.9556
+          "similarity_to_previous": 0.9497
         },
         {
           "decade": "1880s",
-          "similarity_to_origin": 0.9461,
-          "num_contexts": 173,
+          "similarity_to_origin": 0.9657,
+          "num_contexts": 86,
           "examples": [
             {
               "text": "by some accident.\" ' 312 ROUGH WAYS MADE SMOOTH. more cheaply here than in America. Nay, it has even been found advantageous in some cases to use a gas engine to generate electricity. Thus Mr. Van der Weyde used an Otto gas engine driven at the cost of 6//. an hour for gas, to produce the light whic...",
@@ -2182,30 +1880,30 @@
               "doc_id": "roughwaysmadesm00procgoog"
             },
             {
-              "text": "by some accident.\" ' 312 ROUGH WAYS MADE SMOOTH. more cheaply here than in America. Nay, it has even been found advantageous in some cases to use a gas engine to generate electricity. Thus Mr. Van der Weyde used an Otto gas engine driven at the cost of 6//. an hour for gas, to produce the light whic...",
+              "text": "of his mental adj ustments. Given certain factors ^ and a sound brain should always evolve the same fixed product with the certainty of Babbagis calculating machine,* Somewhat akin to the unconscious recurrence of mental processes after considerable intervals of time is the tendency to imitate the a...",
               "year": 1880,
               "title": "Rough ways made smooth: a series of familiar essay",
               "doc_id": "roughwaysmadesm00procgoog"
-            },
-            {
-              "text": "ment producing the same effect as if played with bow. In this instrument the pressing of each 1 brought a resined wheel in contact with thestri The wheels were kept rotating by machinery in motion by the foot. Other ideas looking tow the improvement of the harpsiehord were broached. As regards this ...",
-              "year": 1887,
-              "title": "Volume 05, Number 10 (October 1887)",
-              "doc_id": "EtudeOctober1887"
             },
             {
               "text": ". The cor- rect use of the fingers is equally important, since the other so greatly depends npon it. For, unless the band is applied correctly, as a machine, it will be. impossible to secure satisfactory musical effects. In the present case, the fingers curve inward because the hand is weak, but als...",
               "year": 1887,
               "title": "Volume 05, Number 10 (October 1887)",
               "doc_id": "EtudeOctober1887"
+            },
+            {
+              "text": ". It is not a dumb keyboard, but a scientific instrument, founded upon important physiological principles, and has the advantage, of exercising details of the hand\u2019s mechanism which derive too little development by keyboard exercise to enable them to contribute their important functions in the produ...",
+              "year": 1887,
+              "title": "Volume 05, Number 10 (October 1887)",
+              "doc_id": "EtudeOctober1887"
             }
           ],
-          "similarity_to_previous": 0.9809
+          "similarity_to_previous": 0.9756
         },
         {
           "decade": "1890s",
-          "similarity_to_origin": 0.9493,
-          "num_contexts": 903,
+          "similarity_to_origin": 0.9458,
+          "num_contexts": 591,
           "examples": [
             {
               "text": "There was a patient gained, likely to do Dr. Kenton more good than any patient he had lost. There was a kettle singing on the stove, and blowing off a happier steam than any engine ever blew on that railroad whose unmarketable stock had singed Dr. Kenton's fingers. There was a yellow gleam flickerin...",
@@ -2214,13 +1912,13 @@
               "doc_id": "threetalesghost00congoog"
             },
             {
-              "text": "There was a patient gained, likely to do Dr. Kenton more good than any patient he had lost. There was a kettle singing on the stove, and blowing off a happier steam than any engine ever blew on that railroad whose unmarketable stock had singed Dr. Kenton's fingers. There was a yellow gleam flickerin...",
+              "text": "me that articulations, to a great extent, can be effected by simply natural means, so that a ma- cliine may be made to utter certain sentences. This machine, compact in form, placed within a bust of brass and set in motion, and lo, you have a brazen android which seems to speak of itself what by mea...",
               "year": 1891,
               "title": "Three Tales: The Ghost, The Brazen Android, The Ca",
               "doc_id": "threetalesghost00congoog"
             },
             {
-              "text": "To every good, public, or secret, though crowned with crucifixion, its award of blessing: rcturnins: to the soul. To every evil, however prosperous, however hidden, its inexorable, avenging sequel. Such is the law of things. On to your burning dream on the bosom of the i^aramour, and slowly waken in...",
+              "text": "what by means of art it uttercth I \" Bungy clapped his big hands and stamped his feet, roaring with laughter. ** Oh, brave, brave ! \" he shouted. \" This, then, is the machine we have made. St. Swithin be praised for my wondrous genius in braziery, whereby I have fjishioned the brass andiron, or what...",
               "year": 1891,
               "title": "Three Tales: The Ghost, The Brazen Android, The Ca",
               "doc_id": "threetalesghost00congoog"
@@ -2232,26 +1930,20 @@
               "doc_id": "threetalesghostb00ocon"
             },
             {
-              "text": "There was a patient gained, likely to do Dr. Renton more good than any patient he had lost. There was a kettle singing on the stove, and blowing off a happier steam than any engine ever blew on that railroad whose unmarketable stock had singed Dr. Renton\u2019s fingers. There was a yellow gleam flickerin...",
+              "text": "me that articulations, to a great extent, can be effected by simply natural means, so that a ma- chine may be made to utter certain sentences. This machine, compact in form, placed within a bust of brass and set in motion, and lo, you have a brazen android which seems to speak of itself what by mean...",
               "year": 1892,
               "title": "Three tales : the ghost, the brazen android, the c",
               "doc_id": "threetalesghostb00ocon"
             }
           ],
-          "similarity_to_previous": 0.9861
+          "similarity_to_previous": 0.9848
         },
         {
           "decade": "1900s",
-          "similarity_to_origin": 0.9457,
-          "num_contexts": 1056,
+          "similarity_to_origin": 0.9356,
+          "num_contexts": 647,
           "examples": [
             {
-              "text": "te take a rest. eterno Renreo FRESH ano CURED \u201cMEATS. - SAU SAG ES. FISH, CAME SEASON. J. W. KENDREW, @perator of > @ oe. Threshing Machines Steam Biba Roadgrader and Grain Crusher. EDWELL. - \u201c ALTA. A LAST CHANCE FOR FAIRVIEW PARK. (A FEW MINUTES WALK FROM TOWN.) \u2014 The few remaining Lots in that we...",
-              "year": 1907,
-              "title": "News (1907-04-09)",
-              "doc_id": "RDM_1907040901"
-            },
-            {
               "text": ". : They will assist: the assimila- tion~of the\u2019 ailment, and}. used: ac- cording *.to... direction | will. restore healthy.-digestion.~\". a patie \u2018A\u2019 Marvelous Machine. A.machine: which. threads: a. thous- \\ 9-- = European - Peace... A league: of peace already pretty well \u2018exists in\u2019 Europe by: vir...",
               "year": 1907,
               "title": "News (1907-04-09)",
@@ -2264,24 +1956,30 @@
               "doc_id": "RDM_1907040901"
             },
             {
-              "text": "able the water so diverted to be used for the said other purposes on the following lands, viz:--The right of-way of the Com- pany, aad in their tanks, engines, cars, abd buildings, tbe following lands out- side the Company's property being af- fected by proposed works:\u2014 Northeast quarter of Section ...",
+              "text": ". is: a\u00bb professional\u201d gambler as well: asa, mine. owner.) 75 (7 and ne\u00e9dl\u00e9s 'a minute \u201cis* at\u2019 work. in|: \u20181a. Swiss factory.\u201c The\u2019 purpose of \u2018the machine is to .thread\u2019 -needles: that are placed \u2018afterwards in. a\u2019 loom: for making. lace.:.The\u2019 device \u2018is\u2019.almost takes\u2019 the needle,: carries \u201cit al...",
+              "year": 1907,
+              "title": "News (1907-04-09)",
+              "doc_id": "RDM_1907040901"
+            },
+            {
+              "text": "First thing is a good rob with Nerviline. beadquartere at Winvipeg. All sizes of No more speedy remedy can be adopted. Acetylene Gas Generators and apparatus T. CUMMINGS\u2019 That\u2019s just where the quality and prices of our lum- Corner Hamilton avenue and Day street ber places every man who does business...",
               "year": 1907,
               "title": "The advertiser and central Alberta news (1907-05-0",
               "doc_id": "ACN_1907050201"
             },
             {
-              "text": "quarter of Section thirty-five, Township thirty-nine, Range twenty-three, west \u2018o' the Fourth, Meridian. + _ Canapian Paciric Rattway Company, By N. E. Brooks, Division Engineer, , Rupaeent Curl oe th of W \u00a7 urious Death o \u2018oman. Dated at Calgary, Feb. 16th, 1907. Chicaga, April ,9.\u2014A fee Evaneville...",
+              "text": "., Limited, Calgary iy can\u2019t leak gas tore The Bell Telephone. Company of Canada Manufactures and uses High Grade Telephones, Swiich-boards, and other apparatus and material for Telephone Plants. | The Company offers for sale at low prices TO ALL WHO MAY REQUIRE THEM, this quality of Telephones, Tel...",
               "year": 1907,
               "title": "The advertiser and central Alberta news (1907-05-0",
               "doc_id": "ACN_1907050201"
             }
           ],
-          "similarity_to_previous": 0.9829
+          "similarity_to_previous": 0.9865
         },
         {
           "decade": "1910s",
-          "similarity_to_origin": 0.9149,
-          "num_contexts": 14,
+          "similarity_to_origin": 0.9019,
+          "num_contexts": 6,
           "examples": [
             {
               "text": "scientific and sporting\u2014wherein he had personally figured. He had studied for the bar, the ministry and the army. He was a mechanic and a hunter; had run a marine engine and hanged greasers in Mexico and Indians in Arizona, lassoed wild horses on the Prairies and dug gold in California. An anachroni...",
@@ -2290,39 +1988,39 @@
               "doc_id": "gutenberg_72556"
             },
             {
-              "text": ". I met him once more when I was eighteen and was studying under a tutor for my matriculation at M\u2019Gill University. My father had decided that I should be a civil engineer. The reasons for this decision are not very plain to me. Certainly I had very little inclination towards engineering, but as I s...",
+              "text": "No one can understand the Civil Service unless he has lived in it for a long period of years and can look backward. I see it now as a clumsy, powerful machine guided by unskilled hands; or a great foolish, good-natured, long-suffering giant allowing himself to be bullied by pygmies\u2014short-sighted, se...",
               "year": 1914,
               "title": "Wesblock, the autobiography of an automaton",
               "doc_id": "gutenberg_72556"
             },
             {
-              "text": ". My father had decided that I should be a civil engineer. The reasons for this decision are not very plain to me. Certainly I had very little inclination towards engineering, but as I showed little talent in any particular direction, and many spasmodic tendencies in all directions, his decision was...",
+              "text": "Independence, and related experiences of that day\u2014political, social, scientific and sporting\u2014wherein he had personally figured. He had studied for the bar, the ministry and the army. He was a mechanic and a hunter; had run a marine engine and hanged greasers in Mexico and Indians in Arizona, lassoed...",
               "year": 1914,
               "title": "Wesblock, the autobiography of an automaton",
               "doc_id": "gutenberg_72556"
             }
           ],
-          "similarity_to_previous": 0.9626
+          "similarity_to_previous": 0.9344
         },
         {
           "decade": "1920s",
-          "similarity_to_origin": 0.9371,
-          "num_contexts": 155,
+          "similarity_to_origin": 0.9294,
+          "num_contexts": 124,
           "examples": [
             {
-              "text": "HELENA GLORY _Kathlene MacDonell_ DR. GALL, _head of the Physiological and Experimental Department of R. U. R._ _William Devereaux_ MR. FABRY, _Engineer General, Technical Controller of R. U. R._ _John Anthony_ DR. HALLEMEIER, _head of the Institute for Psychological",
+              "text": ". (_Rises_) \u201cWe beg to remain, for Rossum\u2019s Universal Robots, yours very truly.\u201d Ready? SULLA. Yes. DOMIN. (_Answering small portable phone_) Hello! Yes. No. All right. (_Standing back of desk, punching plug machine and buttons_) Another letter. Freidrichswerks, Hamburg, Germany. \u201cWe beg to acknowle...",
               "year": 1923,
               "title": "R.U.R. (Rossum's Universal Robots): A Fantastic Me",
               "doc_id": "gutenberg_59112"
             },
             {
-              "text": "HELENA GLORY: _A vital, sympathetic, handsome girl of 21._ DR. GALL: _A tall, distinguished scientist of 50._ MR. FABRY: _A forceful, competent engineer of 40._ HALLEMEIER: _An impressive man of 40. Bald head and beard._ ALQUIST: _A stout, kindly old man of 60._ NANA: _A tall, acidulous woman of 40",
+              "text": "say, to weave or count. Do you play the piano? HELENA. Yes. DOMIN. That\u2019s good. (_Kisses her hand. She lowers her head._) Oh, I beg your pardon! (_Rises_) But a working machine must _not_ play the piano, must not feel happy, must not do a whole lot of other things. A gasoline motor must not have tas...",
               "year": 1923,
               "title": "R.U.R. (Rossum's Universal Robots): A Fantastic Me",
               "doc_id": "gutenberg_59112"
             },
             {
-              "text": "museum the bungling attempt it took him ten years to produce. It was to have been a _man_, but it lived for three days only. Then up came _young_ Rossum, an engineer. He was a wonderful fellow, Miss Glory. When he saw what a mess of it the old man was making he said: \u201cIt\u2019s absurd to spend ten years ...",
+              "text": "BUSMAN. Ha, ha, ha! That\u2019s good. What are Robots made for? FABRY. For _work_, Miss Glory. One Robot can replace two and a half _workmen_. The human machine, Miss Glory, was terribly _imperfect_. It had to be removed sooner or later. BUSMAN. It was too expensive. FABRY. It was not _effective_. It no ...",
               "year": 1923,
               "title": "R.U.R. (Rossum's Universal Robots): A Fantastic Me",
               "doc_id": "gutenberg_59112"
@@ -2340,57 +2038,51 @@
               "doc_id": "livingmachine00macciala"
             }
           ],
-          "similarity_to_previous": 0.9576
+          "similarity_to_previous": 0.9444
         },
         {
           "decade": "1930s",
-          "similarity_to_origin": 0.9433,
-          "num_contexts": 80,
+          "similarity_to_origin": 0.9412,
+          "num_contexts": 25,
           "examples": [
             {
-              "text": "Terrestrial Contingent was exerting its maximum thrust at a right angle to its line of fall. And now the burden was shifted from the fighting staff to the no less able engineers and computers. To the engineers the task of keeping their mighty engines in such tune as to maintain constantly the peak a...",
+              "text": "conflict between humanity and the robots, however, scarcely anyone has even an inkling, either as to what actually happened or as to who it was who really did abate the Menace of the Machine; and it is to relieve that condition that this bit of history is being written. * * * * * The greatest man of...",
               "year": 1939,
               "title": "Robot nemesis",
               "doc_id": "gutenberg_68558"
             },
             {
-              "text": "Terrestrial Contingent was exerting its maximum thrust at a right angle to its line of fall. And now the burden was shifted from the fighting staff to the no less able engineers and computers. To the engineers the task of keeping their mighty engines in such tune as to maintain constantly the peak a...",
+              "text": "material and equipment; and in a matter of days a power-plant was in full operation. Then, reasonably certain of their immunity to human detection, they took time to hold a general parley. Each machine said what it had to say, then listened impassively to the others; and at the end they all agreed. ...",
               "year": 1939,
               "title": "Robot nemesis",
               "doc_id": "gutenberg_68558"
             },
             {
-              "text": "And now the burden was shifted from the fighting staff to the no less able engineers and computers. To the engineers the task of keeping their mighty engines in such tune as to maintain constantly the peak acceleration of three Earth gravities; to the computers that of so directing their ever-changi...",
+              "text": "The truck of thinkers moved to the fore and its occupants surveyed briefly the terrain so far above them. Then, while the ten leaders continued working as one machine, the doers waited. Waited while the immense Terrestrial Fleet was provisioned and manned; waited while it went through its seemingly ...",
               "year": 1939,
               "title": "Robot nemesis",
               "doc_id": "gutenberg_68558"
             },
             {
-              "text": "Sprache zur Verf\u00fcgung stellen, werden vom Verlag getragen; die Autoren solcher Beitr\u00e4ge erhalten kein Honorar. 4) Die Manuskripte sollen gut leserlich sein, m\u00f6glichst in Schreibmaschinenschrift (nicht eng geschrieben). Es ist erw\u00fcnscht, da\u00df die Autoren eine Kopie ihres Manuskriptes behalten. Zeichnu...",
+              "text": "und ebenso die Melancholie nicht nur ihrer Genese nach, nicht nur ihrem Wesen als unbewu\u00dfter Identifizierung nach, sondern auch nach ihrem libidin\u00f6sen Mechanismus als narzi\u00dftische Psychose bezeichnen. Wenn ich alle F\u00e4lle von pathologischer Trauer und Melancholie aus der analytischen Erfahrung mir zu...",
               "year": 1932,
               "title": "Internationale Zeitschrift f\u00fcr Psychoanalyse XVIII",
               "doc_id": "InternationaleZeitschriftFuumlrPsychoanalyseXviii1932Heft2"
             },
             {
-              "text": ". So bei den Schwebetr\u00e4umen auf Stiegen, welchen das Gef\u00fchl f\u00fcr Brust und Arme geradezu unangenehm fehlen kann. Wenn aber, wie so oft, das Fliegen so getr\u00e4umt wird, da\u00df man sich in einer Flugmaschine be\u00ac findet, so fehlt in der Regel jedes K\u00f6rper-Ichgef\u00fchl. Der Tr\u00e4umer erinnert sich an die Flugricht...",
+              "text": "Objektbesetzungen und der narzi\u00dftischen Besetzung der dazugeh\u00f6rigen Ich- grenzen als einen tats\u00e4chlichen zu erkennen. Zwischen dem gesunden und dem erkrankten Mechanismus der narzi\u00dftischen Besetzung der Ichgrenzen 3 ) \u00dcber das Versiegen der Libido bei Melancholie siehe Federn: Die Wirklichkeit des T...",
               "year": 1932,
               "title": "Internationale Zeitschrift f\u00fcr Psychoanalyse XVIII",
               "doc_id": "InternationaleZeitschriftFuumlrPsychoanalyseXviii1932Heft2"
             }
           ],
-          "similarity_to_previous": 0.9499
+          "similarity_to_previous": 0.9513
         },
         {
           "decade": "1940s",
-          "similarity_to_origin": 0.9682,
-          "num_contexts": 35,
+          "similarity_to_origin": 0.9548,
+          "num_contexts": 21,
           "examples": [
-            {
-              "text": "Souris, appareils de saut, rame, ancre, crochets, ven- 40 INVENTION ET FINALIT\u00c9 EN BIOLOGIE touses, scie, lime ou r\u00e2pe, vrille, pince, bouton-pres- sion, bascule, filet et engins de p\u00eache, \u00e9jecteur, pile \u00e9lectrique, appareils d\u2019\u00e9clairage, cloche \u00e0 plongeur, flotteur, brosse, bo\u00eete \u00e0 couvercle, rail ...",
-              "year": 1941,
-              "title": "Invention et finalit\u00e9 en biologie",
-              "doc_id": "CuenotIFB"
-            },
             {
               "text": ". \u2014 Vers le milieu du xvn e si\u00e8cle, Descartes con\u00e7ut que la Vie n\u2019est pas autre chose qu\u2019un processus physico-chimique et que l\u2019\u00eatre vivant est analogue \u00e0 une machine mont\u00e9e, une montre par exemple ; cependant il admet que chez l\u2019Homme il y a deux \u00ab substances \u00bb (1) J. Duclaux, dans la pr\u00e9face du Tr...",
               "year": 1941,
@@ -2402,14 +2094,20 @@
               "year": 1941,
               "title": "Invention et finalit\u00e9 en biologie",
               "doc_id": "CuenotIFB"
+            },
+            {
+              "text": "tence sous forme d\u2019id\u00e9e de l\u2019outil \u00e0 r\u00e9aliser, pr\u00e9ordination de la puissance \u00e0 l\u2019acte. La notion du tout est ant\u00e9rieure aux parties, qui n\u2019ont de sens qu\u2019int\u00e9gr\u00e9es dans l\u2019id\u00e9e g\u00e9n\u00e9rale de la machine; l\u2019outil \u00e9tant destin\u00e9 \u00e0 jouer un r\u00f4le, \u00e0 remplir plus ou moins bien une fonction qui est sa /\u00ef/i , e...",
+              "year": 1941,
+              "title": "Invention et finalit\u00e9 en biologie",
+              "doc_id": "CuenotIFB"
             }
           ],
-          "similarity_to_previous": 0.9437
+          "similarity_to_previous": 0.9413
         },
         {
           "decade": "1950s",
-          "similarity_to_origin": 0.9272,
-          "num_contexts": 14,
+          "similarity_to_origin": 0.9178,
+          "num_contexts": 5,
           "examples": [
             {
               "text": "will have the estate.\" She was furious. Her anger, smouldering till now, erupted white-hot. \"_You actually expect me to wait for that senile walking adding machine to run down?_\" She was raging now, whiplashing him with abuse. \"Why, you spineless worm! You cheap excuse for a man! If you were half th...",
@@ -2418,51 +2116,51 @@
               "doc_id": "gutenberg_65128"
             },
             {
-              "text": "public support and donations to carry out its mission of increasing the number of public domain and licensed works that can be freely distributed in machine-readable form accessible by the widest array of equipment including outdated equipment. Many small donations ($1 to $5,000) are particularly im...",
-              "year": 1958,
-              "title": "The Miserly Robot",
-              "doc_id": "gutenberg_65128"
-            },
-            {
               "text": "Jack was pale under his freckles but Chief Dalton grinned back at me. \"We'll be right behind you, Morrison,\" he said. Behind me! So they could pick up the pieces. I gave them a cocky smile and switched on the engine, full speed. Carron City is about a mile from the plant. It has about fifty thousand...",
               "year": 1952,
               "title": "Robots of the World! Arise!",
               "doc_id": "gutenberg_31611"
             },
             {
-              "text": "Jack was pale under his freckles but Chief Dalton grinned back at me. \"We'll be right behind you, Morrison,\" he said. Behind me! So they could pick up the pieces. I gave them a cocky smile and switched on the engine, full speed. Carron City is about a mile from the plant. It has about fifty thousand...",
+              "text": "brain of a man, without the emotions, without the sweet irrationality of men--and he knew what he missed. Side by side we walked through the graying streets. Human and android. Man and machine. And I knew that I had found a friend. We didn't have to talk any more. He could read my mind and I knew we...",
               "year": 1952,
               "title": "Robots of the World! Arise!",
               "doc_id": "gutenberg_31611"
             },
             {
-              "text": "I stared at him, wondering if I was going crazy or merely dreaming. This was all wrong. Who ever heard of arguing with a robot? Robots weren't logical; they didn't think; they were only machines-- \"We _were_ machines, Mr. Morrison,\" Jerry said politely. \"Oh, no,\" I murmured. \"You're not telepaths--\"...",
-              "year": 1952,
-              "title": "Robots of the World! Arise!",
-              "doc_id": "gutenberg_31611"
+              "text": "all her symptoms in a whining monotone. We looked in windows at fur coats marked down from four hundred and ninety-nine ninety-five. We bought a sack of popcorn in an automatic vending machine that cheated on the amount, and fought over it until it skidded out of our hands onto the sidewalk. We had ...",
+              "year": 1950,
+              "title": "One for the Robot\u2014Two for the Same",
+              "doc_id": "gutenberg_65013"
+            },
+            {
+              "text": "three years, to prepare me for what I would see. \"There it is,\" the doctor said as I reached the last step and paused. I saw the trim panel of the transfer machine, the two leather upholstered tables. But they were no more than background impressions as my eyes fixed on the form lying full length on...",
+              "year": 1950,
+              "title": "One for the Robot\u2014Two for the Same",
+              "doc_id": "gutenberg_65013"
             }
           ],
-          "similarity_to_previous": 0.9229
+          "similarity_to_previous": 0.9072
         },
         {
           "decade": "1960s",
-          "similarity_to_origin": 0.9509,
-          "num_contexts": 64,
+          "similarity_to_origin": 0.9455,
+          "num_contexts": 45,
           "examples": [
             {
-              "text": ". Hence, I had no personal bias in favor of this phe\u00ac nomenon; rather the reverse, a prejudice against it. The foundation of my pessimism was the startling demonstration of P. MacCarthy, an engineering student, then Secretary of the Sheffield Society for Psychical Research, later my assistant at the...",
+              "text": "from Southend pier, towards the Nore lightship. It was evening and as the light was failing, we were making all possible speed towards Southend to pick up our moorings; my brother was at the engine and I had the tiller. Suddenly, across our bows, but a few feet ahead, there loomed a racing yacht und...",
               "year": 1964,
               "title": "Between Two Worlds",
               "doc_id": "betweenworlds_201911"
             },
             {
-              "text": "The first night after its arrival, the mummified head remained wrapped up as it came. Nothing happened, except that neither she nor her husband (an engineer and inventor whom I have also personally known) could gain a wink of sleep. Next day the head was unpacked and placed on a bureau by the side o...",
+              "text": "Bibliography to Parts 1 and II 114 III. OF GHOULIES AND GHOSTIES \u2666 1 *7 Lo, The Incubus 118 Vampire A broad 1 2 8 Goblin of the Loaf 132 The \u201cLiving Machine\u201d of Rev. John Murray Spear The Rage that Burns the House Down 140 The Baltimore Poltergeist 145 Haunted by the Living 153 The Talking Mongoose ...",
               "year": 1964,
               "title": "Between Two Worlds",
               "doc_id": "betweenworlds_201911"
             },
             {
-              "text": "the hero of a Hungarian stage play. \u201cIt is I who have written that play,\u201d continues Karinthy, \u201cexactly twenty years before. It was about a very talented but very emotional engineer who suff ered from m ner struggles and indecision; he invented an automatic, pilot- 1956,p^ ngarian rePriDt \u201c CiTCUS> P...",
+              "text": "Demon or Goblin, serving dinner or eating your bread, which would you like to have at your service? I think you will choose drudgery! 136 r The \u201cLiving Machine \u201d of Rev. John Murray Spear 1 To discover and scientifically control the principle of life has been the dream of many men, but few ever have...",
               "year": 1964,
               "title": "Between Two Worlds",
               "doc_id": "betweenworlds_201911"
@@ -2480,47 +2178,41 @@
               "doc_id": "LLP_1964100901"
             }
           ],
-          "similarity_to_previous": 0.9685
+          "similarity_to_previous": 0.9587
         },
         {
           "decade": "1970s",
-          "similarity_to_origin": 0.9218,
-          "num_contexts": 331,
+          "similarity_to_origin": 0.9294,
+          "num_contexts": 149,
           "examples": [
             {
-              "text": "DATA DOMAIN Of LOUiiVIH t PRACMATECH MICRO I USI NESS SIS 1 1 All, ISC. 1TPHYR DAEA SYSTEMS INC COMPUTERLAND Of GAIIHIRSRUAC. CIM EN Gil CAM ENGINEERING. INI. COMfUTtn (TC. NEWMAN COMPUII* FICEIANGI TEIE COMPUTER STORE UNITIDMICROSYSItMSCORP, COMPUTERLAND GRAND R< COMPUTER MARIO COMPUTERLAND SOtllHI...",
+              "text": "Bookkeeping Math/Engineering Games Plotting/Statistics Pictures Basic Statement Def. Ill \u2014 $39.95 Vol. V Andy Cap Baseball Compare Confid 10 Descrip Differ Engine Fourier Horse Integers *Logty ,., Playboy O Primes Probal Quadrac Red Baron Regression 2 Road Runner Roulette Santa Stat 10 Stat 1 1 Stea...",
               "year": 1978,
               "title": "Byte Magazine Volume 03 Number 09 - Graphic Manipu",
               "doc_id": "byte-magazine-1978-09"
             },
             {
-              "text": "LookToThe North Star HORIZON Computer. HORIZON\u2122\u2014 a complete, high-performance microprocessor system with integrated floppy disk memory. HORIZON is attractive, professionally engineered, and ideal for business, educational and personal applications. To begin programming in extended BASIC, merely add ...",
+              "text": "Vaucanson's marvelous demonstration (see July 1978 BYTE \"Antique Mechanical Computers, Part 1 \") he wrote the first sentence of On the Mathematical Powers of the Calculating Engine: \"The object of the present volume is to show the degree of assistance which mathematical science is capable of receivi...",
               "year": 1978,
               "title": "Byte Magazine Volume 03 Number 09 - Graphic Manipu",
               "doc_id": "byte-magazine-1978-09"
             },
             {
-              "text": "investment of a few hundred dollars will give you a computer to run your small business, do a great amount of financial planning, analyze a host of data in the engineering or scientific lab and when day is done play games by the hour. Well, the games part is true. The rest of the claims should be ta...",
+              "text": "obscure accountant of Manchester, Percy Ludgate, working without knowledge of Babbage, expressed the same thought when he wrote in 1909 the first sentence of On a Proposed Analytical Engine: \"I propose to give in this paper a short account of the result of about six years work, undertaken by me with...",
               "year": 1978,
               "title": "Byte Magazine Volume 03 Number 09 - Graphic Manipu",
               "doc_id": "byte-magazine-1978-09"
             }
           ],
-          "similarity_to_previous": 0.9582
+          "similarity_to_previous": 0.9594
         },
         {
           "decade": "1990s",
-          "similarity_to_origin": 0.9414,
-          "num_contexts": 13,
+          "similarity_to_origin": 0.9291,
+          "num_contexts": 6,
           "examples": [
             {
               "text": ". Thus, we should analyze its nature, and this unavoidably led to the study of the processes of body temperature control and heat transfer. The skin is a very complex biological living machine. It s a primary object of our long term research. -- Both skin and heat control have been studied for dozen...",
-              "year": 1990,
-              "title": "CIA Reading Room cia-rdp96-00792r000600380001-0: S",
-              "doc_id": "cia-readingroom-document-cia-rdp96-00792r000600380001-0"
-            },
-            {
-              "text": "Approved For Release 2000/08/09 : CIA-RDP96-00792R000600380001-0 LN190-91 \u201cYour are an arrogant stupid ass. You have already undergone numerous severe attacks. What does quantum mechanics count for. You have not learned your lesson. Did you think that all the animals in the world were as simple as y...",
               "year": 1990,
               "title": "CIA Reading Room cia-rdp96-00792r000600380001-0: S",
               "doc_id": "cia-readingroom-document-cia-rdp96-00792r000600380001-0"
@@ -2532,19 +2224,25 @@
               "doc_id": "cia-readingroom-document-cia-rdp96-00792r000600380001-0"
             },
             {
-              "text": "officiel du livre du centenaire. Une pr\u00e9-vente sera m\u00eame orga- nis\u00e9e au printemps 1990. Laurent GIMENEZ LSAINTE-ROSE-DU-LAC \u00c9tude pour un nouveau pont Le cabinet ID engineering a \u00e9t\u00e9 charg\u00e9 par la municipalit\u00e9 rurale de Sainte-Rose-du-Lac de faire une \u00e9tude sur la pos- sible construction d\u2019un pont e...",
+              "text": "orders to speed up blood circulation and intensify biochemical reaction processes to ensure the energy supply. Finally, it even uses shivering methods to alter the heating mechanism. In addition, the skin also has small systems which function independently in some areas. At 0.5 mm below the surface ...",
+              "year": 1990,
+              "title": "CIA Reading Room cia-rdp96-00792r000600380001-0: S",
+              "doc_id": "cia-readingroom-document-cia-rdp96-00792r000600380001-0"
+            },
+            {
+              "text": "Les bombes, grenades, obus et autres engins explosifs analogues constituent un danger. \u00c9vitez de les ramasser ou de les garder en souvenir, Si vous avez trouv\u00e9 ou si vous avez en votre possession un engin que vous croyez explosif, veuillez avertir la police de votre loca- lit\u00e9, qui prendra les mesur...",
               "year": 1990,
               "title": "La libert\u00e9 (1990-02-16)",
               "doc_id": "LBT_1990021601"
             },
             {
-              "text": "officiel du livre du centenaire. Une pr\u00e9-vente sera m\u00eame orga- nis\u00e9e au printemps 1990. Laurent GIMENEZ LSAINTE-ROSE-DU-LAC \u00c9tude pour un nouveau pont Le cabinet ID engineering a \u00e9t\u00e9 charg\u00e9 par la municipalit\u00e9 rurale de Sainte-Rose-du-Lac de faire une \u00e9tude sur la pos- sible construction d\u2019un pont e...",
+              "text": "n'est pas satisfaisante sont rejet\u00e9s et expuls\u00e9s de la cha\u00eene d'emballage par un jet d'air. Auparavant, le triage des bleuets \u00e9tait effectu\u00e9 par des employ\u00e9s. Mais la machine est plus efficace (1% de pertes au lieu de 20%) et surtout moins co\u00fbteuse. Y a-t-il des diamants en Saskatchewan\u201d? Depuis que...",
               "year": 1990,
               "title": "La libert\u00e9 (1990-02-16)",
               "doc_id": "LBT_1990021601"
             }
           ],
-          "similarity_to_previous": 0.9602
+          "similarity_to_previous": 0.9461
         }
       ]
     }

@@ -63,6 +63,32 @@ TERM_VARIANTS = {
 # HELPER FUNCTIONS
 # ══════════════════════════════════════════════════════════════════════════════
 
+# Boilerplate phrases to filter out (Google Books, HathiTrust, etc.)
+BOILERPLATE_PATTERNS = [
+    r'google book search',
+    r'automated querying',
+    r'automated queries',
+    r'non-commercial use',
+    r'public domain',
+    r'copyright law',
+    r'generated from',
+    r'hathitrust',
+    r'digitized by',
+    r'scanned from',
+    r'this is a digital copy',
+    r'terms of service',
+    r'google\'s mission',
+]
+
+def is_boilerplate(text: str) -> bool:
+    """Check if text is likely boilerplate from digitization."""
+    text_lower = text.lower()
+    for pattern in BOILERPLATE_PATTERNS:
+        if re.search(pattern, text_lower):
+            return True
+    return False
+
+
 def load_metadata() -> list[dict]:
     """Load corpus metadata."""
     with open(METADATA_FILE) as f:
@@ -73,18 +99,17 @@ def extract_sentences(text: str, term_variants: list[str], context_window: int =
     """
     Extract sentences/contexts containing any of the term variants.
     Returns context windows around each match.
+    Uses word boundary matching to avoid partial matches (e.g., 'automated' for 'automat').
     """
     contexts = []
-    text_lower = text.lower()
 
     for variant in term_variants:
-        variant_lower = variant.lower()
-        # Find all occurrences
-        start = 0
-        while True:
-            pos = text_lower.find(variant_lower, start)
-            if pos == -1:
-                break
+        # Use word boundary matching to avoid partial matches
+        # \b matches word boundaries
+        pattern = re.compile(r'\b' + re.escape(variant) + r'\b', re.IGNORECASE)
+
+        for match in pattern.finditer(text):
+            pos = match.start()
 
             # Extract context window
             ctx_start = max(0, pos - context_window)
@@ -101,10 +126,9 @@ def extract_sentences(text: str, term_variants: list[str], context_window: int =
             context = re.sub(r'\s+', ' ', context)
             context = context[:500]  # Limit length
 
-            if len(context) > 50:  # Skip very short matches
+            # Skip very short matches and boilerplate
+            if len(context) > 50 and not is_boilerplate(context):
                 contexts.append(context)
-
-            start = pos + 1
 
     return contexts
 
