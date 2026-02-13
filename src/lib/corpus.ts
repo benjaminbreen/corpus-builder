@@ -3,9 +3,10 @@ import path from 'path'
 
 // Re-export types and constants from the shared types file
 export type { Document, CorpusStats } from './types'
-export { LANGUAGE_NAMES, TOPIC_NAMES } from './types'
+export { LANGUAGE_NAMES, TOPIC_NAMES, TOPIC_ALIASES } from './types'
 
 import type { Document, CorpusStats } from './types'
+import { TOPIC_ALIASES } from './types'
 
 const CORPUS_INDEX_PATH = path.join(process.cwd(), 'public', 'data', 'corpus-index.json')
 
@@ -20,7 +21,11 @@ export async function getCorpus(): Promise<Document[]> {
     }
 
     const data = await fs.readFile(CORPUS_INDEX_PATH, 'utf-8')
-    cachedCorpus = JSON.parse(data)
+    const parsed: Document[] = JSON.parse(data)
+    cachedCorpus = parsed.map((doc) => ({
+      ...doc,
+      topic: TOPIC_ALIASES[doc.topic] || doc.topic,
+    }))
     cachedCorpusMtimeMs = stat.mtimeMs
     return cachedCorpus!
   } catch (error) {
@@ -38,8 +43,19 @@ export async function getCorpusStats(): Promise<CorpusStats> {
       totalDocuments: 0,
       startYear: 1600,
       endYear: 2000,
-      languages: ['English', 'French', 'German', 'Russian', 'Spanish', 'Italian'],
-      topics: ['automata', 'computing', 'intelligence', 'mechanism'],
+      languages: ['English', 'French', 'German', 'Russian', 'Spanish', 'Italian', 'Latin'],
+      topics: [
+        'automata_artificial_beings',
+        'computing',
+        'logic_formal_reasoning',
+        'intelligence',
+        'learning',
+        'mechanism',
+        'statistics_probability',
+        'cybernetics',
+        'automation',
+        'representation_symbol_systems',
+      ],
       decades: [1600, 1700, 1800, 1900],
       byCentury: { '17': 0, '18': 0, '19': 0, '20': 0 },
       byDecade: {},
@@ -119,8 +135,9 @@ export async function getDocumentsByDecade(decade: number): Promise<Document[]> 
 
 export async function getDocumentsByTopic(topic: string): Promise<Document[]> {
   const corpus = await getCorpus()
+  const normalizedTopic = TOPIC_ALIASES[topic] || topic
   return corpus
-    .filter((d) => d.topic === topic)
+    .filter((d) => d.topic === normalizedTopic)
     .sort((a, b) => a.year - b.year)
 }
 

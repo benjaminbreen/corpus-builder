@@ -7,7 +7,11 @@
     "language_code": "en",
     "topic": "thinking_machines",
     "page": "14",
-    "tags": ["Ancient World", "Mechanical Philosophy", "Priestly Power"],
+    "tags": [
+      "Ancient World",
+      "Mechanical Philosophy",
+      "Priestly Power"
+    ],
     "text": "As mechanics, next to mathematics and astronomy, is the most ancient of sciences, and as the scientific knowledge of the ancients was ever shrouded in mystery to conceal it from the eyes of the vulgar, and to confer upon the initiated power and profit by working on the credulity of the ignorant, it was but only to be expected that mechanical science should be early applied in the ancient mysteries by which the philosophers and the priests of antiquity maintained so much of their supremacy."
   },
   {
@@ -18,7 +22,11 @@
     "language_code": "en",
     "topic": "thinking_machines",
     "page": "16–17",
-    "tags": ["Ancient World", "Automata", "Flight"],
+    "tags": [
+      "Ancient World",
+      "Automata",
+      "Flight"
+    ],
     "text": "Archytas is said to have constructed of wood a pigeon that could fly about, but which could not rise again after it had settled. In an apparatus \"so nicely balanced by weights and put in motion by hidden and inclosed air,\" we have a very fair forecast of the modern aerostat or balloon, filled with gas and balanced by ballast."
   },
   {
@@ -29,7 +37,11 @@
     "language_code": "en",
     "topic": "thinking_machines",
     "page": "39",
-    "tags": ["Medieval Science", "Speaking Automata", "Theology & Magic"],
+    "tags": [
+      "Medieval Science",
+      "Speaking Automata",
+      "Theology & Magic"
+    ],
     "text": "Albertus Magnus, who flourished in the thirteenth century, spent, according to his own account, thirty years in the construction of an automaton of clay which not only spoke but walked and answered questions and solved problems submitted to it. It is recorded that his pupil, the celebrated St. Thomas Aquinas was so horrified when he saw and heard this figure that (believing it to be the work of his Satanic Majesty), he broke it into pieces, when Albertus cried aloud: \"Sic periit opus triginta annorum.\""
   },
   {
@@ -40,7 +52,11 @@
     "language_code": "en",
     "topic": "thinking_machines",
     "page": "50–51",
-    "tags": ["Philosophy of Mind", "Animal Automatism", "Cartesianism"],
+    "tags": [
+      "Philosophy of Mind",
+      "Animal Automatism",
+      "Cartesianism"
+    ],
     "text": "The great philosopher Descartes formed the theory that all animals are merely automata of a high degree of perfection, and, to prove his notion, he is said to have constructed an automaton in the form of a young girl to which he gave the name of \"Ma fille Francine.\" This figure came unhappily to a watery grave, for during a voyage by sea the captain of the vessel in which it was travelling had the curiosity to open the case in which Francine was packed and, in his astonishment at the movements of the automaton, which were so wonderfully natural, he threw the whole thing overboard, believing it to be the work of the devil."
   },
   {
@@ -51,7 +67,11 @@
     "language_code": "en",
     "topic": "thinking_machines",
     "page": "52–53",
-    "tags": ["Musical Automata", "Physiological Simulation", "Precision Engineering"],
+    "tags": [
+      "Musical Automata",
+      "Physiological Simulation",
+      "Precision Engineering"
+    ],
     "text": "It was capable of performing twelve pieces of music on a German flute, the instrument being really played as a man would play it by blowing across the embouchure and projecting the air with variable force by movable lips, which imitated in their action those of a living player, employing a tongue to regulate the opening, and producing the notes by the tips of the fingers closing or opening the holes. The mechanical devices in this automaton are so beautiful and so scientifically thought out, that I am only sorry that time will not permit me to describe them in detail."
   },
   {
@@ -62,7 +82,11 @@
     "language_code": "en",
     "topic": "thinking_machines",
     "page": "59",
-    "tags": ["Fraud & Debunking", "Physiological Simulation", "Automata"],
+    "tags": [
+      "Fraud & Debunking",
+      "Physiological Simulation",
+      "Automata"
+    ],
     "text": "Robert-Houdin took advantage of this opportunity for examining the so-called digestive system of the automaton. \"L'evacuation etait chose preparee a l'avance; une espece de bouillie, composee de mie de pain coloree de vert, etait poussee par un coup de pompe et soigneusement recue, sur un plateau en argent, comme produit d'une digestion artificielle,\" so that, after all, this wonderful digestion of Vaucanson's duck was nothing more than a clever trick."
   },
   {
@@ -73,7 +97,12 @@
     "language_code": "en",
     "topic": "thinking_machines",
     "page": "Preface, 7-8",
-    "tags": ["Mechanical Intelligence", "Reasoning", "Chess", "Complexity"],
+    "tags": [
+      "Mechanical Intelligence",
+      "Reasoning",
+      "Chess",
+      "Complexity"
+    ],
     "text": "Notwithstanding, however, the superior ingenuity of modern artists, in mechanics, which these scientific inventions discover, it seems to be a thing absolutely impossible, that any piece of mechanism should be invented, which, possessing perfect mechanical motion, should appear to exert the intelligence of a **reasoning agent**. This seeming impossibility is surmounted in the construction of the Automaton Chess Player... the **variety of combinations** amongst the pieces which a game of Chess presents; the constant exercise of **acute judgment** required in anticipating the designs of an antagonist."
   },
   {
@@ -84,7 +113,12 @@
     "language_code": "en",
     "topic": "thinking_machines",
     "page": "21-22",
-    "tags": ["Human Simulation", "Error Handling", "Agency", "Chess"],
+    "tags": [
+      "Human Simulation",
+      "Error Handling",
+      "Agency",
+      "Chess"
+    ],
     "text": "When a false move is made by its antagonist... the Automaton **taps impatiently** on the chest, with its right hand, replaces the Knight on its former square, and not permitting its antagonist to recover his move, proceeds immediately to move one of its own pieces: thus appearing to **punish** him for his inattention."
   },
   {
@@ -95,7 +129,11 @@
     "language_code": "en",
     "topic": "thinking_machines",
     "page": "25-26",
-    "tags": ["Control vs Actuation", "Reasoning Faculty", "Mechanical Mystery"],
+    "tags": [
+      "Control vs Actuation",
+      "Reasoning Faculty",
+      "Mechanical Mystery"
+    ],
     "text": "The causes sought for appear to be two, which are distinct from each other -- a **moving force** from which the left arm and hand of the Automaton derive the action... and a **directing force**, by which the same arm and hand... are guided on this side or that, according to circumstances... each of which requires the **exertion of the reasoning faculty**."
   },
   {
@@ -106,7 +144,12 @@
     "language_code": "en",
     "topic": "thinking_machines",
     "page": "27-28",
-    "tags": ["Hidden Human", "Transparency", "Mechanism", "Fraud Detection"],
+    "tags": [
+      "Hidden Human",
+      "Transparency",
+      "Mechanism",
+      "Fraud Detection"
+    ],
     "text": "The most obvious solution... may be drawn from the hypothesis, that a **living subject is enclosed** within the left or larger chamber... It is sufficient, however, in order to refute this hypothesis, to repeat... that the exhibiter is willing to lay open for the examination of every spectator its **entire construction internally**, so as to satisfy the most incredulous person, that no concealment whatsoever of a living subject can take place."
   },
   {
@@ -117,7 +160,11 @@
     "language_code": "en",
     "topic": "thinking_machines",
     "page": "29-31",
-    "tags": ["Human Agent", "Artificial Reasoning", "Biomechanics"],
+    "tags": [
+      "Human Agent",
+      "Artificial Reasoning",
+      "Biomechanics"
+    ],
     "text": "With respect to the nature of this directing force, there can be only one reasonable opinion, that it must proceed from the immediate direction of **some human agent**... To construct an arm and hand capable of performing the ordinary functions of those parts, would be of itself sufficient to secure the reputation of an artist; but to make the same arm and hand almost **counterparts of living members in a reasoning agent**, displays a power of invention as bold and original, as any that has ever been exhibited to the world."
   },
   {
@@ -128,7 +175,12 @@
     "language_code": "la",
     "topic": "vitalism_debates",
     "page": "Thesis II",
-    "tags": ["Animal Soul", "Substance", "Human-Animal Distinction", "Materialism"],
+    "tags": [
+      "Animal Soul",
+      "Substance",
+      "Human-Animal Distinction",
+      "Materialism"
+    ],
     "text": "Just as the rational soul of man is proved by indubitable arguments to be an **immaterial and incorporeal substance**, so we establish that the souls of brute animals are not only material, but also **corporeal**, and are not to be removed from the number of substances. Thus, a significant and notable distinction appears between man and brute animals."
   },
   {
@@ -139,7 +191,12 @@
     "language_code": "la",
     "topic": "vitalism_debates",
     "page": "Thesis I",
-    "tags": ["Cartesianism", "Automata", "Animal Soul", "Anti-Mechanism"],
+    "tags": [
+      "Cartesianism",
+      "Automata",
+      "Animal Soul",
+      "Anti-Mechanism"
+    ],
     "text": "Many, with Democritus, Leucippus, Empedocles, etc., consider the human mind and these same brute souls to be material... Some reduce them so far as to remove them from the number of substances and make them mere accidents, with only the rational soul of man excepted, such as **Descartes, who compare animals to automatons**, William Pembel, Adriaan Heereboord."
   },
   {
@@ -150,7 +207,12 @@
     "language_code": "la",
     "topic": "vitalism_debates",
     "page": "Thesis IV",
-    "tags": ["Divisibility", "Materialism", "Animal Soul", "Experimental Evidence"],
+    "tags": [
+      "Divisibility",
+      "Materialism",
+      "Animal Soul",
+      "Experimental Evidence"
+    ],
     "text": "Earthworms, eels, and vipers, when divided, **move for some time**, and contract when pricked... A longer worm, divided into ten or more parts, retains the sensitive soul in all parts for a time; for if one part is touched, it writhes to the place of pain. This reason, by which we conclude **materiality from divisibility**, is of such weight that no firmer or greater one can be given."
   },
   {
@@ -161,7 +223,12 @@
     "language_code": "la",
     "topic": "vitalism_debates",
     "page": "Thesis VII",
-    "tags": ["Vital Fire", "Respiration", "Animal Spirits", "Physiology"],
+    "tags": [
+      "Vital Fire",
+      "Respiration",
+      "Animal Spirits",
+      "Physiology"
+    ],
     "text": "Not improbably, Honoratus Fabri and Willis, from different principles, believed these brute souls to be **fiery**, like Democritus, since they all have common properties with fire... The necessity of drawing in air is equally applicable here; for animals, especially the hotter ones, if prevented from breathing, quickly die."
   },
   {
@@ -172,7 +239,12 @@
     "language_code": "la",
     "topic": "vitalism_debates",
     "page": "Thesis VI",
-    "tags": ["Blood", "Biblical Authority", "Vital Spirits", "Soul"],
+    "tags": [
+      "Blood",
+      "Biblical Authority",
+      "Vital Spirits",
+      "Soul"
+    ],
     "text": "For the sacred Codex Deut. 12:2 also agrees with us, when it says so clearly: \"**The blood is the soul**.\" This opinion is also sometimes attributed to Critias and Empedocles... It is better here to consider a synecdoche of the part for the whole, so that blood is called soul because of the spirits that it always has present and active."
   },
   {
@@ -183,7 +255,12 @@
     "language_code": "de",
     "topic": "chess_automaton",
     "page": "Act II",
-    "tags": ["Fate", "Divine Will", "Human Agency", "Kempelen"],
+    "tags": [
+      "Fate",
+      "Divine Will",
+      "Human Agency",
+      "Kempelen"
+    ],
     "text": "Wretched creature! you dare to penetrate the **fabric of fate**? . . . Forgive, Almighty ones, a creature whose senses are confused by the fear of annihilation. . . . Yes! the **oracle's decree** shall be fulfilled in me . . . Here I am. Without complaint — without resistance, I offer my neck to the judgment."
   },
   {
@@ -194,7 +271,12 @@
     "language_code": "de",
     "topic": "chess_automaton",
     "page": "Act II",
-    "tags": ["Illusion vs Reality", "Perception", "Fear", "Kempelen"],
+    "tags": [
+      "Illusion vs Reality",
+      "Perception",
+      "Fear",
+      "Kempelen"
+    ],
     "text": "What **dreadful images of monsters** float before my eyes. . . . The chill of death trembles through every nerve. Cold sweat of fear trickles down my forehead. . . . Already the monster held me in its jaws — already it plunged with me into the abysses of the sea. . . . Alas! — that it was only a **phantom**, that I had to revive to experience this torment once more."
   },
   {
@@ -205,7 +287,12 @@
     "language_code": "de",
     "topic": "chess_automaton",
     "page": "Act III",
-    "tags": ["Human vs Divine", "Salvation", "Agency", "Kempelen"],
+    "tags": [
+      "Human vs Divine",
+      "Salvation",
+      "Agency",
+      "Kempelen"
+    ],
     "text": "**Liberation?** . . . Do you claim to be a god, who may speak thus? . . . **No mortal can save me.** . . . No! delusion — blinding — away — away. . . . Recover yourself — Wake from this deathly slumber — perhaps the **gods send me** to your liberation."
   },
   {
@@ -216,7 +303,814 @@
     "language_code": "de",
     "topic": "chess_automaton",
     "page": "Act III",
-    "tags": ["Deception", "Appearance", "Recognition", "Kempelen"],
+    "tags": [
+      "Deception",
+      "Appearance",
+      "Recognition",
+      "Kempelen"
+    ],
     "text": "**Monster!** Even in this form, I do not fail to recognize you — Even under this **disguise**, I recognize my murderer — here is your prey. . . . (to himself) The riddle unfolds. Her senses are confused. . . . But why chained here? . . . **The most lovable creature** I have seen on this earth."
+  },
+  {
+    "id": "gutenberg_11984-q1",
+    "doc_id": "gutenberg_11984",
+    "source_title": "A Pluralistic Universe: Hibbert Lectures at Manchester College on the Present Situation in Philosophy",
+    "year": 1909,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines"
+    ],
+    "text": "Intellectually, the world of mechanical materialism is the most rational, for we subject its events to mathematical calculation."
+  },
+  {
+    "id": "gutenberg_11984-q2",
+    "doc_id": "gutenberg_11984",
+    "source_title": "A Pluralistic Universe: Hibbert Lectures at Manchester College on the Present Situation in Philosophy",
+    "year": 1909,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines"
+    ],
+    "text": "Throughout his writings Fechner makes difference and analogy walk abreast, and by his extraordinary power of noticing both, he converts what would ordinarily pass for objections to his conclusions into factors of their support."
+  },
+  {
+    "id": "gutenberg_1906-q1",
+    "doc_id": "gutenberg_1906",
+    "source_title": "Erewhon; Or, Over the Range",
+    "year": 1872,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Fiction"
+    ],
+    "text": "I was surprised at there remaining so many mechanical specimens as are seen in the museums, and at students having rediscovered their past uses so completely; for at the time of the revolution the victors wrecked all the more complicated machines, and burned all treatises on mechanics, and all engineers’ workshops—thus, so they thought, cutting the mischief out root and branch, at an incalculable cost of blood and treasure."
+  },
+  {
+    "id": "gutenberg_1906-q2",
+    "doc_id": "gutenberg_1906",
+    "source_title": "Erewhon; Or, Over the Range",
+    "year": 1872,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Fiction"
+    ],
+    "text": "Certain classes of machines may be alone fertile, while the rest discharge other functions in the mechanical system, just as the great majority of ants and bees have nothing to do with the continuation of their species, but get food and store it, without thought of breeding."
+  },
+  {
+    "id": "gutenberg_71292-q1",
+    "doc_id": "gutenberg_71292",
+    "source_title": "The calculating engine",
+    "year": 1832,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Engines"
+    ],
+    "text": "One of the consequences which has arisen in the prosecution of the invention of the calculating machinery, has been the discovery of a multitude of mechanical contrivances, which have been elicited by the exigencies of the undertaking, and which are as novel in their nature as the purposes were novel which they were designed to attain."
+  },
+  {
+    "id": "gutenberg_71292-q2",
+    "doc_id": "gutenberg_71292",
+    "source_title": "The calculating engine",
+    "year": 1832,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Engines"
+    ],
+    "text": "The principle selected by Mr Babbage as the basis of that part of the machinery which calculates, is the Method of Differences; and he has in fact literally thrown this mathematical principle into wheel-work."
+  },
+  {
+    "id": "wikisource_adb_felkel-q1",
+    "doc_id": "wikisource_adb_felkel",
+    "source_title": "Felkel, Anton (ADB)",
+    "year": 1877,
+    "language_code": "de",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines"
+    ],
+    "text": "erfand verschiedene Maschinen: 1) eine Factorenmaschine, 2) eine gemeine Rechenmaschine, 3) eine vollständige Lesemaschine, 4) eine Sprachmaschine, 5) ein neues Meßinstrument."
+  },
+  {
+    "id": "wikisource_adb_felkel-q2",
+    "doc_id": "wikisource_adb_felkel",
+    "source_title": "Felkel, Anton (ADB)",
+    "year": 1877,
+    "language_code": "de",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines"
+    ],
+    "text": "Im December 1785, als Kästner seine Fortsetzung der Rechenkunst herausgab, in welcher (Cap."
+  },
+  {
+    "id": "wikisource_blindenanstalt_steglitz-q1",
+    "doc_id": "wikisource_blindenanstalt_steglitz",
+    "source_title": "Besuch der Blindenanstalt in Steglitz",
+    "year": 1864,
+    "language_code": "de",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Abacus",
+      "Accessibility"
+    ],
+    "text": "Im Rechnen hat jeder Schüler eine sogenannte russische Rechenmaschine (auf Draht gezogene Holzkugeln), mit welcher die ersten Zahlenbegriffe gewonnen werden; hieran schließt sich später das schriftliche und Kopfrechnen, bei welchem manches gleichaltrige sehende Kind in Bezug auf die Resultate in der Concurrenz erliegen würde."
+  },
+  {
+    "id": "wikisource_blindenanstalt_steglitz-q2",
+    "doc_id": "wikisource_blindenanstalt_steglitz",
+    "source_title": "Besuch der Blindenanstalt in Steglitz",
+    "year": 1864,
+    "language_code": "de",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Abacus",
+      "Accessibility"
+    ],
+    "text": "Nach dem sehr richtigen Grundsatz, den Blinden in beständiger Thätigkeit zu erhalten und nicht einem schädigenden Hinbrüten zu überlassen, ist die Unterrichtszeit mit den entsprechenden Erholungspausen auf den ganzen Tag vertheilt."
+  },
+  {
+    "id": "wikisource_calculateur_inaudi-q1",
+    "doc_id": "wikisource_calculateur_inaudi",
+    "source_title": "Le Calculateur Jacques Inaudi",
+    "year": 1892,
+    "language_code": "fr",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Mental Calculation"
+    ],
+    "text": "Inaudi calcule vite, il n’est pas beaucoup plus rapide qu’un calculateur de profession, à qui l’on permettrait de faire les opérations sur le papier."
+  },
+  {
+    "id": "wikisource_calculateur_inaudi-q2",
+    "doc_id": "wikisource_calculateur_inaudi",
+    "source_title": "Le Calculateur Jacques Inaudi",
+    "year": 1892,
+    "language_code": "fr",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Mental Calculation"
+    ],
+    "text": "Elle s’est convaincue que le jeune calculateur n’a point une mémoire développée des figures, des événemens, des lieux, des airs de musique."
+  },
+  {
+    "id": "wikisource_calculating_machines_popular_science-q1",
+    "doc_id": "wikisource_calculating_machines_popular_science",
+    "source_title": "Calculating-Machines (Popular Science Monthly, Feb 1885)",
+    "year": 1885,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines"
+    ],
+    "text": "The method which is expounded in them appertains to the calculation of differences, and is applicable to all kinds of computations, whether of days' works, tables of interest and annuities, sinking-funds and insurances, tables of logarithms, astronomical tables, or the resolution of numerical equations."
+  },
+  {
+    "id": "wikisource_calculating_machines_popular_science-q2",
+    "doc_id": "wikisource_calculating_machines_popular_science",
+    "source_title": "Calculating-Machines (Popular Science Monthly, Feb 1885)",
+    "year": 1885,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines"
+    ],
+    "text": "The first machine for executing calculations by mechanical movements was invented by Pascal in 1642."
+  },
+  {
+    "id": "wikisource_comptometer_news_v1_i2-q1",
+    "doc_id": "wikisource_comptometer_news_v1_i2",
+    "source_title": "Comptometer News, Volume 1, Issue 2",
+    "year": 1927,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Office Work"
+    ],
+    "text": "You can go faster and produce more correct answers in a day as long as the Controlled-key mechanism stands guard and stops you instantly an operating error has been made.\" There are ninety \"brakes\" in a ten column Comptometer."
+  },
+  {
+    "id": "wikisource_comptometer_news_v1_i2-q2",
+    "doc_id": "wikisource_comptometer_news_v1_i2",
+    "source_title": "Comptometer News, Volume 1, Issue 2",
+    "year": 1927,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Office Work"
+    ],
+    "text": "T HAT operating a Comptometer does not destroy athletic ability was convincingly demonstrated at Champlain Alleys on January 8th by Toots Pelletier, oldest operator of the Saskatchewan Wheat Pool."
+  },
+  {
+    "id": "wikisource_darwin_among_the_machines-q1",
+    "doc_id": "wikisource_darwin_among_the_machines",
+    "source_title": "Darwin among the Machines",
+    "year": 1863,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines"
+    ],
+    "text": "Day by day, however, the machines are gaining ground upon us; day by day we are becoming more subservient to them; more men are daily bound down as slaves to tend them, more men are daily devoting the energies of their whole lives to the development of mechanical life."
+  },
+  {
+    "id": "wikisource_darwin_among_the_machines-q2",
+    "doc_id": "wikisource_darwin_among_the_machines",
+    "source_title": "Darwin among the Machines",
+    "year": 1863,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines"
+    ],
+    "text": "We have used the words “mechanical life,” “the mechanical kingdom,” “the mechanical world” and so forth, and we have done so advisedly, for as the vegetable kingdom was slowly developed from the mineral, and as in like manner the animal supervened upon the vegetable, so now in these last few ages an entirely new kingdom has sprung up, of which we as yet have only seen what will one day be considered the antediluvian prototypes of the race."
+  },
+  {
+    "id": "wikisource_dnb_morland-q1",
+    "doc_id": "wikisource_dnb_morland",
+    "source_title": "Morland, Samuel (Dictionary of National Biography)",
+    "year": 1894,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Reference"
+    ],
+    "text": "By means of them the four fundamental rules of arithmetic were readily worked 'without charging the memory, disturbing the mind, or exposing the operations to any uncertainty.' This calculating machine appears to have been a modification of one constructed by Blaise Pascal about 1642."
+  },
+  {
+    "id": "wikisource_dnb_morland-q2",
+    "doc_id": "wikisource_dnb_morland",
+    "source_title": "Morland, Samuel (Dictionary of National Biography)",
+    "year": 1894,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Reference"
+    ],
+    "text": "The problems connected with raising water to a height by mechanical means were receiving a great amount of attention during the middle of the seventeenth century, and to the discoveries made in this field (in which Morland bore an important part) are largely attributable the subsequent rapid development of the steam-engine and the accelerated rate of evolution in mechanical science generally."
+  },
+  {
+    "id": "wikisource_eb1911_calculating_machines-q1",
+    "doc_id": "wikisource_eb1911_calculating_machines",
+    "source_title": "Calculating Machines (1911 Encyclopædia Britannica)",
+    "year": 1911,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Engines",
+      "Reference"
+    ],
+    "text": "Meanwhile Babbage had conceived the idea of a much more powerful machine, the “analytical engine,” intended to perform any series of possible arithmetical operations."
+  },
+  {
+    "id": "wikisource_eb1911_calculating_machines-q2",
+    "doc_id": "wikisource_eb1911_calculating_machines",
+    "source_title": "Calculating Machines (1911 Encyclopædia Britannica)",
+    "year": 1911,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Engines",
+      "Reference"
+    ],
+    "text": "Machines of far greater powers than the arithmometers mentioned have been invented by Babbage and by Scheutz."
+  },
+  {
+    "id": "wikisource_eb1911_saunderson-q1",
+    "doc_id": "wikisource_eb1911_saunderson",
+    "source_title": "Saunderson, Nicholas (1911 Encyclopædia Britannica)",
+    "year": 1911,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Accessibility",
+      "Reference"
+    ],
+    "text": "He devised a calculating machine or abacus, by which he could perform arithmetical and algebraical operations by the sense of touch; this method is sometimes termed his palpable arithmetic , an account of which is given in his elaborate Elements of Algebra (2 vols., Cambridge, 1740)."
+  },
+  {
+    "id": "wikisource_eb1911_saunderson-q2",
+    "doc_id": "wikisource_eb1911_saunderson",
+    "source_title": "Saunderson, Nicholas (1911 Encyclopædia Britannica)",
+    "year": 1911,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Accessibility",
+      "Reference"
+    ],
+    "text": "His senses of hearing and touch were extraordinarily acute, and he could carry on mentally long and intricate mathematical calculations."
+  },
+  {
+    "id": "wikisource_edinburgh_review_babbage-q1",
+    "doc_id": "wikisource_edinburgh_review_babbage",
+    "source_title": "Babbage's Calculating Engine (Edinburgh Review, Vol. 59)",
+    "year": 1834,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Engines"
+    ],
+    "text": "One of the consequences which has arisen in the prosecution of the invention of the calculating machinery, has been the discovery of a multitude of mechanical contrivances, which have been elicited by the exigencies of the undertaking, and which are as novel in their nature as the purposes were novel which they were designed to attain."
+  },
+  {
+    "id": "wikisource_edinburgh_review_babbage-q2",
+    "doc_id": "wikisource_edinburgh_review_babbage",
+    "source_title": "Babbage's Calculating Engine (Edinburgh Review, Vol. 59)",
+    "year": 1834,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Engines"
+    ],
+    "text": "The principle selected by Mr Babbage as the basis of that part of the machinery which calculates, is the Method of Differences; and he has in fact literally thrown this mathematical principle into wheel-work."
+  },
+  {
+    "id": "wikisource_esbe_arithmometer-q1",
+    "doc_id": "wikisource_esbe_arithmometer",
+    "source_title": "Арифмометр (ЭСБЕ)",
+    "year": 1890,
+    "language_code": "ru",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Abacus",
+      "Reference"
+    ],
+    "text": "Все подобные числительные аппараты, или Арифмометры, как их обыкновенно называют, можно подвести под два главных типа: к первому типу относятся такие приборы, которые лишь сокращают и облегчают умственные напряжения человека, тогда как приборы второго типа производят самые сложные вычисления без всякого участия человеческого разума, путем известных манипуляций, и которые можно скорее назвать автоматическими счетчиками."
+  },
+  {
+    "id": "wikisource_esbe_arithmometer-q2",
+    "doc_id": "wikisource_esbe_arithmometer",
+    "source_title": "Арифмометр (ЭСБЕ)",
+    "year": 1890,
+    "language_code": "ru",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Abacus",
+      "Reference"
+    ],
+    "text": "Россия , Санкт-Петербург , 1890 — 1907 Ариадна, дочь Миноса Арифмометр — прибор, служащий для механического выполнения больших вычислений, или числительная машина ."
+  },
+  {
+    "id": "wikisource_fauteuil_hante-q1",
+    "doc_id": "wikisource_fauteuil_hante",
+    "source_title": "Le Fauteuil hanté",
+    "year": 1911,
+    "language_code": "fr",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Abacus",
+      "Fiction"
+    ],
+    "text": "Gaspard Lalouette 269 book Le Fauteuil hanté Gaston Leroux Pierre Lafitte et C ie 1911 Paris T Leroux - Le Fauteuil hanté, Lafitte, 1900.djvu Leroux - Le Fauteuil hanté, Lafitte, 1900.djvu/1"
+  },
+  {
+    "id": "wikisource_fauteuil_hante-q2",
+    "doc_id": "wikisource_fauteuil_hante",
+    "source_title": "Le Fauteuil hanté",
+    "year": 1911,
+    "language_code": "fr",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Abacus",
+      "Fiction"
+    ],
+    "text": "— En France, on trouve toujours un citoyen de courage et de bon sens pour faire honte, par son exemple, à la foule stupide 154 X ."
+  },
+  {
+    "id": "wikisource_gartenlaube_1865_heft34-q1",
+    "doc_id": "wikisource_gartenlaube_1865_heft34",
+    "source_title": "Die Gartenlaube (1865), Heft 34",
+    "year": 1865,
+    "language_code": "de",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Abacus"
+    ],
+    "text": "Auch die „Gartenlaube“ verlor in ihm einen vieljährigen, gediegenen Mitarbeiter, und sie glaubt nur die Pflicht der Dankbarkeit gegen den Hingeschiedenen zu erfüllen, wenn sie ihren Lesern das ansprechende Bild seines Lebens vorführt."
+  },
+  {
+    "id": "wikisource_gartenlaube_1865_heft34-q2",
+    "doc_id": "wikisource_gartenlaube_1865_heft34",
+    "source_title": "Die Gartenlaube (1865), Heft 34",
+    "year": 1865,
+    "language_code": "de",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Abacus"
+    ],
+    "text": "Gleichzeitig mit dem Ministerialschreiben erhalte ich die Anzeige, daß in Heinrichshausen ein schweres Verbrechen begangen worden ist, dessen Untersuchung die untergeordneten Beamten nicht zu führen verstehen."
+  },
+  {
+    "id": "wikisource_gartenlaube_1879_heft9-q1",
+    "doc_id": "wikisource_gartenlaube_1879_heft9",
+    "source_title": "Die Gartenlaube (1879), Heft 9",
+    "year": 1879,
+    "language_code": "de",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Office Work",
+      "Abacus"
+    ],
+    "text": "Er freilich behandelte mich immer wie einen Untergebenen – einen gedankenlosen Zahlenmenschen, eine Rechenmaschine, der nur eine Marotte hatte, die Sternguckerei."
+  },
+  {
+    "id": "wikisource_gartenlaube_1879_heft9-q2",
+    "doc_id": "wikisource_gartenlaube_1879_heft9",
+    "source_title": "Die Gartenlaube (1879), Heft 9",
+    "year": 1879,
+    "language_code": "de",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Office Work",
+      "Abacus"
+    ],
+    "text": "Um’s Sprühwasser kümmere ich mich wenig.“ „So wollen wir keine Zeit verlieren,“ bemerkte Bertus eifrig, „je früher wir aufbrechen, um so besser!"
+  },
+  {
+    "id": "wikisource_interview_father_calculating_machine-q1",
+    "doc_id": "wikisource_interview_father_calculating_machine",
+    "source_title": "An Interview with the Father of the Calculating Machine",
+    "year": 1919,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Office Work"
+    ],
+    "text": "While thus engaged, I saw the expediency of a small machine to supplement the larger one, and designed an adding machine which I named the ‘Arithmometer,’ and this patent, dated July 28, 1874, was the first one of the kind granted me by the United States Patent Office."
+  },
+  {
+    "id": "wikisource_interview_father_calculating_machine-q2",
+    "doc_id": "wikisource_interview_father_calculating_machine",
+    "source_title": "An Interview with the Father of the Calculating Machine",
+    "year": 1919,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Office Work"
+    ],
+    "text": "As soon as one of the calculating machines was finished, I took it to the office of the Pennsylvania Railroad and was referred to Mr."
+  },
+  {
+    "id": "wikisource_james_watt_kamensky-q1",
+    "doc_id": "wikisource_james_watt_kamensky",
+    "source_title": "Джеймс Уатт. Его жизнь и научно-практическая деятельность",
+    "year": 1891,
+    "language_code": "ru",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines"
+    ],
+    "text": "Это сбережение было вычислено опытным путем и составляло определенную сумму на каждый день и час работы машины, даже на каждый ход поршня."
+  },
+  {
+    "id": "wikisource_james_watt_kamensky-q2",
+    "doc_id": "wikisource_james_watt_kamensky",
+    "source_title": "Джеймс Уатт. Его жизнь и научно-практическая деятельность",
+    "year": 1891,
+    "language_code": "ru",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines"
+    ],
+    "text": "Поэтому для правильного расчета с каждым заводчиком приходилось вести точный счет числу ходов, сделанных машиной, — из-за этого счета всегда и происходили разногласия, потому что хозяева никак не могли примириться с премией и пускались на всякие ухищрения и даже обман, чтобы только избежать уплат."
+  },
+  {
+    "id": "wikisource_krasnaya_zvezda-q1",
+    "doc_id": "wikisource_krasnaya_zvezda",
+    "source_title": "Красная звезда",
+    "year": 1908,
+    "language_code": "ru",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Fiction"
+    ],
+    "text": "На таблице номер второй было написано: «Производство одежды имеет недостаток в 592.685 рабочих часов ежедневно, из них 21.380 часов труда опытных механиков для специальных машин и 7.852 часа труда специалистов-организаторов»."
+  },
+  {
+    "id": "wikisource_krasnaya_zvezda-q2",
+    "doc_id": "wikisource_krasnaya_zvezda",
+    "source_title": "Красная звезда",
+    "year": 1908,
+    "language_code": "ru",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Fiction"
+    ],
+    "text": "Он раскрыл целый ряд погрешностей в тех вычислениях, по которым устраивались все прежние экспедиции на Землю, и показал, что некоторые из этих погрешностей сами по себе уже были достаточны для гибели дела и работников."
+  },
+  {
+    "id": "wikisource_methods_operating_comptometer-q1",
+    "doc_id": "wikisource_methods_operating_comptometer",
+    "source_title": "Methods of Operating the Comptometer",
+    "year": 1895,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Office Work",
+      "Training"
+    ],
+    "text": "As in commercial computations common fractions very often occur the most convenient method of multiplying a whole number by a fraction on the Comptometer is given below."
+  },
+  {
+    "id": "wikisource_methods_operating_comptometer-q2",
+    "doc_id": "wikisource_methods_operating_comptometer",
+    "source_title": "Methods of Operating the Comptometer",
+    "year": 1895,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Office Work",
+      "Training"
+    ],
+    "text": "To perform interest on the Comptometer, the following methods are so rapid that the most complex examples in interest can be computed in twenty-five seconds, and an ordinary example in ten seconds."
+  },
+  {
+    "id": "wikisource_nie_reuleaux-q1",
+    "doc_id": "wikisource_nie_reuleaux",
+    "source_title": "Reuleaux, Franz (The New International Encyclopædia)",
+    "year": 1905,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Engines",
+      "Abacus",
+      "Reference"
+    ],
+    "text": "A German mechanical engineer, born at Eschweiler, near Aix-la-Chapelle, where his father had machine shops."
+  },
+  {
+    "id": "wikisource_nie_reuleaux-q2",
+    "doc_id": "wikisource_nie_reuleaux",
+    "source_title": "Reuleaux, Franz (The New International Encyclopædia)",
+    "year": 1905,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Engines",
+      "Abacus",
+      "Reference"
+    ],
+    "text": "Reuleaux was intimately connected with German machinery exhibits at Philadelphia in 1876 and at Sydney and Melbourne (1879-81)."
+  },
+  {
+    "id": "wikisource_notes_by_translator-q1",
+    "doc_id": "wikisource_notes_by_translator",
+    "source_title": "Notes by the Translator",
+    "year": 1843,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Engines"
+    ],
+    "text": "The former chiefly treats it under its mechanical aspect, entering but slightly into the mathematical principles of which that engine is the representative, but giving, in considerable length, many details of the mechanism and contrivances by means of which it tabulates the various orders of differences."
+  },
+  {
+    "id": "wikisource_notes_by_translator-q2",
+    "doc_id": "wikisource_notes_by_translator",
+    "source_title": "Notes by the Translator",
+    "year": 1843,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Engines"
+    ],
+    "text": "The bounds of arithmetic were however outstepped the moment the ​ idea of applying the cards had occurred; and the Analytical Engine does not occupy common ground with mere \"calculating machines.\" It holds a position wholly its own; and the considerations it suggests are most interesting in their nature."
+  },
+  {
+    "id": "wikisource_oeuvre_pascal-q1",
+    "doc_id": "wikisource_oeuvre_pascal",
+    "source_title": "L’Œuvre scientifique de Blaise Pascal (Pascaline section)",
+    "year": 1912,
+    "language_code": "fr",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines"
+    ],
+    "text": "La machine a calculer ou la Pascaline Bien que venant après une partie de ses recherches sur les sections coniques, il en sera traité dès le début."
+  },
+  {
+    "id": "wikisource_oeuvre_pascal-q2",
+    "doc_id": "wikisource_oeuvre_pascal",
+    "source_title": "L’Œuvre scientifique de Blaise Pascal (Pascaline section)",
+    "year": 1912,
+    "language_code": "fr",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines"
+    ],
+    "text": "La construction ainsi que la disposition des diverses pièces mécaniques qui la composent ont occupé Pascal pendant près de 9 ans, d’une manière plus ou moins continue, sans qu’il négligeât de s’intéresser à d’autres problèmes ; l’idée de la machine lui vint à Rouen en 1643 ; il avait donc 20 ans."
+  },
+  {
+    "id": "wikisource_par_fil_special-q1",
+    "doc_id": "wikisource_par_fil_special",
+    "source_title": "Par fil spécial",
+    "year": 1924,
+    "language_code": "fr",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Office Work",
+      "Fiction"
+    ],
+    "text": "PRÉFACE 7 COMMENT JE DEVINS SECRÉTAIRE 9 NOTRE JOURNAL 17 LA LANGUE 23 QUELQUES BUREAUX 35 VISITE INDISCRÈTE 43 « ILS » 49 LES ROTATIVES 57 M."
+  },
+  {
+    "id": "wikisource_passages_from_the_life_of_a_philosopher-q1",
+    "doc_id": "wikisource_passages_from_the_life_of_a_philosopher",
+    "source_title": "Passages from the Life of a Philosopher",
+    "year": 1864,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Engines"
+    ],
+    "text": "Thirdly, in labouring to perfect this Analytical Machine of greater power and wider range of computation, I have discovered the means of simplifying and expediting the mechanical processes of the first or Difference Engine."
+  },
+  {
+    "id": "wikisource_passages_from_the_life_of_a_philosopher-q2",
+    "doc_id": "wikisource_passages_from_the_life_of_a_philosopher",
+    "source_title": "Passages from the Life of a Philosopher",
+    "year": 1864,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Engines"
+    ],
+    "text": "That he refused to take the opinion of the highest mechanical authority in the country on its probable cost, and even to be informed whether a contract for its construction at a definite sum might not be attainable: he then boldly pronounced the expense to be \"utterly incapable of being \"calculated.\" This much-abused Difference Engine is, however, like its prouder relative the Analytical, a being of sensibility, of impulse, and of power."
+  },
+  {
+    "id": "wikisource_sketch_analytical_engine-q1",
+    "doc_id": "wikisource_sketch_analytical_engine",
+    "source_title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
+    "year": 1843,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Engines"
+    ],
+    "text": "The former chiefly treats it under its mechanical aspect, entering but slightly into the mathematical principles of which that engine is the representative, but giving, in considerable length, many details of the mechanism and contrivances by means of which it tabulates the various orders of differences."
+  },
+  {
+    "id": "wikisource_sketch_analytical_engine-q2",
+    "doc_id": "wikisource_sketch_analytical_engine",
+    "source_title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
+    "year": 1843,
+    "language_code": "en",
+    "topic": "computing",
+    "page": "n/a",
+    "tags": [
+      "Computation",
+      "Machines",
+      "Engines"
+    ],
+    "text": "The bounds of arithmetic were however outstepped the moment the ​ idea of applying the cards had occurred; and the Analytical Engine does not occupy common ground with mere \"calculating machines.\" It holds a position wholly its own; and the considerations it suggests are most interesting in their nature."
   }
 ]

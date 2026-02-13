@@ -102,7 +102,7 @@ export default async function HomePage() {
       {/* Browse sections */}
       <section className="container-content py-16 md:py-20">
         <h2 className="text-center mb-12">Browse the Archive</h2>
-        <div className="grid md:grid-cols-3 gap-8">
+        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
           <BrowseCard
             href="/decade"
             title="By Decade"
@@ -113,16 +113,23 @@ export default async function HomePage() {
           <BrowseCard
             href="/topic"
             title="By Topic"
-            description="Explore thematic collections across computing, automata, intelligence, and more."
+            description="Explore thematic collections across computation, automation, intelligence, and more."
             items={stats.topics.slice(0, 4)}
             count={stats.topics.length}
           />
           <BrowseCard
             href="/language"
             title="By Language"
-            description="Access texts in English, French, German, Russian, Spanish, and Italian."
+            description="Access texts in English, French, German, Russian, Spanish, Italian, and Latin."
             items={stats.languages.slice(0, 4)}
             count={stats.languages.length}
+          />
+          <BrowseCard
+            href="/concepts"
+            title="By Concept"
+            description="Trace 12 core concepts like intelligence, learning, mechanism, and probability across time."
+            items={['intelligence', 'learning', 'reasoning', 'automation']}
+            count={12}
           />
         </div>
       </section>

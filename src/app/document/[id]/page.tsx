@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import { Suspense } from 'react'
 import { getDocument, getCorpus, LANGUAGE_NAMES, TOPIC_NAMES } from '@/lib/corpus'
 import { getQuotesByDocument } from '@/lib/quotes'
 import { notFound } from 'next/navigation'
@@ -143,13 +144,22 @@ export default async function DocumentPage({ params }: PageProps) {
               </div>
             )}
 
-            <TextViewer
-              filename={doc.filename ?? null}
-              supabaseUrl={process.env.NEXT_PUBLIC_SUPABASE_URL || ''}
-              hasTranslation={doc.has_translation}
-              translationFilename={doc.translation_filename}
-              originalLanguage={doc.language}
-            />
+            <Suspense fallback={<TextViewerFallback />}>
+              <TextViewer
+                filename={doc.filename ?? null}
+                supabaseUrl={process.env.NEXT_PUBLIC_SUPABASE_URL || ''}
+                docTitle={doc.title}
+                docCreator={doc.creator}
+                docYear={doc.publication_year || doc.year}
+                docSourceUrl={doc.source_url}
+                docIdentifier={doc.identifier}
+                hasTranslation={doc.has_translation}
+                translationFilename={doc.translation_filename}
+                originalLanguage={doc.language}
+                originalLanguageCode={doc.language_code}
+                gibberishPages={doc.gibberish_pages}
+              />
+            </Suspense>
 
             {quotes.length > 0 && (
               <section className="mt-8 bg-paper-50 border border-paper-200 rounded-sm p-6">
@@ -202,6 +212,17 @@ function MetadataRow({ label, value }: { label: string; value: string }) {
     <div>
       <div className="meta-label mb-0.5">{label}</div>
       <div className="font-sans text-sm text-ink-900">{value}</div>
+    </div>
+  )
+}
+
+function TextViewerFallback() {
+  return (
+    <div className="bg-paper-50 border border-paper-200 rounded-sm p-6 md:p-8">
+      <div className="text-center py-16">
+        <div className="inline-block w-6 h-6 border-2 border-copper-400 border-t-transparent rounded-full animate-spin mb-4" />
+        <p className="text-ink-400">Loading document text...</p>
+      </div>
     </div>
   )
 }

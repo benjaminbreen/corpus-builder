@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { getDocumentsByTopic, getAllTopics, getCorpusStats, TOPIC_NAMES } from '@/lib/corpus'
+import { getDocumentsByTopic, getAllTopics, getCorpusStats, TOPIC_NAMES, TOPIC_ALIASES } from '@/lib/corpus'
 import { DocumentList } from '@/components/DocumentList'
 import { TimelineMini } from '@/components/Timeline'
 import { notFound } from 'next/navigation'
@@ -15,7 +15,8 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: PageProps) {
   const { id } = await params
-  const displayName = TOPIC_NAMES[id] || id
+  const topicKey = TOPIC_ALIASES[id] || id
+  const displayName = TOPIC_NAMES[topicKey] || topicKey
   return {
     title: `${displayName} | GEMI`,
     description: `Documents about ${displayName.toLowerCase()} in the GEMI archive.`,
@@ -23,27 +24,29 @@ export async function generateMetadata({ params }: PageProps) {
 }
 
 const TOPIC_DESCRIPTIONS: Record<string, string> = {
-  calculating_machines: 'From Pascal\'s Pascaline to Babbage\'s Analytical Engine, trace the history of mechanical computation and the dream of automated arithmetic.',
-  automata: 'Clockwork figures, mechanical ducks, chess-playing Turks — the fascinating history of machines that imitate life.',
-  thinking_machines: 'Philosophical debates and speculative designs for machines that might think, reason, and understand.',
-  computing: 'The emergence of electronic computation, from theoretical foundations to practical machines.',
-  cybernetics: 'Norbert Wiener\'s science of control and communication in animals and machines.',
-  automation: 'The mechanization of labor and the social implications of automatic factories.',
-  intelligence: 'Philosophical investigations into the nature of intellect, reason, and understanding.',
-  learning: 'How do minds acquire knowledge? Historical debates on memory, habit, and instruction.',
-  mechanism: 'The mechanical philosophy that saw the universe as a vast clockwork.',
-  statistics_probability: 'From games of chance to regression to the mean — the mathematical foundations of prediction.',
+  automata_artificial_beings: 'Clockwork figures, androids, mechanical chess players, and speculative machines that imitate life and mind.',
+  computing: 'From mechanical calculation to electronic computation and the dream of automated arithmetic.',
+  logic_formal_reasoning: 'Systems of inference, symbolic logic, and attempts to mechanize reasoning.',
+  intelligence: 'Debates on intellect, reason, cognition, and the boundaries of agency.',
+  learning: 'Memory, habit, training, and the long history of how minds acquire knowledge.',
+  mechanism: 'The mechanical philosophy, machinery, and the universe imagined as clockwork.',
+  statistics_probability: 'Probability, error, regression, and the statistical foundations of prediction.',
+  cybernetics: 'Feedback, control, systems thinking, and the networks of communication and regulation.',
+  automation: 'Mechanization of labor, automatic control, and the social consequences of machine work.',
+  representation_symbol_systems: 'Signs, symbols, notation, and the dream of universal or formal languages.',
 }
 
 export default async function TopicPage({ params }: PageProps) {
   const { id } = await params
-  const documents = await getDocumentsByTopic(id)
+  const topicKey = TOPIC_ALIASES[id] || id
+  const documents = await getDocumentsByTopic(topicKey)
   const stats = await getCorpusStats()
-  const displayName = TOPIC_NAMES[id] || id
+  const displayName = TOPIC_NAMES[topicKey] || topicKey
+  const topicQuery = topicKey.replace(/_/g, ' ')
 
   if (documents.length === 0) {
     const allTopics = await getAllTopics()
-    if (!allTopics.includes(id)) {
+    if (!allTopics.includes(topicKey)) {
       notFound()
     }
   }
@@ -69,9 +72,9 @@ export default async function TopicPage({ params }: PageProps) {
 
         <h1 className="mb-4">{displayName}</h1>
 
-        {TOPIC_DESCRIPTIONS[id] && (
+        {TOPIC_DESCRIPTIONS[topicKey] && (
           <p className="text-lg text-ink-600 max-w-2xl mb-6">
-            {TOPIC_DESCRIPTIONS[id]}
+            {TOPIC_DESCRIPTIONS[topicKey]}
           </p>
         )}
 
@@ -110,6 +113,7 @@ export default async function TopicPage({ params }: PageProps) {
           showFilters={true}
           showSort={true}
           showTopic={false}
+          linkQuery={topicQuery}
           initialSort="year-asc"
           emptyMessage={`No documents on ${displayName.toLowerCase()} in the archive yet.`}
         />

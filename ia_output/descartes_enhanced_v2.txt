@@ -1,0 +1,321 @@
+
+--- Page 1 ---
+
+This is a reproduction of a library book that was as part of an ongoing effort to preserve the information in books and make it universally accessible.
+
+books
+
+http://books.. com
+--- Page 2 ---
+
+,. hoy we an >. SNe.: * ‘ * ay a. *. ~ “oe Pace “ Me a “ * - ne * she..3.? a ‘ ny é oa.. ' - -.:;.:, ° on '.. > ia “ an 1 toy 7.: ’....: x ra. ‘ « 4...,.:. 4 - ). ’. > ie, 3 * 7a: Sok? >:.,. e. ae 5 o ‘ %, ao ‘ é ¥ ’:, Soe,: 5 * “4: * ¥ vy s a wsS » a:...;;,.; ‘ oe j lope ve a; ',. an ° a: _:, ’ ° * - ~ ‘ ’ * é ‘. © * ee x.: - * ‘ Hi 7. * rd t s.. ‘ "ot ° 6 -#:.? t, fo,.: *e “ ‘ +, aan.:. ue. ‘:; a ‘. a of * 1 Pea 4 *..: a t a, * o ‘. as, on 2 + 5 t 2, é -: a B * ‘ 2; a. Loe. 4 1. oa ¥ 5 ¥. t ‘: * ~ a. j -;,.. i 2 +: «,. ° som 24: tay ‘; ' ae ~  ‘ x. an Ne" 5 “of coos Ne S48 _ 4 *. qe *,,. ‘., oe on. oan.. ‘%,. ns > ' roy ‘. *. 4. |::. * x ® ‘ ey oy we ae - aa ef '. af a;: cs -.. 7. -: % 4.:., é te.. te -:,.. 4. ° he ole:, a ¥ o aad _ 4 4 ay. * vos a &. nt 3 ‘ ad... ” oar » he ‘ wooed + " oe ‘« se yO i ae:. Lo: oo,..... 6 ’ an;; “ “ rows. Loy °. 2 +:. x «. > ° ~, ¥ eo. pe. a oe ‘. ca *.. * #. wo r aa: + *,: ’:::. oe P:.. 2 rg. oat;.:..... es; b: ae é: “., a ot. 7; 2,:; ¥ = *: ‘ 7 RS + a; * >.: 5: %.:. ‘.;;; 2 ‘ ‘,. +..:, ° ° ‘ ~ i é - oe.. ~ ‘.., ye. °,, ~.. te *. ‘,. 1 2 * 7. 7 ~* € * 4 \.:: wT, - y..  ue ad * Sar: ©: -. xt xy..? -. ‘ A & t 7 $s ” mt.. '; ) >: +
+--- Page 3 ---
+
+r
+--- Page 4 ---
+
+
+--- Page 5 ---
+
+
+--- Page 6 ---
+
+DISCOURSE ON METHOD.
+--- Page 7 ---
+
+
+--- Page 8 ---
+
+DISCOURSE
+
+ON THE
+
+METHOD OF RIGHTLY CONDUCTING THE REASON,
+
+AND SEEKING TRUTH IN THE SCIENCES.
+
+BY DESCARTES.
+
+TRANSLATED FROM THE FRENCH:
+
+WITH AN INTRODUCTION.
+
+EDINBURGH: SUTHERLAND AND KNOX. LONDON: SIMPKIN, MARSHALL, AND CO.
+
+MDCCCL.,
+
+ale
+--- Page 9 ---
+
+EKPINBURGH ¢ T. CONSTABLE, PRINTER TO HER MAJESTY,
+
+WOO. CG, “ C
+--- Page 10 ---
+
+TRANSLATOR’S PREFACE,
+
+Wir respect to the Tract, of which a transla tion is here presented, it may be proper to state, that what refers strictly to its matter has been reserved for the Introduction..
+
+It may be necessary, however, here to mention, that the Discoursz on Metuop is possessed of a twofold value and interest; firstly, on account of the doctrines which, viewed in itself, the Tract contains; and, secondly, from its being the general introduction to the works of Dxscarrss, which, as is well known, were the means of elicit ing the intense philosophical activity of the last two centuries, of determining the current of this activity, and of raising those problems with which philosophical schools continue at this hour to grapple——The Translator would consider that "an important end had been promoted were the present translation of the Mertraop to aid in fixing the attention of those interested in philo-
+
+¢
+--- Page 11 ---
+
+vi TRANSLATOR’S PREFACE.
+
+sophical pursuits on the other works of its great Author.
+
+It is hoped, moreover, that the MztHop may prove a somewhat suitable accompaniment to the Loatc of the Port-Royat. These treatises pos sess each, indeed, a separate utility: and, though the end sought by each is different, the realization of the ends of both is necessary to perfect know ledge. For while the practical end of Logic is the right ordering of the matter of thought, the end of the Discourse on Metuop is mainly to mani fest the reality, and determine the sphere of knowledge: and the latter process does not yield in importance or necessity to the former.
+
+With reference to the translation, it is proper to state that, though the French work has been taken as the basis, the Translator has not con sidered himself bound to adhere, in every in stance, to its text. The first, or French edition has, indeed, been carefully compared throughout with the Latin; and, as this edition is declared by DzscarrEs to have been revised by himself, and to contain amendments on the original from his own hand, the preference has been accorded to it in all cases in which it has appeared to the Translator that the meaning is more per fectly given.*
+
+* Compare, e. g., Rule I[I., MetHon, Part II., in the French and Latin.
+--- Page 12 ---
+
+TRANSLATOR’S PREFACE. Vil
+
+The Translator ig not aware of the existence of any previous English version of the METHOD.
+
+The Translator willingly takes this opportunity of acknowledging his great obligations to Profes sor Macpoveatt. To his minute revision of the translation numerous improvements are due.
+
+EpINBURGH, October 1850.. le
+--- Page 13 ---
+
+
+--- Page 14 ---
+
+INTRODUCTION BY THE TRANSLATOR.
+
+Tue Discourse on Meruop principally contains two things:—
+
+1. An account of the Philosophical Method of its author.*
+
+9. A summary of the Chief Results of the Method.
+
+* DESCARTES was born at La Haye, in Touraine, in the year 1596, and died at Stockholm in 1650. Of the particulars of his life, it is unnecessary to say anything, as a knowledge of them is easily acces sible. The Discourse on Method contains, moreover, an account of the rise and progress of his speculations; and it is in his character of thinker and philosophical reformer that we have now to deal with him.
+
+The principal works of DESCARTES are—
+
+1, The four Treatises originally published in a single volume with the following title, Déscours de la Méthode pour bien conduire su Raison, et chercher la Veérité dans les Scvences. Plus, la Dioptrique, les Météores, et la Géométrie, qui sont des Essais de cette Méthode. Leyden, 1637.
+
+The Method, Dioptrics, and Meteorics, were translated into Latin by Courcelles, and published at Amsterdam in 1644. There is also by Descartes a fragmentary treatise, the subject of which is kindred to that of the Method. It is entitled, Regula ad Directionem Ingenii; and to it is annexed another entitled, Znquisitio Verilatis per Lumen Naturale. These were published posthumously.
+
+9. Meditationes de prima Philosophia, ubi de Dei eatstentia, et ant ma timmortalitate. Paris, 1641.
+
+3. Principia Philusophia. Amsterdam, 1644.
+
+4. Traité des Passions de (Ame. Ameaterdam, 1649,
+
+ale.;
+--- Page 15 ---
+
+xx INTRODUCTION,
+
+To these I propose to advert in their order; but chiefly to the former, because, in the first place, a special reference to the Method itself is mainly relevant in an introduction to the Dis COURSE ON Meruop, and because, in the second place, a formal though general discussion of the results of the Cartesian Method must far exceed the limits of the present introduction. Certain of the prominent results of the Method will, however, fall to be noticed as illustrative of the characters of the Method itself: and certain of the more general relations of Drscartgs to suc ceeding philosophers will be indicated in conclu sion.
+
+OF THE METHOD OF DESCARTES.
+
+The Method of Descartes has a preliminary, the character of which it is necessary precisely to ascertain.
+
+The preliminary to the Method is Doubt. This leads us to inquire, in the first place, into the na ture of the Cartesian Doubt.
+
+I. Doubt in general, and the Cartesian doubt in particular, is equivalent simply to theabsence of any decision, whether affirmative or negative, respect ing the relation of the subject and predicate of a Judgment. Doubt is thus the suspension of the act of the faculty of judgment, in so far as the determination of the joining or disjoining of the terms of a proposition is concerned. This sus pension arises in the absence of grounds adequate to determine either certain affirmation or nega-
+--- Page 16 ---
+
+INTRODUCTION, Xi
+
+tion; and passes away whenever the mind is determined either to join or disjoin, to include or exclude, with certainty. Thus far of doubt in general, and of the Cartesian doubt in particular.*
+
+It is necessary to state farther, that the Carte sian doubt embraced within its sphere all the judgments and beliefs that were due to education and authority. Of these, Descartes made a sur render, under certain conditions and reservations to be found stated in the Method (Part IIL): which, however, scarcely affect the generality and immediateness of the doubt.
+
+But doubt, suspension of judgment, is with DescaRTES not an end in itself; it is not that for which, as with the Sceptic, the activity of the faculties of knowledge is put forth, and which is itself for no other end. On the contrary, doubt is with Descartes singly a means, and the end of the Cartesian doubt is the end of the Cartesian
+
+* Asin certain passages of the Discourse on Method the precise nature of the Cartesian doubt does not appear, it may be proper to quote the following explicit declaration by Descarres himself, in reply to GassENDI:—* In order to rid one’s self of all sorts of preju dices, it is necessary only to resolve to affirm or deny nothing of all that we had formerly affirmed or denied, until this bas been examined anew, although we are not on this account prevented from retaining in the memory the whole of the notions themselves.” Lettre de M. Descartes 4 M. Clerselier, &. See Simon’s Ed., p. 367. Compare Remarks on Seventh Objections, E.
+
+In doubting, therefore, Descartes suspended his judgment, that is, he asserted neither that the subject lay within nor without the sphere of the predicate; and as in this respect the act had no deter minate product, DescaRTEs was not as yet a Dogmatist. Again, as the doubter resolved to doubt, he affirmed the propriety of the doubt, and its necessity as a means to his end; to tle extent of this affirmation, DESCARTES is a Dogmatist.
+--- Page 17 ---
+
+xi INTRODUCTION.
+
+Method, viz. Certainty. In this respect is the Cartesian doubt distinguished from the sceptical, the end of which is not the certainty of affirma tion and negation, but continual doubt, and thence permanent indifference and indisturbance.*
+
+The Cartesian doubt, therefore, in so far as preliminary to the Cartesian Method, is simply equivalent to a resolution to accept such truths as the philosopher might determine to fall within the sphere of Science, of Philosophy, on their own evidence, and on that alone.
+
+Such is the nature and end of the Cartesian doubt. The manner in which Descartes avails himself of doubt to accomplish the end of his Method will be noticed in detail when we come to show how he manifests the reality of know ledge.
+
+From what has been said of the Cartesian doubt its legitimacy is manifest. Doubt of this nature, though perhaps not in an unlimited generality and immediacy, is even obligatory as a means to knowledge, if we would not take our opimions on trust.
+
+But, in the second place, it may be proper at this stage to show what the Cartesian doubt, viewed in its general aspect, involves, in respect of the Principle of Truth and Certainty.
+
+II. This is manifestly the denial of the jurisdic tion of authority in the sphere of the true and
+
+* See the Metbod, Part III, p. 713 also Part I1V.; and thie Ist Meditation, passim; compare Hypotyposes of S, Empiricus, Book L, chap, iv.
+
+ale
+--- Page 18 ---
+
+INTRODUCTION. Xhi
+
+the false. Dzscartss doubted, withheld his as sent from the judgments bequeathed to him by education and authority, that he himself might determine which, and how many of these were true. By this act he implicitly asserted a mght to decide upon the truth or falsity of what author ity had laid down, and, therefore, the superiority to authority of another principle in the sphcre of truth. This new principle was none other than Human Thought itself,—thought unfettered except by its own laws,—the intelligence acting within the limits prescribed to it by its own na ture and constitution. But to proclaim free re flection as a principle superior to authority in the search after causes or reasons, was to proclaim the independence of philosophy,—to affirm that the deliverances of human thought were superior to the decrees of the Church. By his doubt, there fore, did Descartes challenge the propriety, and consummate the ruin of that philosophy known as Scholastic, whose foundations for the last two centuries had been gradually giving way, and chiefly under the influence of independent phy sical research. Under Scholasticism the human mind had other laws than its own,—thought was subordinated to authority, at first absolutely, then partially, and the whole activity of the mind was limited to the deduction of conclusions from principles which authority furnished. But in the new and pure philosophy of Desoarrzs, the mind was sct free to seek alike its principles and con clusions; authority was subordinated to thought.
+--- Page 19 ---
+
+X1V INTRODUCTION.
+
+In this respect, what Bacon* accomplished in Britain, DrscarTes accomplished on the Con tinent.
+
+But, in the third place, it is not enough that the mind be disenthralled, and permitted to go in search of principles in independence of author ity; care must be taken that liberty do not de generate into license. After the Cartesian pre liminary, it was possible that the mind might be carried away by the mere pleasure of activity; and, as the degree of activity is higher, and con sequently the pleasure, in proportion to the ab sence of impediment or of rule, the danger of the mental activity setting at nought all limits, or of mind acting without rule, was great. Hence the need of a fixed or’regular philosophical pro cedure as the only guarantee of reaching truth and certainty,—hence, in a word, the need of a MerHop. This leads us to inquire more particu larly into the nature of Method.
+
+Iff. On this point we have an explicit declar ation by Descartes himself, which is at once brief and comprehensive. “ By Method (he says) I understand rules certain and easy, such as to
+
+* The Philosophical Reformation accomplished by DescaRTES was effected in absolute independence of Bacon. Descartes was no doubt acquainted with the works of Bacon in the year 1633 (Ep. Pars. ii. Ep. Ixvii.), and even perhaps so early as 1626. These admissions do not, however, affect his absolute originality, for we know from his own statement that he had commenced in 1619 to seek truth in in dependence of authority, and according to the principles of the Method which even then he had thought out for himself. But Descartes, in truth, in what he essayed and accomplished, and in the means he adopted, has but little in common with Bacon.
+--- Page 20 ---
+
+INTRODUCTION. XV
+
+prevent any one, who shall have accurately ob served them, from ever assuming what is false for what is true, and by which, with no effort of mind uselessly consumed, but always by degrees increasing science, a person will arrive at a true knowledge of all those things which he will be capable of knowing.”—(Reg. ad direct. ingeni.— Req. iv.)
+
+In accordance with this declaration, it 1s mani fest that procedure by a Method is a fixed proce dure, for it isa procedure according to rule. It is thus opposed to procedure by chance or at random.
+
+Such procedure supposes, it is plain, the pre vious determination of some end which in thus proceeding we design, and exclusively design, to realize. Procedure by Method, as a procedure in accordance with certain rules, which we have laid down with a view to the realization of an end, is therefore a reflective procedure.
+
+As a Method is thus a sum of precepts, the observance of which is calculated to enable us to realize a given end, it is plain that the kind and character of the precepts of which a method is the sum will be determined by the kind and character of its end: hence Methods will differ according to their ends. The character of philo sophical Method will therefore be determined by the nature of the end of Philosophy.
+
+Now, Philosophy or Science is possible, and is necessary, because of our possession of faculties of knowledge: hence the end of philosophy is the end of these faculties, that is, is Knowledge.
+
+ale ©
+--- Page 21 ---
+
+XVi INTRODUCTION.
+
+Again, as we only really know when we know a thing as it is, that is, when our knowledge is true, the end of philosophy of science may be said to be Truth: hence philosophical or scientific Method will be a procedure so regulated as to enable the seeker to reach Truth.
+
+Té is thus that Descartes makes True Know ledge (vera cognitio), or Truth, the end of philoso phical or scientific Method.
+
+The mind, in proceeding by Method, while it manifests, likewise concentrates its activity. It seeks ‘through the action of the faculties of knowledge, specially directed, more perfect know ledge than is passively afforded in the spontane ous presentations of sense and self-consciousness. The activity of the faculties of knowledge is con centrated on objects, and is only manifested in accordance with certain rules. The cognitive power, by being thus limited to a determinate channel, is prevented from being wasted or thrown away in irregular exercise. The activity of the mind is subordinated to the realization of a given end; the mind itself has another rule than its own impetuosity. Drscarrzs, therefore, to reach truth, and for the right conduct of the mind, that 1s, to prevent it from wasting its powers in capricious activity, instituted a Method.
+
+Such is the end, and such the need of Method. Ti will be necessary, however, in the fourth place, to show more particularly the nature of the Method of Descarrrs; and, first, of the Method in its prior half.
+
+ale
+--- Page 22 ---
+
+INTRODUCTION. xvi
+
+IV. The end of philosophical procedure is, as we have seen, True Knowledge, or Truth.
+
+Truth refers exclusively to judgments. A judg ment is truc when what we include within certain limits is really therein included, and when what we exclude is really therefrom excluded. The end of philosophical method in general is, there fore, the determination of real inclusions and ex clusions.
+
+We must distinguish, however, between Method that is instituted merely for the purposes of Science, and that instituted for the ends of Philo sophy Proper.
+
+The end of Scientific Method in general is, the determination of individual truths in this and that matter, the elaboration of these into classes, and the binding them up into system.
+
+The end of the Method of Philosophy Proper, as this is laid down by Descartes, is twofold; for it is to find by reflection, the Ultimate Ground of the Truth of the judgments of Science; and likewise of our Assurance of the truth of these judgments.
+
+Descartes thus seeks to establish and vindicate the reality of knowledge; and that by connect ing, in the way of consequence, the whole series of subordinate truths, that is, the whole truths of Science with the ultimate truths, or truth, if such exist: and likewise by discovering the ground of our assurance of individual truths through the discovery of the ground of our certainty in the highest truth.. shee
+--- Page 23 ---
+
+xviii INTRODUCTION.
+
+The determination of such truths or truth is, according to Descartes, to be reached by Analysis. The Philosophical Procedure of Descartes is thus, in the first instance, Analytic.
+
+Analysis, in general, consists in the resolution of the complex into the simple and constituent.
+
+The main, the ruling Analysis of DescarrEs is essentially the Analysis of Geometry. The end of Descartes is to reach Principles or Reasons. In pursuance of this end, he proceeds always from the judgment of the truth of which he is un certain, and seeks to find whether the other judg ments, which the one in question involves, are true, and through these to determine the truth of the proposition from which he starts. Such is the nature of his general procedure.
+
+The matter of our knowledge, viewed’ in the light of this Analysis, is not considered with re ference to the purposes of classification (non in quantum ad aliquod genus entis referuntur), but with reference to its capability for consequence; to the relation of the determining and deter mined (in quantum une ex aliis cognoscr possunt). The knowledge sought is thus, when reached, ob tained through other knowledge, through other truth.
+
+The Analysis of Descartes thus manifestly supposes doubt as its essential preliminary; for, as the end of the Analysis is to manifest truth, it is plain, since we have recourse to it, that truth is concealed,—that we are in ignorance, need de termining reasons; in a word, are in doubt.
+
+ale
+--- Page 24 ---
+
+INTRODUCTION. xix
+
+On the hypothesis that knowledge by Method is possible, it is plain that there must be some knowledge, some truth, which is superior to doubt, and capable of affording other knowledge, other truth whose certainty is dependent on the higher knowledge, that is, on principles.
+
+In accordance with the nature of his instru ment, the whole Philosophy of Descartes is but an attempt to find the Principles or Principle which, as absolutely ultimate in the order of Analysis, and, therefore, absolutely primary in the order of the reverse process, that is, of Syn thesis, affords the conditions and possibility of Science, of Philosophy, or of Methodical Know ledge. In other words, Descarres seeks that truth which, itself contained in no higher, con tains, or at least affords the condition of our reach ing, all other truths.
+
+Now the ultimate principles or principle must, as ultimate, be self-evidencing, that is, stand in need of no proof, of no higher knowledge as its guarantee; and the degree of its evidence must be such as to determine in the knower absolute and indestructible assurance. The first truth must, therefore, be approached through the High est Certainty.
+
+Again, as the absolutely certain is wholly superior to doubt; as of such doubt in truth is impossible, Descartes makes Doubt the means of establishing the Ultimate Truth, by constitut ing it the regulative principle of his Analysis.
+
+Descartes thus not only commences with a. le
+--- Page 25 ---
+
+xx INTRODUCTION.
+
+general doubt. He likewise proceeds to truth through doubt; and that by proposing to deter mine the limits of doubt. He seeks to discover how far doubt is possible, of what it is impos sible; that is, whether there be any knowledge of which we possess an absolute certainty.
+
+Such is the Method of Descartes in its prior half. It will be necessary, however, now to de velop its application, to show how Descartes essays to construct Philosophy, or the Science of Reasons.
+
+Proceeding by Doubt, Descartes finds it pos sible to doubt of the truth of the presentations of Sense, and of the contents of Memory; and like wise even of the demonstration of Mathematics. Such afford no absolute assurance.
+
+But though it be possible to doubt whether anything exists as it is presented, or existed as represented in Memory, it is impossible to doubt of the existence of the presentations and repre sentations themselves; and as these presentations and representations, in so far as we are conscious of them, are modes of our thought, it 1s impos sible to doubt of the fact of Thought or Think ing.*
+
+* To show in what extension the term Thought (cogitatio, pensée) is used by Descartes, the following passages may be adduced: “ In the term thought I comprehend all that is in us of which we are im mediately conscious. Thus all the operations of the will, of the intellect, of the imagination and senses, are thoughts.” —Resp. ad Sec, Ohjvct, p. 85. (Ed. 1663.) Again, in reply to the question, What is a thing which thinks? he says, “It is a thing which doubts,
+
+understands, conceives, affirms, desires, wills, and does not will, which imagines also and feels.”— Med. I. p. 11.
+
+ale
+--- Page 26 ---
+
+INTRODUCTION. xxi
+
+But why is it impossible to doubt of the exist ence of thought? Because, replies Dzscarrss, to doubt is to think. Hence in doubting itself we think; let us doubt as we will we never escape thinking.
+
+But in affirming the fact of our thought, or thinking, and in being necessitated to affirm it, we affirm and are necessitated to affirm the fact of Self-Existence. This fact is, according to DxEs carves, above proof, as it is above doubt: our con aciousness of it is the first or fundamental, as it is an absolute and indestructible, certainty. The place which this consciousness occupies in Car tesianism, as its cardinal point, demands for it special attention; while the diversity of opinions concerning the nature of the Cartesian expression in which the knowledge is embodied necessitates _ a special statement on the subject.
+
+But to simplify the question, we must consider that there are, as there can only be, two opinions regarding the nature of the famous Cartesian principle.
+
+Descanrrus, inthe expression “Cogito, Ergo Sum,” must either be held to deduce the knowledge of self-existence from a higher (more general) know ledge, as, e. g., What thinks, is, phenomenon implies a substance, or simply to affirm the fact, that is, to enounce it as a knowledge immediately evident. If the former alternative be true, it is manifest that this knowledge is no longer primary, is no longer fundamental, since there is a knowledge (viz, that from which it is inferred) which is re-
+
+ale Cc
+--- Page 27 ---
+
+XXli INTRODUCTION.
+
+latively prior. If the latter be correct, this know ledge is a first principle; it is not inferred from any higher knowledge.
+
+Now that this knowledge is mediate, is inferen tial, Descartes has repeatedly and explicitly de nied.* It is, therefore, according to DrscartEs immediate and underived. But though incapable of proof, it is yet competent to show how the fact is arrived at, is found, or supposed to be found, in the way of Reflective Analysis.
+
+To place the whole matter in a clear light, we have, in the first place, to attend to the following points. It ought to be considered:—
+
+1. That Existence is as nothing to us where it is not manifested in some determinate Manner. In thinking anywhat as existing, we must think it existing in this or that Mode or Manner: of Existence apart from the Mode in which it appears to us, we have no positive, no immediate know ledge.
+
+2. Again, that, as in thinking a thing existing we must think it existing in this or that mode, so we cannot think of a determinate Mode of exist ence, without at the same time and in the same indivisible act of thought, thinking that Some what of which this Mode is a manifestation, exists. Wherefore:—
+
+3. That Self, that “I” in existing for self, for
+
+» Bee M. Cousin, Sur le vrai sens du Cogito, Ergo Sum, in the Frag ments Philosophiques. But see especially Descartes’ Responsio ad Seeundas Objectiones, p. 74 of the ed. 1663. See likewise Sprnoza’s Prin. Phil, Curtes, vol. i. pars 1. p. 4, (Ed. 1802.)
+--- Page 28 ---
+
+INTRODUCTION. Xxill
+
+me, exists only in this or that Mode: and like wise that in appearing to me in this or that Mode it to the extent of its appearance or manifestation exists, or is thought existent.
+
+4, That Self as the Subject of, or Existence un derlying certain acts or modifications which exist only in so far as we are conscious of them, is not known to us as existing unless through these; and likewise, that we cannot know, be conscious, of any modification or act without knowing, being conscious, that Self to the extent to which we are conscious exists.
+
+Now the First Principle of Descarrzs, as ex pressed in the famous Cogrto, Ergo Sum, is merely a particular case, a concrete or determinate exem plification of these universal laws of thought. It is not an inference from these, but they are, so to speak, derived from it: for universal laws, though potentially prior, are actually posterior in the order of knowledge, to the particular cases in which they are discovered to us under a concrete form. Laws or principles that are necessary and of uni versal extent are, according to truth and the doc trine of Descartes, revealed to us in particular cases and in contingent matter, and are evolved out of these not certainly by elaboration, but by analysis, that is, they are found not made.
+
+That the first principle of Descarres is of such a character and no other,—is indeed a particular exemplification of these universal principles,—and no inference, may be made manifest by briefly con sidering it. Thus, in the first place, when Des-
+
+ale
+--- Page 29 ---
+
+XX1V INTRODUCTION.
+
+CARTES, in the expression Cogito, Ergo Sum, says, I think, or, I am thinking; he says likewise, I exist, or, f am eansting. These affirmations are, in truth, identical. They are contemporaneous, and stand in no relation of subordination. J am thinking is precisely equivalent to J am existing, as it matters not whether we seem to proceed from thinking to existing, or from existing to thinking, for in the one knowledge is given the other: in knowing that I think, I know that I exist, and in knowing that I exist, I know that I think; that is, am con scious of some determinate act manifested by me. The expression, Cogito, Ergo Sum, is, therefore, not an enthymeme with the suppressed major (sump tion), what thinks, is: but a simple affirmation of the identity in the sphere of self-consciousness of thought and being.
+
+Nor, in the second place, is the existence of self as the subject of thought inferred from the higher knowledge, every Quality supposes a Sub stance, but aftirmed: self and existence are not first sundered or found apart, and then conjoined through some third knowledge, which is higher, more general, and, therefore, inclusive, but imme diately known and affirmed in conjunction (sim phet mentis inturtu), and by the same indivisible act in which we know and affirm the existence of thought. We do not even come to know that self, or a subject of thought exists, through thinking that thought is a quality, for this were virtually to have recourse to the general principle that quality supposes a substance; and besides, to have
+--- Page 30 ---
+
+INTRODUCTION. EXV
+
+already determined that there is a subject of thought, it being impossible to know that a par ticular mode of consciousness is a quality, unless we already know that there is a subject of thought. By this process we could only reach the knowledge sought by first taking it for granted in order to prove or establish it. Thus far of what DescarreEs does not do. What he does, what he affirms, is simply that in knowing the fact of thought, in thinking, or in being conscious in this or that mode, I know also the existence of a determinate something of which this thought is an act, and which it supposes: and this something is Self, is I. To suppose that the thinking subject can only be known in as far as it is logically deduced from the higher principle of substance and phenomenon, is to betray an ignorance of the order in which we know, nay, of the condition under which we acquire this more general knowledge; for it is impossible to affirm by a reflective act that every phznomenon implies a substance, every act a sub ject, until we have first, and, without reflection, affirmed that this or that phenomenon has a sub stance, and then by reflection affirmed that this or that phenomenon must havea substance. Uni versal principles are at first given in particular forms,—in this or that matter, and it is singly by reflection that their necessity and universality be come apparent.*
+
+These things manifest, it is plain, in the third
+
+* Compare Descarrrs’ Reap. ad Sec, Obj., p. 74, (ed. 1663,) and M. Cousin, Lect. 14th on the True. (Brussels ed.)
+
+a
+
+€

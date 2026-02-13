@@ -12,7 +12,7 @@
       "Par Rene\u0301 Descartes"
     ],
     "summary": null,
-    "topic": "automata",
+    "topic": "automata_artificial_beings",
     "language_code": "fr",
     "language": "fre",
     "source_url": "https://archive.org/details/bub_gb_s6lSHDngPFoC",
@@ -20,7 +20,8 @@
     "source": null,
     "filename": "1637_en_bub_gb_s6lSHDngPFoC.txt",
     "has_translation": true,
-    "translation_filename": "1637_fr_bub_gb_s6lSHDngPFoC_en.txt"
+    "translation_filename": "1637_fr_bub_gb_s6lSHDngPFoC_en.txt",
+    "gibberish_pages": []
   },
   {
     "identifier": "novvelleinventio00caus_0",
@@ -37,7 +38,7 @@
       "Includes head and tail pieces, one initial"
     ],
     "summary": null,
-    "topic": "automata",
+    "topic": "automata_artificial_beings",
     "language_code": "fr",
     "language": "fre",
     "source_url": "https://archive.org/details/novvelleinventio00caus_0",
@@ -45,7 +46,8 @@
     "source": null,
     "filename": "1644_en_novvelleinventio00caus_0.txt",
     "has_translation": true,
-    "translation_filename": "1644_fr_novvelleinventio00caus_0_en.txt"
+    "translation_filename": "1644_fr_novvelleinventio00caus_0_en.txt",
+    "gibberish_pages": []
   },
   {
     "identifier": "b33049683",
@@ -63,7 +65,7 @@
       "Institutiones mechanic\u00e6.--De variis corporum generibus gravitate & magnitudine comparatis.--Automata.--Qu\u00e6stiones Diophanti Alexandrini lib. 3.--De triangulis planis rectangulis.--De divisione superficierum.--Music\u00e6 elementa.--De propugnaculorum munitionibus.--Sectiones angulares"
     ],
     "summary": null,
-    "topic": "automata",
+    "topic": "automata_artificial_beings",
     "language_code": "la",
     "language": "lat",
     "source_url": "https://archive.org/details/b33049683",
@@ -71,7 +73,8 @@
     "source": null,
     "filename": "1677_en_b33049683.txt",
     "has_translation": true,
-    "translation_filename": "1677_la_b33049683_en.txt"
+    "translation_filename": "1677_la_b33049683_en.txt",
+    "gibberish_pages": []
   },
   {
     "identifier": "b30766990",
@@ -86,7 +89,7 @@
       "Altdorf (J. Schnapperus, respondent)"
     ],
     "summary": "A 1683 Latin dissertation arguing that animal souls are corporeal substances (unlike immaterial human souls), using evidence from divisibility experiments on worms and comparing animal souls to fire. Critiques Descartes's automaton theory of animals.",
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "la",
     "language": "lat",
     "source_url": "https://archive.org/details/b30766990",
@@ -94,7 +97,8 @@
     "source": null,
     "filename": "1683_en_b30766990.txt",
     "has_translation": true,
-    "translation_filename": "1683_la_b30766990_en.txt"
+    "translation_filename": "1683_la_b30766990_en.txt",
+    "gibberish_pages": []
   },
   {
     "identifier": "bim_early-english-books-1641-1700_a-chronological-automato_watson-samuel-coventry_1690",
@@ -106,7 +110,7 @@
     "creator": "Watson, Samuel, Coventry watchmaker",
     "description": "A chronological automaton:... 1690.. Digitized from IA40310614-08 . Previous issue: bim_early-english-books-1641-1700_a-watch-word-to-the-army_1648 . Next issue: bim_early-english-books-1641-1700_proposals-by-way-of-lot_watson-samuel-coventry_1690 .",
     "summary": null,
-    "topic": "automata",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "Middle English",
     "source_url": "https://archive.org/details/bim_early-english-books-1641-1700_a-chronological-automato_watson-samuel-coventry_1690",
@@ -114,7 +118,8 @@
     "source": null,
     "filename": "1690_en_bim_early-english-books-1641-1700_a-chronological-automato_watson-samuel-coventry_1690.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "bim_early-english-books-1641-1700_the-frontispeice-of-the-_watson-samuel-coventry_1691",
@@ -126,7 +131,7 @@
     "creator": "Watson, Samuel, Coventry watchmaker.",
     "description": "The frontispeice of the chronological automaton ... 1691.. Digitized from IA40310601-89 . Previous issue: bim_early-english-books-1641-1700_a-watch-for-a-wise-mans-_1699 . Next issue: bim_early-english-books-1641-1700_an-answer-to-a-scandalou_wattes-jeremiah_1653 .",
     "summary": null,
-    "topic": "automata",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "Middle English",
     "source_url": "https://archive.org/details/bim_early-english-books-1641-1700_the-frontispeice-of-the-_watson-samuel-coventry_1691",
@@ -134,7 +139,8 @@
     "source": null,
     "filename": "1691_en_bim_early-english-books-1641-1700_the-frontispeice-of-the-_watson-samuel-coventry_1691.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "bim_eighteenth-century_a-practical-method-to-d_ward-john_1714",
@@ -146,7 +152,7 @@
     "creator": "Ward, John.",
     "description": "A practical method, to discover the longitude at sea, by a new contrived automaton.... With an account of the author's new instrument for taking the latitude more accurately at sea, than hath hitherto been practised. ...By John Ward.... 1714.. Digitized from IA40310307-57 . Previous issue: bim_eight",
     "summary": null,
-    "topic": "automata",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "Middle English",
     "source_url": "https://archive.org/details/bim_eighteenth-century_a-practical-method-to-d_ward-john_1714",
@@ -154,7 +160,8 @@
     "source": null,
     "filename": "1714_en_bim_eighteenth-century_a-practical-method-to-d_ward-john_1714.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "b30520903_0002",
@@ -166,7 +173,7 @@
     "creator": "Morgan, Thomas, -1743",
     "description": "lviii, 440 pages, 1 folded plate : (8vo)",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "en",
     "language": "eng",
     "source_url": "https://archive.org/details/b30520903_0002",
@@ -174,7 +181,8 @@
     "source": null,
     "filename": "1725_en_b30520903_0002.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "b30358711",
@@ -189,7 +197,7 @@
       "Translation of Le M\u00e9canisme du fluteur automate, published 1738"
     ],
     "summary": null,
-    "topic": "automata",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "eng",
     "source_url": "https://archive.org/details/b30358711",
@@ -197,7 +205,8 @@
     "source": null,
     "filename": "1742_en_b30358711.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "bub_gb_5Hlb0NzckigC",
@@ -209,7 +218,7 @@
     "creator": "Andre : de Kempelen",
     "description": null,
     "summary": null,
-    "topic": "chess_automaton",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "Latin",
     "source_url": "https://archive.org/details/bub_gb_5Hlb0NzckigC",
@@ -217,7 +226,8 @@
     "source": null,
     "filename": "1754_en_bub_gb_5Hlb0NzckigC.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "bim_eighteenth-century_a-description-of-several_1780",
@@ -229,7 +239,7 @@
     "creator": null,
     "description": "A description of several pieces of mechanism, invented by the Sieur Jacquet Droz, of ... Switzerland. And which are now to be seen at the Great Room, no. 6, in King-Street, Covent-Garden. 1780.. Digitized from IA40313502-11 . Previous issue: bim_eighteenth-century_a-description-of-the-new_1800 . Nex",
     "summary": null,
-    "topic": "automata",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "Middle English",
     "source_url": "https://archive.org/details/bim_eighteenth-century_a-description-of-several_1780",
@@ -237,7 +247,8 @@
     "source": null,
     "filename": "1780_en_bim_eighteenth-century_a-description-of-several_1780.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "andromedaundpers00kemp",
@@ -253,7 +264,7 @@
     ],
     "description": "Published anonymously. Text sometimes attributed to Wolfgang von Kempelen, sometimes attributed to Benedikt Dominik Anton Cremeri. Music by Anton Zimmermann. Cf. Hadamowsky, F. Die Wiener Hoftheater (Staatstheater) 1776-1966, I, 76. Cf. New Grove, XX, p. 687",
     "summary": "A 1780 German opera libretto by Wolfgang von Kempelen (inventor of the chess automaton) dramatizing the Greek myth of Andromeda and Perseus. Features themes of fate, sacrifice, divine intervention, and human agency\u2014concerns that parallel Kempelen's work on mechanical automata.",
-    "topic": "chess_automaton",
+    "topic": "automata_artificial_beings",
     "language_code": "de",
     "language": "ger",
     "source_url": "https://archive.org/details/andromedaundpers00kemp",
@@ -261,7 +272,8 @@
     "source": null,
     "filename": "1780_en_andromedaundpers00kemp.txt",
     "has_translation": true,
-    "translation_filename": "1780_de_andromedaundpers00kemp_en.txt"
+    "translation_filename": "1780_de_andromedaundpers00kemp_en.txt",
+    "gibberish_pages": []
   },
   {
     "identifier": "bub_gb_SLYUAAAAYAAJ",
@@ -273,7 +285,7 @@
     "creator": "Windisch, Karl Gottlieb, 1725-1793",
     "description": "Mode of access: Internet",
     "summary": null,
-    "topic": "chess_automaton",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "fre",
     "source_url": "https://archive.org/details/bub_gb_SLYUAAAAYAAJ",
@@ -281,7 +293,8 @@
     "source": null,
     "filename": "1783_en_bub_gb_SLYUAAAAYAAJ.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "bub_gb_vS4VAAAAYAAJ",
@@ -293,7 +306,7 @@
     "creator": "Windisch, Karl Gottlieb, 1725-1793",
     "description": "Mode of access: Internet",
     "summary": null,
-    "topic": "chess_automaton",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "ger",
     "source_url": "https://archive.org/details/bub_gb_vS4VAAAAYAAJ",
@@ -301,7 +314,8 @@
     "source": null,
     "filename": "1783_en_bub_gb_vS4VAAAAYAAJ.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "bub_gb_w5o5AAAAcAAJ_2",
@@ -316,7 +330,7 @@
     ],
     "description": null,
     "summary": null,
-    "topic": "chess_automaton",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "ger",
     "source_url": "https://archive.org/details/bub_gb_w5o5AAAAcAAJ_2",
@@ -324,7 +338,8 @@
     "source": null,
     "filename": "1783_en_bub_gb_w5o5AAAAcAAJ_2.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "bim_eighteenth-century_the-speaking-figure-and_thicknesse-philip-1719_1784",
@@ -336,7 +351,7 @@
     "creator": "Thicknesse, Philip, 1719-1792.",
     "description": "The speaking figure, and the automaton chess-player, exposed and detected. 1784.. Digitized from IA40313609-06 . Previous issue: bim_eighteenth-century_tentamen-medicum-inaugur_cumming-joannes_1793 . Next issue: bim_eighteenth-century_some-papers-lately-read-_1743 .",
     "summary": null,
-    "topic": "chess_automaton",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "Middle English",
     "source_url": "https://archive.org/details/bim_eighteenth-century_the-speaking-figure-and_thicknesse-philip-1719_1784",
@@ -344,7 +359,8 @@
     "source": null,
     "filename": "1784_en_bim_eighteenth-century_the-speaking-figure-and_thicknesse-philip-1719_1784.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "b30377754",
@@ -359,7 +375,7 @@
       "Half title: A letter to the Bishop of St. David's, &c"
     ],
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "en",
     "language": "eng",
     "source_url": "https://archive.org/details/b30377754",
@@ -367,7 +383,8 @@
     "source": null,
     "filename": "1789_en_b30377754.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "2576049R.nlm.nih.gov",
@@ -395,7 +412,7 @@
       "Condition reviewed"
     ],
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "en",
     "language": "eng",
     "source_url": "https://archive.org/details/2576049R.nlm.nih.gov",
@@ -403,7 +420,8 @@
     "source": null,
     "filename": "1790_en_2576049R_nlm_nih_gov.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "firstlinesofprac13cull",
@@ -430,7 +448,7 @@
       "John Adams Library copy transferred from the supervisors of the Temple and School Fund. Quincy, Mass., 1894"
     ],
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "en",
     "language": "eng",
     "source_url": "https://archive.org/details/firstlinesofprac13cull",
@@ -438,7 +456,8 @@
     "source": null,
     "filename": "1790_en_firstlinesofprac13cull.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "10471351bsb",
@@ -450,7 +469,7 @@
     "creator": "Coleman, Edward",
     "description": "Leipzig 1793 Location/Holding institution: M\u00fcnchen, Bayerische Staatsbibliothek -- Path. 253",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "de",
     "language": "German",
     "source_url": "https://archive.org/details/10471351bsb",
@@ -458,7 +477,8 @@
     "source": null,
     "filename": "1793_de_10471351bsb.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "uvrescomplettesd03helv",
@@ -479,7 +499,7 @@
       "Wellcome cat. of printed books"
     ],
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "en",
     "language": "fre",
     "source_url": "https://archive.org/details/uvrescomplettesd03helv",
@@ -487,7 +507,8 @@
     "source": null,
     "filename": "1795_en_uvrescomplettesd03helv.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "10367865bsb",
@@ -499,7 +520,7 @@
     "creator": "Brandis, Joachim Dietrich",
     "description": "Hannover : im Verlage der Hahn'schen Buchhandlung Braunschweig : gedruckt bei E.W.G. Kircher 1795. Location/Holding institution: M\u00fcnchen, Bayerische Staatsbibliothek -- Anat. 93 m Drucker im Kolophon genannt",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "de",
     "language": "German",
     "source_url": "https://archive.org/details/10367865bsb",
@@ -507,7 +528,8 @@
     "source": null,
     "filename": "1795_de_10367865bsb.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "11107154bsb",
@@ -519,7 +541,7 @@
     "creator": "Hufeland, Christoph Wilhelm",
     "description": "Jena : in der academischen Buchhandlung [Jena] : gedruckt mit G\u00f6pferdtschen Schriften 1795. Location/Holding institution: Regensburg, Staatliche Bibliothek -- 999/Med.1190 R\u00fcckseite des Titelblatts unbedruckt",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "de",
     "language": "German",
     "source_url": "https://archive.org/details/11107154bsb",
@@ -527,7 +549,8 @@
     "source": null,
     "filename": "1795_de_11107154bsb.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "10369309bsb",
@@ -539,7 +562,7 @@
     "creator": "Roose, Theodor Georg August",
     "description": "Braunschweig : bei Christian Friedrich Thomas 1797. Location/Holding institution: M\u00fcnchen, Bayerische Staatsbibliothek -- Anat. 365",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "de",
     "language": "German",
     "source_url": "https://archive.org/details/10369309bsb",
@@ -547,7 +570,8 @@
     "source": null,
     "filename": "1797_de_10369309bsb.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "bib_fict_9075530",
@@ -559,7 +583,7 @@
     "creator": "Collier, John, of High Wycombe",
     "description": "Full title: Essays on the progress of the vital principle from the vegetable to the animal kingdoms and the soul of man, introductory to contemplations on deity. B y John Collier, Author of Essays on the Jewish History, 1791; and Familiar Essays on the Scripture of the New Testament, 1797. Tall 8vo.",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "en",
     "language": "eng",
     "source_url": "https://archive.org/details/bib_fict_9075530",
@@ -567,7 +591,8 @@
     "source": null,
     "filename": "1800_en_bib_fict_9075530.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "bim_eighteenth-century_essays-on-the-progress-o_collier-john-of-high-w_1800",
@@ -579,7 +604,7 @@
     "creator": "Collier, John, of High Wycombe.",
     "description": "Essays on the progress of the vital principle. 1800.. Digitized from IA40316209-41 . Previous issue: bim_eighteenth-century_a-refutation-of-the-rema_dossie-robert_1760 . Next issue: bim_eighteenth-century_short-discourse-concern_mead-richard_1723 .",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "en",
     "language": "Middle English",
     "source_url": "https://archive.org/details/bim_eighteenth-century_essays-on-the-progress-o_collier-john-of-high-w_1800",
@@ -587,7 +612,8 @@
     "source": null,
     "filename": "1800_en_bim_eighteenth-century_essays-on-the-progress-o_collier-john-of-high-w_1800.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "rcherchesetd00sain",
@@ -599,7 +625,7 @@
     "creator": "Saint-Ildephont, Guillaume-Ren\u00e9 Lef\u00e9bure, baron de, 1744-1809",
     "description": "103 p. ; 19 cm",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "en",
     "language": "fre",
     "source_url": "https://archive.org/details/rcherchesetd00sain",
@@ -607,7 +633,8 @@
     "source": null,
     "filename": "1800_en_rcherchesetd00sain.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "b33280046_0002",
@@ -619,7 +646,7 @@
     "creator": "Barthez, P.-J. (Paul-Joseph), 1734-1806",
     "description": "2 volumes ; (8vo)",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "en",
     "language": "fre",
     "source_url": "https://archive.org/details/b33280046_0002",
@@ -627,7 +654,8 @@
     "source": null,
     "filename": "1806_en_b33280046_0002.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "nouveauxlmensde00bartgoog",
@@ -639,7 +667,7 @@
     "creator": "Barthez, P.-J. (Paul-Joseph), 1734-1806",
     "description": "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "en",
     "language": "fre",
     "source_url": "https://archive.org/details/nouveauxlmensde00bartgoog",
@@ -647,7 +675,8 @@
     "source": null,
     "filename": "1806_en_nouveauxlmensde00bartgoog.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "secondlettertore00ganduoft",
@@ -662,7 +691,7 @@
     ],
     "description": "Presented by: Dr. A.R.M. Lower, 1965",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "en",
     "language": "eng",
     "source_url": "https://archive.org/details/secondlettertore00ganduoft",
@@ -670,7 +699,8 @@
     "source": null,
     "filename": "1813_en_secondlettertore00ganduoft.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "anintroductiont02smitgoog",
@@ -682,7 +712,7 @@
     "creator": "James Edward Smith",
     "description": "Book digitized by Google from the library of Oxford University and uploaded to the Internet Archive by user tpb.",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "en",
     "language": "English",
     "source_url": "https://archive.org/details/anintroductiont02smitgoog",
@@ -690,7 +720,8 @@
     "source": null,
     "filename": "1814_en_anintroductiont02smitgoog.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "gutenberg_60420",
@@ -702,7 +733,7 @@
     "creator": "Oxford graduate",
     "description": null,
     "summary": null,
-    "topic": "thinking_machines",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "English",
     "source_url": "https://www.gutenberg.org/ebooks/60420",
@@ -710,27 +741,8 @@
     "source": "gutenberg",
     "filename": "1819_en_gutenberg_60420.txt",
     "has_translation": false,
-    "translation_filename": null
-  },
-  {
-    "identifier": "bub_gb_CvwWAAAAYAAJ",
-    "title": "Chess; a selection of fifty games, from those played by the automaton chess-player, during its exhibition in London, in 1820 ..",
-    "year": 1820,
-    "publication_year": null,
-    "gutenberg_release_year": null,
-    "year_source": null,
-    "creator": "Hunneman, W., ed",
-    "description": "Mode of access: Internet",
-    "summary": null,
-    "topic": "chess_automaton",
-    "language_code": "en",
-    "language": "eng",
-    "source_url": "https://archive.org/details/bub_gb_CvwWAAAAYAAJ",
-    "char_count": 76793,
-    "source": null,
-    "filename": "1820_en_bub_gb_CvwWAAAAYAAJ.txt",
-    "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "gutenberg_61410",
@@ -742,7 +754,7 @@
     "creator": "Willis, Robert",
     "description": null,
     "summary": null,
-    "topic": "thinking_machines",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "English",
     "source_url": "https://www.gutenberg.org/ebooks/61410",
@@ -750,7 +762,8 @@
     "source": "gutenberg",
     "filename": "1821_en_gutenberg_61410.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "bub_gb_N7kUAAAAYAAJ",
@@ -762,7 +775,7 @@
     "creator": "Willis, Robert",
     "description": "Mode of access: Internet",
     "summary": null,
-    "topic": "chess_automaton",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "eng",
     "source_url": "https://archive.org/details/bub_gb_N7kUAAAAYAAJ",
@@ -770,7 +783,50 @@
     "source": null,
     "filename": "1821_en_bub_gb_N7kUAAAAYAAJ.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
+  },
+  {
+    "identifier": "gutenberg_71292",
+    "title": "The calculating engine",
+    "year": 1832,
+    "publication_year": null,
+    "gutenberg_release_year": null,
+    "year_source": null,
+    "creator": "Charles Babbage",
+    "description": "Babbage explains his calculating engine and the problem of errors in numerical tables, arguing for mechanical computation to replace fallible human calculation. Frames calculation as public infrastructure.\n",
+    "summary": "Babbage explains his calculating engine and the problem of errors in numerical tables, arguing for mechanical computation to replace fallible human calculation. Frames calculation as public infrastructure.\n",
+    "topic": "computing",
+    "language_code": "en",
+    "language": "English",
+    "source_url": "https://www.gutenberg.org/ebooks/71292",
+    "char_count": 185295,
+    "source": "gutenberg",
+    "filename": "1832_en_gutenberg_71292.txt",
+    "has_translation": false,
+    "translation_filename": null,
+    "gibberish_pages": []
+  },
+  {
+    "identifier": "wikisource_edinburgh_review_babbage",
+    "title": "Babbage's Calculating Engine (Edinburgh Review, Vol. 59)",
+    "year": 1834,
+    "publication_year": null,
+    "gutenberg_release_year": null,
+    "year_source": null,
+    "creator": "Edinburgh Review",
+    "description": "Long review contextualizing calculation tables and the economic/scientific importance of accurate computation. Public justification for mechanized calculation.\n",
+    "summary": "Long review contextualizing calculation tables and the economic/scientific importance of accurate computation. Public justification for mechanized calculation.\n",
+    "topic": "computing",
+    "language_code": "en",
+    "language": "English",
+    "source_url": "https://en.wikisource.org/wiki/Edinburgh_Review/Volume_59/Babbage%27s_Calculating_Engine",
+    "char_count": 162935,
+    "source": "wikisource",
+    "filename": "1834_en_wikisource_edinburgh_review_babbage.txt",
+    "has_translation": false,
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "TheCabinetOfGems",
@@ -782,7 +838,7 @@
     "creator": "Batchelor, S.",
     "description": "Hand-colored plate of coloured stones. \"Rare.\"--Gemology by J. Sinkankas, entry no. 0444. \"Begins with the \"vocabulary\" of gemstones, that is, a dictionary in which are briefly described 63 gemstones, beginning with diamond and passing through the usual gemstones as corundum, emerald, opal, topaz, e",
     "summary": null,
-    "topic": "automata",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "eng",
     "source_url": "https://archive.org/details/TheCabinetOfGems",
@@ -790,7 +846,50 @@
     "source": null,
     "filename": "1840_en_TheCabinetOfGems.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
+  },
+  {
+    "identifier": "wikisource_sketch_analytical_engine",
+    "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
+    "year": 1843,
+    "publication_year": null,
+    "gutenberg_release_year": null,
+    "year_source": null,
+    "creator": "Luigi Federico Menabrea",
+    "description": "Menabrea's 1843 article describing the Analytical Engine's structure and operations. A foundational technical exposition of programmable calculation.\n",
+    "summary": "Menabrea's 1843 article describing the Analytical Engine's structure and operations. A foundational technical exposition of programmable calculation.\n",
+    "topic": "computing",
+    "language_code": "en",
+    "language": "English",
+    "source_url": "https://en.wikisource.org/wiki/Scientific_Memoirs/3/Sketch_of_the_Analytical_Engine_invented_by_Charles_Babbage%2C_Esq.",
+    "char_count": 179641,
+    "source": "wikisource",
+    "filename": "1843_en_wikisource_sketch_analytical_engine.txt",
+    "has_translation": false,
+    "translation_filename": null,
+    "gibberish_pages": []
+  },
+  {
+    "identifier": "wikisource_notes_by_translator",
+    "title": "Notes by the Translator",
+    "year": 1843,
+    "publication_year": null,
+    "gutenberg_release_year": null,
+    "year_source": null,
+    "creator": "Ada Lovelace",
+    "description": "Lovelace's notes argue for the Analytical Engine's generality and distinguish it from mere calculating machines, outlining a theory of symbolic computation.\n",
+    "summary": "Lovelace's notes argue for the Analytical Engine's generality and distinguish it from mere calculating machines, outlining a theory of symbolic computation.\n",
+    "topic": "computing",
+    "language_code": "en",
+    "language": "English",
+    "source_url": "https://en.wikisource.org/wiki/Scientific_Memoirs/3/Sketch_of_the_Analytical_Engine_invented_by_Charles_Babbage%2C_Esq./Notes_by_the_Translator",
+    "char_count": 179492,
+    "source": "wikisource",
+    "filename": "1843_en_wikisource_notes_by_translator.txt",
+    "has_translation": false,
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "in.ernet.dli.2015.91128",
@@ -802,7 +901,7 @@
     "creator": "Frost, John Ed.",
     "description": "Book Source: Digital Library of India Item 2015.91128 dc.contributor.author: Frost, John Ed. dc.date.accessioned: 2015-07-01T12:53:52Z dc.date.available: 2015-07-01T12:53:52Z dc.date.digitalpublicationdate: 2010-12-06 dc.date.citation: 1848 dc.identifier.barcode: 4990010045408 dc.identifier.origpath",
     "summary": null,
-    "topic": "automata",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "eng",
     "source_url": "https://archive.org/details/in.ernet.dli.2015.91128",
@@ -810,7 +909,8 @@
     "source": null,
     "filename": "1848_en_in_ernet_dli_2015_91128.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "bub_gb_TcsCAAAAYAAJ",
@@ -822,7 +922,7 @@
     "creator": "Walker, George, 1803-1879. [from old catalog]",
     "description": null,
     "summary": null,
-    "topic": "chess_automaton",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "eng",
     "source_url": "https://archive.org/details/bub_gb_TcsCAAAAYAAJ",
@@ -830,7 +930,8 @@
     "source": null,
     "filename": "1850_en_bub_gb_TcsCAAAAYAAJ.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "essayonorganicor01watt",
@@ -849,7 +950,7 @@
       "former call number: Watters"
     ],
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "en",
     "language": "eng",
     "source_url": "https://archive.org/details/essayonorganicor01watt",
@@ -857,7 +958,8 @@
     "source": null,
     "filename": "1851_en_essayonorganicor01watt.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "leprofesseurdemu00daup",
@@ -872,7 +974,7 @@
       "\"Cahier des planches et tableaux\" (46 p., [3] leaves of plates : ill., music) bound in at end"
     ],
     "summary": null,
-    "topic": "chess_automaton",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "fre",
     "source_url": "https://archive.org/details/leprofesseurdemu00daup",
@@ -880,31 +982,8 @@
     "source": null,
     "filename": "1857_en_leprofesseurdemu00daup.txt",
     "has_translation": false,
-    "translation_filename": null
-  },
-  {
-    "identifier": "smithsonianmisce1181952smit",
-    "title": "Smithsonian miscellaneous collections",
-    "year": 1862,
-    "publication_year": null,
-    "gutenberg_release_year": null,
-    "year_source": null,
-    "creator": "Smithsonian Institution",
-    "description": [
-      "GeoRef",
-      "extracted",
-      "MSRLSI copy 39088009750118-0266 has bookplate: Smithsonian Institution Libraries, Gift of Nancy M. Prichard"
-    ],
-    "summary": null,
-    "topic": "automata",
-    "language_code": "en",
-    "language": "eng",
-    "source_url": "https://archive.org/details/smithsonianmisce1181952smit",
-    "char_count": 1035950,
-    "source": null,
-    "filename": "1862_en_smithsonianmisce1181952smit.txt",
-    "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "duprincipevital00bouigoog",
@@ -916,7 +995,7 @@
     "creator": "Francisque Bouillier",
     "description": "Book digitized by Google from the library of the University of California and uploaded to the Internet Archive by user tpb.",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "fr",
     "language": "French",
     "source_url": "https://archive.org/details/duprincipevital00bouigoog",
@@ -924,7 +1003,8 @@
     "source": null,
     "filename": "1862_fr_duprincipevital00bouigoog.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "duprincipevital01bouigoog",
@@ -936,7 +1016,7 @@
     "creator": "Francisque Bouillier",
     "description": "Book digitized by Google from the library of Oxford University and uploaded to the Internet Archive by user tpb.",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "fr",
     "language": "French",
     "source_url": "https://archive.org/details/duprincipevital01bouigoog",
@@ -944,7 +1024,29 @@
     "source": null,
     "filename": "1862_fr_duprincipevital01bouigoog.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
+  },
+  {
+    "identifier": "wikisource_darwin_among_the_machines",
+    "title": "Darwin among the Machines",
+    "year": 1863,
+    "publication_year": null,
+    "gutenberg_release_year": null,
+    "year_source": null,
+    "creator": "Samuel Butler",
+    "description": "Satirical letter arguing that machines constitute a new kingdom and may evolve beyond humans, framing mechanical progress as a kind of natural history. Early cultural anxiety about machine autonomy.\n",
+    "summary": "Satirical letter arguing that machines constitute a new kingdom and may evolve beyond humans, framing mechanical progress as a kind of natural history. Early cultural anxiety about machine autonomy.\n",
+    "topic": "computing",
+    "language_code": "en",
+    "language": "English",
+    "source_url": "https://en.wikisource.org/wiki/Darwin_among_the_Machines",
+    "char_count": 10364,
+    "source": "wikisource",
+    "filename": "1863_en_wikisource_darwin_among_the_machines.txt",
+    "has_translation": false,
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "levitalismeetla02lemogoog",
@@ -956,7 +1058,7 @@
     "creator": "Albert Lemoine",
     "description": "Book digitized by Google from the library of University of Michigan and uploaded to the Internet Archive by user tpb.",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "fr",
     "language": "French",
     "source_url": "https://archive.org/details/levitalismeetla02lemogoog",
@@ -964,7 +1066,71 @@
     "source": null,
     "filename": "1864_fr_levitalismeetla02lemogoog.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
+  },
+  {
+    "identifier": "wikisource_passages_from_the_life_of_a_philosopher",
+    "title": "Passages from the Life of a Philosopher",
+    "year": 1864,
+    "publication_year": null,
+    "gutenberg_release_year": null,
+    "year_source": null,
+    "creator": "Charles Babbage",
+    "description": "Autobiographical account of the Difference and Analytical Engines, including engineering and institutional obstacles. A key historical narrative of mechanical reckoning projects.\n",
+    "summary": "Autobiographical account of the Difference and Analytical Engines, including engineering and institutional obstacles. A key historical narrative of mechanical reckoning projects.\n",
+    "topic": "computing",
+    "language_code": "en",
+    "language": "English",
+    "source_url": "https://en.wikisource.org/wiki/Passages_from_the_Life_of_a_Philosopher",
+    "char_count": 843032,
+    "source": "wikisource",
+    "filename": "1864_en_wikisource_passages_from_the_life_of_a_philosopher.txt",
+    "has_translation": false,
+    "translation_filename": null,
+    "gibberish_pages": []
+  },
+  {
+    "identifier": "wikisource_blindenanstalt_steglitz",
+    "title": "Besuch der Blindenanstalt in Steglitz",
+    "year": 1864,
+    "publication_year": null,
+    "gutenberg_release_year": null,
+    "year_source": null,
+    "creator": "Unknown",
+    "description": "Report on blind education describing the use of a \"russische Rechenmaschine\" (abacus). Shows tactile computation and pedagogy.\n",
+    "summary": "Report on blind education describing the use of a \"russische Rechenmaschine\" (abacus). Shows tactile computation and pedagogy.\n",
+    "topic": "computing",
+    "language_code": "de",
+    "language": "German",
+    "source_url": "https://de.wikisource.org/wiki/Besuch_der_Blindenanstalt_in_Steglitz",
+    "char_count": 22749,
+    "source": "wikisource",
+    "filename": "1864_de_wikisource_blindenanstalt_steglitz.txt",
+    "has_translation": false,
+    "translation_filename": null,
+    "gibberish_pages": []
+  },
+  {
+    "identifier": "wikisource_gartenlaube_1865_heft34",
+    "title": "Die Gartenlaube (1865), Heft 34",
+    "year": 1865,
+    "publication_year": null,
+    "gutenberg_release_year": null,
+    "year_source": null,
+    "creator": "Die Gartenlaube",
+    "description": "Readers' column mentioning the purchase and price of a Rechenmaschine in Paris. Small but vivid evidence of consumer interest in calculating machines.\n",
+    "summary": "Readers' column mentioning the purchase and price of a Rechenmaschine in Paris. Small but vivid evidence of consumer interest in calculating machines.\n",
+    "topic": "computing",
+    "language_code": "de",
+    "language": "German",
+    "source_url": "https://de.wikisource.org/wiki/Die_Gartenlaube_%281865%29/Heft_34",
+    "char_count": 130223,
+    "source": "wikisource",
+    "filename": "1865_de_wikisource_gartenlaube_1865_heft34.txt",
+    "has_translation": false,
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "beethovenslette00beetgoog",
@@ -976,7 +1142,7 @@
     "creator": "Ludwig van Beethoven",
     "description": "Book digitized by Google from the library of Oxford University and uploaded to the Internet Archive by user tpb.",
     "summary": null,
-    "topic": "chess_automaton",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "English",
     "source_url": "https://archive.org/details/beethovenslette00beetgoog",
@@ -984,7 +1150,8 @@
     "source": null,
     "filename": "1866_en_beethovenslette00beetgoog.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "b21309875",
@@ -1010,7 +1177,7 @@
       "This material has been provided by King\u2019s College London. The original may be consulted at King\u2019s College London"
     ],
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "en",
     "language": "eng",
     "source_url": "https://archive.org/details/b21309875",
@@ -1018,7 +1185,8 @@
     "source": null,
     "filename": "1870_en_b21309875.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "b21446258",
@@ -1038,7 +1206,7 @@
       "University of Bristol Library"
     ],
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "en",
     "language": "eng",
     "source_url": "https://archive.org/details/b21446258",
@@ -1046,7 +1214,8 @@
     "source": null,
     "filename": "1870_en_b21446258.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "protoplasmorlif00bealgoog",
@@ -1058,7 +1227,7 @@
     "creator": "Lionel Smith Beale",
     "description": "Book digitized by Google from the library of Oxford University and uploaded to the Internet Archive by user tpb.",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "en",
     "language": "English",
     "source_url": "https://archive.org/details/protoplasmorlif00bealgoog",
@@ -1066,7 +1235,29 @@
     "source": null,
     "filename": "1870_en_protoplasmorlif00bealgoog.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
+  },
+  {
+    "identifier": "gutenberg_1906",
+    "title": "Erewhon; Or, Over the Range",
+    "year": 1872,
+    "publication_year": null,
+    "gutenberg_release_year": null,
+    "year_source": null,
+    "creator": "Samuel Butler",
+    "description": "Satirical novel whose \"Book of the Machines\" argues about suppressing mechanical evolution. Computation appears as part of a broader debate on machine agency in culture.\n",
+    "summary": "Satirical novel whose \"Book of the Machines\" argues about suppressing mechanical evolution. Computation appears as part of a broader debate on machine agency in culture.\n",
+    "topic": "computing",
+    "language_code": "en",
+    "language": "English",
+    "source_url": "https://www.gutenberg.org/ebooks/1906",
+    "char_count": 481995,
+    "source": "gutenberg",
+    "filename": "1872_en_gutenberg_1906.txt",
+    "has_translation": false,
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "bub_gb__f1TQoJzqOIC",
@@ -1078,7 +1269,7 @@
     "creator": "Etienne Jules Marey",
     "description": null,
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "fr",
     "language": "French",
     "source_url": "https://archive.org/details/bub_gb__f1TQoJzqOIC",
@@ -1086,7 +1277,8 @@
     "source": null,
     "filename": "1873_fr_bub_gb__f1TQoJzqOIC.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "lamachineanimal03maregoog",
@@ -1098,7 +1290,7 @@
     "creator": "Etienne-Jules Marey",
     "description": "Book digitized by Google from the library of Oxford University and uploaded to the Internet Archive by user tpb.",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "fr",
     "language": "French",
     "source_url": "https://archive.org/details/lamachineanimal03maregoog",
@@ -1106,7 +1298,8 @@
     "source": null,
     "filename": "1873_fr_lamachineanimal03maregoog.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "bnf-bpt6k6138503q",
@@ -1121,7 +1314,7 @@
       "Avec mode texte"
     ],
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "fr",
     "language": "French",
     "source_url": "https://archive.org/details/bnf-bpt6k6138503q",
@@ -1129,7 +1322,8 @@
     "source": null,
     "filename": "1875_fr_bnf-bpt6k6138503q.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "gutenberg_67476",
@@ -1141,7 +1335,7 @@
     "creator": "McLandburgh, Florence",
     "description": null,
     "summary": null,
-    "topic": "thinking_machines",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "English",
     "source_url": "https://www.gutenberg.org/ebooks/67476",
@@ -1149,7 +1343,29 @@
     "source": "gutenberg",
     "filename": "1876_en_gutenberg_67476.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
+  },
+  {
+    "identifier": "wikisource_adb_felkel",
+    "title": "Felkel, Anton (ADB)",
+    "year": 1877,
+    "publication_year": null,
+    "gutenberg_release_year": null,
+    "year_source": null,
+    "creator": "Moritz Cantor",
+    "description": "Biographical entry on an inventor of factor tables and calculating machines. Connects computation to educational and bureaucratic institutions.\n",
+    "summary": "Biographical entry on an inventor of factor tables and calculating machines. Connects computation to educational and bureaucratic institutions.\n",
+    "topic": "computing",
+    "language_code": "de",
+    "language": "German",
+    "source_url": "https://de.wikisource.org/wiki/ADB%3AFelkel%2C_Anton",
+    "char_count": 2719,
+    "source": "wikisource",
+    "filename": "1877_de_wikisource_adb_felkel.txt",
+    "has_translation": false,
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "delessencedupri00liecgoog",
@@ -1161,7 +1377,7 @@
     "creator": "Reinhard de Liechty",
     "description": "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "fr",
     "language": "French",
     "source_url": "https://archive.org/details/delessencedupri00liecgoog",
@@ -1169,7 +1385,8 @@
     "source": null,
     "filename": "1878_fr_delessencedupri00liecgoog.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "lamachineanimal02maregoog",
@@ -1181,7 +1398,7 @@
     "creator": "Etienne-Jules Marey",
     "description": "Book digitized by Google from the library of the University of Michigan and uploaded to the Internet Archive by user tpb.",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "fr",
     "language": "French",
     "source_url": "https://archive.org/details/lamachineanimal02maregoog",
@@ -1189,7 +1406,29 @@
     "source": null,
     "filename": "1878_fr_lamachineanimal02maregoog.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
+  },
+  {
+    "identifier": "wikisource_gartenlaube_1879_heft9",
+    "title": "Die Gartenlaube (1879), Heft 9",
+    "year": 1879,
+    "publication_year": null,
+    "gutenberg_release_year": null,
+    "year_source": null,
+    "creator": "Die Gartenlaube",
+    "description": "Narrative passage using \"Rechenmaschine\" as a metaphor for a clerk. Shows computation as a social role in office life.\n",
+    "summary": "Narrative passage using \"Rechenmaschine\" as a metaphor for a clerk. Shows computation as a social role in office life.\n",
+    "topic": "computing",
+    "language_code": "de",
+    "language": "German",
+    "source_url": "https://de.wikisource.org/wiki/Die_Gartenlaube_%281879%29/Heft_9",
+    "char_count": 105364,
+    "source": "wikisource",
+    "filename": "1879_de_wikisource_gartenlaube_1879_heft9.txt",
+    "has_translation": false,
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "roughwaysmadesm00procgoog",
@@ -1204,7 +1443,7 @@
       "The sun's corona and his spots.--Sun-spots and commercial panics.--New planets near the sun.--Results of the British transit expeditions.--The past history of our moon.--A new crater in the moon.--The November meteors.--Expected meteor shower.--Cold winters.--Oxford and Cambridge rowing.--Rowing styles.--Artificial somnambulism.--Hereditary traits.--Bodily illness as a mental stimulant.--Dual consciousness.--Electric lighting.--Great storms.--The recent storms.--Mechanical chess-players.--Influence of the mind on the body"
     ],
     "summary": null,
-    "topic": "automata",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "eng",
     "source_url": "https://archive.org/details/roughwaysmadesm00procgoog",
@@ -1212,7 +1451,29 @@
     "source": null,
     "filename": "1880_en_roughwaysmadesm00procgoog.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
+  },
+  {
+    "identifier": "wikisource_calculating_machines_popular_science",
+    "title": "Calculating-Machines (Popular Science Monthly, Feb 1885)",
+    "year": 1885,
+    "publication_year": null,
+    "gutenberg_release_year": null,
+    "year_source": null,
+    "creator": "Popular Science Monthly",
+    "description": "Popular survey of calculating machines from Pascal onward, aimed at general readers. Useful for public framing of mechanical calculation.\n",
+    "summary": "Popular survey of calculating machines from Pascal onward, aimed at general readers. Useful for public framing of mechanical calculation.\n",
+    "topic": "computing",
+    "language_code": "en",
+    "language": "English",
+    "source_url": "https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_26/February_1885/Calculating-Machines",
+    "char_count": 24327,
+    "source": "wikisource",
+    "filename": "1885_en_wikisource_calculating_machines_popular_science.txt",
+    "has_translation": false,
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "lamachineanimal00maregoog",
@@ -1224,7 +1485,7 @@
     "creator": "Etienne Jules Marey",
     "description": "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "fr",
     "language": "French",
     "source_url": "https://archive.org/details/lamachineanimal00maregoog",
@@ -1232,7 +1493,8 @@
     "source": null,
     "filename": "1886_fr_lamachineanimal00maregoog.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "EtudeOctober1887",
@@ -1244,7 +1506,7 @@
     "creator": "Theodore Presser Company",
     "description": "Etude Magazine \u00a0was published by Theodore Presser Company between 1883 and 1957. It was a staple for music teachers throughout the country, providing articles related to music history, new developments in music, and practical teaching techniques, as well as musical scores from the classics and new p",
     "summary": null,
-    "topic": "chess_automaton",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "English",
     "source_url": "https://archive.org/details/EtudeOctober1887",
@@ -1252,7 +1514,29 @@
     "source": null,
     "filename": "1887_en_EtudeOctober1887.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
+  },
+  {
+    "identifier": "wikisource_esbe_arithmometer",
+    "title": "\u0410\u0440\u0438\u0444\u043c\u043e\u043c\u0435\u0442\u0440 (\u042d\u0421\u0411\u0415)",
+    "year": 1890,
+    "publication_year": null,
+    "gutenberg_release_year": null,
+    "year_source": null,
+    "creator": "\u042d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0441\u043b\u043e\u0432\u0430\u0440\u044c \u0411\u0440\u043e\u043a\u0433\u0430\u0443\u0437\u0430 \u0438 \u0415\u0444\u0440\u043e\u043d\u0430",
+    "description": "Encyclopedia entry defining the arithmometer as a mechanical calculating device. Concise terminological anchor in Russian.\n",
+    "summary": "Encyclopedia entry defining the arithmometer as a mechanical calculating device. Concise terminological anchor in Russian.\n",
+    "topic": "computing",
+    "language_code": "ru",
+    "language": "Russian",
+    "source_url": "https://ru.wikisource.org/wiki/%D0%AD%D0%A1%D0%91%D0%95/%D0%90%D1%80%D0%B8%D1%84%D0%BC%D0%BE%D0%BC%D0%B5%D1%82%D1%80",
+    "char_count": 7838,
+    "source": "wikisource",
+    "filename": "1890_ru_wikisource_esbe_arithmometer.txt",
+    "has_translation": true,
+    "translation_filename": "1890_ru_wikisource_esbe_arithmometer_en.txt",
+    "gibberish_pages": []
   },
   {
     "identifier": "threetalesghost00congoog",
@@ -1264,7 +1548,7 @@
     "creator": "William Douglas O 'Connor",
     "description": "Book digitized by Google from the library of the University of Michigan and uploaded to the Internet Archive by user tpb.",
     "summary": null,
-    "topic": "automata",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "English",
     "source_url": "https://archive.org/details/threetalesghost00congoog",
@@ -1272,7 +1556,8 @@
     "source": null,
     "filename": "1891_en_threetalesghost00congoog.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "gutenberg_55817",
@@ -1284,7 +1569,7 @@
     "creator": "Cooke, Conrad William",
     "description": null,
     "summary": null,
-    "topic": "thinking_machines",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "English",
     "source_url": "https://www.gutenberg.org/ebooks/55817",
@@ -1292,7 +1577,29 @@
     "source": "gutenberg",
     "filename": "1891_en_gutenberg_55817.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
+  },
+  {
+    "identifier": "wikisource_james_watt_kamensky",
+    "title": "\u0414\u0436\u0435\u0439\u043c\u0441 \u0423\u0430\u0442\u0442. \u0415\u0433\u043e \u0436\u0438\u0437\u043d\u044c \u0438 \u043d\u0430\u0443\u0447\u043d\u043e-\u043f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0434\u0435\u044f\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c",
+    "year": 1891,
+    "publication_year": null,
+    "gutenberg_release_year": null,
+    "year_source": null,
+    "creator": "\u0410\u043d\u0434\u0440\u0435\u0439 \u0412\u0430\u0441\u0438\u043b\u044c\u0435\u0432\u0438\u0447 \u041a\u0430\u043c\u0435\u043d\u0441\u043a\u0438\u0439",
+    "description": "Biography noting Watt's work on an arithmetic calculating machine among other inventions. Places computation in the wider culture of mechanical innovation.\n",
+    "summary": "Biography noting Watt's work on an arithmetic calculating machine among other inventions. Places computation in the wider culture of mechanical innovation.\n",
+    "topic": "computing",
+    "language_code": "ru",
+    "language": "Russian",
+    "source_url": "https://ru.wikisource.org/wiki/%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81_%D0%A3%D0%B0%D1%82%D1%82._%D0%95%D0%B3%D0%BE_%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C_%D0%B8_%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%28%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%29",
+    "char_count": 158228,
+    "source": "wikisource",
+    "filename": "1891_ru_wikisource_james_watt_kamensky.txt",
+    "has_translation": true,
+    "translation_filename": "1891_ru_wikisource_james_watt_kamensky_en.txt",
+    "gibberish_pages": []
   },
   {
     "identifier": "threetalesghostb00ocon",
@@ -1309,7 +1616,7 @@
       "The ghost -- The brazen android -- The carpenter"
     ],
     "summary": null,
-    "topic": "automata",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "eng",
     "source_url": "https://archive.org/details/threetalesghostb00ocon",
@@ -1317,7 +1624,71 @@
     "source": null,
     "filename": "1892_en_threetalesghostb00ocon.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
+  },
+  {
+    "identifier": "wikisource_calculateur_inaudi",
+    "title": "Le Calculateur Jacques Inaudi",
+    "year": 1892,
+    "publication_year": null,
+    "gutenberg_release_year": null,
+    "year_source": null,
+    "creator": "Alfred Binet",
+    "description": "Study of a mental calculator, comparing him to a machine and analyzing psychological processes. Contrasts human and mechanical calculation.\n",
+    "summary": "Study of a mental calculator, comparing him to a machine and analyzing psychological processes. Contrasts human and mechanical calculation.\n",
+    "topic": "computing",
+    "language_code": "fr",
+    "language": "French",
+    "source_url": "https://fr.wikisource.org/wiki/Le_Calculateur_Jacques_Inaudi",
+    "char_count": 50704,
+    "source": "wikisource",
+    "filename": "1892_fr_wikisource_calculateur_inaudi.txt",
+    "has_translation": false,
+    "translation_filename": null,
+    "gibberish_pages": []
+  },
+  {
+    "identifier": "wikisource_dnb_morland",
+    "title": "Morland, Samuel (Dictionary of National Biography)",
+    "year": 1894,
+    "publication_year": null,
+    "gutenberg_release_year": null,
+    "year_source": null,
+    "creator": "Dictionary of National Biography",
+    "description": "Biography of a 17th-century inventor who built early calculating devices. Connects mechanical reckoning to early modern scientific life.\n",
+    "summary": "Biography of a 17th-century inventor who built early calculating devices. Connects mechanical reckoning to early modern scientific life.\n",
+    "topic": "computing",
+    "language_code": "en",
+    "language": "English",
+    "source_url": "https://en.wikisource.org/wiki/Dictionary_of_National_Biography%2C_1885-1900/Morland%2C_Samuel",
+    "char_count": 27742,
+    "source": "wikisource",
+    "filename": "1894_en_wikisource_dnb_morland.txt",
+    "has_translation": false,
+    "translation_filename": null,
+    "gibberish_pages": []
+  },
+  {
+    "identifier": "wikisource_methods_operating_comptometer",
+    "title": "Methods of Operating the Comptometer",
+    "year": 1895,
+    "publication_year": null,
+    "gutenberg_release_year": null,
+    "year_source": null,
+    "creator": "Felt & Tarrant Mfg. Co.",
+    "description": "Manual teaching operators to use a key-driven calculator, emphasizing bodily skill and office practice. Captures computation as trained labor.\n",
+    "summary": "Manual teaching operators to use a key-driven calculator, emphasizing bodily skill and office practice. Captures computation as trained labor.\n",
+    "topic": "computing",
+    "language_code": "en",
+    "language": "English",
+    "source_url": "https://en.wikisource.org/wiki/Methods_of_Operating_the_Comptometer",
+    "char_count": 60918,
+    "source": "wikisource",
+    "filename": "1895_en_wikisource_methods_operating_comptometer.txt",
+    "has_translation": false,
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "storyoflivingmac00connrich",
@@ -1329,7 +1700,7 @@
     "creator": "Conn, Herbert William, 1859-1917",
     "description": "x, 191 p. 16 cm",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "en",
     "language": "eng",
     "source_url": "https://archive.org/details/storyoflivingmac00connrich",
@@ -1337,7 +1708,8 @@
     "source": null,
     "filename": "1899_en_storyoflivingmac00connrich.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "Leo_Christopherson_Package_19xx_Ramware",
@@ -1349,7 +1721,7 @@
     "creator": null,
     "description": "TRS-80 Manual: Leo Christopherson Package (19xx)(Ramware)",
     "summary": null,
-    "topic": "automata",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "eng",
     "source_url": "https://archive.org/details/Leo_Christopherson_Package_19xx_Ramware",
@@ -1357,7 +1729,8 @@
     "source": null,
     "filename": "1900_en_Leo_Christopherson_Package_19xx_Ramware.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "mechanismusundv00btgoog",
@@ -1369,7 +1742,7 @@
     "creator": "Otto B\u00fctschli",
     "description": "Book digitized by Google and uploaded to the Internet Archive by user tpb.",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "de",
     "language": "German",
     "source_url": "https://archive.org/details/mechanismusundv00btgoog",
@@ -1377,7 +1750,8 @@
     "source": null,
     "filename": "1901_de_mechanismusundv00btgoog.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "storyoflivingmac00conn",
@@ -1392,7 +1766,7 @@
       "Includes publisher's advertisements"
     ],
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "en",
     "language": "eng",
     "source_url": "https://archive.org/details/storyoflivingmac00conn",
@@ -1400,7 +1774,8 @@
     "source": null,
     "filename": "1905_en_storyoflivingmac00conn.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "dervitalismusal00driegoog",
@@ -1412,7 +1787,7 @@
     "creator": "Hans Driesch",
     "description": "Book digitized by Google from the library of the New York Public Library and uploaded to the Internet Archive by user tpb.",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "de",
     "language": "German",
     "source_url": "https://archive.org/details/dervitalismusal00driegoog",
@@ -1420,7 +1795,29 @@
     "source": null,
     "filename": "1905_de_dervitalismusal00driegoog.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
+  },
+  {
+    "identifier": "wikisource_nie_reuleaux",
+    "title": "Reuleaux, Franz (The New International Encyclop\u00e6dia)",
+    "year": 1905,
+    "publication_year": null,
+    "gutenberg_release_year": null,
+    "year_source": null,
+    "creator": "The New International Encyclop\u00e6dia",
+    "description": "Brief encyclopedia biography noting Reuleaux's work on the Thomas arithmometer. Highlights cross-over between mechanical engineering and calculating machines.\n",
+    "summary": "Brief encyclopedia biography noting Reuleaux's work on the Thomas arithmometer. Highlights cross-over between mechanical engineering and calculating machines.\n",
+    "topic": "computing",
+    "language_code": "en",
+    "language": "English",
+    "source_url": "https://en.wikisource.org/wiki/The_New_International_Encyclop%C3%A6dia/Reuleaux%2C_Franz",
+    "char_count": 1254,
+    "source": "wikisource",
+    "filename": "1905_en_wikisource_nie_reuleaux.txt",
+    "has_translation": false,
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "RDM_1907040901",
@@ -1432,7 +1829,7 @@
     "creator": null,
     "description": "Page 1: - Murder at Edmonton - University Goes to Strathcona - Cow Makes $9 a Month - Members of Board of Trade - Real Estate Moving - Pig Raising Pays - A Question of Gas - Farewell Address - Building Permits Page 2: - Elsie's Little Miracle - Not Too Abrupt - Nothing but the Truth - Stole to Get-M",
     "summary": null,
-    "topic": "automata",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "English",
     "source_url": "https://archive.org/details/RDM_1907040901",
@@ -1440,7 +1837,8 @@
     "source": null,
     "filename": "1907_en_RDM_1907040901.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "ACN_1907050201",
@@ -1452,7 +1850,7 @@
     "creator": null,
     "description": "Page 1: - Local and General - Official Minutes of Town Council Meeting - Letter from Father Lacombe - Hospital Fund Page 2: - Local News - What Books Do - Complimented - A New Charity - Coiffure Hints - Furse Powder Bag - Novel Guest Book - Culinary Conceits - Instead of Ribbons - Old Ginger Jars - ",
     "summary": null,
-    "topic": "automata",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "English",
     "source_url": "https://archive.org/details/ACN_1907050201",
@@ -1460,7 +1858,8 @@
     "source": null,
     "filename": "1907_en_ACN_1907050201.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "SCC_1907051701",
@@ -1472,7 +1871,7 @@
     "creator": null,
     "description": "Page 1: - Board of Trade - Dr. Mcintyre Home - Fixed for Assault - Montreal Dock Strike - Gift to Firemen - Immigration for April Page 2: - Elsie's Little Miracle - Not Too Abrupt - Nothing But the Truth - Stole to Get Medical Aid - Leaves as Food - One Mistake Enough - Impure Part of Ice - The Use ",
     "summary": null,
-    "topic": "automata",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "English",
     "source_url": "https://archive.org/details/SCC_1907051701",
@@ -1480,7 +1879,8 @@
     "source": null,
     "filename": "1907_en_SCC_1907051701.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "SCC_1907100401",
@@ -1492,7 +1892,7 @@
     "creator": null,
     "description": "Page 1: - District Exhibit at New Westminster is Excellent - Council Recommended Police Magistrate - Wanted to Gobble up Land - Big Cuts in Atlantic Rates - Police Catechized as to Chronicle Criticism - Emperor of Austria III - Police Methods and the Public - No Increase in Pacific Fleet - Cabinet D",
     "summary": null,
-    "topic": "automata",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "English",
     "source_url": "https://archive.org/details/SCC_1907100401",
@@ -1500,7 +1900,134 @@
     "source": null,
     "filename": "1907_en_SCC_1907100401.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
+  },
+  {
+    "identifier": "wikisource_krasnaya_zvezda",
+    "title": "\u041a\u0440\u0430\u0441\u043d\u0430\u044f \u0437\u0432\u0435\u0437\u0434\u0430",
+    "year": 1908,
+    "publication_year": null,
+    "gutenberg_release_year": null,
+    "year_source": null,
+    "creator": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0438\u0447 \u0411\u043e\u0433\u0434\u0430\u043d\u043e\u0432",
+    "description": "Bogdanov's science-fiction novel includes a \"\u0432\u044b\u0447\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u043a\u043e\u043c\u043d\u0430\u0442\u0430\" with machines and output tapes. Early vision of automated computation in a socialist future.\n",
+    "summary": "Bogdanov's science-fiction novel includes a \"\u0432\u044b\u0447\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u043a\u043e\u043c\u043d\u0430\u0442\u0430\" with machines and output tapes. Early vision of automated computation in a socialist future.\n",
+    "topic": "computing",
+    "language_code": "ru",
+    "language": "Russian",
+    "source_url": "https://ru.wikisource.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F_%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0_%28%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2%29/%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F_2",
+    "char_count": 269720,
+    "source": "wikisource",
+    "filename": "1908_ru_wikisource_krasnaya_zvezda.txt",
+    "has_translation": true,
+    "translation_filename": "1908_ru_wikisource_krasnaya_zvezda_en.txt",
+    "gibberish_pages": []
+  },
+  {
+    "identifier": "gutenberg_11984",
+    "title": "A Pluralistic Universe: Hibbert Lectures at Manchester College on the Present Situation in Philosophy",
+    "year": 1909,
+    "publication_year": null,
+    "gutenberg_release_year": null,
+    "year_source": null,
+    "creator": "William James",
+    "description": "James frames \"computing\" as one faculty among many for judging rationality, contrasting mechanical, moral, and practical forms of reason. Useful for treating computation as a cultural disposition rather than a purely technical act.\n",
+    "summary": "James frames \"computing\" as one faculty among many for judging rationality, contrasting mechanical, moral, and practical forms of reason. Useful for treating computation as a cultural disposition rather than a purely technical act.\n",
+    "topic": "computing",
+    "language_code": "en",
+    "language": "English",
+    "source_url": "https://www.gutenberg.org/ebooks/11984",
+    "char_count": 462877,
+    "source": "gutenberg",
+    "filename": "1909_en_gutenberg_11984.txt",
+    "has_translation": false,
+    "translation_filename": null,
+    "gibberish_pages": []
+  },
+  {
+    "identifier": "wikisource_eb1911_calculating_machines",
+    "title": "Calculating Machines (1911 Encyclop\u00e6dia Britannica)",
+    "year": 1911,
+    "publication_year": null,
+    "gutenberg_release_year": null,
+    "year_source": null,
+    "creator": "Encyclop\u00e6dia Britannica (11th ed.)",
+    "description": "Encyclopedia overview of calculating machine types, from adding devices to difference engines and integrators. Captures early-20th-century taxonomy of computation.\n",
+    "summary": "Encyclopedia overview of calculating machine types, from adding devices to difference engines and integrators. Captures early-20th-century taxonomy of computation.\n",
+    "topic": "computing",
+    "language_code": "en",
+    "language": "English",
+    "source_url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Calculating_Machines",
+    "char_count": 72138,
+    "source": "wikisource",
+    "filename": "1911_en_wikisource_eb1911_calculating_machines.txt",
+    "has_translation": false,
+    "translation_filename": null,
+    "gibberish_pages": []
+  },
+  {
+    "identifier": "wikisource_eb1911_saunderson",
+    "title": "Saunderson, Nicholas (1911 Encyclop\u00e6dia Britannica)",
+    "year": 1911,
+    "publication_year": null,
+    "gutenberg_release_year": null,
+    "year_source": null,
+    "creator": "Encyclop\u00e6dia Britannica (11th ed.)",
+    "description": "Biography noting Saunderson's tactile calculating machine for the blind. Shows embodied, assistive computation.\n",
+    "summary": "Biography noting Saunderson's tactile calculating machine for the blind. Shows embodied, assistive computation.\n",
+    "topic": "computing",
+    "language_code": "en",
+    "language": "English",
+    "source_url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Saunderson%2C_Nicholas",
+    "char_count": 1820,
+    "source": "wikisource",
+    "filename": "1911_en_wikisource_eb1911_saunderson.txt",
+    "has_translation": false,
+    "translation_filename": null,
+    "gibberish_pages": []
+  },
+  {
+    "identifier": "wikisource_fauteuil_hante",
+    "title": "Le Fauteuil hant\u00e9",
+    "year": 1911,
+    "publication_year": null,
+    "gutenberg_release_year": null,
+    "year_source": null,
+    "creator": "Gaston Leroux",
+    "description": "Novel episode explaining the abacus as a calculating machine within a fictional academic setting. Shows computation as a cultural reference point.\n",
+    "summary": "Novel episode explaining the abacus as a calculating machine within a fictional academic setting. Shows computation as a cultural reference point.\n",
+    "topic": "computing",
+    "language_code": "fr",
+    "language": "French",
+    "source_url": "https://fr.wikisource.org/wiki/Le_Fauteuil_hant%C3%A9_%281911%29",
+    "char_count": 1212,
+    "source": "wikisource",
+    "filename": "1911_fr_wikisource_fauteuil_hante.txt",
+    "has_translation": false,
+    "translation_filename": null,
+    "gibberish_pages": []
+  },
+  {
+    "identifier": "wikisource_oeuvre_pascal",
+    "title": "L\u2019\u0152uvre scientifique de Blaise Pascal (Pascaline section)",
+    "year": 1912,
+    "publication_year": null,
+    "gutenberg_release_year": null,
+    "year_source": null,
+    "creator": "Abel Rey Maire",
+    "description": "Discussion of Pascal\u2019s calculating machine and the craft labor behind it. Frames calculation as both invention and artisanal practice.\n",
+    "summary": "Discussion of Pascal\u2019s calculating machine and the craft labor behind it. Frames calculation as both invention and artisanal practice.\n",
+    "topic": "computing",
+    "language_code": "fr",
+    "language": "French",
+    "source_url": "https://fr.wikisource.org/wiki/Page%3AMaire_-_L%E2%80%99%C5%92uvre_scientifique_de_Blaise_Pascal%2C_1912.djvu/23",
+    "char_count": 2669,
+    "source": "wikisource",
+    "filename": "1912_fr_wikisource_oeuvre_pascal.txt",
+    "has_translation": false,
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "b90398713",
@@ -1517,7 +2044,7 @@
     ],
     "description": "1 vocal score (7, [1] pages) ; 35 cm For voice, mixed chorus, and piano; excerpt from a musical, accompaniment originally for orchestra. Illustrated list t.p.: orange/yellow/brown; mechanical man, mule, and line of chorus girls with clock faces / Rowland; list of 8 songs from the show. Caption title",
     "summary": null,
-    "topic": "automata",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "eng",
     "source_url": "https://archive.org/details/b90398713",
@@ -1525,7 +2052,8 @@
     "source": null,
     "filename": "1913_en_b90398713.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "gutenberg_72556",
@@ -1537,7 +2065,7 @@
     "creator": "Walters, Harry McDonald",
     "description": null,
     "summary": null,
-    "topic": "thinking_machines",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "English",
     "source_url": "https://www.gutenberg.org/ebooks/72556",
@@ -1545,7 +2073,29 @@
     "source": "gutenberg",
     "filename": "1914_en_gutenberg_72556.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
+  },
+  {
+    "identifier": "wikisource_interview_father_calculating_machine",
+    "title": "An Interview with the Father of the Calculating Machine",
+    "year": 1919,
+    "publication_year": null,
+    "gutenberg_release_year": null,
+    "year_source": null,
+    "creator": "Anonymous",
+    "description": "First-person industrial history of the Monroe/Baldwin calculators and their adoption in business. Shows computation as office labor and infrastructure.\n",
+    "summary": "First-person industrial history of the Monroe/Baldwin calculators and their adoption in business. Shows computation as office labor and infrastructure.\n",
+    "topic": "computing",
+    "language_code": "en",
+    "language": "English",
+    "source_url": "https://en.wikisource.org/wiki/An_Interview_with_the_Father_of_the_Calculating_Machine",
+    "char_count": 13203,
+    "source": "wikisource",
+    "filename": "1919_en_wikisource_interview_father_calculating_machine.txt",
+    "has_translation": false,
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "livingmachine00macciala",
@@ -1557,7 +2107,7 @@
     "creator": "MacCabe, Frederick Faber",
     "description": "117 p",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "en",
     "language": "eng",
     "source_url": "https://archive.org/details/livingmachine00macciala",
@@ -1565,7 +2115,8 @@
     "source": null,
     "filename": "1921_en_livingmachine00macciala.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "gutenberg_59112",
@@ -1577,7 +2128,7 @@
     "creator": "\u010capek, Karel",
     "description": null,
     "summary": null,
-    "topic": "thinking_machines",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "English",
     "source_url": "https://www.gutenberg.org/ebooks/59112",
@@ -1585,7 +2136,50 @@
     "source": "gutenberg",
     "filename": "1923_en_gutenberg_59112.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
+  },
+  {
+    "identifier": "wikisource_par_fil_special",
+    "title": "Par fil sp\u00e9cial",
+    "year": 1924,
+    "publication_year": null,
+    "gutenberg_release_year": null,
+    "year_source": null,
+    "creator": "Andr\u00e9 Baillon",
+    "description": "Modernist novel of newsroom labor that explicitly names machines \u00e0 calculer alongside other office machines. Shows mechanized calculation as part of everyday work.\n",
+    "summary": "Modernist novel of newsroom labor that explicitly names machines \u00e0 calculer alongside other office machines. Shows mechanized calculation as part of everyday work.\n",
+    "topic": "computing",
+    "language_code": "fr",
+    "language": "French",
+    "source_url": "https://fr.wikisource.org/wiki/Par_fil_sp%C3%A9cial_%28Baillon%29/02",
+    "char_count": 728,
+    "source": "wikisource",
+    "filename": "1924_fr_wikisource_par_fil_special.txt",
+    "has_translation": false,
+    "translation_filename": null,
+    "gibberish_pages": []
+  },
+  {
+    "identifier": "wikisource_comptometer_news_v1_i2",
+    "title": "Comptometer News, Volume 1, Issue 2",
+    "year": 1927,
+    "publication_year": null,
+    "gutenberg_release_year": null,
+    "year_source": null,
+    "creator": "Comptometer News",
+    "description": "Trade newsletter about comptometer schools, operators, and office use. Shows computation embedded in organizational culture.\n",
+    "summary": "Trade newsletter about comptometer schools, operators, and office use. Shows computation embedded in organizational culture.\n",
+    "topic": "computing",
+    "language_code": "en",
+    "language": "English",
+    "source_url": "https://en.wikisource.org/wiki/Comptometer_News/Volume_1/Issue_2",
+    "char_count": 59222,
+    "source": "wikisource",
+    "filename": "1927_en_wikisource_comptometer_news_v1_i2.txt",
+    "has_translation": false,
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "InternationaleZeitschriftFuumlrPsychoanalyseXviii1932Heft2",
@@ -1602,7 +2196,7 @@
     ],
     "description": "Das Ichgef\u00fchl im Traume: Vortrag in der Wiener Psychoanalytischen Vereinigung am 2. Dezember 1931 145 Paul Federn Schuldgef\u00fchl, Gewissensangst und Strafbed\u00fcrfnis: Nach einem in der Wiener Psychoanalytischen Vereinigung am 21. Oktober 1931 gehaltenen Vortrage 171 Alfred Winterstein Die Realit\u00e4t und d",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "de",
     "language": "german",
     "source_url": "https://archive.org/details/InternationaleZeitschriftFuumlrPsychoanalyseXviii1932Heft2",
@@ -1610,7 +2204,8 @@
     "source": null,
     "filename": "1932_de_InternationaleZeitschriftFuumlrPsychoanalyseXviii1932Heft2.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "gutenberg_68558",
@@ -1622,7 +2217,7 @@
     "creator": "Smith, E. E. (Edward Elmer)",
     "description": null,
     "summary": null,
-    "topic": "thinking_machines",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "English",
     "source_url": "https://www.gutenberg.org/ebooks/68558",
@@ -1630,7 +2225,8 @@
     "source": "gutenberg",
     "filename": "1939_en_gutenberg_68558.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "CuenotIFB",
@@ -1642,7 +2238,7 @@
     "creator": "Lucien Cu\u00e9not",
     "description": "Lucien Cu\u00e9not (1866-1951) Invention et finalit\u00e9 en biologie , \u00e9d. Flammarion, 1941. Livre de 260 pages TABLE DES MATI\u00c8RES INTRODUCTION 5 1er partie - Les d\u00e9finitions. Science, histoire et m\u00e9taphysique p.11 La science biologique p.16 La Nature p.20 La Vie p.22 Adaptation et convergence p.24 L'inventi",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "fr",
     "language": "french",
     "source_url": "https://archive.org/details/CuenotIFB",
@@ -1650,7 +2246,8 @@
     "source": null,
     "filename": "1941_fr_CuenotIFB.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "gutenberg_65013",
@@ -1662,7 +2259,7 @@
     "creator": "Phillips, Rog",
     "description": null,
     "summary": null,
-    "topic": "thinking_machines",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "English",
     "source_url": "https://www.gutenberg.org/ebooks/65013",
@@ -1670,7 +2267,8 @@
     "source": "gutenberg",
     "filename": "1950_en_gutenberg_65013.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "gutenberg_31611",
@@ -1682,7 +2280,7 @@
     "creator": "Wolf, Mari",
     "description": null,
     "summary": null,
-    "topic": "thinking_machines",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "English",
     "source_url": "https://www.gutenberg.org/ebooks/31611",
@@ -1690,7 +2288,8 @@
     "source": "gutenberg",
     "filename": "1952_en_gutenberg_31611.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "gutenberg_65128",
@@ -1702,7 +2301,7 @@
     "creator": "Rice, R. J.",
     "description": null,
     "summary": null,
-    "topic": "thinking_machines",
+    "topic": "automata_artificial_beings",
     "language_code": "en",
     "language": "English",
     "source_url": "https://www.gutenberg.org/ebooks/65128",
@@ -1710,7 +2309,8 @@
     "source": "gutenberg",
     "filename": "1958_en_gutenberg_65128.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "betweenworlds_201911",
@@ -1722,7 +2322,7 @@
     "creator": "Nandor. Fodor",
     "description": "West Nyack, N.Y., Parker Publishing Company, Inc., [1964] OCLC Number: 1127828179 MacKenzie King's search for survival -- Lincoln and the unseen -- Who was the real Francis Grierson? -- The unknown Dickens -- The riddle of Vaslav Nijinsky -- Sandor Ferenczi's psychic adventures -- The incredible psy",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "en",
     "language": "eng",
     "source_url": "https://archive.org/details/betweenworlds_201911",
@@ -1730,7 +2330,8 @@
     "source": null,
     "filename": "1964_en_betweenworlds_201911.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "LLP_1964100901",
@@ -1742,7 +2343,7 @@
     "creator": null,
     "description": "Page 1: - Ce que les minorit\u00e9s fran\u00e7aises veulent: Ce que les Anglo-Qu\u00e9b\u00e9cois obtiennent... - M. S\u00e9raphin Marion s'en prend aux statisticiens d\u00e9faitistes - L'hon. Roger Teillet veut augmenter les pensions des anciens combattants - Actualit\u00e9s Locales - Dons de plusieurs pays pour le congr\u00e8s de Bombay",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "fr",
     "language": "French",
     "source_url": "https://archive.org/details/LLP_1964100901",
@@ -1750,27 +2351,8 @@
     "source": null,
     "filename": "1964_fr_LLP_1964100901.txt",
     "has_translation": false,
-    "translation_filename": null
-  },
-  {
-    "identifier": "byte-magazine-1978-09",
-    "title": "Byte Magazine Volume 03 Number 09 - Graphic Manipulations",
-    "year": 1978,
-    "publication_year": null,
-    "gutenberg_release_year": null,
-    "year_source": null,
-    "creator": null,
-    "description": "Foreground p.58 A -TINY- PASCAL COMPILER, Part 1: The P-Code Interpreter [theme Software] [author Chung-Yuen] p.94 LET YOUR FINGERS DO THE TALKING: Scanner Applications [theme Software] [author Ciarcia] p.102 S2L: AN ALTAIR (S-100) TO LSI-11 BUS ADAPTER [theme Hardware Design] [author Bondy] p.166 W",
-    "summary": null,
-    "topic": "chess_automaton",
-    "language_code": "en",
-    "language": "eng",
-    "source_url": "https://archive.org/details/byte-magazine-1978-09",
-    "char_count": 807969,
-    "source": null,
-    "filename": "1978_en_byte-magazine-1978-09.txt",
-    "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "cia-readingroom-document-cia-rdp96-00792r000600380001-0",
@@ -1782,7 +2364,7 @@
     "creator": "CIA Reading Room",
     "description": "Approved For Release 2000/08/09 : CIA-RDP96-00792R000600380001-0 LN190-91 CHINESE JOURNAL OF SOMATIC SCIENCE, July 1990, pp. 44-47 SOVIET STUDIES OF THE HUMAN ABILITY OF SUPER-PERCEPTION TRANSLATED BY: Li Huang \"Science and Life\", a Soviet monthly magazine with a circulation of 3.4 million, in a rec",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "en",
     "language": "english",
     "source_url": "https://archive.org/details/cia-readingroom-document-cia-rdp96-00792r000600380001-0",
@@ -1790,7 +2372,8 @@
     "source": null,
     "filename": "1990_en_cia-readingroom-document-cia-rdp96-00792r000600380001-0.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "LBT_1990021601",
@@ -1802,7 +2385,7 @@
     "creator": null,
     "description": "Page 1: - SFM: \u00abNi oui, ni non\u00bb \u00e0 Meech - C'est plein de chaleur humaine! - Luc De Larochelli\u00e8re \u00e0 St-Boniface - Lourdes pr\u00e9pare son centenaire - Citation de la semaine Page 2: - ACTUEL - CULTUREL - SPORTS - SOCI\u00c9T\u00c9 Page 3: - Les WASPs sont pro-minoritaires - SFM : \u00abni oui, ni non\u00bb \u00e0 Meech - La post",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "fr",
     "language": "French",
     "source_url": "https://archive.org/details/LBT_1990021601",
@@ -1810,7 +2393,8 @@
     "source": null,
     "filename": "1990_fr_LBT_1990021601.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   },
   {
     "identifier": "ivan-pavlov-exploring-the-animal-machine-oxford-portraits-in-science-by-daniel-todes-z-lib.org",
@@ -1822,7 +2406,7 @@
     "creator": "Daniel Todes",
     "description": "Hailed as the \"Prince of World Physiology,\" Ivan Pavlov continues to influence scientists today. His pioneering research on digestion, the brain, and behavior still provides important insights into the minds of animals--including humans--and is an inspiring example of imaginative experimental techni",
     "summary": null,
-    "topic": "vitalism_debates",
+    "topic": "mechanism",
     "language_code": "en",
     "language": "eng",
     "source_url": "https://archive.org/details/ivan-pavlov-exploring-the-animal-machine-oxford-portraits-in-science-by-daniel-todes-z-lib.org",
@@ -1830,6 +2414,7 @@
     "source": null,
     "filename": "2000_en_ivan-pavlov-exploring-the-animal-machine-oxford-portraits-in-science-by-daniel-todes-z-lib_org.txt",
     "has_translation": false,
-    "translation_filename": null
+    "translation_filename": null,
+    "gibberish_pages": []
   }
 ]

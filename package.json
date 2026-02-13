@@ -4,9 +4,13 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
-    "build:search": "npx pagefind --site public/texts --output-path public/_pagefind",
-    "build:full": "npm run build && npm run build:search",
+    "build:terms": "node scripts/build-term-index.mjs",
+    "build:next": "next build",
+    "build:search-data": "node scripts/build-pagefind-data.mjs",
+    "build:search": "npm run build:search-data && npx pagefind --site public/texts --output-path public/_pagefind",
+    "build:semantic-index": "node scripts/build-semantic-index.mjs",
+    "build": "npm run build:terms && npm run build:next && npm run build:search",
+    "build:full": "npm run build",
     "start": "next start",
     "lint": "next lint",
     "export": "python3 scripts/export_for_web.py"
@@ -14,8 +18,10 @@
   "dependencies": {
     "@supabase/supabase-js": "^2.39.0",
     "next": "^14.2.0",
+    "openai": "^6.21.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "yaml": "^2.8.2"
   },
   "devDependencies": {
     "@types/node": "^20.11.0",

@@ -6,6 +6,7 @@ interface DocumentCardProps {
   showTopic?: boolean
   showLanguage?: boolean
   showDecade?: boolean
+  linkQuery?: string
   variant?: 'default' | 'compact' | 'featured'
 }
 
@@ -14,14 +15,21 @@ export function DocumentCard({
   showTopic = true,
   showLanguage = true,
   showDecade = false,
+  linkQuery,
   variant = 'default',
 }: DocumentCardProps) {
   const decade = Math.floor(doc.year / 10) * 10
+  const href = linkQuery
+    ? {
+        pathname: `/document/${doc.identifier}`,
+        query: { q: linkQuery },
+      }
+    : `/document/${doc.identifier}`
 
   if (variant === 'compact') {
     return (
       <Link
-        href={`/document/${doc.identifier}`}
+        href={href}
         className="group flex items-baseline gap-3 py-2 hover:bg-paper-100 -mx-2 px-2 rounded-sm transition-colors"
       >
         <span className="date-stamp shrink-0">{doc.year}</span>
@@ -35,7 +43,7 @@ export function DocumentCard({
   if (variant === 'featured') {
     return (
       <Link
-        href={`/document/${doc.identifier}`}
+        href={href}
         className="group block p-6 bg-paper-100 border border-paper-200 rounded-sm
                    hover:border-copper-400 hover:shadow-subtle transition-all"
       >
@@ -90,7 +98,7 @@ export function DocumentCard({
   // Default variant
   return (
     <Link
-      href={`/document/${doc.identifier}`}
+      href={href}
       className="doc-card block group"
     >
       <div className="flex items-start gap-4">

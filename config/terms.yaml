@@ -1,0 +1,121 @@
+version: 1
+concepts:
+  - id: intelligence
+    label: Intelligence
+    description: Capacities of mind, cognition, and adaptive thought as discussed across philosophical, scientific, and technical traditions.
+    variants:
+      all: [intelligence, intelligent, intellect]
+      fr: [intelligence, intellect]
+      de: [intelligenz, intelligent]
+      ru: [интеллект, разум]
+      la: [intelligentia, intellectus]
+
+  - id: learning
+    label: Learning
+    description: Processes of acquiring knowledge, skill, and adaptation in humans, animals, and machines.
+    variants:
+      all: [learning, learn, learned]
+      fr: [apprentissage, apprendre]
+      de: [lernen, lernprozess]
+      ru: [обучение, учение]
+      la: [discere, disciplina]
+
+  - id: reasoning
+    label: Reasoning
+    description: Inference, logical procedure, and rational deliberation in human and non-human systems.
+    variants:
+      all: [reasoning, reason, rationality]
+      fr: [raisonnement, raison]
+      de: [vernunft, schlussfolgern]
+      ru: [рассуждение, разум]
+      la: [ratiocinatio, ratio]
+
+  - id: agency
+    label: Agency
+    description: Questions of intentional action, autonomy, and who or what can be treated as an acting subject.
+    variants:
+      all: [agency, agent, autonomy, autonomous]
+      fr: [agent, autonomie, autonome]
+      de: [agent, autonomie, autonom]
+      ru: [агент, автономия, автономный]
+      la: [agens]
+
+  - id: memory
+    label: Memory
+    description: Theories of retention, recollection, storage, and transmission in minds, bodies, and machines.
+    variants:
+      all: [memory, remembrance, mnemonic]
+      fr: [mémoire, memoire]
+      de: [gedächtnis, gedachtnis]
+      ru: [память]
+      la: [memoria]
+
+  - id: mechanism
+    label: Mechanism
+    description: Mechanical explanations of life, mind, and motion, including debates with vitalist and spiritual accounts.
+    variants:
+      all: [mechanism, mechanical, machinery]
+      fr: [mécanisme, mecanisme, mécanique, mecanique]
+      de: [mechanismus, mechanik, mechanisch]
+      ru: [механизм, механический]
+      la: [mechanica, mechanismus]
+
+  - id: automaton
+    label: Automaton
+    description: Self-moving artifacts and models of life-like operation central to early machine-intelligence imaginaries.
+    variants:
+      all: [automaton, automata, android]
+      fr: [automate, automates]
+      de: [automat, automaten]
+      ru: [автомат, автоматы]
+      la: [automata, automaton]
+
+  - id: machine
+    label: Machine
+    description: Broad discourse on machines and engines as models, tools, and metaphors for cognition and society.
+    variants:
+      all: [machine, machines, engine]
+      fr: [machine, machines]
+      de: [maschine, maschinen]
+      ru: [машина, машины]
+      la: [machina]
+
+  - id: computation
+    label: Computation
+    description: Calculation, symbolic operations, and formal procedures from early arithmetic devices to computational theory.
+    variants:
+      all: [computation, compute, calculation, calculating machine]
+      fr: [calcul, calculatrice, calculateur]
+      de: [berechnung, rechnen, rechenmaschine]
+      ru: [вычисление, арифмометр, счётная машина, счетная машина]
+      la: [computatio, calculus]
+
+  - id: automation
+    label: Automation
+    description: Automatic operation, mechanization of labor, and social debates about replacing human action with systems.
+    variants:
+      all: [automation, automatic, mechanization, mechanisation]
+      fr: [automatisation, automatique, mécanisation, mecanisation]
+      de: [automatisierung, automatisch, mechanisierung]
+      ru: [автоматизация, автоматический, механизация]
+      la: [automatio]
+
+  - id: probability
+    label: Probability
+    description: Statistical and probabilistic reasoning about uncertainty, prediction, and regularity.
+    variants:
+      all: [probability, probabilistic, statistics, statistical, chance]
+      fr: [probabilité, probabilite, statistique, hasard]
+      de: [wahrscheinlichkeit, statistik, zufall]
+      ru: [вероятность, статистика, случайность]
+      la: [probabilitas, statistica]
+
+  - id: network
+    label: Network
+    description: Networks, interconnection, and distributed systems as metaphors and infrastructures of thought.
+    variants:
+      all: [network, networks, connection, connected, web, cybernetic, cybernetics]
+      fr: [réseau, reseau, connexion]
+      de: [netzwerk, verbindung]
+      ru: [сеть, связь]
+      la: [rete, connexio]

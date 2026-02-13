@@ -15,6 +15,7 @@ interface DocumentListProps {
   variant?: 'default' | 'compact' | 'featured'
   showTopic?: boolean
   showLanguage?: boolean
+  linkQuery?: string
 }
 
 export function DocumentList({
@@ -26,6 +27,7 @@ export function DocumentList({
   variant = 'default',
   showTopic = true,
   showLanguage = true,
+  linkQuery,
 }: DocumentListProps) {
   const [sortBy, setSortBy] = useState<SortOption>(initialSort)
   const [filterLanguage, setFilterLanguage] = useState<string>('')
@@ -170,6 +172,7 @@ export function DocumentList({
               variant={variant}
               showTopic={showTopic && !filterTopic}
               showLanguage={showLanguage && !filterLanguage}
+              linkQuery={linkQuery}
             />
           ))}
         </div>

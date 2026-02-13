@@ -38,8 +38,8 @@ This repository contains the prototype infrastructure for GEMI, developed during
 
 **Current Configuration:**
 - **Date range:** 1600-2000 (400 years of intellectual history)
-- **Languages:** English, French, German, Russian, Spanish, Italian
-- **Topics:** calculating_machines, automata, thinking_machines, computing, cybernetics, automation, intelligence, learning, mechanism, statistics_probability
+- **Languages:** English, French, German, Russian, Spanish, Italian, Latin
+- **Topics:** automata_artificial_beings, computing, logic_formal_reasoning, intelligence, learning, mechanism, statistics_probability, cybernetics, automation, representation_symbol_systems
 - **Output:** Organized by decade, topic, AND language with full metadata indexing
 
 **CLI Usage:**
@@ -51,7 +51,7 @@ python ia_historical_corpus.py
 python ia_historical_corpus.py -l en fr de
 
 # Specific topics only
-python ia_historical_corpus.py -t automata mechanism
+python ia_historical_corpus.py -t automata_artificial_beings mechanism
 
 # Combined filters
 python ia_historical_corpus.py -l en -t intelligence learning
@@ -69,7 +69,7 @@ corpus/
 ├── metadata.json           # Full index of all items
 ├── raw_texts/              # All downloaded texts
 ├── by_decade/              # Symlinks: 1600s/, 1610s/, ... 2000s/
-├── by_topic/               # Symlinks: automata/, intelligence/, etc.
+├── by_topic/               # Symlinks: automata_artificial_beings/, intelligence/, etc.
 └── by_language/            # Symlinks: en/, fr/, de/, ru/, es/, it/
 ```
 
@@ -434,12 +434,95 @@ Use current Claude models via the Anthropic SDK for document analysis tasks.
 
 ---
 
+## Proposal-Ready Prototype Plan (1 Week)
+
+This repository should support a **credible public prototype** suitable for inclusion in the Mellon proposal: not a full archive, but a stable, inspectable research tool demonstrating concept genealogy across centuries.
+
+### Prototype Objective
+
+Deliver a deployable web interface where users can:
+1. Search across the corpus using lexical + semantic signals
+2. Explore 10-12 core concepts across time/language/topic
+3. Click directly from interpretation to primary-source evidence
+
+### Concept Spine (v1)
+
+The prototype should prioritize the following 12 concepts:
+- intelligence
+- learning
+- reasoning
+- agency
+- memory
+- mechanism
+- automaton
+- machine
+- computation
+- automation
+- probability
+- network
+
+### Scope Rules
+
+- Keep all currently indexed corpus documents in the searchable index (do not hard-delete by default)
+- Apply quality-aware ranking (short/low-context texts can be demoted or optionally filtered)
+- Prefer deterministic build artifacts for deployment reproducibility
+- Every result card should expose source metadata and link to full text
+- Publish an explicit methods/limits page for transparency
+
+### One-Week Deliverables
+
+#### Day 1: Product contract + data contract
+- Freeze MVP user stories (researcher / instructor / public user)
+- Define term schema (`config/terms.yaml`) with multilingual variants and exclusions
+- Define output schemas for term index and concept pages
+
+#### Day 2: Term indexing pipeline
+- Build script to extract term evidence from corpus
+- Generate per-term counts by decade/language/topic
+- Export top excerpts and source links for each concept page
+
+#### Day 3: Search hardening
+- Ship production-safe semantic retrieval path
+- Unify lexical + semantic ranking
+- Add quality-aware ranking and stable fallback behavior
+
+#### Day 4: Concept interface
+- Implement `/concepts` overview and `/concepts/[id]` detail pages
+- Include timeline summaries + evidence excerpts
+- Ensure direct jumps to source documents
+
+#### Day 5: Editorial layer
+- Curate anchor sources for each concept
+- Add short interpretive notes connecting historical usage to AI discourse
+- Add at least one guided thematic pathway
+
+#### Day 6: QA + instrumentation
+- Validate local and Vercel behavior
+- Add smoke tests for search and concept routes
+- Capture key metrics: query latency, zero-result rate, failed semantic calls
+
+#### Day 7: Proposal packaging
+- Final methods/limits and architecture notes
+- Screenshot-ready demo flows
+- Stable deployment URL suitable for proposal citation
+
+### Definition of Done
+
+The prototype is considered proposal-ready when:
+1. A reviewer can run sample queries and retrieve coherent, source-backed results
+2. Concept pages demonstrate diachronic variation (not just keyword frequency)
+3. Evidence is inspectable with one click to primary text
+4. Local and deployed behavior are consistent
+5. Limitations and methodological choices are clearly documented
+
+---
+
 ## Next Steps
 
 1. **Immediate:** Test the expanded corpus builder:
    ```bash
    # Quick test with one language, one topic
-   python ia_historical_corpus.py -l en -t automata --max-per-term 5
+   python ia_historical_corpus.py -l en -t automata_artificial_beings --max-per-term 5
 
    # Check what was downloaded
    python ia_historical_corpus.py --stats

@@ -52,6 +52,30 @@ def get_supabase_config():
 
 STORAGE_BUCKET = "corpus-texts"
 
+# Topic normalization (legacy -> canonical)
+TOPIC_ALIASES = {
+    "calculating_machines": "computing",
+    "thinking_machines": "automata_artificial_beings",
+    "automata": "automata_artificial_beings",
+    "computing": "computing",
+    "cybernetics": "cybernetics",
+    "automation": "automation",
+    "intelligence": "intelligence",
+    "learning": "learning",
+    "mechanism": "mechanism",
+    "statistics_probability": "statistics_probability",
+    # Obscure-topic aliases
+    "chess_automaton": "automata_artificial_beings",
+    "artificial_beings_fiction": "automata_artificial_beings",
+    "reactions_pamphlets": "automata_artificial_beings",
+    "popular_wonders": "mechanism",
+    "vitalism_debates": "mechanism",
+    "machinery_labor": "automation",
+    "universal_language": "representation_symbol_systems",
+}
+
+def normalize_topic(topic: str) -> str:
+    return TOPIC_ALIASES.get(topic, topic)
 
 # ══════════════════════════════════════════════════════════════════════════════
 # HELPER FUNCTIONS
@@ -85,6 +109,7 @@ def export_corpus_index(metadata: list[dict]):
     # Clean up metadata for web export
     web_metadata = []
     for doc in metadata:
+        topic = normalize_topic(doc["topic"])
         web_doc = {
             "identifier": doc["identifier"],
             "title": doc["title"],
@@ -95,7 +120,7 @@ def export_corpus_index(metadata: list[dict]):
             "creator": doc.get("creator"),
             "description": doc.get("description", "")[:300] if doc.get("description") else None,
             "summary": doc.get("summary"),  # Human-readable summary
-            "topic": doc["topic"],
+            "topic": topic,
             "language_code": doc.get("language_code", "en"),
             "language": doc.get("language"),
             "source_url": doc["source_url"],
@@ -106,6 +131,7 @@ def export_corpus_index(metadata: list[dict]):
             # Translation support
             "has_translation": doc.get("has_translation", False),
             "translation_filename": doc.get("translation_filename"),
+            "gibberish_pages": doc.get("gibberish_pages", []),
         }
         web_metadata.append(web_doc)
 
@@ -164,6 +190,7 @@ def copy_texts_for_pagefind(metadata: list[dict]):
         html_filename = f"{doc['identifier']}.html"
         html_path = TEXTS_OUTPUT_DIR / html_filename
 
+        topic = normalize_topic(doc["topic"])
         html_content = f"""<!DOCTYPE html>
 <html lang="{doc.get('language_code', 'en')}">
 <head>
@@ -176,7 +203,7 @@ def copy_texts_for_pagefind(metadata: list[dict]):
         data-pagefind-meta="title:{doc['title']}"
         data-pagefind-filter="year:{doc['year']}"
         data-pagefind-filter="decade:{(doc['year'] // 10) * 10}s"
-        data-pagefind-filter="topic:{doc['topic']}"
+        data-pagefind-filter="topic:{topic}"
         data-pagefind-filter="language:{doc.get('language_code', 'en')}"
         data-pagefind-sort="year:{doc['year']}"
     >
@@ -184,7 +211,7 @@ def copy_texts_for_pagefind(metadata: list[dict]):
         <div class="metadata">
             <span class="year">{doc['year']}</span>
             <span class="creator">{doc.get('creator', 'Unknown')}</span>
-            <span class="topic">{doc['topic']}</span>
+            <span class="topic">{topic}</span>
             <span class="language">{doc.get('language_code', 'en')}</span>
         </div>
         <div class="content">
@@ -359,7 +386,7 @@ def print_summary(metadata: list[dict]):
     # Count by topic
     by_topic = {}
     for doc in metadata:
-        topic = doc['topic']
+        topic = normalize_topic(doc['topic'])
         by_topic[topic] = by_topic.get(topic, 0) + 1
 
     print(f"\nBy topic:")

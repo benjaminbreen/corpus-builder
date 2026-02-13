@@ -56,6 +56,11 @@ export function Footer() {
                 </Link>
               </li>
               <li>
+                <Link href="/methods" className="font-sans text-sm text-ink-500 hover:text-ink-900">
+                  Methods
+                </Link>
+              </li>
+              <li>
                 <a
                   href="https://humanities.ucsc.edu"
                   target="_blank"
@@ -63,26 +68,6 @@ export function Footer() {
                   className="font-sans text-sm text-ink-500 hover:text-ink-900"
                 >
                   UC Santa Cruz
-                </a>
-              </li>
-              <li>
-                <a
-                  href="https://www.neh.gov"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="font-sans text-sm text-ink-500 hover:text-ink-900"
-                >
-                  NEH
-                </a>
-              </li>
-              <li>
-                <a
-                  href="https://github.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="font-sans text-sm text-ink-500 hover:text-ink-900"
-                >
-                  GitHub
                 </a>
               </li>
             </ul>
@@ -93,8 +78,7 @@ export function Footer() {
         <div className="mt-12 pt-6 border-t border-paper-200">
           <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
             <p className="font-sans text-xs text-ink-400">
-              © {new Date().getFullYear()} Benjamin Breen & Pranav Anand.
-              Supported by the National Endowment for the Humanities.
+              © 2026. A work-in-progress prototype.
             </p>
             <div className="flex items-center gap-1">
               <span className="font-mono text-xs text-ink-400">

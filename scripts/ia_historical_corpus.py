@@ -6,7 +6,7 @@ Downloads OCR'd text from Internet Archive for historical research
 on topics like automation, thinking machines, computing, etc.
 
 Usage:
-    pip install internetarchive requests
+    pip install internetarchive requests pyyaml
     python ia_historical_corpus.py
 
 Output structure:
@@ -17,8 +17,8 @@ Output structure:
     │   ├── 1860s/
     │   └── ...
     └── by_topic/
-        ├── calculating_machines/
-        ├── automation/
+        ├── automata_artificial_beings/
+        ├── computing/
         └── ...
 """
 
@@ -26,6 +26,7 @@ import os
 import json
 import time
 import re
+import sys
 from pathlib import Path
 from datetime import datetime
 from typing import Optional
@@ -40,260 +41,167 @@ import requests
 # MULTILINGUAL SEARCH TERMS
 # Organized by topic, with translations for each supported language
 # Languages: en (English), fr (French), de (German), ru (Russian),
-#            es (Spanish), it (Italian)
+#            es (Spanish), it (Italian), la (Latin)
 # ══════════════════════════════════════════════════════════════════════════════
 
-SEARCH_TOPICS = {
-    "calculating_machines": {
-        "en": [
-            "calculating machine",
-            "difference engine",
-            "analytical engine",
-            "babbage",
-            "arithmetic machine",
-            "mechanical calculator",
-        ],
-        "fr": [
-            "machine à calculer",
-            "machine arithmétique",
-            "pascaline",
-            "calculateur mécanique",
-        ],
-        "de": [
-            "Rechenmaschine",
-            "Differenzmaschine",
-            "mechanischer Rechner",
-            "Leibniz Rechenmaschine",
-        ],
-        "ru": [
-            "счётная машина",
-            "арифмометр",
-            "вычислительная машина",
-        ],
-        "es": [
-            "máquina calculadora",
-            "máquina aritmética",
-            "calculadora mecánica",
-        ],
-        "it": [
-            "macchina calcolatrice",
-            "macchina aritmetica",
-            "calcolatore meccanico",
-        ],
-    },
-    "automata": {
+DEFAULT_SEARCH_TOPICS = {
+    "automata_artificial_beings": {
         "en": [
             "automaton",
             "automata",
             "mechanical man",
-            "mechanical chess",
             "android",
-            "clockwork figure",
+            "robot",
             "self-moving machine",
+            "mechanical chess",
+            "thinking machine",
+            "mechanical brain",
+            "reasoning machine",
         ],
         "fr": [
             "automate",
             "automates",
             "homme mécanique",
-            "canard de vaucanson",
             "androïde",
-            "figure mécanique",
+            "machine pensante",
+            "cerveau mécanique",
         ],
         "de": [
             "Automat",
             "Automaten",
             "mechanischer Mensch",
-            "Schachtürke",
             "Androide",
-            "Uhrwerk",
+            "Denkmaschine",
+            "mechanisches Gehirn",
         ],
         "ru": [
             "автомат",
             "автоматон",
             "механический человек",
             "андроид",
+            "мыслящая машина",
         ],
         "es": [
             "autómata",
             "autómatas",
             "hombre mecánico",
             "androide",
-            "figura mecánica",
+            "máquina pensante",
+            "cerebro mecánico",
         ],
         "it": [
             "automa",
             "automi",
             "uomo meccanico",
             "androide",
-            "figura meccanica",
-        ],
-    },
-    "thinking_machines": {
-        "en": [
-            "thinking machine",
-            "mechanical brain",
-            "machine intelligence",
-            "artificial mind",
-            "machine thought",
-            "reasoning machine",
-            "logic machine",
-        ],
-        "fr": [
-            "machine pensante",
-            "cerveau mécanique",
-            "intelligence artificielle",
-            "machine à raisonner",
-            "machine logique",
-        ],
-        "de": [
-            "Denkmaschine",
-            "denkende Maschine",
-            "mechanisches Gehirn",
-            "künstliche Intelligenz",
-            "Logikmaschine",
-        ],
-        "ru": [
-            "мыслящая машина",
-            "механический мозг",
-            "искусственный интеллект",
-            "логическая машина",
-        ],
-        "es": [
-            "máquina pensante",
-            "cerebro mecánico",
-            "inteligencia artificial",
-            "máquina de razonar",
-        ],
-        "it": [
             "macchina pensante",
             "cervello meccanico",
-            "intelligenza artificiale",
-            "macchina logica",
         ],
     },
     "computing": {
         "en": [
+            "calculating machine",
+            "difference engine",
+            "analytical engine",
+            "arithmetical machine",
+            "mechanical calculator",
             "computing machine",
             "electronic brain",
             "digital computer",
             "turing machine",
-            "stored program",
-            "electronic computer",
-            "information machine",
         ],
         "fr": [
-            "machine à calculer électronique",
+            "machine à calculer",
+            "machine arithmétique",
+            "calculateur mécanique",
             "cerveau électronique",
             "ordinateur",
             "calculateur numérique",
         ],
         "de": [
-            "Rechenanlage",
+            "Rechenmaschine",
+            "Differenzmaschine",
+            "mechanischer Rechner",
             "elektronisches Gehirn",
             "Digitalrechner",
             "Computer",
-            "Zuse",
         ],
         "ru": [
-            "электронно-вычислительная машина",
-            "ЭВМ",
+            "счётная машина",
+            "арифмометр",
+            "вычислительная машина",
             "электронный мозг",
             "компьютер",
         ],
         "es": [
+            "máquina calculadora",
+            "máquina aritmética",
+            "calculadora mecánica",
+            "cerebro electrónico",
             "computadora",
             "ordenador",
-            "cerebro electrónico",
-            "máquina computadora",
         ],
         "it": [
-            "calcolatore elettronico",
+            "macchina calcolatrice",
+            "macchina aritmetica",
+            "calcolatore meccanico",
             "cervello elettronico",
-            "elaboratore",
             "computer",
         ],
     },
-    "cybernetics": {
+    "logic_formal_reasoning": {
         "en": [
-            "cybernetics",
-            "feedback control",
-            "servomechanism",
-            "norbert wiener",
-            "self-regulating",
-            "control system",
+            "logic",
+            "symbolic logic",
+            "formal reasoning",
+            "syllogism",
+            "calculus of reasoning",
+            "logical machine",
+            "inference",
         ],
         "fr": [
-            "cybernétique",
-            "rétroaction",
-            "servomécanisme",
-            "système autorégulé",
+            "logique",
+            "logique symbolique",
+            "raisonnement formel",
+            "syllogisme",
+            "machine logique",
+            "inférence",
         ],
         "de": [
-            "Kybernetik",
-            "Rückkopplung",
-            "Regelungstechnik",
-            "Servomechanismus",
+            "Logik",
+            "symbolische Logik",
+            "formales Schließen",
+            "Syllogismus",
+            "Logikmaschine",
+            "Schlussfolgerung",
         ],
         "ru": [
-            "кибернетика",
-            "обратная связь",
-            "саморегуляция",
+            "логика",
+            "символическая логика",
+            "формальное рассуждение",
+            "силлогизм",
+            "логическая машина",
         ],
         "es": [
-            "cibernética",
-            "retroalimentación",
-            "servomecanismo",
-            "sistema de control",
+            "lógica",
+            "lógica simbólica",
+            "razonamiento formal",
+            "silogismo",
+            "máquina lógica",
+            "inferencia",
         ],
         "it": [
-            "cibernetica",
-            "retroazione",
-            "servomeccanismo",
-            "sistema di controllo",
+            "logica",
+            "logica simbolica",
+            "ragionamento formale",
+            "sillogismo",
+            "macchina logica",
+            "inferenza",
         ],
-    },
-    "automation": {
-        "en": [
-            "automation",
-            "automatic control",
-            "automatic factory",
-            "robot",
-            "robotics",
-            "automatic machine",
-        ],
-        "fr": [
-            "automatisation",
-            "contrôle automatique",
-            "robot",
-            "robotique",
-            "usine automatique",
-        ],
-        "de": [
-            "Automatisierung",
-            "automatische Steuerung",
-            "Roboter",
-            "Robotik",
-            "automatische Fabrik",
-        ],
-        "ru": [
-            "автоматизация",
-            "автоматическое управление",
-            "робот",
-            "робототехника",
-        ],
-        "es": [
-            "automatización",
-            "control automático",
-            "robot",
-            "robótica",
-            "fábrica automática",
-        ],
-        "it": [
-            "automazione",
-            "controllo automatico",
-            "robot",
-            "robotica",
-            "fabbrica automatica",
+        "la": [
+            "logica",
+            "syllogismus",
+            "ratio",
         ],
     },
     "intelligence": {
@@ -346,16 +254,21 @@ SEARCH_TOPICS = {
             "cognizione",
             "mente",
         ],
+        "la": [
+            "intelligentia",
+            "intellectus",
+            "mens",
+        ],
     },
     "learning": {
         "en": [
             "learning",
-            "machine learning",
             "habit",
             "memory",
             "training",
             "instruction",
-            "education of machines",
+            "education",
+            "association",
         ],
         "fr": [
             "apprentissage",
@@ -364,21 +277,23 @@ SEARCH_TOPICS = {
             "instruction",
             "éducation",
             "entraînement",
+            "association",
         ],
         "de": [
             "Lernen",
-            "maschinelles Lernen",
             "Gewohnheit",
             "Gedächtnis",
             "Training",
             "Erziehung",
+            "Assoziation",
         ],
         "ru": [
             "обучение",
-            "машинное обучение",
             "привычка",
             "память",
             "тренировка",
+            "воспитание",
+            "ассоциация",
         ],
         "es": [
             "aprendizaje",
@@ -386,6 +301,8 @@ SEARCH_TOPICS = {
             "memoria",
             "entrenamiento",
             "instrucción",
+            "educación",
+            "asociación",
         ],
         "it": [
             "apprendimento",
@@ -393,16 +310,24 @@ SEARCH_TOPICS = {
             "memoria",
             "addestramento",
             "istruzione",
+            "educazione",
+            "associazione",
+        ],
+        "la": [
+            "memoria",
+            "disciplina",
+            "institutio",
         ],
     },
     "mechanism": {
         "en": [
             "mechanism",
             "mechanical philosophy",
-            "clockwork universe",
+            "clockwork",
             "machine",
             "engine",
             "mechanistic",
+            "machinery",
         ],
         "fr": [
             "mécanisme",
@@ -410,7 +335,7 @@ SEARCH_TOPICS = {
             "machine",
             "moteur",
             "horloge",
-            "mécaniste",
+            "machinerie",
         ],
         "de": [
             "Mechanismus",
@@ -418,7 +343,7 @@ SEARCH_TOPICS = {
             "Maschine",
             "Uhrwerk",
             "Motor",
-            "mechanistisch",
+            "Maschinerie",
         ],
         "ru": [
             "механизм",
@@ -433,7 +358,7 @@ SEARCH_TOPICS = {
             "máquina",
             "motor",
             "relojería",
-            "mecanicista",
+            "maquinaria",
         ],
         "it": [
             "meccanismo",
@@ -441,7 +366,11 @@ SEARCH_TOPICS = {
             "macchina",
             "motore",
             "orologeria",
-            "meccanicistico",
+            "macchinario",
+        ],
+        "la": [
+            "machina",
+            "mechanicus",
         ],
     },
     "statistics_probability": {
@@ -454,6 +383,7 @@ SEARCH_TOPICS = {
             "random",
             "chance",
             "stochastic",
+            "error",
         ],
         "fr": [
             "statistique",
@@ -463,6 +393,7 @@ SEARCH_TOPICS = {
             "distribution",
             "hasard",
             "aléatoire",
+            "erreur",
         ],
         "de": [
             "Statistik",
@@ -472,6 +403,7 @@ SEARCH_TOPICS = {
             "Verteilung",
             "Zufall",
             "stochastisch",
+            "Fehler",
         ],
         "ru": [
             "статистика",
@@ -480,6 +412,7 @@ SEARCH_TOPICS = {
             "корреляция",
             "распределение",
             "случайность",
+            "ошибка",
         ],
         "es": [
             "estadística",
@@ -489,6 +422,7 @@ SEARCH_TOPICS = {
             "distribución",
             "azar",
             "aleatorio",
+            "error",
         ],
         "it": [
             "statistica",
@@ -498,120 +432,209 @@ SEARCH_TOPICS = {
             "distribuzione",
             "caso",
             "aleatorio",
-        ],
-    },
-
-    # ══════════════════════════════════════════════════════════════════════════
-    # NEW TOPICS: Designed to surface obscure/forgotten texts
-    # These prioritize pamphlets, reactions, debates, and popular accounts
-    # ══════════════════════════════════════════════════════════════════════════
-
-    "vitalism_debates": {
-        # Debates on mechanism vs vitalism - is life just machinery?
-        "en": [
-            "vital principle",
-            "vital force",
-            "animal machine",
-            "living machine",
-            "vitalism",
-            "life force",
-            "organic machine",
-        ],
-        "fr": [
-            "principe vital",
-            "force vitale",
-            "machine animale",
-            "vitalisme",
-        ],
-        "de": [
-            "Lebenskraft",
-            "Vitalismus",
-            "lebende Maschine",
-        ],
-    },
-
-    "chess_automaton": {
-        # The Mechanical Turk and chess-playing automata debates
-        "en": [
-            "chess automaton",
-            "automaton chess player",
-            "Maelzel",
-            "mechanical chess",
-            "Kempelen",
-            "chess-playing machine",
-        ],
-        "fr": [
-            "joueur d'échecs automate",
-            "automate joueur d'échecs",
-        ],
-        "de": [
-            "Schachtürke",
-            "Schachautomat",
-        ],
-    },
-
-    "machinery_labor": {
-        # Anxieties about machines replacing human labor
-        "en": [
-            "machinery and labor",
-            "effects of machinery",
-            "machinery question",
-            "labor saving machinery",
-            "machinery displacing",
-            "automatic labor",
-            "machinery wages",
-        ],
-    },
-
-    "universal_language": {
-        # Dreams of universal/philosophical language and mechanical logic
-        "en": [
-            "universal character",
-            "philosophical language",
-            "universal language",
-            "real character",
-            "artificial language",
+            "errore",
         ],
         "la": [
+            "probabilitas",
+            "casus",
+        ],
+    },
+    "cybernetics": {
+        "en": [
+            "cybernetics",
+            "feedback",
+            "control system",
+            "servomechanism",
+            "systems theory",
+            "network",
+            "self-regulating",
+        ],
+        "fr": [
+            "cybernétique",
+            "rétroaction",
+            "système de contrôle",
+            "servomécanisme",
+            "théorie des systèmes",
+            "réseau",
+        ],
+        "de": [
+            "Kybernetik",
+            "Rückkopplung",
+            "Regelungstechnik",
+            "Servomechanismus",
+            "Systemtheorie",
+            "Netzwerk",
+        ],
+        "ru": [
+            "кибернетика",
+            "обратная связь",
+            "система управления",
+            "саморегуляция",
+            "сеть",
+        ],
+        "es": [
+            "cibernética",
+            "retroalimentación",
+            "sistema de control",
+            "servomecanismo",
+            "teoría de sistemas",
+            "red",
+        ],
+        "it": [
+            "cibernetica",
+            "retroazione",
+            "sistema di controllo",
+            "servomeccanismo",
+            "teoria dei sistemi",
+            "rete",
+        ],
+    },
+    "automation": {
+        "en": [
+            "automation",
+            "automatic control",
+            "automatic factory",
+            "robot",
+            "robotics",
+            "mechanization",
+            "labor saving machinery",
+            "machinery and labor",
+        ],
+        "fr": [
+            "automatisation",
+            "contrôle automatique",
+            "robot",
+            "robotique",
+            "usine automatique",
+            "mécanisation",
+        ],
+        "de": [
+            "Automatisierung",
+            "automatische Steuerung",
+            "Roboter",
+            "Robotik",
+            "automatische Fabrik",
+            "Mechanisierung",
+        ],
+        "ru": [
+            "автоматизация",
+            "автоматическое управление",
+            "робот",
+            "робототехника",
+            "механизация",
+        ],
+        "es": [
+            "automatización",
+            "control automático",
+            "robot",
+            "robótica",
+            "fábrica automática",
+            "mecanización",
+        ],
+        "it": [
+            "automazione",
+            "controllo automatico",
+            "robot",
+            "robotica",
+            "fabbrica automatica",
+            "meccanizzazione",
+        ],
+    },
+    "representation_symbol_systems": {
+        "en": [
+            "symbol",
+            "sign",
+            "notation",
+            "character",
+            "universal language",
+            "philosophical language",
+            "real character",
+            "alphabet of thought",
+        ],
+        "fr": [
+            "symbole",
+            "signe",
+            "notation",
+            "caractère",
+            "langue universelle",
+            "langue philosophique",
+        ],
+        "de": [
+            "Symbol",
+            "Zeichen",
+            "Notation",
+            "Charakter",
+            "Universalsprache",
+            "philosophische Sprache",
+        ],
+        "ru": [
+            "символ",
+            "знак",
+            "нотация",
+            "характер",
+            "универсальный язык",
+            "философский язык",
+        ],
+        "es": [
+            "símbolo",
+            "signo",
+            "notación",
+            "carácter",
+            "lengua universal",
+            "lengua filosófica",
+        ],
+        "it": [
+            "simbolo",
+            "segno",
+            "notazione",
+            "carattere",
+            "lingua universale",
+            "lingua filosofica",
+        ],
+        "la": [
+            "signum",
+            "symbolum",
             "lingua universalis",
             "characteristica universalis",
         ],
     },
-
-    "popular_wonders": {
-        # Popular accounts of mechanical marvels
-        "en": [
-            "wonders of machinery",
-            "marvels of mechanism",
-            "mechanical wonders",
-            "triumphs of machinery",
-            "wonders of science",
-        ],
-    },
-
-    "artificial_beings_fiction": {
-        # Artificial beings in fiction (not Frankenstein)
-        "en": [
-            "mechanical man story",
-            "automaton tale",
-            "artificial man",
-            "living statue",
-            "brass head",
-            "speaking head",
-        ],
-    },
-
-    "reactions_pamphlets": {
-        # Reactions to famous works - pamphlets, letters, remarks
-        "en": [
-            "remarks on automaton",
-            "observations on machine",
-            "letter concerning automaton",
-            "examination of automaton",
-            "account of automaton",
-        ],
-    },
 }
+
+CONFIG_PATH = Path("config/search_terms.yaml")
+
+TOPIC_LABELS = {
+    "automata_artificial_beings": "Automata & Artificial Beings",
+    "computing": "Computation & Calculating Machines",
+    "logic_formal_reasoning": "Logic & Formal Reasoning",
+    "intelligence": "Intelligence, Reasoning & Agency",
+    "learning": "Learning, Memory & Habit",
+    "mechanism": "Mechanism & Machinery",
+    "statistics_probability": "Statistics, Probability & Uncertainty",
+    "cybernetics": "Systems, Cybernetics & Networks",
+    "automation": "Automation & Work",
+    "representation_symbol_systems": "Representation & Symbol Systems",
+}
+
+
+def load_search_topics() -> dict:
+    if CONFIG_PATH.exists():
+        try:
+            import yaml
+        except ImportError:
+            print("Error: PyYAML not installed. Run: pip install pyyaml")
+            sys.exit(1)
+
+        with open(CONFIG_PATH, "r", encoding="utf-8") as f:
+            data = yaml.safe_load(f) or {}
+        topics = data.get("topics") if isinstance(data, dict) else None
+        if topics:
+            return topics
+        if data:
+            return data
+    return DEFAULT_SEARCH_TOPICS
+
+
+SEARCH_TOPICS = load_search_topics()
 
 # Supported languages with their Internet Archive language codes
 LANGUAGES = {
@@ -621,6 +644,7 @@ LANGUAGES = {
     "ru": "Russian",
     "es": "Spanish",
     "it": "Italian",
+    "la": "Latin",
 }
 
 # Date range (expanded for GEMI project: 1600-2000)
@@ -1105,7 +1129,7 @@ if __name__ == "__main__":
 Examples:
   python ia_historical_corpus.py                    # Download all languages and topics
   python ia_historical_corpus.py -l en fr          # English and French only
-  python ia_historical_corpus.py -t automata       # Single topic only
+  python ia_historical_corpus.py -t automata_artificial_beings  # Single topic only
   python ia_historical_corpus.py -l de -t mechanism computing  # German texts on mechanism and computing
   python ia_historical_corpus.py --stats           # Show corpus statistics
   python ia_historical_corpus.py --list            # List available topics and languages
@@ -1155,7 +1179,8 @@ Examples:
         print("\nAvailable Topics:")
         for topic, terms in SEARCH_TOPICS.items():
             langs_available = [l for l in terms.keys() if l in LANGUAGES]
-            print(f"  {topic} ({', '.join(langs_available)})")
+            label = TOPIC_LABELS.get(topic, topic)
+            print(f"  {label} [{topic}] ({', '.join(langs_available)})")
         exit(0)
 
     if args.stats:
@@ -1176,7 +1201,10 @@ Examples:
     topics = args.topics or list(SEARCH_TOPICS.keys())
 
     print(f"Languages: {', '.join(LANGUAGES[l] for l in langs)}")
-    print(f"Topics: {', '.join(topics)}")
+    print("Topics:")
+    for topic in topics:
+        label = TOPIC_LABELS.get(topic, topic)
+        print(f"  - {label} [{topic}]")
     print(f"Max items per search term: {args.max_per_term}")
     print()
 

@@ -1,0 +1,12 @@
+{
+  "model": "text-embedding-3-small",
+  "dimensions": 1536,
+  "count": 972,
+  "chunk_chars": 1600,
+  "overlap_chars": 220,
+  "max_chunks_per_doc": 10,
+  "languages": null,
+  "skipped_noisy_docs": 5,
+  "cleaned_markup_docs": 1,
+  "generated_at": "2026-02-12T22:15:25.758Z"
+}

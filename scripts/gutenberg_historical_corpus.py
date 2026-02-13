@@ -6,7 +6,7 @@ Downloads plain text from Project Gutenberg via Gutendex and ingests
 into the GEMI corpus format.
 
 Usage:
-    python scripts/gutenberg_historical_corpus.py -t thinking_machines -l en --max-items 10
+    python scripts/gutenberg_historical_corpus.py -t automata_artificial_beings -l en --max-items 10
 """
 
 import argparse
@@ -32,26 +32,76 @@ METADATA_FILE = CORPUS_DIR / "metadata.json"
 
 REQUEST_DELAY = 1.0
 
-# Minimal topic map for Gutenberg search
-SEARCH_TOPICS = {
-    "thinking_machines": [
-        "thinking machine",
-        "mechanical brain",
-        "logic machine",
-        "reasoning machine",
-        "artificial mind",
+DEFAULT_SEARCH_TOPICS = {
+    "automata_artificial_beings": [
         "automaton",
         "automata",
-        "mechanical man",
+        "android",
         "robot",
-        "android",
-    ],
-    "automata": [
-        "automaton",
-        "automata",
         "mechanical man",
-        "android",
-        "self-moving machine",
+        "thinking machine",
+    ],
+    "computing": [
+        "calculating machine",
+        "difference engine",
+        "analytical engine",
+        "mechanical calculator",
+        "computation",
+    ],
+    "logic_formal_reasoning": [
+        "symbolic logic",
+        "logical machine",
+        "syllogism",
+        "logic",
+    ],
+    "intelligence": [
+        "intelligence",
+        "reason",
+        "understanding",
+        "mind",
+        "cognition",
+    ],
+    "learning": [
+        "learning",
+        "memory",
+        "habit",
+        "association",
+        "education",
+    ],
+    "mechanism": [
+        "mechanism",
+        "machine",
+        "mechanical philosophy",
+        "clockwork",
+        "engine",
+    ],
+    "statistics_probability": [
+        "statistics",
+        "probability",
+        "regression",
+        "correlation",
+        "chance",
+    ],
+    "cybernetics": [
+        "cybernetics",
+        "feedback",
+        "control system",
+        "systems theory",
+        "network",
+    ],
+    "automation": [
+        "automation",
+        "automatic control",
+        "mechanization",
+        "labor saving",
+        "robotics",
+    ],
+    "representation_symbol_systems": [
+        "symbol",
+        "sign",
+        "notation",
+        "universal language",
+        "philosophical language",
     ],
 }
 
@@ -66,28 +116,111 @@ LANGUAGE_NAMES = {
 }
 
 # Keywords used to keep Gutenberg results relevant to a topic
-TOPIC_KEYWORDS = {
-    "thinking_machines": [
+DEFAULT_TOPIC_KEYWORDS = {
+    "automata_artificial_beings": [
         "automaton",
         "automata",
         "robot",
         "android",
-        "brain",
-        "thinking machine",
-        "logic machine",
-        "mechanical brain",
         "mechanical man",
-        "chess player",
+        "thinking machine",
     ],
-    "automata": [
-        "automaton",
-        "automata",
-        "android",
-        "robot",
+    "computing": [
+        "calculating",
+        "calculator",
+        "difference engine",
+        "analytical engine",
+        "computation",
+    ],
+    "logic_formal_reasoning": [
+        "logic",
+        "syllogism",
+        "logical",
+        "inference",
+    ],
+    "intelligence": [
+        "intelligence",
+        "reason",
+        "understanding",
+        "mind",
+        "cognition",
+    ],
+    "learning": [
+        "learning",
+        "memory",
+        "habit",
+        "education",
+    ],
+    "mechanism": [
+        "mechanism",
+        "machine",
         "mechanical",
-        "self-moving",
+        "clockwork",
+    ],
+    "statistics_probability": [
+        "statistics",
+        "probability",
+        "regression",
+        "correlation",
+        "chance",
+    ],
+    "cybernetics": [
+        "cybernetics",
+        "feedback",
+        "control",
+        "system",
+        "network",
+    ],
+    "automation": [
+        "automation",
+        "automatic",
+        "mechanization",
+        "robot",
+    ],
+    "representation_symbol_systems": [
+        "symbol",
+        "sign",
+        "notation",
+        "universal language",
+        "philosophical language",
     ],
 }
+
+CONFIG_PATH = Path("config/search_terms.yaml")
+
+
+def load_search_topics():
+    if CONFIG_PATH.exists():
+        try:
+            import yaml
+        except ImportError:
+            print("Error: PyYAML not installed. Run: pip install pyyaml")
+            return DEFAULT_SEARCH_TOPICS, DEFAULT_TOPIC_KEYWORDS
+
+        with open(CONFIG_PATH, "r", encoding="utf-8") as f:
+            data = yaml.safe_load(f) or {}
+        topics = data.get("topics") if isinstance(data, dict) else None
+        if not topics:
+            topics = data if isinstance(data, dict) else None
+
+        if topics:
+            search_topics = {}
+            topic_keywords = {}
+            for topic, lang_map in topics.items():
+                if not isinstance(lang_map, dict):
+                    continue
+                en_terms = lang_map.get("en")
+                if not en_terms:
+                    continue
+                search_topics[topic] = list(en_terms)
+                topic_keywords[topic] = list(en_terms)
+            if search_topics:
+                return search_topics, topic_keywords
+
+    return DEFAULT_SEARCH_TOPICS, DEFAULT_TOPIC_KEYWORDS
+
+
+SEARCH_TOPICS, TOPIC_KEYWORDS = load_search_topics()
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -318,7 +451,7 @@ def save_text(text: str, identifier: str, year: int, topic: str, language: str) 
 
 def main():
     parser = argparse.ArgumentParser(description="Download texts from Project Gutenberg via Gutendex")
-    parser.add_argument("-t", "--topic", default="thinking_machines", help="Topic key")
+    parser.add_argument("-t", "--topic", default="automata_artificial_beings", help="Topic key")
     parser.add_argument("-l", "--language", default="en", help="Language code (default: en)")
     parser.add_argument("--query", default=None, help="Custom search query (overrides topic terms)")
     parser.add_argument("--max-items", type=int, default=10, help="Max items to download")

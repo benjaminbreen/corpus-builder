@@ -18,7 +18,7 @@ export default async function TopicsPage() {
 
         <h1 className="mb-4">Browse by Topic</h1>
         <p className="text-lg text-ink-600 max-w-2xl">
-          Explore thematic collections across computing, automata, intelligence, and more.
+          Explore thematic collections across computation, automation, intelligence, and more.
         </p>
       </section>
 
@@ -51,16 +51,16 @@ export default async function TopicsPage() {
 
 function getTopicDescription(topic: string): string {
   const descriptions: Record<string, string> = {
-    calculating_machines: 'Difference engines, analytical engines, mechanical calculators, and arithmetic machines.',
-    automata: 'Clockwork figures, mechanical men, android machines, and self-moving devices.',
-    thinking_machines: 'Mechanical brains, reasoning machines, and early concepts of machine intelligence.',
-    computing: 'Electronic brains, digital computers, stored programs, and information machines.',
-    cybernetics: 'Feedback control, servomechanisms, and self-regulating systems.',
-    automation: 'Automatic control, robots, and the automation of labor.',
-    intelligence: 'Philosophical debates on intellect, reason, cognition, and understanding.',
-    learning: 'Memory, habit formation, training, and the nature of learning.',
-    mechanism: 'Mechanical philosophy, clockwork universe, and debates on materialism.',
-    statistics_probability: 'Probability theory, regression, correlation, and the mathematical foundations of prediction.',
+    automata_artificial_beings: 'Clockwork figures, androids, mechanical chess players, and artificial beings.',
+    computing: 'Calculating machines, computation, and the rise of electronic computing.',
+    logic_formal_reasoning: 'Logical systems, symbolic inference, and reasoning machines.',
+    intelligence: 'Intellect, cognition, agency, and theories of mind.',
+    learning: 'Memory, habit, training, and the acquisition of knowledge.',
+    mechanism: 'Mechanical philosophy, machinery, and the world as clockwork.',
+    statistics_probability: 'Probability, error, regression, and statistical prediction.',
+    cybernetics: 'Feedback, control, and systems of communication.',
+    automation: 'Mechanization of labor, automatic control, and social change.',
+    representation_symbol_systems: 'Signs, symbols, notation, and universal language projects.',
   }
   return descriptions[topic] || 'Historical texts exploring this concept.'
 }

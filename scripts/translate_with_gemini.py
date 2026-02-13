@@ -15,6 +15,7 @@ import sys
 import json
 import argparse
 import time
+import re
 from pathlib import Path
 from dotenv import load_dotenv
 
@@ -259,6 +260,7 @@ def save_translation(doc: dict, translation: str) -> str:
 def main():
     parser = argparse.ArgumentParser(description="Translate corpus texts using Gemini")
     parser.add_argument('--identifier', '-i', help="Translate specific document by identifier")
+    parser.add_argument('--identifiers', nargs='*', help="Comma-separated or space-separated identifiers to translate")
     parser.add_argument('--list', '-l', action='store_true', help="List documents needing translation")
     parser.add_argument('--force', '-f', action='store_true', help="Re-translate even if translation exists")
     args = parser.parse_args()
@@ -272,15 +274,29 @@ def main():
     print(f"Loaded {len(metadata)} documents\n")
 
     # Find documents needing translation
-    if args.identifier:
-        # Find specific document
-        docs = [d for d in metadata if d['identifier'] == args.identifier]
-        if not docs:
-            print(f"Error: Document not found: {args.identifier}")
+    if args.identifier or args.identifiers is not None:
+        identifiers = []
+        if args.identifier:
+            identifiers.append(args.identifier.strip())
+        if args.identifiers is not None:
+            if len(args.identifiers) == 0:
+                user_input = input("Enter identifiers (comma-separated or space-separated): ").strip()
+                if user_input:
+                    identifiers.extend([i.strip() for i in re.split(r"[,\s]+", user_input) if i.strip()])
+            else:
+                identifiers.extend([i.strip() for i in re.split(r"[,\s]+", " ".join(args.identifiers)) if i.strip()])
+
+        # Find specific documents
+        docs = [d for d in metadata if d['identifier'] in set(identifiers)]
+        missing = [i for i in identifiers if i not in {d['identifier'] for d in docs}]
+        if missing:
+            print(f"Error: Document(s) not found: {', '.join(missing)}")
             sys.exit(1)
-        if not args.force and docs[0].get('has_translation'):
-            print(f"Document already has translation. Use --force to re-translate.")
-            sys.exit(0)
+        if not args.force:
+            docs = [d for d in docs if not d.get('has_translation')]
+            if not docs:
+                print("All specified documents already have translations. Use --force to re-translate.")
+                sys.exit(0)
     else:
         docs = get_documents_needing_translation(metadata)
 

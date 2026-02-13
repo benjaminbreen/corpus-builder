@@ -32,9 +32,13 @@ This project downloads OCR'd texts from Internet Archive (and potentially other 
 ```bash
 # Install dependencies
 pip install internetarchive requests anthropic
+npm install
 
 # For Claude analysis
 export ANTHROPIC_API_KEY=your_key_here
+
+# For semantic search (server-side embeddings)
+export OPENAI_API_KEY=your_key_here
 ```
 
 ## Usage
@@ -61,9 +65,9 @@ corpus/
 │   ├── 1860s/
 │   └── ...
 └── by_topic/
-    ├── calculating_machines/
-    ├── automata/
-    ├── thinking_machines/
+    ├── automata_artificial_beings/
+    ├── computing/
+    ├── automation/
     └── ...
 ```
 
@@ -80,17 +84,76 @@ Interactive menu with options:
 4. **Find cross-references** - Discover connections between documents
 5. **Batch analyze** - Process entire corpus (expensive)
 
+## Search (Lexical + Semantic)
+
+The web app now uses:
+
+- **Lexical search:** Pagefind index generated from `public/raw_texts/`
+- **Semantic search:** OpenAI `text-embedding-3-small` query embeddings against a prebuilt local vector index (`data/semantic/`)
+- **Unified ranking API:** `/api/search` combines lexical + semantic + quality priors
+- **Concept genealogy pages:** 12 curated concepts built from `config/terms.yaml` and exported to `public/data/terms.json`
+- **Methods + pathways:** `/methods` and `/pathways/automata-to-ai` for proposal-facing framing
+
+### Build concept term index
+
+```bash
+npm run build:terms
+```
+
+### Build semantic index (local one-time or after corpus updates)
+
+```bash
+npm run build:semantic-index
+```
+
+Optional controls:
+
+```bash
+node scripts/build-semantic-index.mjs --max-docs 40 --languages en,fr --max-chunks-per-doc 16
+```
+
+### Build Pagefind data + index
+
+```bash
+npm run build:search
+```
+
+### Dev / production build
+
+```bash
+npm run dev
+npm run build
+```
+
+`npm run build` now generates concept data, Next.js output, and Pagefind assets so deployed search works on Vercel.
+
+### Vercel environment variables
+
+Set these in the Vercel project (Preview + Production as needed):
+
+- `OPENAI_API_KEY`
+- Optional: `SEMANTIC_EMBED_MODEL` (defaults to `text-embedding-3-small`)
+
+Do **not** use `NEXT_PUBLIC_` for the OpenAI key.
+
 ## Configuration
 
-Edit `ia_historical_corpus.py` to customize:
+Edit `config/search_terms.yaml` to customize topics and multilingual search terms:
+
+```yaml
+topics:
+  automata_artificial_beings:
+    en: ["automaton", "mechanical man", "thinking machine"]
+  computing:
+    en: ["calculating machine", "difference engine", "digital computer"]
+  automation:
+    en: ["automation", "mechanization", "robotics"]
+  # Add your own topics and languages here
+```
+
+To adjust date range or per-term caps, edit `scripts/ia_historical_corpus.py`:
 
 ```python
-SEARCH_TOPICS = {
-    "calculating_machines": ["calculating machine", "difference engine", ...],
-    "automata": ["automaton", "mechanical man", ...],
-    # Add your own topics here
-}
-
 START_YEAR = 1850
 END_YEAR = 1950
 MAX_ITEMS_PER_TERM = 50

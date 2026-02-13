@@ -31,6 +31,7 @@ export interface Document {
   // Translation support
   has_translation?: boolean
   translation_filename?: string
+  gibberish_pages?: number[]
 }
 
 export interface CorpusStats {
@@ -70,16 +71,42 @@ export const LANGUAGE_NAMES: Record<string, string> = {
   la: 'Latin',
 }
 
+// Map legacy or alternate topic keys to canonical topic keys
+export const TOPIC_ALIASES: Record<string, string> = {
+  calculating_machines: 'computing',
+  thinking_machines: 'automata_artificial_beings',
+  automata: 'automata_artificial_beings',
+  computing: 'computing',
+  cybernetics: 'cybernetics',
+  automation: 'automation',
+  intelligence: 'intelligence',
+  learning: 'learning',
+  mechanism: 'mechanism',
+  statistics_probability: 'statistics_probability',
+  // Obscure-topic aliases (from older harvesters)
+  chess_automaton: 'automata_artificial_beings',
+  artificial_beings_fiction: 'automata_artificial_beings',
+  reactions_pamphlets: 'automata_artificial_beings',
+  popular_wonders: 'mechanism',
+  vitalism_debates: 'mechanism',
+  machinery_labor: 'automation',
+  universal_language: 'representation_symbol_systems',
+}
+
 // Topic display names
 export const TOPIC_NAMES: Record<string, string> = {
-  calculating_machines: 'Calculating Machines',
-  automata: 'Automata',
-  thinking_machines: 'Thinking Machines',
-  computing: 'Computing',
-  cybernetics: 'Cybernetics',
-  automation: 'Automation',
-  intelligence: 'Intelligence',
-  learning: 'Learning',
-  mechanism: 'Mechanism',
-  statistics_probability: 'Statistics & Probability',
+  automata_artificial_beings: 'Automata & Artificial Beings',
+  computing: 'Computation & Calculating Machines',
+  logic_formal_reasoning: 'Logic & Formal Reasoning',
+  intelligence: 'Intelligence, Reasoning & Agency',
+  learning: 'Learning, Memory & Habit',
+  mechanism: 'Mechanism & Machinery',
+  statistics_probability: 'Statistics, Probability & Uncertainty',
+  cybernetics: 'Systems, Cybernetics & Networks',
+  automation: 'Automation & Work',
+  representation_symbol_systems: 'Representation & Symbol Systems',
+  // Legacy keys (display as canonical)
+  calculating_machines: 'Computation & Calculating Machines',
+  automata: 'Automata & Artificial Beings',
+  thinking_machines: 'Automata & Artificial Beings',
 }

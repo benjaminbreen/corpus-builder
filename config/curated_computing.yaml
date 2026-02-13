@@ -1,0 +1,325 @@
+version: 1
+topic: computing
+items:
+  - identifier: gutenberg_11984
+    source: gutenberg
+    gutenberg_id: 11984
+    title: A Pluralistic Universe
+    author: William James
+    year: 1909
+    language_code: en
+    source_url: https://www.gutenberg.org/ebooks/11984
+    summary: >
+      James frames "computing" as one faculty among many for judging rationality, contrasting mechanical,
+      moral, and practical forms of reason. Useful for treating computation as a cultural disposition
+      rather than a purely technical act.
+  - identifier: wikisource_darwin_among_the_machines
+    source: wikisource
+    wikisource_lang: en
+    wikisource_title: Darwin among the Machines
+    title: Darwin among the Machines
+    author: Samuel Butler
+    year: 1863
+    language_code: en
+    source_url: https://en.wikisource.org/wiki/Darwin_among_the_Machines
+    summary: >
+      Satirical letter arguing that machines constitute a new kingdom and may evolve beyond humans,
+      framing mechanical progress as a kind of natural history. Early cultural anxiety about machine autonomy.
+  - identifier: gutenberg_1906
+    source: gutenberg
+    gutenberg_id: 1906
+    title: Erewhon; Or, Over the Range
+    author: Samuel Butler
+    year: 1872
+    language_code: en
+    source_url: https://www.gutenberg.org/ebooks/1906
+    summary: >
+      Satirical novel whose "Book of the Machines" argues about suppressing mechanical evolution.
+      Computation appears as part of a broader debate on machine agency in culture.
+  - identifier: gutenberg_71292
+    source: gutenberg
+    gutenberg_id: 71292
+    title: The Calculating Engine
+    author: Charles Babbage
+    year: 1832
+    language_code: en
+    source_url: https://www.gutenberg.org/ebooks/71292
+    summary: >
+      Babbage explains his calculating engine and the problem of errors in numerical tables, arguing
+      for mechanical computation to replace fallible human calculation. Frames calculation as public infrastructure.
+  - identifier: wikisource_passages_from_the_life_of_a_philosopher
+    source: wikisource
+    wikisource_lang: en
+    wikisource_title: Passages from the Life of a Philosopher
+    title: Passages from the Life of a Philosopher
+    author: Charles Babbage
+    year: 1864
+    language_code: en
+    source_url: https://en.wikisource.org/wiki/Passages_from_the_Life_of_a_Philosopher
+    summary: >
+      Autobiographical account of the Difference and Analytical Engines, including engineering
+      and institutional obstacles. A key historical narrative of mechanical reckoning projects.
+  - identifier: wikisource_sketch_analytical_engine
+    source: wikisource
+    wikisource_lang: en
+    wikisource_title: Scientific Memoirs/3/Sketch of the Analytical Engine invented by Charles Babbage, Esq.
+    title: Sketch of the Analytical Engine invented by Charles Babbage, Esq.
+    author: Luigi Federico Menabrea
+    year: 1843
+    language_code: en
+    source_url: https://en.wikisource.org/wiki/Scientific_Memoirs/3/Sketch_of_the_Analytical_Engine_invented_by_Charles_Babbage%2C_Esq.
+    summary: >
+      Menabrea's 1843 article describing the Analytical Engine's structure and operations.
+      A foundational technical exposition of programmable calculation.
+  - identifier: wikisource_notes_by_translator
+    source: wikisource
+    wikisource_lang: en
+    wikisource_title: Scientific Memoirs/3/Sketch of the Analytical Engine invented by Charles Babbage, Esq./Notes by the Translator
+    title: Notes by the Translator
+    author: Ada Lovelace
+    year: 1843
+    language_code: en
+    source_url: https://en.wikisource.org/wiki/Scientific_Memoirs/3/Sketch_of_the_Analytical_Engine_invented_by_Charles_Babbage%2C_Esq./Notes_by_the_Translator
+    summary: >
+      Lovelace's notes argue for the Analytical Engine's generality and distinguish it from mere
+      calculating machines, outlining a theory of symbolic computation.
+  - identifier: wikisource_calculating_machines_popular_science
+    source: wikisource
+    wikisource_lang: en
+    wikisource_title: Popular Science Monthly/Volume 26/February 1885/Calculating-Machines
+    title: Calculating-Machines (Popular Science Monthly, Feb 1885)
+    author: Popular Science Monthly
+    year: 1885
+    language_code: en
+    source_url: https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_26/February_1885/Calculating-Machines
+    summary: >
+      Popular survey of calculating machines from Pascal onward, aimed at general readers.
+      Useful for public framing of mechanical calculation.
+  - identifier: wikisource_edinburgh_review_babbage
+    source: wikisource
+    wikisource_lang: en
+    wikisource_title: Edinburgh Review/Volume 59/Babbage's Calculating Engine
+    title: Babbage's Calculating Engine (Edinburgh Review, Vol. 59)
+    author: Edinburgh Review
+    year: 1834
+    language_code: en
+    source_url: https://en.wikisource.org/wiki/Edinburgh_Review/Volume_59/Babbage%27s_Calculating_Engine
+    summary: >
+      Long review contextualizing calculation tables and the economic/scientific importance of accurate
+      computation. Public justification for mechanized calculation.
+  - identifier: wikisource_eb1911_calculating_machines
+    source: wikisource
+    wikisource_lang: en
+    wikisource_title: 1911 Encyclopædia Britannica/Calculating Machines
+    title: Calculating Machines (1911 Encyclopædia Britannica)
+    author: Encyclopædia Britannica (11th ed.)
+    year: 1911
+    language_code: en
+    source_url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Calculating_Machines
+    summary: >
+      Encyclopedia overview of calculating machine types, from adding devices to difference engines
+      and integrators. Captures early-20th-century taxonomy of computation.
+  - identifier: wikisource_eb1911_saunderson
+    source: wikisource
+    wikisource_lang: en
+    wikisource_title: 1911 Encyclopædia Britannica/Saunderson, Nicholas
+    title: Saunderson, Nicholas (1911 Encyclopædia Britannica)
+    author: Encyclopædia Britannica (11th ed.)
+    year: 1911
+    language_code: en
+    source_url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Saunderson%2C_Nicholas
+    summary: >
+      Biography noting Saunderson's tactile calculating machine for the blind.
+      Shows embodied, assistive computation.
+  - identifier: wikisource_dnb_morland
+    source: wikisource
+    wikisource_lang: en
+    wikisource_title: Dictionary of National Biography, 1885-1900/Morland, Samuel
+    title: Morland, Samuel (Dictionary of National Biography)
+    author: Dictionary of National Biography
+    year: 1894
+    language_code: en
+    source_url: https://en.wikisource.org/wiki/Dictionary_of_National_Biography%2C_1885-1900/Morland%2C_Samuel
+    summary: >
+      Biography of a 17th-century inventor who built early calculating devices.
+      Connects mechanical reckoning to early modern scientific life.
+  - identifier: wikisource_interview_father_calculating_machine
+    source: wikisource
+    wikisource_lang: en
+    wikisource_title: An Interview with the Father of the Calculating Machine
+    title: An Interview with the Father of the Calculating Machine
+    author: Anonymous
+    year: 1919
+    language_code: en
+    source_url: https://en.wikisource.org/wiki/An_Interview_with_the_Father_of_the_Calculating_Machine
+    summary: >
+      First-person industrial history of the Monroe/Baldwin calculators and their adoption in business.
+      Shows computation as office labor and infrastructure.
+  - identifier: wikisource_nie_reuleaux
+    source: wikisource
+    wikisource_lang: en
+    wikisource_title: The New International Encyclopædia/Reuleaux, Franz
+    title: Reuleaux, Franz (The New International Encyclopædia)
+    author: The New International Encyclopædia
+    year: 1905
+    language_code: en
+    source_url: https://en.wikisource.org/wiki/The_New_International_Encyclop%C3%A6dia/Reuleaux%2C_Franz
+    summary: >
+      Brief encyclopedia biography noting Reuleaux's work on the Thomas arithmometer.
+      Highlights cross-over between mechanical engineering and calculating machines.
+  - identifier: wikisource_methods_operating_comptometer
+    source: wikisource
+    wikisource_lang: en
+    wikisource_title: Methods of Operating the Comptometer
+    title: Methods of Operating the Comptometer
+    author: Felt & Tarrant Mfg. Co.
+    year: 1895
+    language_code: en
+    source_url: https://en.wikisource.org/wiki/Methods_of_Operating_the_Comptometer
+    summary: >
+      Manual teaching operators to use a key-driven calculator, emphasizing bodily skill and office practice.
+      Captures computation as trained labor.
+  - identifier: wikisource_comptometer_news_v1_i2
+    source: wikisource
+    wikisource_lang: en
+    wikisource_title: Comptometer News/Volume 1/Issue 2
+    title: Comptometer News, Volume 1, Issue 2
+    author: Comptometer News
+    year: 1927
+    language_code: en
+    source_url: https://en.wikisource.org/wiki/Comptometer_News/Volume_1/Issue_2
+    summary: >
+      Trade newsletter about comptometer schools, operators, and office use.
+      Shows computation embedded in organizational culture.
+  - identifier: wikisource_oeuvre_pascal
+    source: wikisource
+    wikisource_lang: fr
+    wikisource_title: Page:Maire - L’Œuvre scientifique de Blaise Pascal, 1912.djvu/23
+    title: L’Œuvre scientifique de Blaise Pascal (Pascaline section)
+    author: Abel Rey Maire
+    year: 1912
+    language_code: fr
+    source_url: https://fr.wikisource.org/wiki/Page%3AMaire_-_L%E2%80%99%C5%92uvre_scientifique_de_Blaise_Pascal%2C_1912.djvu/23
+    summary: >
+      Discussion of Pascal’s calculating machine and the craft labor behind it.
+      Frames calculation as both invention and artisanal practice.
+  - identifier: wikisource_calculateur_inaudi
+    source: wikisource
+    wikisource_lang: fr
+    wikisource_title: Le Calculateur Jacques Inaudi
+    title: Le Calculateur Jacques Inaudi
+    author: Alfred Binet
+    year: 1892
+    language_code: fr
+    source_url: https://fr.wikisource.org/wiki/Le_Calculateur_Jacques_Inaudi
+    summary: >
+      Study of a mental calculator, comparing him to a machine and analyzing psychological processes.
+      Contrasts human and mechanical calculation.
+  - identifier: wikisource_fauteuil_hante
+    source: wikisource
+    wikisource_lang: fr
+    wikisource_title: Le Fauteuil hanté (1911)
+    title: Le Fauteuil hanté
+    author: Gaston Leroux
+    year: 1911
+    language_code: fr
+    source_url: https://fr.wikisource.org/wiki/Le_Fauteuil_hant%C3%A9_%281911%29
+    summary: >
+      Novel episode explaining the abacus as a calculating machine within a fictional academic setting.
+      Shows computation as a cultural reference point.
+  - identifier: wikisource_par_fil_special
+    source: wikisource
+    wikisource_lang: fr
+    wikisource_title: Par fil spécial (Baillon)
+    title: Par fil spécial
+    author: André Baillon
+    year: 1924
+    language_code: fr
+    source_url: https://fr.wikisource.org/wiki/Par_fil_sp%C3%A9cial_%28Baillon%29/02
+    summary: >
+      Modernist novel of newsroom labor that explicitly names machines à calculer alongside other office machines.
+      Shows mechanized calculation as part of everyday work.
+  - identifier: wikisource_blindenanstalt_steglitz
+    source: wikisource
+    wikisource_lang: de
+    wikisource_title: Besuch der Blindenanstalt in Steglitz
+    title: Besuch der Blindenanstalt in Steglitz
+    author: Unknown
+    year: 1864
+    language_code: de
+    source_url: https://de.wikisource.org/wiki/Besuch_der_Blindenanstalt_in_Steglitz
+    summary: >
+      Report on blind education describing the use of a "russische Rechenmaschine" (abacus).
+      Shows tactile computation and pedagogy.
+  - identifier: wikisource_gartenlaube_1865_heft34
+    source: wikisource
+    wikisource_lang: de
+    wikisource_title: Die Gartenlaube (1865)/Heft 34
+    title: Die Gartenlaube (1865), Heft 34
+    author: Die Gartenlaube
+    year: 1865
+    language_code: de
+    source_url: https://de.wikisource.org/wiki/Die_Gartenlaube_%281865%29/Heft_34
+    summary: >
+      Readers' column mentioning the purchase and price of a Rechenmaschine in Paris.
+      Small but vivid evidence of consumer interest in calculating machines.
+  - identifier: wikisource_gartenlaube_1879_heft9
+    source: wikisource
+    wikisource_lang: de
+    wikisource_title: Die Gartenlaube (1879)/Heft 9
+    title: Die Gartenlaube (1879), Heft 9
+    author: Die Gartenlaube
+    year: 1879
+    language_code: de
+    source_url: https://de.wikisource.org/wiki/Die_Gartenlaube_%281879%29/Heft_9
+    summary: >
+      Narrative passage using "Rechenmaschine" as a metaphor for a clerk.
+      Shows computation as a social role in office life.
+  - identifier: wikisource_adb_felkel
+    source: wikisource
+    wikisource_lang: de
+    wikisource_title: ADB:Felkel, Anton
+    title: Felkel, Anton (ADB)
+    author: Moritz Cantor
+    year: 1877
+    language_code: de
+    source_url: https://de.wikisource.org/wiki/ADB%3AFelkel%2C_Anton
+    summary: >
+      Biographical entry on an inventor of factor tables and calculating machines.
+      Connects computation to educational and bureaucratic institutions.
+  - identifier: wikisource_krasnaya_zvezda
+    source: wikisource
+    wikisource_lang: ru
+    wikisource_title: Красная звезда (Богданов)/Версия 2
+    title: Красная звезда
+    author: Александр Александрович Богданов
+    year: 1908
+    language_code: ru
+    source_url: https://ru.wikisource.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F_%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0_%28%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2%29/%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F_2
+    summary: >
+      Bogdanov's science-fiction novel includes a "вычислительная комната" with machines and output tapes.
+      Early vision of automated computation in a socialist future.
+  - identifier: wikisource_james_watt_kamensky
+    source: wikisource
+    wikisource_lang: ru
+    wikisource_title: Джеймс Уатт. Его жизнь и научно-практическая деятельность (Каменский)
+    title: Джеймс Уатт. Его жизнь и научно-практическая деятельность
+    author: Андрей Васильевич Каменский
+    year: 1891
+    language_code: ru
+    source_url: https://ru.wikisource.org/wiki/%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81_%D0%A3%D0%B0%D1%82%D1%82._%D0%95%D0%B3%D0%BE_%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C_%D0%B8_%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C_%28%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%29
+    summary: >
+      Biography noting Watt's work on an arithmetic calculating machine among other inventions.
+      Places computation in the wider culture of mechanical innovation.
+  - identifier: wikisource_esbe_arithmometer
+    source: wikisource
+    wikisource_lang: ru
+    wikisource_title: ЭСБЕ/Арифмометр
+    title: Арифмометр (ЭСБЕ)
+    author: Энциклопедический словарь Брокгауза и Ефрона
+    year: 1890
+    language_code: ru
+    source_url: https://ru.wikisource.org/wiki/%D0%AD%D0%A1%D0%91%D0%95/%D0%90%D1%80%D0%B8%D1%84%D0%BC%D0%BE%D0%BC%D0%B5%D1%82%D1%80
+    summary: >
+      Encyclopedia entry defining the arithmometer as a mechanical calculating device.
+      Concise terminological anchor in Russian.

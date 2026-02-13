@@ -1,0 +1,93 @@
+{
+  "description": "Curated list of public domain early modern texts from Google Books with verified PDF downloads",
+  "usage": "python scripts/google_books_ocr.py --book-id <ID> --output-dir ./google_books_output --ocr",
+  "books": [
+    {
+      "id": "ISP_gRwuz94C",
+      "title": "Micrographia (1665)",
+      "author": "Robert Hooke",
+      "year": 1665,
+      "topic": "mechanism",
+      "language": "eng",
+      "verified": true,
+      "description": "Hooke's landmark work on microscopy. Key text for mechanical philosophy."
+    },
+    {
+      "id": "W5FqAAAAMAAJ",
+      "title": "Micrographia (1667 edition)",
+      "author": "Robert Hooke",
+      "year": 1667,
+      "topic": "mechanism",
+      "language": "eng",
+      "verified": true,
+      "description": "Later edition of Hooke's microscopy work."
+    },
+    {
+      "id": "KaAIAAAAIAAJ",
+      "title": "Newton's Principia (Motte translation)",
+      "author": "Isaac Newton",
+      "year": 1848,
+      "topic": "calculating_machines",
+      "language": "eng",
+      "verified": true,
+      "description": "English translation of the Principia Mathematica."
+    },
+    {
+      "id": "GfBLAAAAMAAJ",
+      "title": "On the Motion of the Heart and Blood in Animals",
+      "author": "William Harvey",
+      "year": 1889,
+      "topic": "vitalism_debates",
+      "language": "eng",
+      "verified": true,
+      "description": "Harvey's revolutionary work on blood circulation."
+    },
+    {
+      "id": "PNA-AAAAYAAJ",
+      "title": "The Works of William Harvey",
+      "author": "William Harvey",
+      "year": 1847,
+      "topic": "vitalism_debates",
+      "language": "eng",
+      "verified": true,
+      "description": "Complete collected works including De Motu Cordis."
+    },
+    {
+      "id": "YG9GAQAAMAAJ",
+      "title": "Discourse on the Method",
+      "author": "René Descartes",
+      "year": 1903,
+      "topic": "automata",
+      "language": "eng",
+      "verified": true,
+      "description": "Descartes' foundational philosophical work on method and animal-machines."
+    },
+    {
+      "id": "QxlHAAAAIAAJ",
+      "title": "The Monadology and Other Philosophical Writings",
+      "author": "G.W. Leibniz",
+      "year": 1898,
+      "topic": "thinking_machines",
+      "language": "eng",
+      "verified": true,
+      "description": "Leibniz's mature metaphysics including the 'mill' argument."
+    },
+    {
+      "id": "fvlDAAAAcAAJ",
+      "title": "Probata Probatio",
+      "author": "Janus Urbely",
+      "year": 1619,
+      "topic": "vitalism_debates",
+      "language": "lat",
+      "verified": true,
+      "ocr_lang": "lat+eng",
+      "description": "Early 17th century Latin philosophical disputation."
+    }
+  ],
+  "additional_searches": [
+    "Search Google Books directly for: Wilkins philosophical language 1668",
+    "Search Google Books directly for: La Mettrie homme machine 1748",
+    "Search Google Books directly for: Bacon Novum Organum 1620",
+    "Many historical texts are on Internet Archive with better discoverability"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "model": "BAAI/bge-m3",
+  "count": 444,
+  "words_per_chunk": 600,
+  "overlap": 80,
+  "completed": 64
+}

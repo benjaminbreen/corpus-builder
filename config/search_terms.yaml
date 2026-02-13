@@ -1,0 +1,503 @@
+version: 1
+topics:
+  automata_artificial_beings:
+    en:
+      - automaton
+      - automata
+      - mechanical man
+      - android
+      - robot
+      - self-moving machine
+      - mechanical chess
+      - thinking machine
+      - mechanical brain
+      - reasoning machine
+    fr:
+      - automate
+      - automates
+      - homme mécanique
+      - androïde
+      - machine pensante
+      - cerveau mécanique
+    de:
+      - Automat
+      - Automaten
+      - mechanischer Mensch
+      - Androide
+      - Denkmaschine
+      - mechanisches Gehirn
+    ru:
+      - автомат
+      - автоматон
+      - механический человек
+      - андроид
+      - мыслящая машина
+    es:
+      - autómata
+      - autómatas
+      - hombre mecánico
+      - androide
+      - máquina pensante
+      - cerebro mecánico
+      - hombre artificial
+      - muñeco mecánico
+    it:
+      - automa
+      - automi
+      - uomo meccanico
+      - androide
+      - macchina pensante
+      - cervello meccanico
+    la:
+      - automaton
+      - machina automata
+      - homo artificialis
+  computing:
+    en:
+      - calculating machine
+      - difference engine
+      - analytical engine
+      - arithmetical machine
+      - mechanical calculator
+      - computing machine
+      - electronic brain
+      - digital computer
+      - turing machine
+    fr:
+      - machine à calculer
+      - machine arithmétique
+      - calculateur mécanique
+      - cerveau électronique
+      - ordinateur
+      - calculateur numérique
+    de:
+      - Rechenmaschine
+      - Differenzmaschine
+      - mechanischer Rechner
+      - elektronisches Gehirn
+      - Digitalrechner
+      - Computer
+    ru:
+      - счётная машина
+      - арифмометр
+      - вычислительная машина
+      - электронный мозг
+      - компьютер
+    es:
+      - máquina calculadora
+      - máquina aritmética
+      - calculadora mecánica
+      - máquina de calcular
+      - máquina de cómputo
+      - cerebro electrónico
+      - computadora
+      - ordenador
+      - tabulación
+    it:
+      - macchina calcolatrice
+      - macchina aritmetica
+      - calcolatore meccanico
+      - cervello elettronico
+      - computer
+    la:
+      - calculatio
+      - computatio
+      - machina calculatrix
+      - tabulatio
+  logic_formal_reasoning:
+    en:
+      - logic
+      - symbolic logic
+      - formal reasoning
+      - syllogism
+      - calculus of reasoning
+      - logical machine
+      - inference
+    fr:
+      - logique
+      - logique symbolique
+      - raisonnement formel
+      - syllogisme
+      - machine logique
+      - inférence
+    de:
+      - Logik
+      - symbolische Logik
+      - formales Schließen
+      - Syllogismus
+      - Logikmaschine
+      - Schlussfolgerung
+    ru:
+      - логика
+      - символическая логика
+      - формальное рассуждение
+      - силлогизм
+      - логическая машина
+    es:
+      - lógica
+      - lógica simbólica
+      - razonamiento formal
+      - silogismo
+      - máquina lógica
+      - inferencia
+    it:
+      - logica
+      - logica simbolica
+      - ragionamento formale
+      - sillogismo
+      - macchina logica
+      - inferenza
+    la:
+      - logica
+      - syllogismus
+      - ratiocinatio
+      - demonstratio
+  intelligence:
+    en:
+      - intelligence
+      - intellect
+      - understanding
+      - reason
+      - cognition
+      - mental faculty
+      - mind
+    fr:
+      - intelligence
+      - intellect
+      - entendement
+      - raison
+      - cognition
+      - esprit
+      - faculté mentale
+    de:
+      - Intelligenz
+      - Verstand
+      - Vernunft
+      - Geist
+      - Erkenntnis
+      - Denkvermögen
+    ru:
+      - интеллект
+      - разум
+      - рассудок
+      - познание
+      - ум
+    es:
+      - inteligencia
+      - intelecto
+      - entendimiento
+      - razón
+      - cognición
+      - mente
+      - espíritu
+    it:
+      - intelligenza
+      - intelletto
+      - intendimento
+      - ragione
+      - cognizione
+      - mente
+    la:
+      - intelligentia
+      - intellectus
+      - mens
+      - ratio
+  learning:
+    en:
+      - learning
+      - habit
+      - memory
+      - training
+      - instruction
+      - education
+      - association
+    fr:
+      - apprentissage
+      - habitude
+      - mémoire
+      - instruction
+      - éducation
+      - entraînement
+      - association
+    de:
+      - Lernen
+      - Gewohnheit
+      - Gedächtnis
+      - Training
+      - Erziehung
+      - Assoziation
+    ru:
+      - обучение
+      - привычка
+      - память
+      - тренировка
+      - воспитание
+      - ассоциация
+    es:
+      - aprendizaje
+      - hábito
+      - memoria
+      - entrenamiento
+      - instrucción
+      - educación
+      - asociación
+    it:
+      - apprendimento
+      - abitudine
+      - memoria
+      - addestramento
+      - istruzione
+      - educazione
+      - associazione
+    la:
+      - memoria
+      - disciplina
+      - institutio
+      - doctrina
+      - exercitatio
+      - consuetudo
+  mechanism:
+    en:
+      - mechanism
+      - mechanical philosophy
+      - clockwork
+      - machine
+      - engine
+      - mechanistic
+      - machinery
+    fr:
+      - mécanisme
+      - philosophie mécanique
+      - machine
+      - moteur
+      - horloge
+      - machinerie
+    de:
+      - Mechanismus
+      - mechanische Philosophie
+      - Maschine
+      - Uhrwerk
+      - Motor
+      - Maschinerie
+    ru:
+      - механизм
+      - механическая философия
+      - машина
+      - двигатель
+      - часовой механизм
+    es:
+      - mecanismo
+      - filosofía mecánica
+      - máquina
+      - motor
+      - relojería
+      - maquinaria
+      - mecanicismo
+    it:
+      - meccanismo
+      - filosofia meccanica
+      - macchina
+      - motore
+      - orologeria
+      - macchinario
+    la:
+      - machina
+      - mechanicus
+  statistics_probability:
+    en:
+      - statistics
+      - probability
+      - regression
+      - correlation
+      - distribution
+      - random
+      - chance
+      - stochastic
+      - error
+    fr:
+      - statistique
+      - probabilité
+      - régression
+      - corrélation
+      - distribution
+      - hasard
+      - aléatoire
+      - erreur
+    de:
+      - Statistik
+      - Wahrscheinlichkeit
+      - Regression
+      - Korrelation
+      - Verteilung
+      - Zufall
+      - stochastisch
+      - Fehler
+    ru:
+      - статистика
+      - вероятность
+      - регрессия
+      - корреляция
+      - распределение
+      - случайность
+      - ошибка
+    es:
+      - estadística
+      - probabilidad
+      - regresión
+      - correlación
+      - distribución
+      - azar
+      - aleatorio
+      - error
+    it:
+      - statistica
+      - probabilità
+      - regressione
+      - correlazione
+      - distribuzione
+      - caso
+      - aleatorio
+      - errore
+    la:
+      - probabilitas
+      - casus
+      - error
+  cybernetics:
+    en:
+      - cybernetics
+      - feedback
+      - control system
+      - servomechanism
+      - systems theory
+      - network
+      - self-regulating
+    fr:
+      - cybernétique
+      - rétroaction
+      - système de contrôle
+      - servomécanisme
+      - théorie des systèmes
+      - réseau
+    de:
+      - Kybernetik
+      - Rückkopplung
+      - Regelungstechnik
+      - Servomechanismus
+      - Systemtheorie
+      - Netzwerk
+    ru:
+      - кибернетика
+      - обратная связь
+      - система управления
+      - саморегуляция
+      - сеть
+    es:
+      - cibernética
+      - retroalimentación
+      - sistema de control
+      - servomecanismo
+      - teoría de sistemas
+      - red
+    it:
+      - cibernetica
+      - retroazione
+      - sistema di controllo
+      - servomeccanismo
+      - teoria dei sistemi
+      - rete
+  automation:
+    en:
+      - automation
+      - automatic control
+      - automatic factory
+      - robot
+      - robotics
+      - mechanization
+      - labor saving machinery
+      - machinery and labor
+    fr:
+      - automatisation
+      - contrôle automatique
+      - robot
+      - robotique
+      - usine automatique
+      - mécanisation
+    de:
+      - Automatisierung
+      - automatische Steuerung
+      - Roboter
+      - Robotik
+      - automatische Fabrik
+      - Mechanisierung
+    ru:
+      - автоматизация
+      - автоматическое управление
+      - робот
+      - робототехника
+      - механизация
+    es:
+      - automatización
+      - control automático
+      - robot
+      - robótica
+      - fábrica automática
+      - mecanización
+      - ahorro de trabajo
+    it:
+      - automazione
+      - controllo automatico
+      - robot
+      - robotica
+      - fabbrica automatica
+      - meccanizzazione
+  representation_symbol_systems:
+    en:
+      - symbol
+      - sign
+      - notation
+      - character
+      - universal language
+      - philosophical language
+      - real character
+      - alphabet of thought
+    fr:
+      - symbole
+      - signe
+      - notation
+      - caractère
+      - langue universelle
+      - langue philosophique
+    de:
+      - Symbol
+      - Zeichen
+      - Notation
+      - Charakter
+      - Universalsprache
+      - philosophische Sprache
+    ru:
+      - символ
+      - знак
+      - нотация
+      - характер
+      - универсальный язык
+      - философский язык
+    es:
+      - símbolo
+      - signo
+      - notación
+      - carácter
+      - lengua universal
+      - lengua filosófica
+      - alfabeto del pensamiento
+    it:
+      - simbolo
+      - segno
+      - notazione
+      - carattere
+      - lingua universale
+      - lingua filosofica
+    la:
+      - signum
+      - symbolum
+      - lingua universalis
+      - characteristica universalis
