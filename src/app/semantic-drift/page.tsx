@@ -144,7 +144,7 @@ function SemanticDriftContent() {
 
         <h1 className="text-2xl md:text-3xl mb-4">Semantic Drift Analysis</h1>
         <p className="text-ink-600 max-w-2xl mb-8">
-          Tracking how key terms change meaning across four centuries of texts about
+          Tracking how key terms change meaning across centuries of texts about
           machines, minds, and intelligence. Using embedding models to measure semantic
           similarity across time periods.
         </p>

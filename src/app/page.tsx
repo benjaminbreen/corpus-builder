@@ -1,10 +1,18 @@
 import Link from 'next/link'
-import { getCorpusStats } from '@/lib/corpus'
+import { getCorpusStats, LANGUAGE_NAMES, TOPIC_NAMES } from '@/lib/corpus'
+import { getAllConcepts } from '@/lib/terms'
+import { PATHWAYS } from '@/lib/pathways'
 import { Timeline } from '@/components/Timeline'
 import { DocumentCard } from '@/components/DocumentCard'
 
 export default async function HomePage() {
-  const stats = await getCorpusStats()
+  const [stats, concepts] = await Promise.all([getCorpusStats(), getAllConcepts()])
+  const languageNames = [...stats.languages]
+    .sort((a, b) => (stats.byLanguage[b] || 0) - (stats.byLanguage[a] || 0))
+    .map((code) => LANGUAGE_NAMES[code] || code)
+  const featuredConcepts = ['intelligence', 'learning', 'reasoning', 'error']
+    .map((id) => concepts.find((c) => c.id === id)?.label)
+    .filter((label): label is string => Boolean(label))
 
   return (
     <div className="animate-fade-in">
@@ -13,22 +21,32 @@ export default async function HomePage() {
         <div className="max-w-3xl">
           <h1 className="mb-6">
             <span className="block text-copper-700 font-sans text-sm uppercase tracking-widest mb-3">
-              Digital Archive
+              Digital Archive · Prototype
             </span>
             Genealogies of Engines, Machines, and Intelligences
           </h1>
           <p className="text-lg md:text-xl text-ink-700 leading-relaxed mb-8 max-w-2xl">
-            Recovering the prehistory of artificial intelligence through four centuries
-            of texts on cognition, automation, and the thinking machine.
+            The words we now use for AI (<em>learning</em>, <em>reasoning</em>,{' '}
+            <em>intelligence</em>, <em>hallucination</em>) were argued over for centuries
+            before anyone built a computer. GEMI traces those debates through
+            philosophy, science, fiction, and the popular press.
           </p>
           <div className="flex flex-wrap gap-4">
-            <Link href="/search" className="btn-primary">
+            <Link href="/pathways" className="btn-primary">
+              Start with a Pathway
+            </Link>
+            <Link href="/search" className="btn-secondary">
               Search the Archive
             </Link>
             <Link href="/about" className="btn-secondary">
               About the Project
             </Link>
           </div>
+          <p className="mt-8 font-sans text-sm text-ink-500 max-w-2xl leading-relaxed">
+            This is a working prototype built at the University of California, Santa Cruz.
+            The current sample of {stats.totalDocuments} documents demonstrates the
+            archive&apos;s design; the full archive will span 1500–2000 across seven languages.
+          </p>
         </div>
       </section>
 
@@ -40,7 +58,7 @@ export default async function HomePage() {
           <Stat value={stats.totalDocuments.toLocaleString()} label="Documents" />
           <Stat value={`${stats.startYear}–${stats.endYear}`} label="Date Range" />
           <Stat value={stats.languages.length.toString()} label="Languages" />
-          <Stat value={stats.topics.length.toString()} label="Topics" />
+          <Stat value={concepts.length.toString()} label="Concepts Tracked" />
         </div>
       </section>
 
@@ -49,7 +67,7 @@ export default async function HomePage() {
       {/* Interactive Timeline */}
       <section className="container-content py-16 md:py-20">
         <div className="text-center mb-10">
-          <h2 className="mb-3">Four Centuries of Thinking Machines</h2>
+          <h2 className="mb-3">Thinking Machines, {stats.startYear}–{stats.endYear}</h2>
           <p className="text-ink-500 max-w-xl mx-auto">
             Click on any decade to explore documents from that period.
             Bar height indicates the number of documents available.
@@ -106,31 +124,92 @@ export default async function HomePage() {
           <BrowseCard
             href="/decade"
             title="By Decade"
-            description="Navigate through 40 decades of intellectual history, from the 1600s to the 2000s."
-            items={stats.decades.slice(-5).map(d => `${d}s`)}
+            description={`Navigate ${stats.decades.length} decades of sources, from the ${stats.decades[0]}s to the ${stats.decades[stats.decades.length - 1]}s.`}
+            items={stats.decades.slice(0, 4).map(d => `${d}s`)}
             count={stats.decades.length}
           />
           <BrowseCard
             href="/topic"
             title="By Topic"
-            description="Explore thematic collections across computation, automation, intelligence, and more."
-            items={stats.topics.slice(0, 4)}
+            description="Thematic collections on automata, mechanism, and calculating machines."
+            items={stats.topics.slice(0, 4).map((t) => TOPIC_NAMES[t] || t)}
             count={stats.topics.length}
           />
           <BrowseCard
             href="/language"
             title="By Language"
-            description="Access texts in English, French, German, Russian, Spanish, Italian, and Latin."
-            items={stats.languages.slice(0, 4)}
+            description={`Read sources in ${languageNames.join(', ').replace(/, ([^,]*)$/, ', and $1')}, with marked AI-assisted translations.`}
+            items={languageNames.slice(0, 4)}
             count={stats.languages.length}
           />
           <BrowseCard
             href="/concepts"
             title="By Concept"
-            description="Trace 12 core concepts like intelligence, learning, mechanism, and probability across time."
-            items={['intelligence', 'learning', 'reasoning', 'automation']}
-            count={12}
+            description={`Trace ${concepts.length} key terms, including intelligence, learning, reasoning, and hallucination, across time and language.`}
+            items={featuredConcepts}
+            count={concepts.length}
           />
+        </div>
+      </section>
+
+      <div className="rule" />
+
+      {/* Pathways for newcomers */}
+      <section className="container-content py-16 md:py-20">
+        <div className="text-center mb-10">
+          <h2 className="mb-3">New Here? Start with a Pathway</h2>
+          <p className="text-ink-500 max-w-xl mx-auto">
+            Guided sequences of primary sources with short commentary, for classrooms
+            and curious readers. No background required.
+          </p>
+        </div>
+        <div className="grid md:grid-cols-3 gap-6">
+          {PATHWAYS.map((pathway) => (
+            <Link
+              key={pathway.href}
+              href={pathway.href}
+              className="group block p-6 bg-paper-100 border border-paper-200 rounded-sm
+                         hover:border-copper-400 hover:bg-paper-50 transition-all"
+            >
+              <div className="font-mono text-xs text-ink-400 mb-2">{pathway.span}</div>
+              <h3 className="font-serif text-xl text-ink-900 group-hover:text-copper-700 transition-colors mb-2">
+                {pathway.title}
+              </h3>
+              <p className="font-sans text-sm text-ink-500 leading-relaxed mb-4">
+                {pathway.description}
+              </p>
+              <div className="font-mono text-xs text-copper-700">{pathway.stops} stops →</div>
+            </Link>
+          ))}
+        </div>
+      </section>
+
+      <div className="rule" />
+
+      {/* Research themes */}
+      <section className="container-content py-16 md:py-20">
+        <div className="text-center mb-10">
+          <h2 className="mb-3">Four Fault Lines</h2>
+          <p className="text-ink-500 max-w-2xl mx-auto">
+            The full project is organized thematically rather than chronologically. Each
+            year takes up a long-running fault line in thinking about intelligence.
+          </p>
+        </div>
+        <div className="grid md:grid-cols-2 gap-6">
+          {THEMES.map((theme) => (
+            <div key={theme.title} className="p-6 border-l-2 border-copper-300">
+              <div className="meta-label mb-1">{theme.year}</div>
+              <h3 className="font-serif text-xl text-ink-900 mb-2">{theme.title}</h3>
+              <p className="font-serif italic text-ink-700 leading-relaxed mb-3">
+                {theme.question}
+              </p>
+              <div className="flex flex-wrap gap-2">
+                {theme.keywords.map((k) => (
+                  <span key={k} className="tag">{k}</span>
+                ))}
+              </div>
+            </div>
+          ))}
         </div>
       </section>
 
@@ -147,7 +226,7 @@ export default async function HomePage() {
             their original semantic complexity is lost.
           </p>
           <cite className="block font-sans text-sm text-ink-400 not-italic">
-            — Philip Agre, on "formalization as social forgetting"
+            — Paraphrasing Philip Agre&apos;s account of &ldquo;formalization as social forgetting&rdquo;
           </cite>
         </blockquote>
       </section>
@@ -158,7 +237,7 @@ export default async function HomePage() {
       {stats.recentDocuments.length > 0 && (
         <section className="container-content py-16 md:py-20">
           <div className="flex items-baseline justify-between mb-8">
-            <h2>Recent Additions</h2>
+            <h2>From the Collection</h2>
             <Link href="/decade" className="nav-link">
               Browse all →
             </Link>
@@ -181,8 +260,15 @@ export default async function HomePage() {
           <h2 className="mb-4">Start Exploring</h2>
           <p className="text-ink-500 max-w-xl mx-auto mb-8">
             Search across {stats.totalDocuments} documents for phrases like
-            "thinking machine," "mechanical brain," or "artificial intelligence."
+            &ldquo;thinking machine,&rdquo; &ldquo;calculating engine,&rdquo; or &ldquo;hallucination.&rdquo;
           </p>
+          <div className="flex flex-wrap justify-center gap-3 mb-8">
+            {['thinking machine', 'calculating engine', 'hallucination', 'animal machine'].map((q) => (
+              <Link key={q} href={`/search?q=${encodeURIComponent(q)}`} className="tag hover:bg-paper-200">
+                {q}
+              </Link>
+            ))}
+          </div>
           <Link href="/search" className="btn-primary text-lg px-8 py-3">
             Search the Archive
           </Link>
@@ -275,3 +361,30 @@ function BrowseCard({
     </Link>
   )
 }
+
+const THEMES = [
+  {
+    year: 'Year 1',
+    title: 'Order & Entropy',
+    question: 'Is intelligence obedience to structure, or the capacity to exploit noise?',
+    keywords: ['rules', 'entropy', 'randomness', 'error', 'hallucination'],
+  },
+  {
+    year: 'Year 2',
+    title: 'Mechanism & Minds',
+    question: 'Is the mind a mechanistic system or something that resists simple explanation?',
+    keywords: ['engine', 'mechanism', 'consciousness', 'reasoning', 'agent'],
+  },
+  {
+    year: 'Year 3',
+    title: 'Learning & Memory',
+    question: 'What distinguishes memory from learning?',
+    keywords: ['memory', 'imitation', 'copying', 'learning', 'generativity'],
+  },
+  {
+    year: 'Year 4',
+    title: 'Atomicity & Distributivity',
+    question: 'To what extent are our concepts distributed?',
+    keywords: ['network', 'distributed representation', 'web', 'swarm'],
+  },
+]

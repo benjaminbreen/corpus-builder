@@ -119,3 +119,13 @@ concepts:
       de: [netzwerk, verbindung]
       ru: [сеть, связь]
       la: [rete, connexio]
+
+  - id: error
+    label: Error & Hallucination
+    description: Error, illusion, and hallucination in minds and machines, from faulty perception and mechanical failure to today's "hallucinating" language models.
+    variants:
+      all: [hallucination, hallucinations, illusion, illusions, error, errors, mistake]
+      fr: [hallucination, illusion, erreur]
+      de: [halluzination, täuschung, tauschung, irrtum, fehler]
+      ru: [галлюцинация, иллюзия, ошибка]
+      la: [hallucinatio, illusio, error]

@@ -1,33 +1,7 @@
 import Link from 'next/link'
+import { PATHWAYS } from '@/lib/pathways'
 
 export const dynamic = 'force-static'
-
-const PATHWAYS = [
-  {
-    href: '/pathways/automata-to-ai',
-    title: 'From Automata to AI',
-    description:
-      'A curated sequence of primary sources tracing how discussions of automata and calculating devices evolve into modern machine-intelligence discourse.',
-    stops: 9,
-    span: '1637–1923',
-  },
-  {
-    href: '/pathways/animal-machine',
-    title: 'The Animal Machine',
-    description:
-      'From Descartes\' bête-machine to Pavlov\'s reflexes — the centuries-long debate over whether living beings are machines, and what "machine" even means.',
-    stops: 9,
-    span: '1637–2000',
-  },
-  {
-    href: '/pathways/mechanical-turk',
-    title: 'The Mechanical Turk',
-    description:
-      'The famous chess-playing automaton and the broader question of simulation — can a machine\'s performance ever prove real intelligence?',
-    stops: 9,
-    span: '1742–1952',
-  },
-]
 
 export default function PathwaysPage() {
   return (
@@ -35,7 +9,7 @@ export default function PathwaysPage() {
       <section className="container-content pt-16 pb-10">
         <h1 className="mb-4">Thematic Pathways</h1>
         <p className="text-lg text-ink-600 max-w-3xl">
-          Curated routes through GEMI sources designed for teaching and guided exploration.
+          Curated routes through GEMI sources, designed for teaching and for anyone new to the history of thinking machines. Each pathway is a sequence of primary sources with short commentary, read in order.
         </p>
       </section>
 

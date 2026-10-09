@@ -11,7 +11,7 @@ export default async function ConceptsPage() {
       <section className="container-content pt-16 pb-10">
         <h1 className="mb-4">Concept Genealogies</h1>
         <p className="text-lg text-ink-600 max-w-3xl">
-          Explore 12 core concepts across the GEMI corpus with timeline counts, top sources, and excerpt-level evidence.
+          Follow {concepts.length} key terms (from intelligence and learning to hallucination) across the GEMI corpus, with timelines, top sources, and excerpt-level evidence. Each concept is tracked through its variants in English, French, German, Russian, and Latin.
         </p>
         <div className="mt-4 text-sm text-ink-500">
           Corpus: {termsData.corpus_size.toLocaleString()} documents

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-12T22:16:09.413Z",
+  "generated_at": "2026-10-09T15:57:54.175Z",
   "corpus_size": 109,
   "indexed_docs": 104,
   "skipped_noisy_docs": 5,
@@ -1072,6 +1072,10 @@
           "count": 58
         },
         {
+          "concept_id": "error",
+          "count": 53
+        },
+        {
           "concept_id": "network",
           "count": 52
         },
@@ -1094,10 +1098,6 @@
         {
           "concept_id": "agency",
           "count": 47
-        },
-        {
-          "concept_id": "memory",
-          "count": 39
         }
       ],
       "variant_count": 11
@@ -2172,6 +2172,10 @@
           "count": 58
         },
         {
+          "concept_id": "error",
+          "count": 56
+        },
+        {
           "concept_id": "reasoning",
           "count": 55
         },
@@ -2190,10 +2194,6 @@
         {
           "concept_id": "intelligence",
           "count": 47
-        },
-        {
-          "concept_id": "memory",
-          "count": 46
         }
       ],
       "variant_count": 11
@@ -3270,6 +3270,10 @@
           "count": 63
         },
         {
+          "concept_id": "error",
+          "count": 61
+        },
+        {
           "concept_id": "mechanism",
           "count": 58
         },
@@ -3288,10 +3292,6 @@
         {
           "concept_id": "intelligence",
           "count": 49
-        },
-        {
-          "concept_id": "memory",
-          "count": 46
         }
       ],
       "variant_count": 11
@@ -4368,6 +4368,10 @@
           "count": 53
         },
         {
+          "concept_id": "error",
+          "count": 53
+        },
+        {
           "concept_id": "mechanism",
           "count": 50
         },
@@ -4382,10 +4386,6 @@
         {
           "concept_id": "probability",
           "count": 47
-        },
-        {
-          "concept_id": "memory",
-          "count": 40
         }
       ],
       "variant_count": 14
@@ -5459,6 +5459,10 @@
           "count": 47
         },
         {
+          "concept_id": "error",
+          "count": 47
+        },
+        {
           "concept_id": "learning",
           "count": 46
         },
@@ -5477,10 +5481,6 @@
         {
           "concept_id": "agency",
           "count": 40
-        },
-        {
-          "concept_id": "intelligence",
-          "count": 39
         }
       ],
       "variant_count": 9
@@ -6560,6 +6560,10 @@
           "count": 58
         },
         {
+          "concept_id": "error",
+          "count": 57
+        },
+        {
           "concept_id": "learning",
           "count": 51
         },
@@ -6574,10 +6578,6 @@
         {
           "concept_id": "intelligence",
           "count": 48
-        },
-        {
-          "concept_id": "memory",
-          "count": 43
         }
       ],
       "variant_count": 14
@@ -7539,6 +7539,10 @@
           "count": 24
         },
         {
+          "concept_id": "error",
+          "count": 24
+        },
+        {
           "concept_id": "learning",
           "count": 23
         },
@@ -7557,10 +7561,6 @@
         {
           "concept_id": "intelligence",
           "count": 20
-        },
-        {
-          "concept_id": "memory",
-          "count": 19
         }
       ],
       "variant_count": 11
@@ -8636,6 +8636,10 @@
           "count": 68
         },
         {
+          "concept_id": "error",
+          "count": 66
+        },
+        {
           "concept_id": "mechanism",
           "count": 65
         },
@@ -8658,10 +8662,6 @@
         {
           "concept_id": "agency",
           "count": 56
-        },
-        {
-          "concept_id": "memory",
-          "count": 47
         }
       ],
       "variant_count": 10
@@ -9729,6 +9729,10 @@
           "count": 46
         },
         {
+          "concept_id": "error",
+          "count": 40
+        },
+        {
           "concept_id": "network",
           "count": 39
         },
@@ -9751,10 +9755,6 @@
         {
           "concept_id": "memory",
           "count": 30
-        },
-        {
-          "concept_id": "agency",
-          "count": 29
         }
       ],
       "variant_count": 16
@@ -10436,16 +10436,16 @@
           "count": 21
         },
         {
+          "concept_id": "error",
+          "count": 21
+        },
+        {
           "concept_id": "intelligence",
           "count": 20
         },
         {
           "concept_id": "agency",
           "count": 20
-        },
-        {
-          "concept_id": "probability",
-          "count": 19
         }
       ],
       "variant_count": 15
@@ -11523,6 +11523,10 @@
           "count": 55
         },
         {
+          "concept_id": "error",
+          "count": 54
+        },
+        {
           "concept_id": "learning",
           "count": 52
         },
@@ -11537,10 +11541,6 @@
         {
           "concept_id": "agency",
           "count": 47
-        },
-        {
-          "concept_id": "memory",
-          "count": 41
         }
       ],
       "variant_count": 17
@@ -12611,6 +12611,10 @@
           "count": 68
         },
         {
+          "concept_id": "error",
+          "count": 64
+        },
+        {
           "concept_id": "reasoning",
           "count": 63
         },
@@ -12633,13 +12637,1106 @@
         {
           "concept_id": "intelligence",
           "count": 52
-        },
-        {
-          "concept_id": "memory",
-          "count": 47
         }
       ],
       "variant_count": 16
+    },
+    {
+      "id": "error",
+      "label": "Error & Hallucination",
+      "description": "Error, illusion, and hallucination in minds and machines, from faulty perception and mechanical failure to today's \"hallucinating\" language models.",
+      "total_hits": 735,
+      "documents_with_hits": 73,
+      "by_decade": {
+        "1630s": 1,
+        "1710s": 1,
+        "1720s": 1,
+        "1780s": 2,
+        "1790s": 2,
+        "1800s": 3,
+        "1810s": 3,
+        "1820s": 2,
+        "1830s": 2,
+        "1840s": 4,
+        "1850s": 3,
+        "1860s": 6,
+        "1870s": 8,
+        "1880s": 4,
+        "1890s": 7,
+        "1900s": 8,
+        "1910s": 3,
+        "1920s": 3,
+        "1930s": 2,
+        "1940s": 1,
+        "1950s": 3,
+        "1960s": 2,
+        "1990s": 2
+      },
+      "by_language": {
+        "de": 6,
+        "en": 53,
+        "fr": 13,
+        "ru": 1
+      },
+      "by_topic": {
+        "automata_artificial_beings": 27,
+        "computing": 17,
+        "mechanism": 29
+      },
+      "top_documents": [
+        {
+          "doc_id": "gutenberg_71292",
+          "title": "The calculating engine",
+          "year": 1832,
+          "language_code": "en",
+          "topic": "computing",
+          "hit_count": 87,
+          "quality_score": 5.518
+        },
+        {
+          "doc_id": "wikisource_edinburgh_review_babbage",
+          "title": "Babbage's Calculating Engine (Edinburgh Review, Vol. 59)",
+          "year": 1834,
+          "language_code": "en",
+          "topic": "computing",
+          "hit_count": 86,
+          "quality_score": 5.462
+        },
+        {
+          "doc_id": "duprincipevital01bouigoog",
+          "title": "Du principe vital et de l'âme pensante, ou Examen des diverses doctrines ...",
+          "year": 1862,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "hit_count": 35,
+          "quality_score": 5.898
+        },
+        {
+          "doc_id": "levitalismeetla02lemogoog",
+          "title": "Le vitalisme et l'animisme de Stahl",
+          "year": 1864,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "hit_count": 34,
+          "quality_score": 5.523
+        },
+        {
+          "doc_id": "roughwaysmadesm00procgoog",
+          "title": "Rough ways made smooth: a series of familiar essays on scientific subjects",
+          "year": 1880,
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "hit_count": 34,
+          "quality_score": 5.944
+        },
+        {
+          "doc_id": "duprincipevital00bouigoog",
+          "title": "Du principe vital et de l'âme pensante: ou, Examen des diverses doctrines ...",
+          "year": 1862,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "hit_count": 32,
+          "quality_score": 5.884
+        },
+        {
+          "doc_id": "betweenworlds_201911",
+          "title": "Between Two Worlds",
+          "year": 1964,
+          "language_code": "en",
+          "topic": "mechanism",
+          "hit_count": 30,
+          "quality_score": 5.837
+        },
+        {
+          "doc_id": "wikisource_passages_from_the_life_of_a_philosopher",
+          "title": "Passages from the Life of a Philosopher",
+          "year": 1864,
+          "language_code": "en",
+          "topic": "computing",
+          "hit_count": 26,
+          "quality_score": 6.176
+        },
+        {
+          "doc_id": "11107154bsb",
+          "title": "Ideen über Pathogenie und Einfluss der Lebenskraft auf Entstehung und Form der Krankheiten: als Einleitung zu pathologischen Vorlesungen",
+          "year": 1795,
+          "language_code": "de",
+          "topic": "mechanism",
+          "hit_count": 25,
+          "quality_score": 5.464
+        },
+        {
+          "doc_id": "bnf-bpt6k6138503q",
+          "title": "Matérialisme, vitalisme, rationalisme : études sur l'emploi des données de la science en philosophie / par M. Cournot,..",
+          "year": 1875,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "hit_count": 22,
+          "quality_score": 5.845
+        },
+        {
+          "doc_id": "gutenberg_11984",
+          "title": "A Pluralistic Universe: Hibbert Lectures at Manchester College on the Present Situation in Philosophy",
+          "year": 1909,
+          "language_code": "en",
+          "topic": "computing",
+          "hit_count": 19,
+          "quality_score": 5.915
+        },
+        {
+          "doc_id": "bub_gb_TcsCAAAAYAAJ",
+          "title": "Chess and chess-players:",
+          "year": 1850,
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "hit_count": 18,
+          "quality_score": 5.848
+        },
+        {
+          "doc_id": "b30520903_0002",
+          "title": "Philosophical principles of medicine in three parts. Containing, I. A demonstration of the general laws of gravity, with their effects upon animal bodys. II. The more particular laws which obtain in the motion and secretion of the vital fluids, applied to the principal diseases and irregularitys of the animal machine. III. The primary and chief intentions of medicine in the cure of diseases. Problematically propos'd and mechanically resolv'd",
+          "year": 1725,
+          "language_code": "en",
+          "topic": "mechanism",
+          "hit_count": 14,
+          "quality_score": 5.848
+        },
+        {
+          "doc_id": "firstlinesofprac13cull",
+          "title": "First lines of the practice of physic",
+          "year": 1790,
+          "language_code": "en",
+          "topic": "mechanism",
+          "hit_count": 14,
+          "quality_score": 6.134
+        },
+        {
+          "doc_id": "gutenberg_1906",
+          "title": "Erewhon; Or, Over the Range",
+          "year": 1872,
+          "language_code": "en",
+          "topic": "computing",
+          "hit_count": 14,
+          "quality_score": 5.933
+        }
+      ],
+      "key_excerpts": [
+        {
+          "doc_id": "gutenberg_71292",
+          "title": "The calculating engine",
+          "year": 1832,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "errors",
+          "text": "…ion of the General Term of a new Class of Infinite Series_. By CHARLES BABBAGE, Esq. Transactions Camb. Phil. Soc. Cambridge: 1824. 5. _On Errors common to many Tables of Logarithms_. By CHARLES BABBAGE, Esq. Memoirs Astron. Soc. London: 1827. 6. _On a Method of Expressing by Signs t…",
+          "start_char": 1973,
+          "end_char": 1979
+        },
+        {
+          "doc_id": "gutenberg_71292",
+          "title": "The calculating engine",
+          "year": 1832,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "mistake",
+          "text": "…ding, been accustomed to regard it more in the light of a philosophical curiosity, than an instrument for purposes practically useful. This mistake (than which it is not possible to imagine a greater) has arisen mainly from the ignorance which prevails of the extensive utility of those…",
+          "start_char": 7181,
+          "end_char": 7188
+        },
+        {
+          "doc_id": "gutenberg_71292",
+          "title": "The calculating engine",
+          "year": 1832,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "errors",
+          "text": "…at the public expense; by showing also, that they are nevertheless rendered inefficient, to a greater or less extent, by the prevalence of errors in them; that these errors pervade not merely tables produced by individual labour and enterprise, but that they vitiate even those on whic…",
+          "start_char": 10740,
+          "end_char": 10746
+        },
+        {
+          "doc_id": "wikisource_edinburgh_review_babbage",
+          "title": "Babbage's Calculating Engine (Edinburgh Review, Vol. 59)",
+          "year": 1834,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "errors",
+          "text": "…tion of the General Term of a new Class of Infinite Series . By Charles Babbage , Esq. Transactions Camb. Phil. Soc. Cambridge: 1824. 5. On Errors common to many Tables of Logarithms . By Charles Babbage , Esq. Memoirs Astron. Soc. London: 1827. 6. On a Method of Expressing by Signs th…",
+          "start_char": 955,
+          "end_char": 961
+        },
+        {
+          "doc_id": "wikisource_edinburgh_review_babbage",
+          "title": "Babbage's Calculating Engine (Edinburgh Review, Vol. 59)",
+          "year": 1834,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "mistake",
+          "text": "…ding, been accustomed to regard it more in the light of a philosophical curiosity, than an instrument for purposes practically useful. This mistake (than which it is not possible to imagine a greater) has arisen mainly from the ignorance which prevails of the extensive utility of those…",
+          "start_char": 6154,
+          "end_char": 6161
+        },
+        {
+          "doc_id": "wikisource_edinburgh_review_babbage",
+          "title": "Babbage's Calculating Engine (Edinburgh Review, Vol. 59)",
+          "year": 1834,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "errors",
+          "text": "…at the public expense; by showing also, that they are nevertheless rendered inefficient, to a greater or less extent, by the prevalence of errors in them; that these errors pervade not merely tables produced by individual labour and enterprise, but that they vitiate even those on whic…",
+          "start_char": 9420,
+          "end_char": 9426
+        },
+        {
+          "doc_id": "duprincipevital01bouigoog",
+          "title": "Du principe vital et de l'âme pensante, ou Examen des diverses doctrines ...",
+          "year": 1862,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "erreur",
+          "text": "…Nécessité de commencer par la détermination de la nature de l'âme. — Trois sortes d'er- reurs des philosophes spirituaiistes sur l'âme. — Erreur de méthode. ~ Est-ce par induction que l'âme nous est donnée? est-elle l'agent inconnu de phénomènes connus ? — Procédés des sciences phy…",
+          "start_char": 24342,
+          "end_char": 24348
+        },
+        {
+          "doc_id": "duprincipevital01bouigoog",
+          "title": "Du principe vital et de l'âme pensante, ou Examen des diverses doctrines ...",
+          "year": 1862,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "erreur",
+          "text": "…ons sou- mettre, dans ce livre, à un nouvel examen. 11 ne s'agit pas, on le voit, de combattre le matéria- lisme, mais de rectifier une erreur du spiritualisme ; nous n'entreprenons pas de réfuter ceuxquinient l'exis- tence d'une âme, mais ceux qui, péchant en quelque sorte par…",
+          "start_char": 26025,
+          "end_char": 26031
+        },
+        {
+          "doc_id": "duprincipevital01bouigoog",
+          "title": "Du principe vital et de l'âme pensante, ou Examen des diverses doctrines ...",
+          "year": 1862,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "erreur",
+          "text": "…tres enfin sur ses attri- butions, erreurs qui toutes ont pour effet Commun de mettre^n péril l'existence tnême d'une âme spirituelle. L'erreur relative aux attributions fondamentales de l'âme est celle que nous nous proposons particulière- ment^ de combattre ; mais nous signalero…",
+          "start_char": 35290,
+          "end_char": 35296
+        },
+        {
+          "doc_id": "levitalismeetla02lemogoog",
+          "title": "Le vitalisme et l'animisme de Stahl",
+          "year": 1864,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "erreur",
+          "text": "…ystère attire, que séduit tout ce qui est merveilleux ; impatient de savoir, plein de foi et de superstition, il préfère l'hypothèse et l'erreur au doute et à l'igno- rance. Il méprise tout ce qui est simple et naturel ; il aspire à tout ce qui est surnaturel et extraordinaire. So…",
+          "start_char": 20127,
+          "end_char": 20133
+        },
+        {
+          "doc_id": "levitalismeetla02lemogoog",
+          "title": "Le vitalisme et l'animisme de Stahl",
+          "year": 1864,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "erreur",
+          "text": "…ardé pour longtemps, si un esprit supérieur ne se fût élevé contre ces doctrines erronées, pour remplacer, il est vrai, en définitive une erreur par une erreur op- posée, mais aussi pour ébranler et ruiner des systèmes vicieux, préparer l'avènement de la vérité et produire même dé…",
+          "start_char": 24280,
+          "end_char": 24286
+        },
+        {
+          "doc_id": "levitalismeetla02lemogoog",
+          "title": "Le vitalisme et l'animisme de Stahl",
+          "year": 1864,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "erreur",
+          "text": "…emps, si un esprit supérieur ne se fût élevé contre ces doctrines erronées, pour remplacer, il est vrai, en définitive une erreur par une erreur op- posée, mais aussi pour ébranler et ruiner des systèmes vicieux, préparer l'avènement de la vérité et produire même déjà quelques vér…",
+          "start_char": 24295,
+          "end_char": 24301
+        },
+        {
+          "doc_id": "roughwaysmadesm00procgoog",
+          "title": "Rough ways made smooth: a series of familiar essays on scientific subjects",
+          "year": 1880,
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "variant": "error",
+          "text": "…ned to be readily regarded as erroneous. *This result naturally filled me with inquietude,' said Leverrier later. *Had I not allowed some error in the theory to escape me? New researches, in which every circumstance was taken into account by different methods, ended only in the c…",
+          "start_char": 82917,
+          "end_char": 82922
+        },
+        {
+          "doc_id": "roughwaysmadesm00procgoog",
+          "title": "Rough ways made smooth: a series of familiar essays on scientific subjects",
+          "year": 1880,
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "variant": "mistake",
+          "text": "…eyond all moral probability.' 46 ROUGH WAYS MADE SMOOTH. It must be remembered that an inexperienced observer of the sun might readily mistake a spot of unusual roundness and darkness for a planet's disc. The practised observer would perceive peculiarities at once indicating the…",
+          "start_char": 100270,
+          "end_char": 100277
+        },
+        {
+          "doc_id": "roughwaysmadesm00procgoog",
+          "title": "Rough ways made smooth: a series of familiar essays on scientific subjects",
+          "year": 1880,
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "variant": "mistake",
+          "text": "…culiarities would escape the notice of a beginner, or of one using a telescope of small power. Again, an inexperienced observer is apt to mistake the change of position which a spot on the sun undergoes on account of the diurnal motion, for a change of place on the sun*s disc. At n…",
+          "start_char": 100600,
+          "end_char": 100607
+        },
+        {
+          "doc_id": "duprincipevital00bouigoog",
+          "title": "Du principe vital et de l'âme pensante: ou, Examen des diverses doctrines ...",
+          "year": 1862,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "erreur",
+          "text": "…Nécessité de oonunencer par la détermination de la nature de l'âme. — Trois sortes d'er- reurs des philosophes spirituaiistes sur Tâme. — Erreur de méthode. — Est-ce par induction que Tâme nous est donnée? est-elle l'agent inconnu de phénomènes connus ? — Procédés des sciences phys…",
+          "start_char": 23886,
+          "end_char": 23892
+        },
+        {
+          "doc_id": "duprincipevital00bouigoog",
+          "title": "Du principe vital et de l'âme pensante: ou, Examen des diverses doctrines ...",
+          "year": 1862,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "erreur",
+          "text": "…ons sou- mettre, dans ce livre, à un nouvel examen. 11 ne s'agit pas, on le voit, de combattre le matéria- lisme, mais de rectifier une erreur du spiritualisme ; nous n'entreprenons pas de réfuter ceux qui nient l'exis- tence d'une âme, mais ceux qui,, péchant en quelque sorte p…",
+          "start_char": 25565,
+          "end_char": 25571
+        },
+        {
+          "doc_id": "duprincipevital00bouigoog",
+          "title": "Du principe vital et de l'âme pensante: ou, Examen des diverses doctrines ...",
+          "year": 1862,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "erreur",
+          "text": "…res enfin sur ses attri- butions, erreurs qui toutes ont pour éfEet.bommun de mettre en péril l'existence ibême d'une âme spirituelle. L'erreur relative, aux attributions fondamentales de l'âme est celle que nous nous proposons iparticuli^e* ment de combattre ; mais nous signalero…",
+          "start_char": 34820,
+          "end_char": 34826
+        },
+        {
+          "doc_id": "betweenworlds_201911",
+          "title": "Between Two Worlds",
+          "year": 1964,
+          "language_code": "en",
+          "topic": "mechanism",
+          "variant": "illusion",
+          "text": "…ef but on new scientific discoveries. Materialism has been dealt a deadly blow. Strange as it may seem, matter has no substance. It is an illusion of our senses. Atomic research has revealed it to be a state of incredible energies bound and interlocked, and now it also tells us of an…",
+          "start_char": 2004,
+          "end_char": 2012
+        },
+        {
+          "doc_id": "betweenworlds_201911",
+          "title": "Between Two Worlds",
+          "year": 1964,
+          "language_code": "en",
+          "topic": "mechanism",
+          "variant": "illusion",
+          "text": "…. The sound is usually produced by the medium’s thumb¬ nail scratching on the outside of the slate that is held away from the sitter. The illusion that the writing occurs within the slates is astonishing. As Eglinton’s mediumistic record was known, at least occasionally, to be more th…",
+          "start_char": 22244,
+          "end_char": 22252
+        },
+        {
+          "doc_id": "betweenworlds_201911",
+          "title": "Between Two Worlds",
+          "year": 1964,
+          "language_code": "en",
+          "topic": "mechanism",
+          "variant": "illusions",
+          "text": "…ision to H. G. Wells, George Bernard Shaw, and Hilaire Belloc, his fellow-contributors to the New Age. He shook the literary world by his Illusions and Realities of the War and he revealed unknown personality traits of the great liberator in Abraham Lincoln , the Practical Mystic. H…",
+          "start_char": 33424,
+          "end_char": 33433
+        },
+        {
+          "doc_id": "wikisource_passages_from_the_life_of_a_philosopher",
+          "title": "Passages from the Life of a Philosopher",
+          "year": 1864,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "mistake",
+          "text": "…ad entered the orchard for the purpose of getting some manure for their flowers out of a rotten mulberry-tree. These boys were aware of our mistake, and had humoured it. We now returned all together towards the play-ground, when we met our master, who immediately pronounced that we were…",
+          "start_char": 28590,
+          "end_char": 28597
+        },
+        {
+          "doc_id": "wikisource_passages_from_the_life_of_a_philosopher",
+          "title": "Passages from the Life of a Philosopher",
+          "year": 1864,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "mistake",
+          "text": "…en required by the computing part of the machine. But here a new difficulty arose. The attendant who put the types into the boxes might, by mistake, put a wrong type in one or more of them. This cause of error I removed in the following manner:—There are usually certain notches in the s…",
+          "start_char": 72961,
+          "end_char": 72968
+        },
+        {
+          "doc_id": "wikisource_passages_from_the_life_of_a_philosopher",
+          "title": "Passages from the Life of a Philosopher",
+          "year": 1864,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "error",
+          "text": "…difficulty arose. The attendant who put the types into the boxes might, by mistake, put a wrong type in one or more of them. This cause of error I removed in the following manner:—There are usually certain notches in the side of the type. I caused these notches to be so placed that a…",
+          "start_char": 73025,
+          "end_char": 73030
+        },
+        {
+          "doc_id": "11107154bsb",
+          "title": "Ideen über Pathogenie und Einfluss der Lebenskraft auf Entstehung und Form der Krankheiten: als Einleitung zu pathologischen Vorlesungen",
+          "year": 1795,
+          "language_code": "de",
+          "topic": "mechanism",
+          "variant": "fehler",
+          "text": "…ten Körper übertragen wollte, ohne Rückficht auf die Lebenskraft, die jene Geletze erlt organilch beftimmt, zu nehmen; der würdeeben den Fehler be- gehen, als wenn er chemifche Erfcheinun- gen aus mechanifchen Geletzen erklärte; er würde, gefezt auch feineChemie wäre noch fo fei…",
+          "start_char": 5575,
+          "end_char": 5581
+        },
+        {
+          "doc_id": "11107154bsb",
+          "title": "Ideen über Pathogenie und Einfluss der Lebenskraft auf Entstehung und Form der Krankheiten: als Einleitung zu pathologischen Vorlesungen",
+          "year": 1795,
+          "language_code": "de",
+          "topic": "mechanism",
+          "variant": "fehler",
+          "text": "…ogie der Kräfte und here nn zu vereinigen, indem ich. ichen Veränderun- STE Erfcheinungen ‚der feften Theile hervor- r ‚bringen, auch Fehler in der Mifehung, $ Bindung ‚und Befchaffenheit der Materie ‚oder der Säfte erregen mülfen, dafs verän- ; . RETTET Säfte wieder zurück al…",
+          "start_char": 6284,
+          "end_char": 6290
+        },
+        {
+          "doc_id": "11107154bsb",
+          "title": "Ideen über Pathogenie und Einfluss der Lebenskraft auf Entstehung und Form der Krankheiten: als Einleitung zu pathologischen Vorlesungen",
+          "year": 1795,
+          "language_code": "de",
+          "topic": "mechanism",
+          "variant": "fehler",
+          "text": "…regen, genug, dafs, wer Re etie der Lebenskraft und ihrer Re- ction annimmt, wenn er nur einigerma- EEE | confequent feyn will, auch die Fehler R: der Säfte und Materien, die eben fo gut darinn ihren Grund haben, EREREEN Humoral + und Nervenpathologie, (oder “ Ri: in den ‚Kräf…",
+          "start_char": 6628,
+          "end_char": 6634
+        },
+        {
+          "doc_id": "bnf-bpt6k6138503q",
+          "title": "Matérialisme, vitalisme, rationalisme : études sur l'emploi des données de la science en philosophie / par M. Cournot,..",
+          "year": 1875,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "erreur",
+          "text": "…de précision et que la pesée se fasse avec tout le soin possible, en ne né¬ gligeant rien pour se mettre à Tabri de toutes les chances d’erreur. Arrêtons-nous un instant sur ce point capital. Bien avant que les physiciens ne fussent en mesure de don¬ ner la preuve expérimentale…",
+          "start_char": 12448,
+          "end_char": 12454
+        },
+        {
+          "doc_id": "bnf-bpt6k6138503q",
+          "title": "Matérialisme, vitalisme, rationalisme : études sur l'emploi des données de la science en philosophie / par M. Cournot,..",
+          "year": 1875,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "illusion",
+          "text": "…n effetj conformément à une vieille idée platonicienne, une .figure polyédrique assignable : mais un examen attentif a vite dissipé cette illusion. Tandis que, dans les milieux solides non cristallisés, comme dans les liquides et dans les gaz, chaque molécule est soumise * à la…",
+          "start_char": 39185,
+          "end_char": 39193
+        },
+        {
+          "doc_id": "bnf-bpt6k6138503q",
+          "title": "Matérialisme, vitalisme, rationalisme : études sur l'emploi des données de la science en philosophie / par M. Cournot,..",
+          "year": 1875,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "erreur",
+          "text": "…tre, et avec une énergie qui dépend beaucoup de la nature des corps mis en présence. Toutefois cette déno¬ mination pourrait induire en erreur si l'on y attachait le sens que les naturalistes y attachent, si l'on en infé¬ rait que les corps les plus semblables de nature ou d'or…",
+          "start_char": 45304,
+          "end_char": 45310
+        },
+        {
+          "doc_id": "gutenberg_11984",
+          "title": "A Pluralistic Universe: Hibbert Lectures at Manchester College on the Present Situation in Philosophy",
+          "year": 1909,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "error",
+          "text": "…s into philosophy, 116. Leibnitz and Lotze on the 'fall' involved in the creation of the finite, 119. Joachim on the fall of truth into error, 121. The world of the absolutist cannot be perfect, 123. Pluralistic conclusions, 125. LECTURE IV CONCERNING FECHNER 131 Superhuman…",
+          "start_char": 4006,
+          "end_char": 4011
+        },
+        {
+          "doc_id": "gutenberg_11984",
+          "title": "A Pluralistic Universe: Hibbert Lectures at Manchester College on the Present Situation in Philosophy",
+          "year": 1909,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "mistake",
+          "text": "…most other things in my field of relative ignorance. And practical differences result from its knowledge and my ignorance. Ignorance breeds mistake, curiosity, misfortune, pain, for me; I suffer those consequences. The absolute knows of those things, of course, for it knows me and my su…",
+          "start_char": 47348,
+          "end_char": 47355
+        },
+        {
+          "doc_id": "gutenberg_11984",
+          "title": "A Pluralistic Universe: Hibbert Lectures at Manchester College on the Present Situation in Philosophy",
+          "year": 1909,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "illusion",
+          "text": "…ings as they immediately are have no truth.'[3] 'The consummation of the infinite aim,' he says elsewhere, 'consists merely in removing the illusion which makes it seem yet unaccomplished. Good and absolute goodness is eternally accomplishing itself in the world: and the result is that i…",
+          "start_char": 58582,
+          "end_char": 58590
+        },
+        {
+          "doc_id": "bub_gb_TcsCAAAAYAAJ",
+          "title": "Chess and chess-players:",
+          "year": 1850,
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "variant": "illusion",
+          "text": "…nderful, arise merely from the boldness of the original conception, and the fortunate choice of the means employed by me to carry out the illusion.** This is the language of a great mind, not choosing prematurely to open the eyes of surrounding dupes, but scorning to take to himself…",
+          "start_char": 13723,
+          "end_char": 13731
+        },
+        {
+          "doc_id": "bub_gb_TcsCAAAAYAAJ",
+          "title": "Chess and chess-players:",
+          "year": 1850,
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "variant": "error",
+          "text": "…Chess player,\" says M. de Windisch, is a suspicion that its move- ments are under the immediate guidance of some human being. From this error I was not myself exempt, when I law, for the first time, the inventor draw from a recess his Automaton, fixed to a good- sized chest ; an…",
+          "start_char": 15104,
+          "end_char": 15109
+        },
+        {
+          "doc_id": "bub_gb_TcsCAAAAYAAJ",
+          "title": "Chess and chess-players:",
+          "year": 1850,
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "variant": "illusion",
+          "text": "…Digitized by Google THE CHB88 AUTOMATON. 9 fcsTe been less difficult to unravel. Is it an Olusion ? Ho be it But it is, then, au illusion which does honour to the htmiaii mmd ; an illusion more surprising, more inconceivable, than all those which are to be found in the diffe…",
+          "start_char": 17292,
+          "end_char": 17300
+        },
+        {
+          "doc_id": "b30520903_0002",
+          "title": "Philosophical principles of medicine in three parts. Containing, I. A demonstration of the general laws of gravity, with their effects upon animal bodys. II. The more particular laws which obtain in the motion and secretion of the vital fluids, applied to the principal diseases and irregularitys of the animal machine. III. The primary and chief intentions of medicine in the cure of diseases. Problematically propos'd and mechanically resolv'd",
+          "year": 1725,
+          "language_code": "en",
+          "topic": "mechanism",
+          "variant": "error",
+          "text": "…er. which happens to it, but there. is at the fame time a -confiderable. effort of. Nature, i.e. of the Machine, to rectify the AuSY A A Error, PheOPARIEIEAAT@>EY 886i Error, and reftore the foundnefs of its Con- fiitution. And hereim this noble Machine of an tmanimated Body,…",
+          "start_char": 7012,
+          "end_char": 7017
+        },
+        {
+          "doc_id": "b30520903_0002",
+          "title": "Philosophical principles of medicine in three parts. Containing, I. A demonstration of the general laws of gravity, with their effects upon animal bodys. II. The more particular laws which obtain in the motion and secretion of the vital fluids, applied to the principal diseases and irregularitys of the animal machine. III. The primary and chief intentions of medicine in the cure of diseases. Problematically propos'd and mechanically resolv'd",
+          "year": 1725,
+          "language_code": "en",
+          "topic": "mechanism",
+          "variant": "error",
+          "text": "…. is at the fame time a -confiderable. effort of. Nature, i.e. of the Machine, to rectify the AuSY A A Error, PheOPARIEIEAAT@>EY 886i Error, and reftore the foundnefs of its Con- fiitution. And hereim this noble Machine of an tmanimated Body, which is the perfect Workmanfhip…",
+          "start_char": 7046,
+          "end_char": 7051
+        },
+        {
+          "doc_id": "b30520903_0002",
+          "title": "Philosophical principles of medicine in three parts. Containing, I. A demonstration of the general laws of gravity, with their effects upon animal bodys. II. The more particular laws which obtain in the motion and secretion of the vital fluids, applied to the principal diseases and irregularitys of the animal machine. III. The primary and chief intentions of medicine in the cure of diseases. Problematically propos'd and mechanically resolv'd",
+          "year": 1725,
+          "language_code": "en",
+          "topic": "mechanism",
+          "variant": "errors",
+          "text": "…uld éver have known, but. by attual Experience of its Effects, that the Bark would fo effec- tually, beyond any thing elfe, correct the Errors of Goncottion, or prevail foexceed=— magly imvantermitting or remitting Fevers, and in almoft all periodical Difeafes ? DHA Ev different…",
+          "start_char": 30799,
+          "end_char": 30805
+        },
+        {
+          "doc_id": "firstlinesofprac13cull",
+          "title": "First lines of the practice of physic",
+          "year": 1790,
+          "language_code": "en",
+          "topic": "mechanism",
+          "variant": "errors",
+          "text": "…et morbofa* But, in theie writers, it was ei- ther not extenfively applied to difeaies, or was ftill fo in- volved in many phyfiological errors, that they had at- tracted little attention ; and Dr. Hoffman was the firft who gave any tolerably fimple and clear fyftem on the fubjed…",
+          "start_char": 25117,
+          "end_char": 25123
+        },
+        {
+          "doc_id": "firstlinesofprac13cull",
+          "title": "First lines of the practice of physic",
+          "year": 1790,
+          "language_code": "en",
+          "topic": "mechanism",
+          "variant": "error",
+          "text": "…rltand in what manner the animal fluids are formed from the aliments taken in. And although Dr. Boerhaave has fallen into no confiderable error with re- fpect to a morbid acidity in the ftomach, he could not pol- fibly be complete upon that fubject ; and his notion of the effects…",
+          "start_char": 33488,
+          "end_char": 33493
+        },
+        {
+          "doc_id": "firstlinesofprac13cull",
+          "title": "First lines of the practice of physic",
+          "year": 1790,
+          "language_code": "en",
+          "topic": "mechanism",
+          "variant": "error",
+          "text": "…ter into particulars ; But, I believe, there are very few pages 38 PREFACE. pages of his aphorifmsin which there does not occur fome error or defect ; although, perhaps, not to be imputed to the fault of Boerhave, fo much as to this, that fince his time a great collection of…",
+          "start_char": 36636,
+          "end_char": 36641
+        },
+        {
+          "doc_id": "gutenberg_1906",
+          "title": "Erewhon; Or, Over the Range",
+          "year": 1872,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "mistake",
+          "text": "…rd or two here in reference to “The Coming Race,” to the success of which book “Erewhon” has been very generally set down as due. This is a mistake, though a perfectly natural one. The fact is that “Erewhon” was finished, with the exception of the last twenty pages and a sentence or two…",
+          "start_char": 2928,
+          "end_char": 2935
+        },
+        {
+          "doc_id": "gutenberg_1906",
+          "title": "Erewhon; Or, Over the Range",
+          "year": 1872,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "mistake",
+          "text": "…I had been sufficiently explicit, but have made a few additions to the chapter on Malcontents, which will, I think, serve to render further mistake impossible. An anonymous correspondent (by the hand-writing presumably a clergyman) tells me that in quoting from the Latin grammar I shou…",
+          "start_char": 5289,
+          "end_char": 5296
+        },
+        {
+          "doc_id": "gutenberg_1906",
+          "title": "Erewhon; Or, Over the Range",
+          "year": 1872,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "mistake",
+          "text": "…ts covered with scrub on either side the river, and mountains which were perfectly worthless. But we could see the main range. There was no mistake about this. The glaciers were tumbling down the mountain sides like cataracts, and seemed actually to descend upon the river-bed; there cou…",
+          "start_char": 42715,
+          "end_char": 42722
+        },
+        {
+          "doc_id": "anintroductiont02smitgoog",
+          "title": "An Introduction to Physiological and Systematical Botany",
+          "year": 1814,
+          "language_code": "en",
+          "topic": "mechanism",
+          "variant": "error",
+          "text": "…s analogous to the arteries of animal^.; or rather they are the stomach, lacteals and ^t^rie^ all in one, for I conceive it to be a great error in Dr. Darwin to call by this name the vessels which COURSE OF THE SAK 4$ contain the peculiar secretions of the plant*. These sap^ve…",
+          "start_char": 80416,
+          "end_char": 80421
+        },
+        {
+          "doc_id": "anintroductiont02smitgoog",
+          "title": "An Introduction to Physiological and Systematical Botany",
+          "year": 1814,
+          "language_code": "en",
+          "topic": "mechanism",
+          "variant": "mistake",
+          "text": "…tter ofEce, and another to the secretion of peculiar fluids in the bark. See Phil. Trans, for 1801,/). 3S7. In the bark principally, if I mistake not, the peculiar secretions of the plant are perfected, as gum, resin, &c., each undoubtedly in an appropriate set of vessels. From wha…",
+          "start_char": 82448,
+          "end_char": 82455
+        },
+        {
+          "doc_id": "anintroductiont02smitgoog",
+          "title": "An Introduction to Physiological and Systematical Botany",
+          "year": 1814,
+          "language_code": "en",
+          "topic": "mechanism",
+          "variant": "mistake",
+          "text": "…hour and half. Dr. Priestley found plants to alter even unmixed in- flammable air, or hydrogen, especially the Epilobtum hirsutum, if I mistake not, and Polygonum Hydropiper. Succulent plants are found to afford most air, in consequence of the abundance of their Cellular Inte- g…",
+          "start_char": 242254,
+          "end_char": 242261
+        },
+        {
+          "doc_id": "lamachineanimal00maregoog",
+          "title": "La machine animale: locomotion terrestre et aérienne",
+          "year": 1886,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "illusions",
+          "text": "…ures dans le texte 6 fr. Oharlton Bastian. Le système nerveux et la pensée, 2 vol., avec 484 ûg. dans le texte 12 fr. James Sully. Ifs illusions des sens et de l'esprit 6 fr. Alph. de CandoUe. L'origine DES PLANTES cultivées. 2« éd. . . 6.fr. Toung. Le soleil, avec 86 figures 6 f…",
+          "start_char": 12876,
+          "end_char": 12885
+        },
+        {
+          "doc_id": "lamachineanimal00maregoog",
+          "title": "La machine animale: locomotion terrestre et aérienne",
+          "year": 1886,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "erreur",
+          "text": "…différait considérablement de celui que les physiciens ont établi. Ce désaccord n'a rien d'étonnant quand on songe èi toutes les causes d'erreur qui se trouvent réunies dans une pareille expérience. Il pouvait y avoir er- reur sur la quantité d'acide carbonique exhalée ; erreur sur…",
+          "start_char": 52850,
+          "end_char": 52856
+        },
+        {
+          "doc_id": "lamachineanimal00maregoog",
+          "title": "La machine animale: locomotion terrestre et aérienne",
+          "year": 1886,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "erreur",
+          "text": "…s d'erreur qui se trouvent réunies dans une pareille expérience. Il pouvait y avoir er- reur sur la quantité d'acide carbonique exhalée ; erreur sur la nature des actions chimiques qui ont dégagé cet acide carbonique, et par conséquent sur la quantité de chaleur qui a dû accompagn…",
+          "start_char": 52986,
+          "end_char": 52992
+        },
+        {
+          "doc_id": "bub_gb__f1TQoJzqOIC",
+          "title": "La machine animale locomotion terrestre et aérienne par E.J. Marey",
+          "year": 1873,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "erreur",
+          "text": "…différait considérablement de celui que les physiciens ont établi. Ce désaccord n’a rien d’étonnant quand on songe à toutes les causes d’erreur qui se trouvent réunies dans une pareille expérience. Il pouvait y avoir er- reur sur la quantité d’acide carbonique exhalée ; erreur sur…",
+          "start_char": 40285,
+          "end_char": 40291
+        },
+        {
+          "doc_id": "bub_gb__f1TQoJzqOIC",
+          "title": "La machine animale locomotion terrestre et aérienne par E.J. Marey",
+          "year": 1873,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "erreur",
+          "text": "…s d’erreur qui se trouvent réunies dans une pareille expérience. Il pouvait y avoir er- reur sur la quantité d’acide carbonique exhalée ; erreur sur la nature des actions chimiques qui ont dégagé cet acide carbonique, et par conséquent sur la quantité de chaleur qui a dû accompagn…",
+          "start_char": 40421,
+          "end_char": 40427
+        },
+        {
+          "doc_id": "bub_gb__f1TQoJzqOIC",
+          "title": "La machine animale locomotion terrestre et aérienne par E.J. Marey",
+          "year": 1873,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "erreur",
+          "text": "…actions chimiques qui ont dégagé cet acide carbonique, et par conséquent sur la quantité de chaleur qui a dû accompagner ce dégagement ; erreur dans l'évalua- tion de la chaleur répandue dans la chambre calorimétrique; enfin erreur sur la quantité de travail mécanique produit par…",
+          "start_char": 40586,
+          "end_char": 40592
+        },
+        {
+          "doc_id": "in.ernet.dli.2015.91128",
+          "title": "The Book Of Illustrious Mechanics Of Europe And America",
+          "year": 1848,
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "variant": "errors",
+          "text": "…er of ilns cupola; others at- tribute all the luniour to Legnmd and Molmos, architects. We sliall fake it upon ourselves to rectify these errors, and render jn-tice to wdiom it is due. In fact, the work was so admirable one, that it is wrong to allow the artist’s name to remain in…",
+          "start_char": 104435,
+          "end_char": 104441
+        },
+        {
+          "doc_id": "in.ernet.dli.2015.91128",
+          "title": "The Book Of Illustrious Mechanics Of Europe And America",
+          "year": 1848,
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "variant": "illusion",
+          "text": "…all salts. In the same year ( 179 K), the philosopher Robertson exhibit- fed a surprising and interesting novelty at Paris : an optical illusion, by aid of which, the natural magician, without sor- cery, invoked spectres and frightful phantoms. This was the magic lantern. We borr…",
+          "start_char": 134475,
+          "end_char": 134483
+        },
+        {
+          "doc_id": "in.ernet.dli.2015.91128",
+          "title": "The Book Of Illustrious Mechanics Of Europe And America",
+          "year": 1848,
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "variant": "illusions",
+          "text": "…Natural Magic contains an account of the nmgic laiiffTii. At the same period (179D), a new sf»t‘cies of painting, im- jiroved by optical illusions, captivated all Paris, Jt was a vast circular representation of ohjectti, where the eye reached to a hoiizoTi, and there being no limit,…",
+          "start_char": 135676,
+          "end_char": 135685
+        },
+        {
+          "doc_id": "lamachineanimal02maregoog",
+          "title": "La machine animale: locomotion terrestre et sérienne",
+          "year": 1878,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "erreur",
+          "text": "…différait considérablement de celui que les physiciens ont établi. Ce désaccord n'a rien d'étonnant quand on songe à toutes les causes d'erreur qui se trouvent réunies dans une pareille expérience. Il pouvait y avoir er- reur sur la quantité d'acide carbonique exhalée ; erreur sur…",
+          "start_char": 49186,
+          "end_char": 49192
+        },
+        {
+          "doc_id": "lamachineanimal02maregoog",
+          "title": "La machine animale: locomotion terrestre et sérienne",
+          "year": 1878,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "erreur",
+          "text": "…s d'erreur qui se trouvent réunies dans une pareille expérience. Il pouvait y avoir er- reur sur la quantité d'acide carbonique exhalée ; erreur sur la nature des actions chimiques qui ont dégagé cet acide carbonique, et par conséquent sur la quantité de chaleur qui a dû accompagn…",
+          "start_char": 49322,
+          "end_char": 49328
+        },
+        {
+          "doc_id": "lamachineanimal02maregoog",
+          "title": "La machine animale: locomotion terrestre et sérienne",
+          "year": 1878,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "erreur",
+          "text": "…s actions chimiques qui ont dégagé cet acide carbonique, et par conséquent sur la quantité de chaleur qui a dû accompagner ce dégagement; erreur dans l'évalua- tion de la chaleur répandue dans la chambre calorimétrique; enfin erreur sur la quantité de travail mécanique produit par…",
+          "start_char": 49486,
+          "end_char": 49492
+        },
+        {
+          "doc_id": "lamachineanimal03maregoog",
+          "title": "La machine animale; locomotion terrestre et aérienne",
+          "year": 1873,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "erreur",
+          "text": "…différait considérablement de celui que les physiciens ont établi. Ce désaccord n'a rien d'étonnant quand on songe à toutes les causes d'erreur qui se trouvent réunies dans une pareille expérience. Il pouvait y avoir er- reur sur la quantité d'acide carbonique exhalée ; erreur sur…",
+          "start_char": 47009,
+          "end_char": 47015
+        },
+        {
+          "doc_id": "lamachineanimal03maregoog",
+          "title": "La machine animale; locomotion terrestre et aérienne",
+          "year": 1873,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "erreur",
+          "text": "…s d'erreur qui se trouvent réunies dans une pareille expérience. Il pouvait y avoir er- reur sur la quantité d'acide carbonique exhalée ; erreur sur la nature des actions chimiques qui ont dégagé cet acide carbonique, et par conséquent sur la quantité de chaleur qui a dû accompagn…",
+          "start_char": 47145,
+          "end_char": 47151
+        },
+        {
+          "doc_id": "lamachineanimal03maregoog",
+          "title": "La machine animale; locomotion terrestre et aérienne",
+          "year": 1873,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "erreur",
+          "text": "…s actions chimiques qui ont dégagé cet acide carbonique, et par conséquent sur la quantité de chaleur qui a dû accompagner ce dégagement; erreur dans l'évalua- tion de la chaleur répandue dans la chambre calorimétrique; enfin erreur sur la quantité de travail mécanique produit par…",
+          "start_char": 47309,
+          "end_char": 47315
+        },
+        {
+          "doc_id": "gutenberg_72556",
+          "title": "Wesblock, the autobiography of an automaton",
+          "year": 1914,
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "variant": "mistake",
+          "text": "…natural; for none are altogether one way or the other, but, like all humanity, are of every shade and every colour, both good and bad. My mistake about girls happened to be a safe mistake to make, thereby I never got a girl into trouble, and no girl ever got me into trouble. This, of…",
+          "start_char": 44840,
+          "end_char": 44847
+        },
+        {
+          "doc_id": "gutenberg_72556",
+          "title": "Wesblock, the autobiography of an automaton",
+          "year": 1914,
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "variant": "mistake",
+          "text": "…or the other, but, like all humanity, are of every shade and every colour, both good and bad. My mistake about girls happened to be a safe mistake to make, thereby I never got a girl into trouble, and no girl ever got me into trouble. This, of course, does not include the case of my wi…",
+          "start_char": 44882,
+          "end_char": 44889
+        },
+        {
+          "doc_id": "gutenberg_72556",
+          "title": "Wesblock, the autobiography of an automaton",
+          "year": 1914,
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "variant": "mistake",
+          "text": "…an passing slowly out of the condition of anæsthesia. I could not think in a straight line in any one direction. I knew I had made an awful mistake; that I would be laughed at by many, blamed by some; that I had now angered Muriel’s father and had put Muriel in a very bad light. I even…",
+          "start_char": 106004,
+          "end_char": 106011
+        },
+        {
+          "doc_id": "CuenotIFB",
+          "title": "Invention et finalité en biologie",
+          "year": 1941,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "erreur",
+          "text": "…e du libéralisme scientifique, le désir très vif de péné- trer dans un domaine inconnu, sont des circonstances très atténuantes pour leur erreur ; mais celle-ci n’en existe pas moins ; cet exemple doit rendre extrêmement circonspects ceux qui sortent du cadre de leurs études spéci…",
+          "start_char": 16637,
+          "end_char": 16643
+        },
+        {
+          "doc_id": "CuenotIFB",
+          "title": "Invention et finalité en biologie",
+          "year": 1941,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "erreur",
+          "text": "…INITIONS 33 l’air un grand nombre de fois, disons 1.000, il est cer- tain qu il y aura à quelques unités près 500 pile et 500 face, 1 erreur étant d’autant plus petite en valeur relative que le nombre des jets sera plus grand. On dit que les deux solutions, pile ou face, sont é…",
+          "start_char": 45307,
+          "end_char": 45313
+        },
+        {
+          "doc_id": "CuenotIFB",
+          "title": "Invention et finalité en biologie",
+          "year": 1941,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "erreur",
+          "text": "…es, comme l’on voudra. On peut même soutenir qu’il n’y a pas d’autre humanité que la nôtre, ce qui restituerait à la Terre, en dépit de l’erreur géocentrique, son caractère unique. Le mécanicisme se donne donc les premiers êtres vivants, arrangements colloïdaux hétérogènes apparu…",
+          "start_char": 155949,
+          "end_char": 155955
+        },
+        {
+          "doc_id": "gutenberg_67476",
+          "title": "The Automaton Ear, and Other Sketches",
+          "year": 1876,
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "variant": "hallucination",
+          "text": "…upon me more terrifying than death itself. How did I know that I was _not_ insane? How did I know that my great invention might be only an hallucination of my brain? Instantly a whole army of thoughts crowded up like ghostly witnesses to affright me. I had studied myself to a shadow; my pal…",
+          "start_char": 29886,
+          "end_char": 29899
+        },
+        {
+          "doc_id": "gutenberg_67476",
+          "title": "The Automaton Ear, and Other Sketches",
+          "year": 1876,
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "variant": "illusion",
+          "text": "…exerts an influence over the physical system, aside from the voluntary volition of the will, and it frequently transpires that what is mere illusion in the spiritual nature appears a reality to the material, so closely are the two linked together. My interest being awakened, I secretly…",
+          "start_char": 191640,
+          "end_char": 191648
+        },
+        {
+          "doc_id": "gutenberg_67476",
+          "title": "The Automaton Ear, and Other Sketches",
+          "year": 1876,
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "variant": "hallucinations",
+          "text": "…k with a wild shriek. In the utter misery of his solitude, in his strange grief for the loss of the drowned corpse, and his terror from the hallucinations of a disordered intellect, he had neglected to feed his faithful dog, and had starved to death the only living creature that existed for hi…",
+          "start_char": 215708,
+          "end_char": 215722
+        },
+        {
+          "doc_id": "secondlettertore00ganduoft",
+          "title": "A second letter to the Rev. Herbert Marsh, D.D., F.R.S., Margaret Professor of History in the University of Cambridge, confirming the opinion that the vital principle of the Reformation has been lately conceded by him to the Church of Rome",
+          "year": 1813,
+          "language_code": "en",
+          "topic": "mechanism",
+          "variant": "mistake",
+          "text": "…l express an eternal grati- tude to me, if my humbIe^,etforts should throw some new light upon the subject, and enable them to discover a mistake in their theoltgi- Crt/ calculations. But in your letter to me (p. 7.) ^ notice another proposition, to which I cannot by any means sub…",
+          "start_char": 22956,
+          "end_char": 22963
+        },
+        {
+          "doc_id": "secondlettertore00ganduoft",
+          "title": "A second letter to the Rev. Herbert Marsh, D.D., F.R.S., Margaret Professor of History in the University of Cambridge, confirming the opinion that the vital principle of the Reformation has been lately conceded by him to the Church of Rome",
+          "year": 1813,
+          "language_code": "en",
+          "topic": "mechanism",
+          "variant": "error",
+          "text": "…Tradition Xhe paramount authority, by which the truth or falsehood of Christian doctrines is to be decided.\" I must then notice a little error in the propo- sition you have stated. We do not say that Tradition is a para- mount authority — or that Tradition is to decide the truth…",
+          "start_char": 26148,
+          "end_char": 26153
+        },
+        {
+          "doc_id": "secondlettertore00ganduoft",
+          "title": "A second letter to the Rev. Herbert Marsh, D.D., F.R.S., Margaret Professor of History in the University of Cambridge, confirming the opinion that the vital principle of the Reformation has been lately conceded by him to the Church of Rome",
+          "year": 1813,
+          "language_code": "en",
+          "topic": "mechanism",
+          "variant": "error",
+          "text": "…in the New Testament are therefore intitled to credit, because the writers were prevented by divine assistance from falling into material error, we assert indeed what is true ; but it is a truth, which we can no more apply in the present stage of our inquiry, than we can apply th…",
+          "start_char": 46648,
+          "end_char": 46653
+        },
+        {
+          "doc_id": "beethovenslette00beetgoog",
+          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
+          "year": 1866,
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "variant": "mistake",
+          "text": "…must say he has reason to be so, but even before seeing him it was my intention to have reminded you of this, for I can only explain the mistake by great haste or great forgetfulness. Be so good, then, dear lady, as to attend to my hint, otherwise you will certainly expose yourself…",
+          "start_char": 63454,
+          "end_char": 63461
+        },
+        {
+          "doc_id": "beethovenslette00beetgoog",
+          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
+          "year": 1866,
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "variant": "errors",
+          "text": "…after to-morrow. Beethoven. 32. To Herr Ries. I must again ask you to undertake the disagreeable task of making a fair copy of the errors in the Zurich Sonata. I have got your list of errata ^ auf der WiedenJ* * Eies relates that the three following, notes refer to the pian…",
+          "start_char": 96557,
+          "end_char": 96563
+        },
+        {
+          "doc_id": "beethovenslette00beetgoog",
+          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
+          "year": 1866,
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "variant": "error",
+          "text": "…died. In order to know my precise age, the date of my birth must be first ascertained, this circumstance having ah'eady led others into error, and caused me to be thought older than I really am. Unluckily, I lived for some time without myself knowing my age [see Nos. 26 and 51]…",
+          "start_char": 139707,
+          "end_char": 139712
+        },
+        {
+          "doc_id": "ACN_1907050201",
+          "title": "The advertiser and central Alberta news (1907-05-02)",
+          "year": 1907,
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "variant": "mistake",
+          "text": "…'s a confi- dence queen,” said the detective rough- ly. “Don’t you come butting in or - we'll have to run you in too.” “There’s some mistake here,” Olay- ton said quietly. “I presume are 2) Rar ce ar from his pocket and passed it to Clay- ton. It recited that Loa Cogswell,…",
+          "start_char": 10448,
+          "end_char": 10455
+        },
+        {
+          "doc_id": "ACN_1907050201",
+          "title": "The advertiser and central Alberta news (1907-05-02)",
+          "year": 1907,
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "variant": "mistake",
+          "text": "…ny letters to back this up?’ he de- manded. Clayton produced several from his coat. The detective touched his hat. ' “[ guess we made a mistake,” he said uncertainly. “Sorry we troubled the lady. I hope this will go no fur ther, sir.” “It’s all right, I suppose,” was the care…",
+          "start_char": 11632,
+          "end_char": 11639
+        }
+      ],
+      "related_concepts": [
+        {
+          "concept_id": "machine",
+          "count": 66
+        },
+        {
+          "concept_id": "network",
+          "count": 64
+        },
+        {
+          "concept_id": "reasoning",
+          "count": 61
+        },
+        {
+          "concept_id": "mechanism",
+          "count": 57
+        },
+        {
+          "concept_id": "learning",
+          "count": 56
+        },
+        {
+          "concept_id": "probability",
+          "count": 54
+        },
+        {
+          "concept_id": "intelligence",
+          "count": 53
+        },
+        {
+          "concept_id": "agency",
+          "count": 53
+        }
+      ],
+      "variant_count": 21
     }
   ]
 }

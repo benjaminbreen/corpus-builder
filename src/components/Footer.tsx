@@ -13,9 +13,9 @@ export function Footer() {
               Genealogies of Engines, Machines, and Intelligences
             </h3>
             <p className="font-sans text-sm text-ink-500 leading-relaxed max-w-md">
-              A digital archive recovering the prehistory of artificial intelligence
-              through four centuries of texts on cognition, automation, and the
-              thinking machine.
+              A digital archive tracing the long history of the words we now use for
+              artificial intelligence. A project of The Humanities Institute at
+              UC Santa Cruz.
             </p>
           </div>
 
@@ -62,12 +62,12 @@ export function Footer() {
               </li>
               <li>
                 <a
-                  href="https://humanities.ucsc.edu"
+                  href="https://thi.ucsc.edu"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="font-sans text-sm text-ink-500 hover:text-ink-900"
                 >
-                  UC Santa Cruz
+                  The Humanities Institute
                 </a>
               </li>
             </ul>
@@ -78,12 +78,11 @@ export function Footer() {
         <div className="mt-12 pt-6 border-t border-paper-200">
           <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
             <p className="font-sans text-xs text-ink-400">
-              © 2026. A work-in-progress prototype.
+              © 2026 GEMI · UC Santa Cruz. A working prototype.
             </p>
             <div className="flex items-center gap-1">
               <span className="font-mono text-xs text-ink-400">
-                {/* Document count will be dynamically inserted */}
-                Corpus: 1600–2000
+                Full archive: 1500–2000
               </span>
             </div>
           </div>

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-12T22:16:09.413Z",
+  "generated_at": "2026-10-09T15:57:54.175Z",
   "corpus_size": 109,
   "indexed_docs": 104,
   "skipped_noisy_docs": 5,
@@ -19417,6 +19417,2096 @@
               "start_char": 167229,
               "end_char": 167239,
               "text": "…eneral feeling was that Bond has been badly treated. The Standard corroborates The Mail, saying the Home Government will do nothing in connection with the New- foundiand fisheries. An editorial ar- ticle, strongly supporta Bond’s action The Foeus, Three sons who had gone west to…"
+            }
+          ]
+        }
+      ]
+    },
+    "error": {
+      "id": "error",
+      "label": "Error & Hallucination",
+      "description": "Error, illusion, and hallucination in minds and machines, from faulty perception and mechanical failure to today's \"hallucinating\" language models.",
+      "documents": [
+        {
+          "doc_id": "gutenberg_71292",
+          "title": "The calculating engine",
+          "year": 1832,
+          "decade": "1830s",
+          "language_code": "en",
+          "topic": "computing",
+          "char_count": 185295,
+          "quality_score": 5.518,
+          "hit_count": 87,
+          "snippets": [
+            {
+              "variant": "errors",
+              "start_char": 1973,
+              "end_char": 1979,
+              "text": "…ion of the General Term of a new Class of Infinite Series_. By CHARLES BABBAGE, Esq. Transactions Camb. Phil. Soc. Cambridge: 1824. 5. _On Errors common to many Tables of Logarithms_. By CHARLES BABBAGE, Esq. Memoirs Astron. Soc. London: 1827. 6. _On a Method of Expressing by Signs t…"
+            },
+            {
+              "variant": "mistake",
+              "start_char": 7181,
+              "end_char": 7188,
+              "text": "…ding, been accustomed to regard it more in the light of a philosophical curiosity, than an instrument for purposes practically useful. This mistake (than which it is not possible to imagine a greater) has arisen mainly from the ignorance which prevails of the extensive utility of those…"
+            },
+            {
+              "variant": "errors",
+              "start_char": 10740,
+              "end_char": 10746,
+              "text": "…at the public expense; by showing also, that they are nevertheless rendered inefficient, to a greater or less extent, by the prevalence of errors in them; that these errors pervade not merely tables produced by individual labour and enterprise, but that they vitiate even those on whic…"
+            }
+          ]
+        },
+        {
+          "doc_id": "wikisource_edinburgh_review_babbage",
+          "title": "Babbage's Calculating Engine (Edinburgh Review, Vol. 59)",
+          "year": 1834,
+          "decade": "1830s",
+          "language_code": "en",
+          "topic": "computing",
+          "char_count": 162935,
+          "quality_score": 5.462,
+          "hit_count": 86,
+          "snippets": [
+            {
+              "variant": "errors",
+              "start_char": 955,
+              "end_char": 961,
+              "text": "…tion of the General Term of a new Class of Infinite Series . By Charles Babbage , Esq. Transactions Camb. Phil. Soc. Cambridge: 1824. 5. On Errors common to many Tables of Logarithms . By Charles Babbage , Esq. Memoirs Astron. Soc. London: 1827. 6. On a Method of Expressing by Signs th…"
+            },
+            {
+              "variant": "mistake",
+              "start_char": 6154,
+              "end_char": 6161,
+              "text": "…ding, been accustomed to regard it more in the light of a philosophical curiosity, than an instrument for purposes practically useful. This mistake (than which it is not possible to imagine a greater) has arisen mainly from the ignorance which prevails of the extensive utility of those…"
+            },
+            {
+              "variant": "errors",
+              "start_char": 9420,
+              "end_char": 9426,
+              "text": "…at the public expense; by showing also, that they are nevertheless rendered inefficient, to a greater or less extent, by the prevalence of errors in them; that these errors pervade not merely tables produced by individual labour and enterprise, but that they vitiate even those on whic…"
+            }
+          ]
+        },
+        {
+          "doc_id": "duprincipevital01bouigoog",
+          "title": "Du principe vital et de l'âme pensante, ou Examen des diverses doctrines ...",
+          "year": 1862,
+          "decade": "1860s",
+          "language_code": "fr",
+          "topic": "mechanism",
+          "char_count": 789978,
+          "quality_score": 5.898,
+          "hit_count": 35,
+          "snippets": [
+            {
+              "variant": "erreur",
+              "start_char": 24342,
+              "end_char": 24348,
+              "text": "…Nécessité de commencer par la détermination de la nature de l'âme. — Trois sortes d'er- reurs des philosophes spirituaiistes sur l'âme. — Erreur de méthode. ~ Est-ce par induction que l'âme nous est donnée? est-elle l'agent inconnu de phénomènes connus ? — Procédés des sciences phy…"
+            },
+            {
+              "variant": "erreur",
+              "start_char": 26025,
+              "end_char": 26031,
+              "text": "…ons sou- mettre, dans ce livre, à un nouvel examen. 11 ne s'agit pas, on le voit, de combattre le matéria- lisme, mais de rectifier une erreur du spiritualisme ; nous n'entreprenons pas de réfuter ceuxquinient l'exis- tence d'une âme, mais ceux qui, péchant en quelque sorte par…"
+            },
+            {
+              "variant": "erreur",
+              "start_char": 35290,
+              "end_char": 35296,
+              "text": "…tres enfin sur ses attri- butions, erreurs qui toutes ont pour effet Commun de mettre^n péril l'existence tnême d'une âme spirituelle. L'erreur relative aux attributions fondamentales de l'âme est celle que nous nous proposons particulière- ment^ de combattre ; mais nous signalero…"
+            }
+          ]
+        },
+        {
+          "doc_id": "levitalismeetla02lemogoog",
+          "title": "Le vitalisme et l'animisme de Stahl",
+          "year": 1864,
+          "decade": "1860s",
+          "language_code": "fr",
+          "topic": "mechanism",
+          "char_count": 333231,
+          "quality_score": 5.523,
+          "hit_count": 34,
+          "snippets": [
+            {
+              "variant": "erreur",
+              "start_char": 20127,
+              "end_char": 20133,
+              "text": "…ystère attire, que séduit tout ce qui est merveilleux ; impatient de savoir, plein de foi et de superstition, il préfère l'hypothèse et l'erreur au doute et à l'igno- rance. Il méprise tout ce qui est simple et naturel ; il aspire à tout ce qui est surnaturel et extraordinaire. So…"
+            },
+            {
+              "variant": "erreur",
+              "start_char": 24280,
+              "end_char": 24286,
+              "text": "…ardé pour longtemps, si un esprit supérieur ne se fût élevé contre ces doctrines erronées, pour remplacer, il est vrai, en définitive une erreur par une erreur op- posée, mais aussi pour ébranler et ruiner des systèmes vicieux, préparer l'avènement de la vérité et produire même dé…"
+            },
+            {
+              "variant": "erreur",
+              "start_char": 24295,
+              "end_char": 24301,
+              "text": "…emps, si un esprit supérieur ne se fût élevé contre ces doctrines erronées, pour remplacer, il est vrai, en définitive une erreur par une erreur op- posée, mais aussi pour ébranler et ruiner des systèmes vicieux, préparer l'avènement de la vérité et produire même déjà quelques vér…"
+            }
+          ]
+        },
+        {
+          "doc_id": "roughwaysmadesm00procgoog",
+          "title": "Rough ways made smooth: a series of familiar essays on scientific subjects",
+          "year": 1880,
+          "decade": "1880s",
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "char_count": 878200,
+          "quality_score": 5.944,
+          "hit_count": 34,
+          "snippets": [
+            {
+              "variant": "error",
+              "start_char": 82917,
+              "end_char": 82922,
+              "text": "…ned to be readily regarded as erroneous. *This result naturally filled me with inquietude,' said Leverrier later. *Had I not allowed some error in the theory to escape me? New researches, in which every circumstance was taken into account by different methods, ended only in the c…"
+            },
+            {
+              "variant": "mistake",
+              "start_char": 100270,
+              "end_char": 100277,
+              "text": "…eyond all moral probability.' 46 ROUGH WAYS MADE SMOOTH. It must be remembered that an inexperienced observer of the sun might readily mistake a spot of unusual roundness and darkness for a planet's disc. The practised observer would perceive peculiarities at once indicating the…"
+            },
+            {
+              "variant": "mistake",
+              "start_char": 100600,
+              "end_char": 100607,
+              "text": "…culiarities would escape the notice of a beginner, or of one using a telescope of small power. Again, an inexperienced observer is apt to mistake the change of position which a spot on the sun undergoes on account of the diurnal motion, for a change of place on the sun*s disc. At n…"
+            }
+          ]
+        },
+        {
+          "doc_id": "duprincipevital00bouigoog",
+          "title": "Du principe vital et de l'âme pensante: ou, Examen des diverses doctrines ...",
+          "year": 1862,
+          "decade": "1860s",
+          "language_code": "fr",
+          "topic": "mechanism",
+          "char_count": 764924,
+          "quality_score": 5.884,
+          "hit_count": 32,
+          "snippets": [
+            {
+              "variant": "erreur",
+              "start_char": 23886,
+              "end_char": 23892,
+              "text": "…Nécessité de oonunencer par la détermination de la nature de l'âme. — Trois sortes d'er- reurs des philosophes spirituaiistes sur Tâme. — Erreur de méthode. — Est-ce par induction que Tâme nous est donnée? est-elle l'agent inconnu de phénomènes connus ? — Procédés des sciences phys…"
+            },
+            {
+              "variant": "erreur",
+              "start_char": 25565,
+              "end_char": 25571,
+              "text": "…ons sou- mettre, dans ce livre, à un nouvel examen. 11 ne s'agit pas, on le voit, de combattre le matéria- lisme, mais de rectifier une erreur du spiritualisme ; nous n'entreprenons pas de réfuter ceux qui nient l'exis- tence d'une âme, mais ceux qui,, péchant en quelque sorte p…"
+            },
+            {
+              "variant": "erreur",
+              "start_char": 34820,
+              "end_char": 34826,
+              "text": "…res enfin sur ses attri- butions, erreurs qui toutes ont pour éfEet.bommun de mettre en péril l'existence ibême d'une âme spirituelle. L'erreur relative, aux attributions fondamentales de l'âme est celle que nous nous proposons iparticuli^e* ment de combattre ; mais nous signalero…"
+            }
+          ]
+        },
+        {
+          "doc_id": "betweenworlds_201911",
+          "title": "Between Two Worlds",
+          "year": 1964,
+          "decade": "1960s",
+          "language_code": "en",
+          "topic": "mechanism",
+          "char_count": 687309,
+          "quality_score": 5.837,
+          "hit_count": 30,
+          "snippets": [
+            {
+              "variant": "illusion",
+              "start_char": 2004,
+              "end_char": 2012,
+              "text": "…ef but on new scientific discoveries. Materialism has been dealt a deadly blow. Strange as it may seem, matter has no substance. It is an illusion of our senses. Atomic research has revealed it to be a state of incredible energies bound and interlocked, and now it also tells us of an…"
+            },
+            {
+              "variant": "illusion",
+              "start_char": 22244,
+              "end_char": 22252,
+              "text": "…. The sound is usually produced by the medium’s thumb¬ nail scratching on the outside of the slate that is held away from the sitter. The illusion that the writing occurs within the slates is astonishing. As Eglinton’s mediumistic record was known, at least occasionally, to be more th…"
+            },
+            {
+              "variant": "illusions",
+              "start_char": 33424,
+              "end_char": 33433,
+              "text": "…ision to H. G. Wells, George Bernard Shaw, and Hilaire Belloc, his fellow-contributors to the New Age. He shook the literary world by his Illusions and Realities of the War and he revealed unknown personality traits of the great liberator in Abraham Lincoln , the Practical Mystic. H…"
+            }
+          ]
+        },
+        {
+          "doc_id": "wikisource_passages_from_the_life_of_a_philosopher",
+          "title": "Passages from the Life of a Philosopher",
+          "year": 1864,
+          "decade": "1860s",
+          "language_code": "en",
+          "topic": "computing",
+          "char_count": 843032,
+          "quality_score": 6.176,
+          "hit_count": 26,
+          "snippets": [
+            {
+              "variant": "mistake",
+              "start_char": 28590,
+              "end_char": 28597,
+              "text": "…ad entered the orchard for the purpose of getting some manure for their flowers out of a rotten mulberry-tree. These boys were aware of our mistake, and had humoured it. We now returned all together towards the play-ground, when we met our master, who immediately pronounced that we were…"
+            },
+            {
+              "variant": "mistake",
+              "start_char": 72961,
+              "end_char": 72968,
+              "text": "…en required by the computing part of the machine. But here a new difficulty arose. The attendant who put the types into the boxes might, by mistake, put a wrong type in one or more of them. This cause of error I removed in the following manner:—There are usually certain notches in the s…"
+            },
+            {
+              "variant": "error",
+              "start_char": 73025,
+              "end_char": 73030,
+              "text": "…difficulty arose. The attendant who put the types into the boxes might, by mistake, put a wrong type in one or more of them. This cause of error I removed in the following manner:—There are usually certain notches in the side of the type. I caused these notches to be so placed that a…"
+            }
+          ]
+        },
+        {
+          "doc_id": "11107154bsb",
+          "title": "Ideen über Pathogenie und Einfluss der Lebenskraft auf Entstehung und Form der Krankheiten: als Einleitung zu pathologischen Vorlesungen",
+          "year": 1795,
+          "decade": "1790s",
+          "language_code": "de",
+          "topic": "mechanism",
+          "char_count": 290892,
+          "quality_score": 5.464,
+          "hit_count": 25,
+          "snippets": [
+            {
+              "variant": "fehler",
+              "start_char": 5575,
+              "end_char": 5581,
+              "text": "…ten Körper übertragen wollte, ohne Rückficht auf die Lebenskraft, die jene Geletze erlt organilch beftimmt, zu nehmen; der würdeeben den Fehler be- gehen, als wenn er chemifche Erfcheinun- gen aus mechanifchen Geletzen erklärte; er würde, gefezt auch feineChemie wäre noch fo fei…"
+            },
+            {
+              "variant": "fehler",
+              "start_char": 6284,
+              "end_char": 6290,
+              "text": "…ogie der Kräfte und here nn zu vereinigen, indem ich. ichen Veränderun- STE Erfcheinungen ‚der feften Theile hervor- r ‚bringen, auch Fehler in der Mifehung, $ Bindung ‚und Befchaffenheit der Materie ‚oder der Säfte erregen mülfen, dafs verän- ; . RETTET Säfte wieder zurück al…"
+            },
+            {
+              "variant": "fehler",
+              "start_char": 6628,
+              "end_char": 6634,
+              "text": "…regen, genug, dafs, wer Re etie der Lebenskraft und ihrer Re- ction annimmt, wenn er nur einigerma- EEE | confequent feyn will, auch die Fehler R: der Säfte und Materien, die eben fo gut darinn ihren Grund haben, EREREEN Humoral + und Nervenpathologie, (oder “ Ri: in den ‚Kräf…"
+            }
+          ]
+        },
+        {
+          "doc_id": "bnf-bpt6k6138503q",
+          "title": "Matérialisme, vitalisme, rationalisme : études sur l'emploi des données de la science en philosophie / par M. Cournot,..",
+          "year": 1875,
+          "decade": "1870s",
+          "language_code": "fr",
+          "topic": "mechanism",
+          "char_count": 700203,
+          "quality_score": 5.845,
+          "hit_count": 22,
+          "snippets": [
+            {
+              "variant": "erreur",
+              "start_char": 12448,
+              "end_char": 12454,
+              "text": "…de précision et que la pesée se fasse avec tout le soin possible, en ne né¬ gligeant rien pour se mettre à Tabri de toutes les chances d’erreur. Arrêtons-nous un instant sur ce point capital. Bien avant que les physiciens ne fussent en mesure de don¬ ner la preuve expérimentale…"
+            },
+            {
+              "variant": "illusion",
+              "start_char": 39185,
+              "end_char": 39193,
+              "text": "…n effetj conformément à une vieille idée platonicienne, une .figure polyédrique assignable : mais un examen attentif a vite dissipé cette illusion. Tandis que, dans les milieux solides non cristallisés, comme dans les liquides et dans les gaz, chaque molécule est soumise * à la…"
+            },
+            {
+              "variant": "erreur",
+              "start_char": 45304,
+              "end_char": 45310,
+              "text": "…tre, et avec une énergie qui dépend beaucoup de la nature des corps mis en présence. Toutefois cette déno¬ mination pourrait induire en erreur si l'on y attachait le sens que les naturalistes y attachent, si l'on en infé¬ rait que les corps les plus semblables de nature ou d'or…"
+            }
+          ]
+        },
+        {
+          "doc_id": "gutenberg_11984",
+          "title": "A Pluralistic Universe: Hibbert Lectures at Manchester College on the Present Situation in Philosophy",
+          "year": 1909,
+          "decade": "1900s",
+          "language_code": "en",
+          "topic": "computing",
+          "char_count": 462877,
+          "quality_score": 5.915,
+          "hit_count": 19,
+          "snippets": [
+            {
+              "variant": "error",
+              "start_char": 4006,
+              "end_char": 4011,
+              "text": "…s into philosophy, 116. Leibnitz and Lotze on the 'fall' involved in the creation of the finite, 119. Joachim on the fall of truth into error, 121. The world of the absolutist cannot be perfect, 123. Pluralistic conclusions, 125. LECTURE IV CONCERNING FECHNER 131 Superhuman…"
+            },
+            {
+              "variant": "mistake",
+              "start_char": 47348,
+              "end_char": 47355,
+              "text": "…most other things in my field of relative ignorance. And practical differences result from its knowledge and my ignorance. Ignorance breeds mistake, curiosity, misfortune, pain, for me; I suffer those consequences. The absolute knows of those things, of course, for it knows me and my su…"
+            },
+            {
+              "variant": "illusion",
+              "start_char": 58582,
+              "end_char": 58590,
+              "text": "…ings as they immediately are have no truth.'[3] 'The consummation of the infinite aim,' he says elsewhere, 'consists merely in removing the illusion which makes it seem yet unaccomplished. Good and absolute goodness is eternally accomplishing itself in the world: and the result is that i…"
+            }
+          ]
+        },
+        {
+          "doc_id": "bub_gb_TcsCAAAAYAAJ",
+          "title": "Chess and chess-players:",
+          "year": 1850,
+          "decade": "1850s",
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "char_count": 705019,
+          "quality_score": 5.848,
+          "hit_count": 18,
+          "snippets": [
+            {
+              "variant": "illusion",
+              "start_char": 13723,
+              "end_char": 13731,
+              "text": "…nderful, arise merely from the boldness of the original conception, and the fortunate choice of the means employed by me to carry out the illusion.** This is the language of a great mind, not choosing prematurely to open the eyes of surrounding dupes, but scorning to take to himself…"
+            },
+            {
+              "variant": "error",
+              "start_char": 15104,
+              "end_char": 15109,
+              "text": "…Chess player,\" says M. de Windisch, is a suspicion that its move- ments are under the immediate guidance of some human being. From this error I was not myself exempt, when I law, for the first time, the inventor draw from a recess his Automaton, fixed to a good- sized chest ; an…"
+            },
+            {
+              "variant": "illusion",
+              "start_char": 17292,
+              "end_char": 17300,
+              "text": "…Digitized by Google THE CHB88 AUTOMATON. 9 fcsTe been less difficult to unravel. Is it an Olusion ? Ho be it But it is, then, au illusion which does honour to the htmiaii mmd ; an illusion more surprising, more inconceivable, than all those which are to be found in the diffe…"
+            }
+          ]
+        },
+        {
+          "doc_id": "b30520903_0002",
+          "title": "Philosophical principles of medicine in three parts. Containing, I. A demonstration of the general laws of gravity, with their effects upon animal bodys. II. The more particular laws which obtain in the motion and secretion of the vital fluids, applied to the principal diseases and irregularitys of the animal machine. III. The primary and chief intentions of medicine in the cure of diseases. Problematically propos'd and mechanically resolv'd",
+          "year": 1725,
+          "decade": "1720s",
+          "language_code": "en",
+          "topic": "mechanism",
+          "char_count": 704682,
+          "quality_score": 5.848,
+          "hit_count": 14,
+          "snippets": [
+            {
+              "variant": "error",
+              "start_char": 7012,
+              "end_char": 7017,
+              "text": "…er. which happens to it, but there. is at the fame time a -confiderable. effort of. Nature, i.e. of the Machine, to rectify the AuSY A A Error, PheOPARIEIEAAT@>EY 886i Error, and reftore the foundnefs of its Con- fiitution. And hereim this noble Machine of an tmanimated Body,…"
+            },
+            {
+              "variant": "error",
+              "start_char": 7046,
+              "end_char": 7051,
+              "text": "…. is at the fame time a -confiderable. effort of. Nature, i.e. of the Machine, to rectify the AuSY A A Error, PheOPARIEIEAAT@>EY 886i Error, and reftore the foundnefs of its Con- fiitution. And hereim this noble Machine of an tmanimated Body, which is the perfect Workmanfhip…"
+            },
+            {
+              "variant": "errors",
+              "start_char": 30799,
+              "end_char": 30805,
+              "text": "…uld éver have known, but. by attual Experience of its Effects, that the Bark would fo effec- tually, beyond any thing elfe, correct the Errors of Goncottion, or prevail foexceed=— magly imvantermitting or remitting Fevers, and in almoft all periodical Difeafes ? DHA Ev different…"
+            }
+          ]
+        },
+        {
+          "doc_id": "firstlinesofprac13cull",
+          "title": "First lines of the practice of physic",
+          "year": 1790,
+          "decade": "1790s",
+          "language_code": "en",
+          "topic": "mechanism",
+          "char_count": 1360766,
+          "quality_score": 6.134,
+          "hit_count": 14,
+          "snippets": [
+            {
+              "variant": "errors",
+              "start_char": 25117,
+              "end_char": 25123,
+              "text": "…et morbofa* But, in theie writers, it was ei- ther not extenfively applied to difeaies, or was ftill fo in- volved in many phyfiological errors, that they had at- tracted little attention ; and Dr. Hoffman was the firft who gave any tolerably fimple and clear fyftem on the fubjed…"
+            },
+            {
+              "variant": "error",
+              "start_char": 33488,
+              "end_char": 33493,
+              "text": "…rltand in what manner the animal fluids are formed from the aliments taken in. And although Dr. Boerhaave has fallen into no confiderable error with re- fpect to a morbid acidity in the ftomach, he could not pol- fibly be complete upon that fubject ; and his notion of the effects…"
+            },
+            {
+              "variant": "error",
+              "start_char": 36636,
+              "end_char": 36641,
+              "text": "…ter into particulars ; But, I believe, there are very few pages 38 PREFACE. pages of his aphorifmsin which there does not occur fome error or defect ; although, perhaps, not to be imputed to the fault of Boerhave, fo much as to this, that fince his time a great collection of…"
+            }
+          ]
+        },
+        {
+          "doc_id": "gutenberg_1906",
+          "title": "Erewhon; Or, Over the Range",
+          "year": 1872,
+          "decade": "1870s",
+          "language_code": "en",
+          "topic": "computing",
+          "char_count": 481995,
+          "quality_score": 5.933,
+          "hit_count": 14,
+          "snippets": [
+            {
+              "variant": "mistake",
+              "start_char": 2928,
+              "end_char": 2935,
+              "text": "…rd or two here in reference to “The Coming Race,” to the success of which book “Erewhon” has been very generally set down as due. This is a mistake, though a perfectly natural one. The fact is that “Erewhon” was finished, with the exception of the last twenty pages and a sentence or two…"
+            },
+            {
+              "variant": "mistake",
+              "start_char": 5289,
+              "end_char": 5296,
+              "text": "…I had been sufficiently explicit, but have made a few additions to the chapter on Malcontents, which will, I think, serve to render further mistake impossible. An anonymous correspondent (by the hand-writing presumably a clergyman) tells me that in quoting from the Latin grammar I shou…"
+            },
+            {
+              "variant": "mistake",
+              "start_char": 42715,
+              "end_char": 42722,
+              "text": "…ts covered with scrub on either side the river, and mountains which were perfectly worthless. But we could see the main range. There was no mistake about this. The glaciers were tumbling down the mountain sides like cataracts, and seemed actually to descend upon the river-bed; there cou…"
+            }
+          ]
+        },
+        {
+          "doc_id": "anintroductiont02smitgoog",
+          "title": "An Introduction to Physiological and Systematical Botany",
+          "year": 1814,
+          "decade": "1810s",
+          "language_code": "en",
+          "topic": "mechanism",
+          "char_count": 604510,
+          "quality_score": 5.781,
+          "hit_count": 13,
+          "snippets": [
+            {
+              "variant": "error",
+              "start_char": 80416,
+              "end_char": 80421,
+              "text": "…s analogous to the arteries of animal^.; or rather they are the stomach, lacteals and ^t^rie^ all in one, for I conceive it to be a great error in Dr. Darwin to call by this name the vessels which COURSE OF THE SAK 4$ contain the peculiar secretions of the plant*. These sap^ve…"
+            },
+            {
+              "variant": "mistake",
+              "start_char": 82448,
+              "end_char": 82455,
+              "text": "…tter ofEce, and another to the secretion of peculiar fluids in the bark. See Phil. Trans, for 1801,/). 3S7. In the bark principally, if I mistake not, the peculiar secretions of the plant are perfected, as gum, resin, &c., each undoubtedly in an appropriate set of vessels. From wha…"
+            },
+            {
+              "variant": "mistake",
+              "start_char": 242254,
+              "end_char": 242261,
+              "text": "…hour and half. Dr. Priestley found plants to alter even unmixed in- flammable air, or hydrogen, especially the Epilobtum hirsutum, if I mistake not, and Polygonum Hydropiper. Succulent plants are found to afford most air, in consequence of the abundance of their Cellular Inte- g…"
+            }
+          ]
+        },
+        {
+          "doc_id": "lamachineanimal00maregoog",
+          "title": "La machine animale: locomotion terrestre et aérienne",
+          "year": 1886,
+          "decade": "1880s",
+          "language_code": "fr",
+          "topic": "mechanism",
+          "char_count": 675807,
+          "quality_score": 5.83,
+          "hit_count": 13,
+          "snippets": [
+            {
+              "variant": "illusions",
+              "start_char": 12876,
+              "end_char": 12885,
+              "text": "…ures dans le texte 6 fr. Oharlton Bastian. Le système nerveux et la pensée, 2 vol., avec 484 ûg. dans le texte 12 fr. James Sully. Ifs illusions des sens et de l'esprit 6 fr. Alph. de CandoUe. L'origine DES PLANTES cultivées. 2« éd. . . 6.fr. Toung. Le soleil, avec 86 figures 6 f…"
+            },
+            {
+              "variant": "erreur",
+              "start_char": 52850,
+              "end_char": 52856,
+              "text": "…différait considérablement de celui que les physiciens ont établi. Ce désaccord n'a rien d'étonnant quand on songe èi toutes les causes d'erreur qui se trouvent réunies dans une pareille expérience. Il pouvait y avoir er- reur sur la quantité d'acide carbonique exhalée ; erreur sur…"
+            },
+            {
+              "variant": "erreur",
+              "start_char": 52986,
+              "end_char": 52992,
+              "text": "…s d'erreur qui se trouvent réunies dans une pareille expérience. Il pouvait y avoir er- reur sur la quantité d'acide carbonique exhalée ; erreur sur la nature des actions chimiques qui ont dégagé cet acide carbonique, et par conséquent sur la quantité de chaleur qui a dû accompagn…"
+            }
+          ]
+        },
+        {
+          "doc_id": "bub_gb__f1TQoJzqOIC",
+          "title": "La machine animale locomotion terrestre et aérienne par E.J. Marey",
+          "year": 1873,
+          "decade": "1870s",
+          "language_code": "fr",
+          "topic": "mechanism",
+          "char_count": 628724,
+          "quality_score": 5.798,
+          "hit_count": 12,
+          "snippets": [
+            {
+              "variant": "erreur",
+              "start_char": 40285,
+              "end_char": 40291,
+              "text": "…différait considérablement de celui que les physiciens ont établi. Ce désaccord n’a rien d’étonnant quand on songe à toutes les causes d’erreur qui se trouvent réunies dans une pareille expérience. Il pouvait y avoir er- reur sur la quantité d’acide carbonique exhalée ; erreur sur…"
+            },
+            {
+              "variant": "erreur",
+              "start_char": 40421,
+              "end_char": 40427,
+              "text": "…s d’erreur qui se trouvent réunies dans une pareille expérience. Il pouvait y avoir er- reur sur la quantité d’acide carbonique exhalée ; erreur sur la nature des actions chimiques qui ont dégagé cet acide carbonique, et par conséquent sur la quantité de chaleur qui a dû accompagn…"
+            },
+            {
+              "variant": "erreur",
+              "start_char": 40586,
+              "end_char": 40592,
+              "text": "…actions chimiques qui ont dégagé cet acide carbonique, et par conséquent sur la quantité de chaleur qui a dû accompagner ce dégagement ; erreur dans l'évalua- tion de la chaleur répandue dans la chambre calorimétrique; enfin erreur sur la quantité de travail mécanique produit par…"
+            }
+          ]
+        },
+        {
+          "doc_id": "in.ernet.dli.2015.91128",
+          "title": "The Book Of Illustrious Mechanics Of Europe And America",
+          "year": 1848,
+          "decade": "1840s",
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "char_count": 581684,
+          "quality_score": 5.765,
+          "hit_count": 11,
+          "snippets": [
+            {
+              "variant": "errors",
+              "start_char": 104435,
+              "end_char": 104441,
+              "text": "…er of ilns cupola; others at- tribute all the luniour to Legnmd and Molmos, architects. We sliall fake it upon ourselves to rectify these errors, and render jn-tice to wdiom it is due. In fact, the work was so admirable one, that it is wrong to allow the artist’s name to remain in…"
+            },
+            {
+              "variant": "illusion",
+              "start_char": 134475,
+              "end_char": 134483,
+              "text": "…all salts. In the same year ( 179 K), the philosopher Robertson exhibit- fed a surprising and interesting novelty at Paris : an optical illusion, by aid of which, the natural magician, without sor- cery, invoked spectres and frightful phantoms. This was the magic lantern. We borr…"
+            },
+            {
+              "variant": "illusions",
+              "start_char": 135676,
+              "end_char": 135685,
+              "text": "…Natural Magic contains an account of the nmgic laiiffTii. At the same period (179D), a new sf»t‘cies of painting, im- jiroved by optical illusions, captivated all Paris, Jt was a vast circular representation of ohjectti, where the eye reached to a hoiizoTi, and there being no limit,…"
+            }
+          ]
+        },
+        {
+          "doc_id": "lamachineanimal02maregoog",
+          "title": "La machine animale: locomotion terrestre et sérienne",
+          "year": 1878,
+          "decade": "1870s",
+          "language_code": "fr",
+          "topic": "mechanism",
+          "char_count": 621659,
+          "quality_score": 5.794,
+          "hit_count": 11,
+          "snippets": [
+            {
+              "variant": "erreur",
+              "start_char": 49186,
+              "end_char": 49192,
+              "text": "…différait considérablement de celui que les physiciens ont établi. Ce désaccord n'a rien d'étonnant quand on songe à toutes les causes d'erreur qui se trouvent réunies dans une pareille expérience. Il pouvait y avoir er- reur sur la quantité d'acide carbonique exhalée ; erreur sur…"
+            },
+            {
+              "variant": "erreur",
+              "start_char": 49322,
+              "end_char": 49328,
+              "text": "…s d'erreur qui se trouvent réunies dans une pareille expérience. Il pouvait y avoir er- reur sur la quantité d'acide carbonique exhalée ; erreur sur la nature des actions chimiques qui ont dégagé cet acide carbonique, et par conséquent sur la quantité de chaleur qui a dû accompagn…"
+            },
+            {
+              "variant": "erreur",
+              "start_char": 49486,
+              "end_char": 49492,
+              "text": "…s actions chimiques qui ont dégagé cet acide carbonique, et par conséquent sur la quantité de chaleur qui a dû accompagner ce dégagement; erreur dans l'évalua- tion de la chaleur répandue dans la chambre calorimétrique; enfin erreur sur la quantité de travail mécanique produit par…"
+            }
+          ]
+        },
+        {
+          "doc_id": "lamachineanimal03maregoog",
+          "title": "La machine animale; locomotion terrestre et aérienne",
+          "year": 1873,
+          "decade": "1870s",
+          "language_code": "fr",
+          "topic": "mechanism",
+          "char_count": 666406,
+          "quality_score": 5.824,
+          "hit_count": 10,
+          "snippets": [
+            {
+              "variant": "erreur",
+              "start_char": 47009,
+              "end_char": 47015,
+              "text": "…différait considérablement de celui que les physiciens ont établi. Ce désaccord n'a rien d'étonnant quand on songe à toutes les causes d'erreur qui se trouvent réunies dans une pareille expérience. Il pouvait y avoir er- reur sur la quantité d'acide carbonique exhalée ; erreur sur…"
+            },
+            {
+              "variant": "erreur",
+              "start_char": 47145,
+              "end_char": 47151,
+              "text": "…s d'erreur qui se trouvent réunies dans une pareille expérience. Il pouvait y avoir er- reur sur la quantité d'acide carbonique exhalée ; erreur sur la nature des actions chimiques qui ont dégagé cet acide carbonique, et par conséquent sur la quantité de chaleur qui a dû accompagn…"
+            },
+            {
+              "variant": "erreur",
+              "start_char": 47309,
+              "end_char": 47315,
+              "text": "…s actions chimiques qui ont dégagé cet acide carbonique, et par conséquent sur la quantité de chaleur qui a dû accompagner ce dégagement; erreur dans l'évalua- tion de la chaleur répandue dans la chambre calorimétrique; enfin erreur sur la quantité de travail mécanique produit par…"
+            }
+          ]
+        },
+        {
+          "doc_id": "gutenberg_72556",
+          "title": "Wesblock, the autobiography of an automaton",
+          "year": 1914,
+          "decade": "1910s",
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "char_count": 294289,
+          "quality_score": 5.469,
+          "hit_count": 8,
+          "snippets": [
+            {
+              "variant": "mistake",
+              "start_char": 44840,
+              "end_char": 44847,
+              "text": "…natural; for none are altogether one way or the other, but, like all humanity, are of every shade and every colour, both good and bad. My mistake about girls happened to be a safe mistake to make, thereby I never got a girl into trouble, and no girl ever got me into trouble. This, of…"
+            },
+            {
+              "variant": "mistake",
+              "start_char": 44882,
+              "end_char": 44889,
+              "text": "…or the other, but, like all humanity, are of every shade and every colour, both good and bad. My mistake about girls happened to be a safe mistake to make, thereby I never got a girl into trouble, and no girl ever got me into trouble. This, of course, does not include the case of my wi…"
+            },
+            {
+              "variant": "mistake",
+              "start_char": 106004,
+              "end_char": 106011,
+              "text": "…an passing slowly out of the condition of anæsthesia. I could not think in a straight line in any one direction. I knew I had made an awful mistake; that I would be laughed at by many, blamed by some; that I had now angered Muriel’s father and had put Muriel in a very bad light. I even…"
+            }
+          ]
+        },
+        {
+          "doc_id": "CuenotIFB",
+          "title": "Invention et finalité en biologie",
+          "year": 1941,
+          "decade": "1940s",
+          "language_code": "fr",
+          "topic": "mechanism",
+          "char_count": 447598,
+          "quality_score": 5.651,
+          "hit_count": 8,
+          "snippets": [
+            {
+              "variant": "erreur",
+              "start_char": 16637,
+              "end_char": 16643,
+              "text": "…e du libéralisme scientifique, le désir très vif de péné- trer dans un domaine inconnu, sont des circonstances très atténuantes pour leur erreur ; mais celle-ci n’en existe pas moins ; cet exemple doit rendre extrêmement circonspects ceux qui sortent du cadre de leurs études spéci…"
+            },
+            {
+              "variant": "erreur",
+              "start_char": 45307,
+              "end_char": 45313,
+              "text": "…INITIONS 33 l’air un grand nombre de fois, disons 1.000, il est cer- tain qu il y aura à quelques unités près 500 pile et 500 face, 1 erreur étant d’autant plus petite en valeur relative que le nombre des jets sera plus grand. On dit que les deux solutions, pile ou face, sont é…"
+            },
+            {
+              "variant": "erreur",
+              "start_char": 155949,
+              "end_char": 155955,
+              "text": "…es, comme l’on voudra. On peut même soutenir qu’il n’y a pas d’autre humanité que la nôtre, ce qui restituerait à la Terre, en dépit de l’erreur géocentrique, son caractère unique. Le mécanicisme se donne donc les premiers êtres vivants, arrangements colloïdaux hétérogènes apparu…"
+            }
+          ]
+        },
+        {
+          "doc_id": "gutenberg_67476",
+          "title": "The Automaton Ear, and Other Sketches",
+          "year": 1876,
+          "decade": "1870s",
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "char_count": 375402,
+          "quality_score": 5.574,
+          "hit_count": 7,
+          "snippets": [
+            {
+              "variant": "hallucination",
+              "start_char": 29886,
+              "end_char": 29899,
+              "text": "…upon me more terrifying than death itself. How did I know that I was _not_ insane? How did I know that my great invention might be only an hallucination of my brain? Instantly a whole army of thoughts crowded up like ghostly witnesses to affright me. I had studied myself to a shadow; my pal…"
+            },
+            {
+              "variant": "illusion",
+              "start_char": 191640,
+              "end_char": 191648,
+              "text": "…exerts an influence over the physical system, aside from the voluntary volition of the will, and it frequently transpires that what is mere illusion in the spiritual nature appears a reality to the material, so closely are the two linked together. My interest being awakened, I secretly…"
+            },
+            {
+              "variant": "hallucinations",
+              "start_char": 215708,
+              "end_char": 215722,
+              "text": "…k with a wild shriek. In the utter misery of his solitude, in his strange grief for the loss of the drowned corpse, and his terror from the hallucinations of a disordered intellect, he had neglected to feed his faithful dog, and had starved to death the only living creature that existed for hi…"
+            }
+          ]
+        },
+        {
+          "doc_id": "secondlettertore00ganduoft",
+          "title": "A second letter to the Rev. Herbert Marsh, D.D., F.R.S., Margaret Professor of History in the University of Cambridge, confirming the opinion that the vital principle of the Reformation has been lately conceded by him to the Church of Rome",
+          "year": 1813,
+          "decade": "1810s",
+          "language_code": "en",
+          "topic": "mechanism",
+          "char_count": 99668,
+          "quality_score": 4.999,
+          "hit_count": 6,
+          "snippets": [
+            {
+              "variant": "mistake",
+              "start_char": 22956,
+              "end_char": 22963,
+              "text": "…l express an eternal grati- tude to me, if my humbIe^,etforts should throw some new light upon the subject, and enable them to discover a mistake in their theoltgi- Crt/ calculations. But in your letter to me (p. 7.) ^ notice another proposition, to which I cannot by any means sub…"
+            },
+            {
+              "variant": "error",
+              "start_char": 26148,
+              "end_char": 26153,
+              "text": "…Tradition Xhe paramount authority, by which the truth or falsehood of Christian doctrines is to be decided.\" I must then notice a little error in the propo- sition you have stated. We do not say that Tradition is a para- mount authority — or that Tradition is to decide the truth…"
+            },
+            {
+              "variant": "error",
+              "start_char": 46648,
+              "end_char": 46653,
+              "text": "…in the New Testament are therefore intitled to credit, because the writers were prevented by divine assistance from falling into material error, we assert indeed what is true ; but it is a truth, which we can no more apply in the present stage of our inquiry, than we can apply th…"
+            }
+          ]
+        },
+        {
+          "doc_id": "beethovenslette00beetgoog",
+          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
+          "year": 1866,
+          "decade": "1860s",
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "char_count": 345102,
+          "quality_score": 5.538,
+          "hit_count": 6,
+          "snippets": [
+            {
+              "variant": "mistake",
+              "start_char": 63454,
+              "end_char": 63461,
+              "text": "…must say he has reason to be so, but even before seeing him it was my intention to have reminded you of this, for I can only explain the mistake by great haste or great forgetfulness. Be so good, then, dear lady, as to attend to my hint, otherwise you will certainly expose yourself…"
+            },
+            {
+              "variant": "errors",
+              "start_char": 96557,
+              "end_char": 96563,
+              "text": "…after to-morrow. Beethoven. 32. To Herr Ries. I must again ask you to undertake the disagreeable task of making a fair copy of the errors in the Zurich Sonata. I have got your list of errata ^ auf der WiedenJ* * Eies relates that the three following, notes refer to the pian…"
+            },
+            {
+              "variant": "error",
+              "start_char": 139707,
+              "end_char": 139712,
+              "text": "…died. In order to know my precise age, the date of my birth must be first ascertained, this circumstance having ah'eady led others into error, and caused me to be thought older than I really am. Unluckily, I lived for some time without myself knowing my age [see Nos. 26 and 51]…"
+            }
+          ]
+        },
+        {
+          "doc_id": "ACN_1907050201",
+          "title": "The advertiser and central Alberta news (1907-05-02)",
+          "year": 1907,
+          "decade": "1900s",
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "char_count": 127893,
+          "quality_score": 5.107,
+          "hit_count": 6,
+          "snippets": [
+            {
+              "variant": "mistake",
+              "start_char": 10448,
+              "end_char": 10455,
+              "text": "…'s a confi- dence queen,” said the detective rough- ly. “Don’t you come butting in or - we'll have to run you in too.” “There’s some mistake here,” Olay- ton said quietly. “I presume are 2) Rar ce ar from his pocket and passed it to Clay- ton. It recited that Loa Cogswell,…"
+            },
+            {
+              "variant": "mistake",
+              "start_char": 11632,
+              "end_char": 11639,
+              "text": "…ny letters to back this up?’ he de- manded. Clayton produced several from his coat. The detective touched his hat. ' “[ guess we made a mistake,” he said uncertainly. “Sorry we troubled the lady. I hope this will go no fur ther, sir.” “It’s all right, I suppose,” was the care…"
+            },
+            {
+              "variant": "error",
+              "start_char": 65661,
+              "end_char": 65666,
+              "text": "…mptoms of a deeper ailment. Don’t|evidence the health giving properties of pon gee bias ened tadirees - Al Ff aie ants an inake the common error of treating|Dr. Hamilton’s Pills; which are the saf- 1 herta street, Teveeabe, op. Church of symptomeonly. Symptom treatmeat ielest and ba…"
+            }
+          ]
+        },
+        {
+          "doc_id": "SCC_1907051701",
+          "title": "The Strathcona chronicle (1907-05-17)",
+          "year": 1907,
+          "decade": "1900s",
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "char_count": 223139,
+          "quality_score": 5.349,
+          "hit_count": 6,
+          "snippets": [
+            {
+              "variant": "mistake",
+              "start_char": 31382,
+              "end_char": 31389,
+              "text": "…nvaded northern Italy, the peasants kept themselves alive on dolled chestnut leaves, not the nuts, which are their toportant crop, One Mistake Knovgh. Among those who handle high explo- sives there runs this proverb: “In this business a man never makes more than one mistake,”…"
+            },
+            {
+              "variant": "mistake",
+              "start_char": 31518,
+              "end_char": 31525,
+              "text": "…One Mistake Knovgh. Among those who handle high explo- sives there runs this proverb: “In this business a man never makes more than one mistake,” Impure Part of Ice. The center of a cuke of artificial ice {fs generally opaque, while the part first frozen, the outside, is gener…"
+            },
+            {
+              "variant": "error",
+              "start_char": 99990,
+              "end_char": 99995,
+              "text": "…r attention to ecraper into commission and in get the question of house building. —-—-o---—--— It appears that we were. slightly ‘on error in claiming for Tuesday's | time of year to make some necessary gether, iseue of the Chronicle the credit of | repairs being the first d…"
+            }
+          ]
+        },
+        {
+          "doc_id": "livingmachine00macciala",
+          "title": "A living machine;",
+          "year": 1921,
+          "decade": "1920s",
+          "language_code": "en",
+          "topic": "mechanism",
+          "char_count": 100457,
+          "quality_score": 5.002,
+          "hit_count": 6,
+          "snippets": [
+            {
+              "variant": "mistake",
+              "start_char": 16473,
+              "end_char": 16480,
+              "text": "…ngs, with those ampules, or little bottles, of iodine. They are the first things to think about when you receive a wound. It is a common mistake, made par- ticularly amongst men who see blood flow for the first time, and also made by men who have been away from the fighting lines…"
+            },
+            {
+              "variant": "mistake",
+              "start_char": 18369,
+              "end_char": 18376,
+              "text": "…d. Having done this, and not before then, undo your first field dressing as quickly as possible. Here I want to warn you against another mistake which A LIVING MACHINE 31 has cost us the lives and the limbs of a number of soldiers who could otherwise have been saved. Having str…"
+            },
+            {
+              "variant": "mistake",
+              "start_char": 60647,
+              "end_char": 60654,
+              "text": "…sent out without anyone having taken the trouble to impress upon them the necessity of obeying sanitary laws. In South Africa the great mistake that we made was that we first fouled the water supply and then drank the water without tak- ing any precautions to kill the germs which…"
+            }
+          ]
+        },
+        {
+          "doc_id": "InternationaleZeitschriftFuumlrPsychoanalyseXviii1932Heft2",
+          "title": "Internationale Zeitschrift für Psychoanalyse XVIII 1932 Heft 2",
+          "year": 1932,
+          "decade": "1930s",
+          "language_code": "de",
+          "topic": "mechanism",
+          "char_count": 371966,
+          "quality_score": 5.571,
+          "hit_count": 6,
+          "snippets": [
+            {
+              "variant": "täuschung",
+              "start_char": 19627,
+              "end_char": 19636,
+              "text": "…mdeten die Unwirklichkeit des Erlebten, noch der, allerdings nur partiell wache, Verstand den Träumer die Wirklichkeit des Geträumten als Täuschung erkennen lassen kann. Keiner von beiden kommt gegen die ab¬ norme Schwäche, resp. gegen die abnorme Stärke der „Ichgrenze“, das heißt ihr…"
+            },
+            {
+              "variant": "halluzination",
+              "start_char": 104135,
+              "end_char": 104148,
+              "text": "…tientin hätte ihren Wunsch, eine sexuelle Beziehung mit dem Schwager zu haben, völlig erkannt und etwa verbietende Verwandte in negativer Halluzination verleugnet. Beobachtet man die Schizophrenen einer Anstalt, so hat man ebenfalls Schwierigkeiten, die Theorie von der das Es befriedigen…"
+            },
+            {
+              "variant": "illusion",
+              "start_char": 111095,
+              "end_char": 111103,
+              "text": "…sogar so weit, daß sie die Existenz des Körpers nicht wahrnehmen wollen, z. B. behauptet die Christian Science , daß der Körper nur eine Illusion sei. Was ist die Ursache der Unterdrückung des eigenen Körpers in der Religion? Im allgemeinen kann man folgendes darauf antworten: Das…"
+            }
+          ]
+        },
+        {
+          "doc_id": "wikisource_sketch_analytical_engine",
+          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
+          "year": 1843,
+          "decade": "1840s",
+          "language_code": "en",
+          "topic": "computing",
+          "char_count": 179641,
+          "quality_score": 5.504,
+          "hit_count": 5,
+          "snippets": [
+            {
+              "variant": "error",
+              "start_char": 23441,
+              "end_char": 23446,
+              "text": "…en performed in order to furnish the Analytical Engine with the necessary operative data; and that herein may also lie a possible source of error. Granted that the actual mechanism is unerring in its processes, the cards may give it wrong orders. This is unquestionably the case; but t…"
+            },
+            {
+              "variant": "error",
+              "start_char": 23614,
+              "end_char": 23619,
+              "text": "…chanism is unerring in its processes, the cards may give it wrong orders. This is unquestionably the case; but there is much less chance of error, and likewise far less expenditure of time and labour, where operations only, and the distribution of these operations, have to be made out…"
+            },
+            {
+              "variant": "error",
+              "start_char": 78902,
+              "end_char": 78907,
+              "text": "…otation , the nature of its processes must consequently be arithmetical and numerical , rather than algebraical and analytical . This is an error. The engine can arrange and combine its numerical quantities exactly as if they were letters or any other general symbols; and in fact it m…"
+            }
+          ]
+        },
+        {
+          "doc_id": "wikisource_notes_by_translator",
+          "title": "Notes by the Translator",
+          "year": 1843,
+          "decade": "1840s",
+          "language_code": "en",
+          "topic": "computing",
+          "char_count": 179492,
+          "quality_score": 5.504,
+          "hit_count": 5,
+          "snippets": [
+            {
+              "variant": "error",
+              "start_char": 23292,
+              "end_char": 23297,
+              "text": "…en performed in order to furnish the Analytical Engine with the necessary operative data; and that herein may also lie a possible source of error. Granted that the actual mechanism is unerring in its processes, the cards may give it wrong orders. This is unquestionably the case; but t…"
+            },
+            {
+              "variant": "error",
+              "start_char": 23465,
+              "end_char": 23470,
+              "text": "…chanism is unerring in its processes, the cards may give it wrong orders. This is unquestionably the case; but there is much less chance of error, and likewise far less expenditure of time and labour, where operations only, and the distribution of these operations, have to be made out…"
+            },
+            {
+              "variant": "error",
+              "start_char": 78753,
+              "end_char": 78758,
+              "text": "…otation , the nature of its processes must consequently be arithmetical and numerical , rather than algebraical and analytical . This is an error. The engine can arrange and combine its numerical quantities exactly as if they were letters or any other general symbols; and in fact it m…"
+            }
+          ]
+        },
+        {
+          "doc_id": "wikisource_calculateur_inaudi",
+          "title": "Le Calculateur Jacques Inaudi",
+          "year": 1892,
+          "decade": "1890s",
+          "language_code": "fr",
+          "topic": "computing",
+          "char_count": 50704,
+          "quality_score": 4.955,
+          "hit_count": 5,
+          "snippets": [
+            {
+              "variant": "illusion",
+              "start_char": 8946,
+              "end_char": 8954,
+              "text": "…initive est trouvée. Pour un travail aussi considérable, M. Inaudi, a-t-on dit, un temps extrêmement court, si court même qu’on a parfois l’illusion de l’instantanéité. Voici ce qu’on publie à ce sujet : « Il additionne, en quelques secondes, sept nombres de huit à dix chiffres. Il termi…"
+            },
+            {
+              "variant": "erreur",
+              "start_char": 20451,
+              "end_char": 20457,
+              "text": "…s chiffres, c’est de faire répéter une série de chiffres, en cherchant par tâtonnement quel est le nombre maximum qui peut être répété sans erreur. Cette épreuve est dans les habitudes courantes des laboratoires de psychologie ; d’après mon observation personnelle, les personnes répète…"
+            },
+            {
+              "variant": "erreur",
+              "start_char": 21981,
+              "end_char": 21987,
+              "text": "…il dit avec assurance : « je sais, » et il reproduit la série entière avec une très grande volubilité. Je l’ai vu répéter de la sorte, sans erreur, une série de vingt-quatre chiffres. M. Charcot, désirant comparer ses aptitudes à celles de Mondeux, qui a eu son heure de célébrité, a re…"
+            }
+          ]
+        },
+        {
+          "doc_id": "wikisource_methods_operating_comptometer",
+          "title": "Methods of Operating the Comptometer",
+          "year": 1895,
+          "decade": "1890s",
+          "language_code": "en",
+          "topic": "computing",
+          "char_count": 60918,
+          "quality_score": 5.035,
+          "hit_count": 5,
+          "snippets": [
+            {
+              "variant": "mistake",
+              "start_char": 22794,
+              "end_char": 22801,
+              "text": "…nder. Correcting Mistakes. One seldom strikes a wrong key without noticing it before completing the stroke, and can immediately rectify the mistake by striking a key in the same column which is the same distance from the other end of the column while holding back the proper cut off. Thu…"
+            },
+            {
+              "variant": "mistake",
+              "start_char": 22994,
+              "end_char": 23001,
+              "text": "…me distance from the other end of the column while holding back the proper cut off. Thus: If the 8 key in the thousands column is struck by mistake, it being the second key from the back end of the column, strike the second key from the front end of that column. If several keys are stru…"
+            },
+            {
+              "variant": "mistake",
+              "start_char": 23147,
+              "end_char": 23154,
+              "text": "…eing the second key from the back end of the column, strike the second key from the front end of that column. If several keys are struck by mistake, simply subtract the amount which they represent and proceed as though no mistake had been made. Thus: Suppose 1783 had been struck, strike…"
+            }
+          ]
+        },
+        {
+          "doc_id": "bim_eighteenth-century_a-practical-method-to-d_ward-john_1714",
+          "title": "A practical method, to discover the longitude at sea, by a new contrived automaton.... With an account of the author's new instrument for taking the latitude more accurately at sea, than hath hitherto been practised. ...By John Ward.... 1714",
+          "year": 1714,
+          "decade": "1710s",
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "char_count": 78418,
+          "quality_score": 4.894,
+          "hit_count": 4,
+          "snippets": [
+            {
+              "variant": "errors",
+              "start_char": 1164,
+              "end_char": 1170,
+              "text": "…that Di ſcovery, is Moſt Humbly Submitted, | | and Dedicated, | By its Author — J. Ward. | The Reader is deſir d to Correct theſe Errors in the Preface. JAze the Firſt, Line 23, inftzad of 79th, Read zꝛ9 th. And Page the Fourth, Line 14, inſtead ct, did fall, Read did not…"
+            },
+            {
+              "variant": "error",
+              "start_char": 18083,
+              "end_char": 18088,
+              "text": "…de, (being the ſole belp, whereby to Reftify an Erroneous Reckoning, ) cannot be performed fo near the Truth, but that divers Minutes of Error will be Committed. He then gives this In- ance ; Six ſeveral Perſons at the ſame time in one hip, who were Accuſtomed to Obſervations, an…"
+            },
+            {
+              "variant": "mistake",
+              "start_char": 45780,
+              "end_char": 45787,
+              "text": "…on the Dial, that every Day between Noon and Noon, is _ juſt Twenty Four Hours Long, at all times of the Year alike. But this is a great Miſtake; For it is well known to all thoſe that have the leaſt Smattering of Aſtronomy ; That the Sun Moves Fafter in one part of the Year, than…"
+            }
+          ]
+        },
+        {
+          "doc_id": "b30377754",
+          "title": "A letter to the Right Reverend Samuel, Lord Bishop of St. David's : occasioned by his sermon on the principle of vitality in man, &c. preached on Sunday, March 22, 1789, for the benefit of the Humane Society",
+          "year": 1789,
+          "decade": "1780s",
+          "language_code": "en",
+          "topic": "mechanism",
+          "char_count": 47583,
+          "quality_score": 4.677,
+          "hit_count": 4,
+          "snippets": [
+            {
+              "variant": "error",
+              "start_char": 2456,
+              "end_char": 2461,
+              "text": "…fallible men have been made the in- “ ftruments of the communication, muft be “ perfedtly free from all mixture of human “ ignorance and error, in the particular fub- “ jedt in which the difcovery is made. The difcovery may, and unlefs the powers of the ** human mind were infini…"
+            },
+            {
+              "variant": "errors",
+              "start_char": 3343,
+              "end_char": 3349,
+              "text": "…eology or morals, it is by. no means cer¬ tain, that their minds were equally en¬ lightened, or that they were even preferved from grofs errors. It is certain, on the contrary, that the Prophets and Apoftles might be fufficiently qualified for the talk, afligned them, to be teach…"
+            },
+            {
+              "variant": "error",
+              "start_char": 3759,
+              "end_char": 3764,
+              "text": "…they were lefs informed than Copernicus, or Newton, and were lefs knowing than Harvey in the animal ceco- nomy. Want of information, and error of opinion in the profane fciences, may, for any A 4 * <( thing ( 8 ) thing that appears to the contrary, be per- “ feftly confiden…"
+            }
+          ]
+        },
+        {
+          "doc_id": "bib_fict_9075530",
+          "title": "Essays on the progress of the vital principle from the vegetable to the animal kingdoms and the soul of man, introductory to contemplations on deity. By John Collier, Author of Essays on the Jewish History, 1791 […]",
+          "year": 1800,
+          "decade": "1800s",
+          "language_code": "en",
+          "topic": "mechanism",
+          "char_count": 487589,
+          "quality_score": 5.688,
+          "hit_count": 4,
+          "snippets": [
+            {
+              "variant": "error",
+              "start_char": 289689,
+              "end_char": 289694,
+              "text": "…ccounted among the rareft. TRUTH sue ar ea ANIMATION AND INTELLECT. 221 Trutu is the juft conformity of our ideas with our words. Error and falfehood its reverfe. ce GN Eran mane MN Plato defcribed the Supreme Being under the fublime figure of “ Truth.” ‘¢ Truth his B…"
+            },
+            {
+              "variant": "error",
+              "start_char": 291104,
+              "end_char": 291109,
+              "text": "…222 ESSAYS ON manner, by pleafure, in order to efcape deftruction? And is not a lie to Man, a lie to God? Truth is fimple and uniform—error infinitely varied. ‘The Supreme Being, he is exprefsly called “ the God of Truth.” When, on any principle whatever, we debafe ourfelves…"
+            },
+            {
+              "variant": "error",
+              "start_char": 319280,
+              "end_char": 319285,
+              "text": "…ey traced out from themfelves, and by analogy conceived fomewhat of his affections, character and moral attributes. How liable, alas! to error and delufion ! Should we conceive of the Divine Mind (for in- fiance) as wrathful, vindictive, cruel, or capricious, how mutt we dread…"
+            }
+          ]
+        },
+        {
+          "doc_id": "gutenberg_60420",
+          "title": "Observations on the Automaton Chess Player Now Exhibited in London, at 4 Spring Gardens",
+          "year": 1819,
+          "decade": "1810s",
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "char_count": 43372,
+          "quality_score": 4.637,
+          "hit_count": 4,
+          "snippets": [
+            {
+              "variant": "errors",
+              "start_char": 1230,
+              "end_char": 1236,
+              "text": "…E AUTOMATON CHESS PLAYER NOW EXHIBITED IN LONDON, AT 4 SPRING GARDENS *** Transcriber's Notes 1. Typographical Errors have been silently corrected. 2. Variations of spelling and hyphenation are as in the original. 3. In the following text, it is coded…"
+            },
+            {
+              "variant": "mistake",
+              "start_char": 12698,
+              "end_char": 12705,
+              "text": "…d on the chest, behind which it is seated. This slight incongruity proceeded from absence of mind in the inventor, who did not perceive his mistake till the machinery of the Automaton was too far completed to admit of the mistake being rectified. At the commencement of a game, the Autom…"
+            },
+            {
+              "variant": "mistake",
+              "start_char": 12780,
+              "end_char": 12787,
+              "text": "…absence of mind in the inventor, who did not perceive his mistake till the machinery of the Automaton was too far completed to admit of the mistake being rectified. At the commencement of a game, the Automaton moves its head, as if taking a view of the board; the same motion occurs at t…"
+            }
+          ]
+        },
+        {
+          "doc_id": "gutenberg_61410",
+          "title": "An Attempt to Analyse the Automaton Chess Player of Mr. De Kempelen: To Which is Added, a Copious Collection of the Knight's Moves over the Chess Board",
+          "year": 1821,
+          "decade": "1820s",
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "char_count": 52451,
+          "quality_score": 4.72,
+          "hit_count": 4,
+          "snippets": [
+            {
+              "variant": "errors",
+              "start_char": 1343,
+              "end_char": 1349,
+              "text": "…e original text. Small capitals have been converted to SOLID capitals. Old or antiquated spellings have been preserved. Typographical errors have been silently corrected. AN ATTEMPT TO ANALYSE THE…"
+            },
+            {
+              "variant": "illusion",
+              "start_char": 19675,
+              "end_char": 19683,
+              "text": "…e to penetrate far beyond the opening, and the spectator is led to conclude that the whole space is occupied with a similar apparatus. This illusion is strengthened and confirmed by observing the glimmering light which plays among the intricacies of the machinery, and occasionally meets…"
+            },
+            {
+              "variant": "error",
+              "start_char": 26228,
+              "end_char": 26233,
+              "text": "…ll other contrivances of the kind, that pleasing delusion in the mind, which the Roman poet has so happily denominated “_Mentis gratissimus error_.” _December, 1820._ EXPLANATION OF THE PLATES. PLATE I. Fig. 1. A perspective…"
+            }
+          ]
+        },
+        {
+          "doc_id": "leprofesseurdemu00daup",
+          "title": "Le professeur de musique : ou, L'enseignement de cet art : mis a la portee de chacun au moyen d'un instrument a sons fixes et du metronome de Maelzel--",
+          "year": 1857,
+          "decade": "1850s",
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "char_count": 585592,
+          "quality_score": 5.768,
+          "hit_count": 4,
+          "snippets": [
+            {
+              "variant": "illusion",
+              "start_char": 315134,
+              "end_char": 315142,
+              "text": "…ne convention faite avec le public, sa- voir : que l’on chantera seulement, que l’on chantera toujours. C’est là-dessus fju’est fondée une illusion qu’il est maladroit de détruire; c’est tromper l’auditoire; c’est lui (jter ses impressions au lieu d’y ajouter, comme on le ci’oit à tor…"
+            },
+            {
+              "variant": "illusion",
+              "start_char": 324658,
+              "end_char": 324666,
+              "text": "…o- <• thèse particulière sous laquelle ils s’engagent de mentir, et qu’ils ne peuvent perdre un seul instant de vue, « sans ôter de cette illusion qui rend notre imagination complice de leurs supercheries: car ce n’est point la « vérité, mais l’image de la vérité qu’ils nous prometten…"
+            },
+            {
+              "variant": "illusions",
+              "start_char": 439513,
+              "end_char": 439522,
+              "text": "…nt les gestes sont le moins apparents, est certainement celui qui trouble le m.oins les jouissances du public et lui conserve le mieux ses illusions. — m — “ Les qualités que doit posséder un bon chef d’orchestre sont très multipliées . une grande régularité dans les mouvements, mai…"
+            }
+          ]
+        },
+        {
+          "doc_id": "wikisource_krasnaya_zvezda",
+          "title": "Красная звезда",
+          "year": 1908,
+          "decade": "1900s",
+          "language_code": "ru",
+          "topic": "computing",
+          "char_count": 269720,
+          "quality_score": 5.881,
+          "hit_count": 4,
+          "snippets": [
+            {
+              "variant": "ошибка",
+              "start_char": 162916,
+              "end_char": 162922,
+              "text": "…что оно имеет большое значение и для моей задачи, так как его успех впервые даст возможность частых и широких сношений с Землею; что всякая ошибка в постановке медицинской помощи с самого начала может привести к крушению всего дела. Все это было убедительно, — я уже узнал, что Нэтти сч…"
+            },
+            {
+              "variant": "иллюзия",
+              "start_char": 166452,
+              "end_char": 166459,
+              "text": "…мая во внимание предыдущие уравнения, мы выводим…». Так было со мной и теперь, только еще сильнее, когда я читал марсианские научные книги; иллюзия, которая владела мной в начале моей болезни, когда мне все казалось легко и понятно, исчезла без следа. Но терпеливая помощь Нэтти постоянн…"
+            },
+            {
+              "variant": "ошибка",
+              "start_char": 171193,
+              "end_char": 171199,
+              "text": "…еньшей потерей материала выкраивать все части костюма. Задача, конечно, очень прозаичная, но и очень серьезная; потому что даже минимальная ошибка, повторенная много миллионов раз, давала громадную потерю. И достигать успешного решения мне удавалось «не хуже» других. Работать «не хуже»…"
+            }
+          ]
+        },
+        {
+          "doc_id": "wikisource_eb1911_calculating_machines",
+          "title": "Calculating Machines (1911 Encyclopædia Britannica)",
+          "year": 1911,
+          "decade": "1910s",
+          "language_code": "en",
+          "topic": "computing",
+          "char_count": 72138,
+          "quality_score": 5.108,
+          "hit_count": 4,
+          "snippets": [
+            {
+              "variant": "errors",
+              "start_char": 20848,
+              "end_char": 20854,
+              "text": "…prepare stereotype plates for the printing of, tables of the function without any copying or typesetting, thus excluding all possibility of errors. Of this “Difference engine,” as Babbage called it, a part was finished in 1834, the government having contributed £17,000 towards the cost…"
+            },
+            {
+              "variant": "error",
+              "start_char": 29386,
+              "end_char": 29391,
+              "text": "…ng the wheels being kept normal to the curve. This is pretty easily done by eye; a constant deviation of 8° from this direction produces an error of only 1%. The sum of the two readings gives the length. E. Fleischhauer uses three, five or more wheels arranged symmetrically round a tr…"
+            },
+            {
+              "variant": "error",
+              "start_char": 29934,
+              "end_char": 29939,
+              "text": "…th the number of the wheels used. It is stated that with three wheels practically useful results can be obtained, although in this case the error, if the instrument is consistently handled so as always to produce the greatest inaccuracy, may be as much as 5%. Planimeters are instrumen…"
+            }
+          ]
+        },
+        {
+          "doc_id": "gutenberg_59112",
+          "title": "R.U.R. (Rossum's Universal Robots): A Fantastic Melodrama in Three Acts and an Epilogue",
+          "year": 1923,
+          "decade": "1920s",
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "char_count": 153124,
+          "quality_score": 5.185,
+          "hit_count": 4,
+          "snippets": [
+            {
+              "variant": "mistake",
+              "start_char": 56311,
+              "end_char": 56318,
+              "text": "…at? DOMIN. Sorry. Not that. Try again. (_He puts gun in pocket._) HELENA. Oh, Harry, why do you carry a revolver? DOMIN. It got there by mistake. HELENA. You never used to _carry_ one. DOMIN. No, you’re right. (_Indicates breast pocket_) There, that’s the pocket. HELENA. (_Takes o…"
+            },
+            {
+              "variant": "mistake",
+              "start_char": 89596,
+              "end_char": 89603,
+              "text": "…ow what will become of us in the next ten minutes. They’ve got us in a vise. We’re done for, Gall. DR. GALL. You know, we made one serious mistake. DOMIN. What? DR. GALL. We made the Robots’ faces too much alike. A hundred thousand faces all alike, all facing this way. A hundred thou…"
+            },
+            {
+              "variant": "errors",
+              "start_char": 129932,
+              "end_char": 129938,
+              "text": "…SETTING SAME AS ACT I R·U·R] TRANSCRIBER’S NOTES: Italicized text is surrounded by underscores: _italics_. Obvious typographical errors have been corrected. Inconsistencies in end punctuation in stage directions have been retained from the original. End of Projec…"
+            }
+          ]
+        },
+        {
+          "doc_id": "bub_gb_s6lSHDngPFoC",
+          "title": "Discours de la méthode pour bien conduire sa raison et chercher la vérité dans les sciences, plus la dioptrique, les météores et la géométrie ..",
+          "year": 1637,
+          "decade": "1630s",
+          "language_code": "fr",
+          "topic": "automata_artificial_beings",
+          "char_count": 767055,
+          "quality_score": 6.085,
+          "hit_count": 3,
+          "snippets": [
+            {
+              "variant": "erreur",
+              "start_char": 64282,
+              "end_char": 64288,
+              "text": "…inde , comme par exemple qu'vn Geometre inuentaft quelque nouuellc demonftration, fon fbmmeil nel’empefcheroitpasd’eftrevraye : Et pour l’erreur la plus ordinaire de nos fonges, qui confifte en ce qu’ils* nous reprefentent druers obiets en mefine façon que font nos fens extcrieiir…"
+            },
+            {
+              "variant": "erreur",
+              "start_char": 98209,
+              "end_char": 98215,
+              "text": "…i compofer vn vray homme. Au refte ic me luis îcy vn peu éftendu for le foietde l'ame, à caufe -qu’il eft des plus importans; Car après l’erreur- de ceux h X qui 60 Discours. qui nient Dieu, laquelle ie penfe auoir cy deflus aflez rc- fotée, iln’ycnapointquiefloigncplutoftles…"
+            },
+            {
+              "variant": "erreur",
+              "start_char": 162289,
+              "end_char": 162295,
+              "text": "…ar il fuflit de les examiner en vn feul rayon pour cognoiftre toutes celles qui fe font en vne mefme fuperficie , & on peut euiter toute erreur, f?cn les examine outre cela en quelques autres. Comme fi nous voulons fçauoir la quan- tité' de celles qui fe font en la fuperficie C B…"
+            }
+          ]
+        },
+        {
+          "doc_id": "b33280046_0002",
+          "title": "Nouveaux eĺeḿens de la science de l'homme",
+          "year": 1806,
+          "decade": "1800s",
+          "language_code": "en",
+          "topic": "mechanism",
+          "char_count": 614256,
+          "quality_score": 5.788,
+          "hit_count": 3,
+          "snippets": [
+            {
+              "variant": "illusion",
+              "start_char": 75030,
+              "end_char": 75038,
+              "text": "…le éteint le sen- timent de la première. Or il est clair que ce nou veau symptome , qui est l’effet d’une sympathie nerveuse, peut faire illusion sur les progrès de la maladie; persuader qu'il se forme un nouveau dépôt, etc. Ainsi j'ai vu chez une femme qui avoit un ulcère écroue…"
+            },
+            {
+              "variant": "illusions",
+              "start_char": 242035,
+              "end_char": 242044,
+              "text": "…exprimée chez tous les hommes, est ce qui leur rend impossible l’apathie parfaite ; et ce qui livre le plus souvent leur imagination aux illusions sur l’ave- nir. Un excès de mobilité se manifeste rare- ment dans toutes les fonctions. Mais le plus souvent il se démontre par la rap…"
+            },
+            {
+              "variant": "error",
+              "start_char": 248873,
+              "end_char": 248878,
+              "text": "…s hommes attaqués ou convales- cens de maladies graves; qui avoient besoin pour se rétablir, d’être nourris d’alimens (a) Meth. Vitand. Error. in Mediciné , p. 220. Tome II, Q 242 NOUVEAUX ÉLÉMENS de dure digestion auxquels ils étoient ac- coutumés. M. Clerc rapporte que l…"
+            }
+          ]
+        },
+        {
+          "doc_id": "nouveauxlmensde00bartgoog",
+          "title": "Nouveaux élémens de la science de l'homme",
+          "year": 1806,
+          "decade": "1800s",
+          "language_code": "en",
+          "topic": "mechanism",
+          "char_count": 621356,
+          "quality_score": 5.793,
+          "hit_count": 3,
+          "snippets": [
+            {
+              "variant": "illusion",
+              "start_char": 80373,
+              "end_char": 80381,
+              "text": "…le éteint Iç sen- timent de la première. Or il est clair que ce nouveau symptôme , qui est l'effet d'one sympathie nerveuse,. peut faire illusion sur les progrèi^ de la maladie ; persuader qu'il se forme un nouveau dépôt, etc. Ainsi j'ai vu chez une femme qui aroit un ulcère écro…"
+            },
+            {
+              "variant": "illusion",
+              "start_char": 94192,
+              "end_char": 94200,
+              "text": "…, C. 7. DE LA SCIENCE DE L'HOMME. 85 On ignore quelle peiil être la iialure de cette sensation singulière; et si elle n'est point une illusion du sens, interne. Quoi ' qu'il en soit, sa reproduction successive est Tin phénomène de l'ordre des sympathisa^ qui se répète, suivant l…"
+            },
+            {
+              "variant": "error",
+              "start_char": 255171,
+              "end_char": 255176,
+              "text": "…s hommes attaqués ou couvales- cemide maladies graves; qui avoient besoin pour se rétablir, d'être nourris d'alimens (a) Meih. J^itand. Error. in Medicinâ , Tome IL Q ^42 NOUVEAUX ÉLÉMENS de dure digestion auxquels ils étoient ac- coutumés* M. Clerc rapporte que les Kamtsc…"
+            }
+          ]
+        },
+        {
+          "doc_id": "EtudeOctober1887",
+          "title": "Volume 05, Number 10 (October 1887)",
+          "year": 1887,
+          "decade": "1880s",
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "char_count": 204916,
+          "quality_score": 5.312,
+          "hit_count": 3,
+          "snippets": [
+            {
+              "variant": "errors",
+              "start_char": 28084,
+              "end_char": 28090,
+              "text": "…esign of this method of teaching, but to explain many other important points in piano-forte teaching. It is only by the pointing out of errors that it will be- come possible, in the course of time, to rid the world of them, as well as to find out who are incompetent to teach thi…"
+            },
+            {
+              "variant": "error",
+              "start_char": 78966,
+              "end_char": 78971,
+              "text": "…tant things necessary for producing expression is a knowledge of theory, a study sadly neglected by most would-be pianists- It is a great error to suppose that the sensibilities of the heart are blunted by a knowledge of musical science, or that our pleasures are diminished by a re…"
+            },
+            {
+              "variant": "error",
+              "start_char": 134644,
+              "end_char": 134649,
+              "text": "…vious to the storm of petty scandal that was raised about his musical ears. He plays the Bb minor concerto of Tchai- kowski. I made an error last month when I said Strelezki the pianist would play the B minor concerto of Tehaikow- ski. It should have read, G major, and a mighty…"
+            }
+          ]
+        },
+        {
+          "doc_id": "gutenberg_55817",
+          "title": "Automata Old and New",
+          "year": 1891,
+          "decade": "1890s",
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "char_count": 129792,
+          "quality_score": 5.113,
+          "hit_count": 3,
+          "snippets": [
+            {
+              "variant": "errors",
+              "start_char": 1426,
+              "end_char": 1432,
+              "text": "…als. Illustrations have been moved so they do not break up paragraphs. Old or antiquated spellings have been preserved. Typographical errors have been silently corrected but other variations in spelling and punctuation remain unaltered. [Illustration]…"
+            },
+            {
+              "variant": "error",
+              "start_char": 17289,
+              "end_char": 17294,
+              "text": "…y a little bit of bad perspective the ends of the cross tubes were shown as turning alternately up and down, and Bate not only repeats this error, but goes out of his way to point out that “in the middest” there must be “a hollow pipe spreading itself into foure severall branches at t…"
+            },
+            {
+              "variant": "errors",
+              "start_char": 119612,
+              "end_char": 119618,
+              "text": "…dium on which they may be stored, may contain “Defects,” such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes…"
+            }
+          ]
+        },
+        {
+          "doc_id": "threetalesghostb00ocon",
+          "title": "Three tales : the ghost, the brazen android, the carpenter",
+          "year": 1892,
+          "decade": "1890s",
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "char_count": 426362,
+          "quality_score": 5.63,
+          "hit_count": 3,
+          "snippets": [
+            {
+              "variant": "illusions",
+              "start_char": 57212,
+              "end_char": 57221,
+              "text": "…was a piteous sight, to see its idle efforts on these shapes of grosser mat- ter, which appeared now to have to it but the existence of illusions. Wandering about the shadowy room, it wrung its phantom hands as in despair. 3 Presently it grew still. Then it passed quickly to his…"
+            },
+            {
+              "variant": "illusions",
+              "start_char": 207869,
+              "end_char": 207878,
+              "text": "…ough, as be- fore, unreferable to any trait of his form. The brave-hearted friar, though conscious that he was wrought upon by the weird illusions of the moment, felt their fullest power, and his soul quailed. Bungy, for his part, sat stupidly star- ing, utterly bewildered by what h…"
+            },
+            {
+              "variant": "error",
+              "start_char": 407918,
+              "end_char": 407923,
+              "text": "…“ Father,” said Rupert, lifting his head, with forlorn dignity, — ‘‘ one word. I am too weak and ill to speak. Let me only say that my error and my crime came from my sense of duty ; and, bad as my cause has proved to be, I joined it in all honor, and carried myself like a man…"
+            }
+          ]
+        },
+        {
+          "doc_id": "dervitalismusal00driegoog",
+          "title": "Der Vitalismus als Geschichte und als Lehre",
+          "year": 1905,
+          "decade": "1900s",
+          "language_code": "de",
+          "topic": "mechanism",
+          "char_count": 448709,
+          "quality_score": 5.652,
+          "hit_count": 3,
+          "snippets": [
+            {
+              "variant": "fehler",
+              "start_char": 107249,
+              "end_char": 107255,
+              "text": "…der Blumenbachschen Ausführungen nicht wieder hervor- gebracht. Blumenbach benutzt alle Vorteile seiner Vorgän- ger und vermeidet alle Fehler derselben; am Ende des heftigen Streites über Epigenesis und Evolution stehend und alles für und wider scharf überblickend, hat er eines…"
+            },
+            {
+              "variant": "irrtum",
+              "start_char": 111265,
+              "end_char": 111271,
+              "text": "…Entwicklungs- gang wie Ha 11 er durchgemacht habe. Sein Buch ent- halte also „das Geständnis eigener Irrtümer\"; aber: „Ein verbesserter Irrtum wird oft zu einer ungleich wichtigeren Wahrheit, als manche positive Wahrheiten, die unmittel- bar als solche erkannt werden\" (De Luc).…"
+            },
+            {
+              "variant": "fehler",
+              "start_char": 220432,
+              "end_char": 220438,
+              "text": "…, wenn wir nun plötzlich von Lotze erfahren, daß des alten Stahl Lelire von der die Lebensvorgänge beherrschenden „Seele\" kein so großer Fehler gewesen sei, denn hier sei die Seele als „Substanz\" gedacht, und damit wenig- stens etwas, „das eine Wirkung hervorbringen kann\", eingef…"
+            }
+          ]
+        },
+        {
+          "doc_id": "RDM_1907040901",
+          "title": "News (1907-04-09)",
+          "year": 1907,
+          "decade": "1900s",
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "char_count": 128895,
+          "quality_score": 5.11,
+          "hit_count": 3,
+          "snippets": [
+            {
+              "variant": "mistake",
+              "start_char": 8731,
+              "end_char": 8738,
+              "text": "…ng . to |. 47 pigs. This all from’ one :sow two years:ago this spring. Bat, you.say, ho.must have foda lot of grain... That;is just_the mistake many’. farmers’ make: He ‘fed last year lees than 500 bushels of “He fed bar'cy c! op spar- chop, ‘had ors of miik,had a'good pasture…"
+            },
+            {
+              "variant": "mistake",
+              "start_char": 24007,
+              "end_char": 24014,
+              "text": "…Italy, the peasants kept -themselves -alive :.on’ ; boiled’ chestnut leaves, ‘not’ the nuts, which are their ‘mportant'crop. © _,One Mistake. Enough. Among those who handle high explo- | sives. there runs this proverb: “In ‘this H business @& man. never makes more than one…"
+            },
+            {
+              "variant": "mistake",
+              "start_char": 24154,
+              "end_char": 24161,
+              "text": "…. Enough. Among those who handle high explo- | sives. there runs this proverb: “In ‘this H business @& man. never makes more than one mistake.” a ‘ \"Impure Part of Ice. “ithe center of a cake of, artificial Ico 4s generally opaque, while the part first : frozen, the ‘outsid…"
+            }
+          ]
+        },
+        {
+          "doc_id": "SCC_1907100401",
+          "title": "The Strathcona chronicle (1907-10-04)",
+          "year": 1907,
+          "decade": "1900s",
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "char_count": 212091,
+          "quality_score": 5.327,
+          "hit_count": 3,
+          "snippets": [
+            {
+              "variant": "mistake",
+              "start_char": 40010,
+              "end_char": 40017,
+              "text": "…tired, pale face and the sweet, sudden smile, ever since the day when she had come personally to explain that there had been some little mistake in the ordered dinner cards and to make her apologies, It appears she had giv- en the dinner ladies powdered silver hair instead of dnz…"
+            },
+            {
+              "variant": "mistake",
+              "start_char": 130576,
+              "end_char": 130583,
+              "text": "…ed northern \\Italy, the peasants kept themselves’ alive on boiled chestnut leaves, not ithe nuts, which are thelr tmportant crop. One Mistake Enough. | Among those who handle high explo- sives there runs this proverb; “In, this “{ shall give her @ name because— | business a ma…"
+            },
+            {
+              "variant": "mistake",
+              "start_char": 131334,
+              "end_char": 131341,
+              "text": "…t name , little Elsie would acquire, Was it not bad enough to be facing a divorce real- dence in ie for weat without acanis- than one mistake,” ' Impure Part of Ice. The center of a cake of artificial ice is generally opaque, while the part first | frozen, the outside, is ge…"
+            }
+          ]
+        },
+        {
+          "doc_id": "wikisource_interview_father_calculating_machine",
+          "title": "An Interview with the Father of the Calculating Machine",
+          "year": 1919,
+          "decade": "1910s",
+          "language_code": "en",
+          "topic": "computing",
+          "char_count": 13203,
+          "quality_score": 4.371,
+          "hit_count": 3,
+          "snippets": [
+            {
+              "variant": "error",
+              "start_char": 5473,
+              "end_char": 5478,
+              "text": "…ld on, that is wrong.’ I looked at the sheet and there surely was a discrepancy. To make certain, I erased it and did it over. I said, ‘The error is in the sheet, sir’. ‘What, you don’t mean to say that the table is wrong?’ ‘Prove it for yourself, sir, said I. Had a bomb been exploded…"
+            },
+            {
+              "variant": "errors",
+              "start_char": 6173,
+              "end_char": 6179,
+              "text": "…ork of checking, which took some time, but three months later he confessed to me under the pledge of absolute secrecy that he had found 135 errors in the tables, seven on one sheet. The lapse of time is my only excuse for breaking that pledge. I still have a copy of Mr. Taylor’s letter…"
+            },
+            {
+              "variant": "mistake",
+              "start_char": 9183,
+              "end_char": 9190,
+              "text": "…ains,’ and some, thinking I had manipulated certain figures, would insist on giving me problems of their own, often in their haste making a mistake and having to retire in confusion. One evening a young man introduced himself as the Private Secretary of General Benjamin F. Butler and in…"
+            }
+          ]
+        },
+        {
+          "doc_id": "LLP_1964100901",
+          "title": "La liberté et le patriote (1964-10-09)",
+          "year": 1964,
+          "decade": "1960s",
+          "language_code": "fr",
+          "topic": "mechanism",
+          "char_count": 427396,
+          "quality_score": 5.631,
+          "hit_count": 3,
+          "snippets": [
+            {
+              "variant": "illusion",
+              "start_char": 40320,
+              "end_char": 40328,
+              "text": "…luie”, Conte poétique japonais, qui a re rié en 1954 le Lion d'or au Festival de Venise, Réalisé dans un style qui mêle habile- ment l'illusion à la réalité, ce fim est d'une grande beauté plastique ei d'une véritable pots sie, Les images rappellent la délicatesse des estampes j…"
+            },
+            {
+              "variant": "illusion",
+              "start_char": 158593,
+              "end_char": 158601,
+              "text": "…xicale | 30M VOke trois quarts em suie StE h : : Le # s : Me demi redies ” lnneuellf. cn à peut et — Joué 44i-Entracte musical | et \"+ “vs illusion, était retenu par um dia. F ustac e (via 59) à 3 milles de la grande route e recherche ri W et ins : ut \\ n 455-Chronique sport. | chez Ea…"
+            },
+            {
+              "variant": "erreur",
+              "start_char": 301121,
+              "end_char": 301127,
+              "text": "…érents de ceux des villes, Makwa Çà et là L'automne est arrivé, mais | ! PA 2 2 À M TE RE M RER RE QE ET CE SR A RER EE gd LE RER ERREUR RP EC ER SE certains cultivateurs attendent la moisson qui est très tardive, Dimenche dernier, eut lieu l'assemblée générale du mois,…"
+            }
+          ]
+        },
+        {
+          "doc_id": "essayonorganicor01watt",
+          "title": "An essay on organic, or life force /",
+          "year": 1851,
+          "decade": "1850s",
+          "language_code": "en",
+          "topic": "mechanism",
+          "char_count": 54135,
+          "quality_score": 4.733,
+          "hit_count": 2,
+          "snippets": [
+            {
+              "variant": "errors",
+              "start_char": 28676,
+              "end_char": 28682,
+              "text": "…t seems to be lost sight of, that the results thus obtained are always shaped and colored according to the ideas pre-occupying the mind. Errors, now known, obtained so long because it was not suspected but that the color and shape derived from the mind were real and objective. All…"
+            },
+            {
+              "variant": "illusion",
+              "start_char": 48546,
+              "end_char": 48554,
+              "text": "…ction; that the idea that any physical power can be dormant or inactive, and can be stimu- lated or excited by any agency whatever, is an illusion; that the idea that an “ impression, agency or influence,” is trans- mitted from the nervous centres to the muscles to excite them, is a…"
+            }
+          ]
+        },
+        {
+          "doc_id": "threetalesghost00congoog",
+          "title": "Three Tales: The Ghost, The Brazen Android, The Carpenter",
+          "year": 1891,
+          "decade": "1890s",
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "char_count": 430021,
+          "quality_score": 5.633,
+          "hit_count": 2,
+          "snippets": [
+            {
+              "variant": "illusions",
+              "start_char": 60549,
+              "end_char": 60558,
+              "text": "…was a piteous sight, to see its idle efforts on these shapes of grosser mat- ter, which appeared now to have to it but the existence of illusions. Wandering about the shadowy room, it wrung its phantom hands as in despair. Presently it grew still. Then it passed quickly to his si…"
+            },
+            {
+              "variant": "error",
+              "start_char": 414545,
+              "end_char": 414550,
+              "text": "…— \" Father,\" said Rupert, lifting his head, with forlorn dignity, — \" one word. I am too weak and ill to speak. Let me only say that my error and my crime came from my sense of duty ; and, bad as my cause has j)roved to be, I joined it in all honor, and carried myself like a ma…"
+            }
+          ]
+        },
+        {
+          "doc_id": "wikisource_dnb_morland",
+          "title": "Morland, Samuel (Dictionary of National Biography)",
+          "year": 1894,
+          "decade": "1890s",
+          "language_code": "en",
+          "topic": "computing",
+          "char_count": 27742,
+          "quality_score": 4.693,
+          "hit_count": 2,
+          "snippets": [
+            {
+              "variant": "errors",
+              "start_char": 12365,
+              "end_char": 12371,
+              "text": "…Majesty.' Tenison probably did something for him, as there is a letter of thanks for 'favours and acts of charity,' dated 5 March 1695. The errors of his life were probably considerable, as he speaks of having been at one time excommunicated ; but some of his writings show that he was…"
+            },
+            {
+              "variant": "errors",
+              "start_char": 25347,
+              "end_char": 25353,
+              "text": "…&c., with a perpetual Almanack,' London, 1672, 8vo. 5. 'The Doctrine of Interest, both simple and compound, explained . . . discovering the errors of the ordinary Tables of Rebate for Annuities, at simple interest, and containing tables for the interest and rebate of money,' London, 16…"
+            }
+          ]
+        },
+        {
+          "doc_id": "storyoflivingmac00connrich",
+          "title": "The story of the living machine; a review of the conclusions of modern biology in regard to the mechanism which controls the phenomena of living activity",
+          "year": 1899,
+          "decade": "1890s",
+          "language_code": "en",
+          "topic": "mechanism",
+          "char_count": 345991,
+          "quality_score": 5.539,
+          "hit_count": 2,
+          "snippets": [
+            {
+              "variant": "error",
+              "start_char": 148786,
+              "end_char": 148791,
+              "text": "…re as an instance of a too precipitate advance in speculation, which led even such a brilliant man as Prof. Huxley into an un- fortunate error of observation ; for, beyond ques- tion, he would never have made such a mistake had he not been dominated by his speculative theories a…"
+            },
+            {
+              "variant": "mistake",
+              "start_char": 148866,
+              "end_char": 148873,
+              "text": "…such a brilliant man as Prof. Huxley into an un- fortunate error of observation ; for, beyond ques- tion, he would never have made such a mistake had he not been dominated by his speculative theories as to the nature of protoplasm. But although Bathybias proved delusive, this did…"
+            }
+          ]
+        },
+        {
+          "doc_id": "storyoflivingmac00conn",
+          "title": "The story of the living machine : a review of the conclusions of modern biology in regard to the mechanism which controls phenomena of living activity",
+          "year": 1905,
+          "decade": "1900s",
+          "language_code": "en",
+          "topic": "mechanism",
+          "char_count": 340641,
+          "quality_score": 5.532,
+          "hit_count": 2,
+          "snippets": [
+            {
+              "variant": "error",
+              "start_char": 147382,
+              "end_char": 147387,
+              "text": "…re as an instance of a too precipitate advance in speculation, which led even such a brilliant man as Prof. Huxley into an un- fortunate error of observation ; for, beyond ques- tion, he would never have made such a mistake had he not been dominated by his speculative theories a…"
+            },
+            {
+              "variant": "mistake",
+              "start_char": 147462,
+              "end_char": 147469,
+              "text": "…such a brilliant man as Prof. Huxley into an un- fortunate error of observation ; for, beyond ques- tion, he would never have made such a mistake had he not been dominated by his speculative theories as to the nature of protoplasm. But although Bathybias proved delusive, this did…"
+            }
+          ]
+        },
+        {
+          "doc_id": "wikisource_comptometer_news_v1_i2",
+          "title": "Comptometer News, Volume 1, Issue 2",
+          "year": 1927,
+          "decade": "1920s",
+          "language_code": "en",
+          "topic": "computing",
+          "char_count": 59222,
+          "quality_score": 5.022,
+          "hit_count": 2,
+          "snippets": [
+            {
+              "variant": "errors",
+              "start_char": 13158,
+              "end_char": 13164,
+              "text": "…to work for the Antrim Iron Company. She enjoyed her work, but came back to Grand Rapids on account of the severe winters. Counting up our errors, One, two, three, four, five Means we've got to get to work, And Practice, even strive. Take the right position, Order helps, you see, Make…"
+            },
+            {
+              "variant": "error",
+              "start_char": 50073,
+              "end_char": 50078,
+              "text": "…faster and produce more correct answers in a day as long as the Controlled-key mechanism stands guard and stops you instantly an operating error has been made.\" There are ninety \"brakes\" in a ten column Comptometer. * * * LITTLE ROCK, ARK. Mrs. Thomas and Miss Beal from the superinte…"
+            }
+          ]
+        },
+        {
+          "doc_id": "gutenberg_31611",
+          "title": "Robots of the World! Arise!",
+          "year": 1952,
+          "decade": "1950s",
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "char_count": 57976,
+          "quality_score": 4.763,
+          "hit_count": 2,
+          "snippets": [
+            {
+              "variant": "illusion",
+              "start_char": 26974,
+              "end_char": 26982,
+              "text": "…e this morning. The roads around the factory were deserted. No one moved in the fields. I flew along through the dusk, idling, enjoying the illusion of having a peaceful countryside all to myself. It had been a pleasant way of life indeed, until now. When I dropped down on my own roof a…"
+            },
+            {
+              "variant": "errors",
+              "start_char": 49010,
+              "end_char": 49016,
+              "text": "…dium on which they may be stored, may contain “Defects,” such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes…"
+            }
+          ]
+        },
+        {
+          "doc_id": "LBT_1990021601",
+          "title": "La liberté (1990-02-16)",
+          "year": 1990,
+          "decade": "1990s",
+          "language_code": "fr",
+          "topic": "mechanism",
+          "char_count": 237174,
+          "quality_score": 5.375,
+          "hit_count": 2,
+          "snippets": [
+            {
+              "variant": "erreur",
+              "start_char": 5653,
+              "end_char": 5659,
+              "text": "…au 383, boulevard Provencher. Le journal de l'année de 1984-1085-1986-1987-1088 Nos annonceurs ont 5 jours pour nous signaler toute erreur de notre part. La A Associaton de la responsabilité du journal se limitera au pre000 Fancophone montant payé pour la partie de l'annonce…"
+            },
+            {
+              "variant": "erreur",
+              "start_char": 5816,
+              "end_char": 5822,
+              "text": "…a A Associaton de la responsabilité du journal se limitera au pre000 Fancophone montant payé pour la partie de l'annonce qui contient l'erreur. Heures du bureau: 9h à 17h du lundi L'abonnement annuel coûte 25,00$ au au vendredi. Manitoba et 30,00$ hors province. Toute correspo…"
+            }
+          ]
+        },
+        {
+          "doc_id": "andromedaundpers00kemp",
+          "title": "Andromeda und Perseus : ein Schauspiel mit Musik",
+          "year": 1780,
+          "decade": "1780s",
+          "language_code": "de",
+          "topic": "automata_artificial_beings",
+          "char_count": 21444,
+          "quality_score": 4.781,
+          "hit_count": 1,
+          "snippets": [
+            {
+              "variant": "tauschung",
+              "start_char": 9399,
+              "end_char": 9408,
+              "text": "…r Befreyung An⸗ Andromeda. | Befreyung? . . Bil du ein Gott, ber ſo ſprechen darf? .... Kein Sterblicher kann mich rette. .... Nein! Tauſchung — Ver⸗ blendung — — zuruͤck — zuruck.. Perſeus. Armes Kind! dein Schickſal dringt mir an die Sele Wenn der letzte Strahl der Hofe…"
+            }
+          ]
+        },
+        {
+          "doc_id": "bub_gb_N7kUAAAAYAAJ",
+          "title": "An attempt to analyse the automaton chess player, of Mr. de Kempelen ... to which is added, a ... collection of the knight's moves over the chess board",
+          "year": 1821,
+          "decade": "1820s",
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "char_count": 31354,
+          "quality_score": 4.496,
+          "hit_count": 1,
+          "snippets": [
+            {
+              "variant": "illusion",
+              "start_char": 19104,
+              "end_char": 19112,
+              "text": "…e- trate far beyond the opening, and the spec- tator is led to conclude that the whole space is occupied with a similar apparatus* This illusion is strengtliened and confirmed by observing the glimmering light which plays among the intricacies of the machinery, and occasionally me…"
+            }
+          ]
+        },
+        {
+          "doc_id": "TheCabinetOfGems",
+          "title": "The cabinet of gems ; or, vocabulary of precious stones, coloured and arranged according to their comparative value : together with a description of the largest known diamonds and coloured gems in the world ; the commercial history of rough diamonds ; an account of the pearl fishery ; and the regalias of England, Scotland, &c.",
+          "year": 1840,
+          "decade": "1840s",
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "char_count": 133742,
+          "quality_score": 5.126,
+          "hit_count": 1,
+          "snippets": [
+            {
+              "variant": "error",
+              "start_char": 17751,
+              "end_char": 17756,
+              "text": "…fine shape and colour of the Persian ■ many persons have been of opinion that they were bred singly, one only in a shell, but this is an error, many being frequently found together- There are accounts of one shell producing 150. Pliny mentions Cleopatra s magaifieent Pearl, valu…"
+            }
+          ]
+        },
+        {
+          "doc_id": "wikisource_gartenlaube_1865_heft34",
+          "title": "Die Gartenlaube (1865), Heft 34",
+          "year": 1865,
+          "decade": "1860s",
+          "language_code": "de",
+          "topic": "computing",
+          "char_count": 130223,
+          "quality_score": 5.365,
+          "hit_count": 1,
+          "snippets": [
+            {
+              "variant": "täuschung",
+              "start_char": 47510,
+              "end_char": 47519,
+              "text": "…Ausnahme des Arztes, wenn er krank wurde. Immer galt Frank bei den Edomitern noch für unsterblich, für unverweslich, für ewig. Das war eine Täuschung, aus der sein Anhang mit Schrecken erwachte. Denn unerwartet, wie ein Donnerschlag aus heiterem Himmel, trat der Tod des heiligen Herrn am…"
+            }
+          ]
+        },
+        {
+          "doc_id": "protoplasmorlif00bealgoog",
+          "title": "Protoplasm; or, Life, force, and matter",
+          "year": 1870,
+          "decade": "1870s",
+          "language_code": "en",
+          "topic": "mechanism",
+          "char_count": 289031,
+          "quality_score": 5.461,
+          "hit_count": 1,
+          "snippets": [
+            {
+              "variant": "error",
+              "start_char": 245465,
+              "end_char": 245470,
+              "text": "…nalogous to the function of an Qrgan or of a tissue. To look upon mental action as a mere function of the brain seems to be a fundamental error, and one which those who have really studied the structure and action of secreting organs and nerve organs could not make. Mental activ…"
+            }
+          ]
+        },
+        {
+          "doc_id": "wikisource_gartenlaube_1879_heft9",
+          "title": "Die Gartenlaube (1879), Heft 9",
+          "year": 1879,
+          "decade": "1870s",
+          "language_code": "de",
+          "topic": "computing",
+          "char_count": 105364,
+          "quality_score": 5.273,
+          "hit_count": 1,
+          "snippets": [
+            {
+              "variant": "fehler",
+              "start_char": 77262,
+              "end_char": 77268,
+              "text": "…est 76 Meter. Zur Grundform des Gesammtbaues wählte man die schon von Enke in Berlin angewandte Form eines Kreuzes, und vermied dadurch den Fehler des großen Observatoriums von Pulkowa, das aus einer langen sich von Ost nach West ziehenden Reihe von kleinen Gebäuden besteht. Die Kreuzf…"
+            }
+          ]
+        },
+        {
+          "doc_id": "wikisource_calculating_machines_popular_science",
+          "title": "Calculating-Machines (Popular Science Monthly, Feb 1885)",
+          "year": 1885,
+          "decade": "1880s",
+          "language_code": "en",
+          "topic": "computing",
+          "char_count": 24327,
+          "quality_score": 4.636,
+          "hit_count": 1,
+          "snippets": [
+            {
+              "variant": "error",
+              "start_char": 6140,
+              "end_char": 6145,
+              "text": "…then be sufficient to construct our table up to the square of 1,000. But here, it may be said, the results all depend one upon another; any error will carry itself to the next computation, and grow, like a snow-ball that at last becomes an avalanche, and overthrow the whole calculatio…"
+            }
+          ]
+        },
+        {
+          "doc_id": "gutenberg_68558",
+          "title": "Robot nemesis",
+          "year": 1939,
+          "decade": "1930s",
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "char_count": 62381,
+          "quality_score": 4.795,
+          "hit_count": 1,
+          "snippets": [
+            {
+              "variant": "errors",
+              "start_char": 53466,
+              "end_char": 53472,
+              "text": "…dium on which they may be stored, may contain “Defects,” such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes…"
+            }
+          ]
+        },
+        {
+          "doc_id": "gutenberg_65013",
+          "title": "One for the Robot—Two for the Same",
+          "year": 1950,
+          "decade": "1950s",
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "char_count": 76830,
+          "quality_score": 4.886,
+          "hit_count": 1,
+          "snippets": [
+            {
+              "variant": "errors",
+              "start_char": 67475,
+              "end_char": 67481,
+              "text": "…dium on which they may be stored, may contain “Defects,” such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes…"
+            }
+          ]
+        },
+        {
+          "doc_id": "gutenberg_65128",
+          "title": "The Miserly Robot",
+          "year": 1958,
+          "decade": "1950s",
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "char_count": 41514,
+          "quality_score": 4.618,
+          "hit_count": 1,
+          "snippets": [
+            {
+              "variant": "errors",
+              "start_char": 32987,
+              "end_char": 32993,
+              "text": "…dium on which they may be stored, may contain “Defects,” such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes…"
+            }
+          ]
+        },
+        {
+          "doc_id": "cia-readingroom-document-cia-rdp96-00792r000600380001-0",
+          "title": "CIA Reading Room cia-rdp96-00792r000600380001-0: SOVIET STUDIES OF THE HUMAN ABILITY OF SUPER-PERCEPTION",
+          "year": 1990,
+          "decade": "1990s",
+          "language_code": "en",
+          "topic": "mechanism",
+          "char_count": 33834,
+          "quality_score": 4.529,
+          "hit_count": 1,
+          "snippets": [
+            {
+              "variant": "error",
+              "start_char": 15625,
+              "end_char": 15630,
+              "text": "…erence or distortion. Therefore, methods of recording the magnetic fields formed by the heart determine specific seats of disease with an error of no more than one millimeter. Prior to these methods, however, in order to record this type of magnetic field it was necessary to inser…"
             }
           ]
         }

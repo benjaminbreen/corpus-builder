@@ -85,7 +85,7 @@ export function Header() {
               GEMI
             </span>
             <span className="hidden sm:inline font-sans text-xs text-ink-400 group-hover:text-ink-500 transition-colors">
-              1600–2000
+              Prototype
             </span>
           </Link>
 

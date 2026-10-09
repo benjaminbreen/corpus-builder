@@ -2,6 +2,7 @@
 
 import { useCallback, useEffect, useMemo, useState } from 'react'
 import Link from 'next/link'
+import { LANGUAGE_NAMES, TOPIC_NAMES } from '@/lib/types'
 import { extractHighlightTerms, findTextHits, renderTextWithHighlights } from '@/lib/highlight'
 
 interface SearchResult {
@@ -92,8 +93,18 @@ export default function SearchPage() {
     loadFilterCounts()
   }, [])
 
-  const performSearch = useCallback(async () => {
-    const trimmed = query.trim()
+  // Support shareable links like /search?q=thinking+machine
+  const [initialQuery, setInitialQuery] = useState<string | null>(null)
+  useEffect(() => {
+    const q = new URLSearchParams(window.location.search).get('q')
+    if (q) {
+      setQuery(q)
+      setInitialQuery(q)
+    }
+  }, [])
+
+  const performSearch = useCallback(async (override?: string) => {
+    const trimmed = (override ?? query).trim()
     if (!trimmed) {
       setResults([])
       setError(null)
@@ -144,6 +155,13 @@ export default function SearchPage() {
     }
   }, [includeLowQuality, query, selectedFilters.decade, selectedFilters.language, selectedFilters.topic])
 
+  useEffect(() => {
+    if (initialQuery) {
+      performSearch(initialQuery)
+      setInitialQuery(null)
+    }
+  }, [initialQuery, performSearch])
+
   const sortedDecades = useMemo(
     () => Object.entries(filters.decade).sort(([a], [b]) => a.localeCompare(b, 'en', { numeric: true })),
     [filters.decade],
@@ -159,7 +177,7 @@ export default function SearchPage() {
 
         <h1 className="mb-4">Search the Archive</h1>
         <p className="text-lg text-ink-600 max-w-2xl mb-8">
-          Unified lexical + semantic search across four centuries of writing on cognition, automation, and machine intelligence.
+          Search centuries of writing on cognition, automation, and machine intelligence, by exact words or by meaning.
         </p>
 
         <div className="max-w-3xl">
@@ -169,12 +187,12 @@ export default function SearchPage() {
               value={query}
               onChange={(event) => setQuery(event.target.value)}
               onKeyDown={(event) => event.key === 'Enter' && performSearch()}
-              placeholder='Try: "mechanical reasoning", "learning in machines", "probability"'
+              placeholder='Try: "thinking machine", "learning in machines", "hallucination"'
               className="input text-lg pr-24"
               autoFocus
             />
             <button
-              onClick={performSearch}
+              onClick={() => performSearch()}
               disabled={loading}
               className="absolute right-2 top-1/2 -translate-y-1/2 px-4 py-1.5 bg-copper-600 text-paper-50 text-sm rounded-sm hover:bg-copper-700 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
             >
@@ -228,7 +246,7 @@ export default function SearchPage() {
                   .sort(([a], [b]) => a.localeCompare(b))
                   .map(([topic, count]) => (
                     <option key={topic} value={topic}>
-                      {topic} ({count})
+                      {TOPIC_NAMES[topic] || topic} ({count})
                     </option>
                   ))}
               </select>
@@ -246,7 +264,7 @@ export default function SearchPage() {
                   .sort(([a], [b]) => a.localeCompare(b))
                   .map(([language, count]) => (
                     <option key={language} value={language}>
-                      {language} ({count})
+                      {LANGUAGE_NAMES[language] || language} ({count})
                     </option>
                   ))}
               </select>
@@ -309,8 +327,8 @@ export default function SearchPage() {
                           })}
                         </p>
                         <div className="mt-2 flex flex-wrap gap-2">
-                          {result.topic && <span className="tag text-xs">{result.topic}</span>}
-                          {result.language_code && <span className="tag text-xs">{result.language_code}</span>}
+                          {result.topic && <span className="tag text-xs">{TOPIC_NAMES[result.topic] || result.topic}</span>}
+                          {result.language_code && <span className="tag text-xs">{LANGUAGE_NAMES[result.language_code] || result.language_code}</span>}
                           <span className="tag text-xs">score {result.score.toFixed(3)}</span>
                           <span className="tag text-xs">lex {result.lexical_score.toFixed(2)}</span>
                           <span className="tag text-xs">sem {result.semantic_score.toFixed(2)}</span>

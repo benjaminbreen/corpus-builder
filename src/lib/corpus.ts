@@ -77,7 +77,8 @@ export async function getCorpusStats(): Promise<CorpusStats> {
     const decade = Math.floor(doc.year / 10) * 10
     byDecade[decade] = (byDecade[decade] || 0) + 1
 
-    const century = Math.floor(doc.year / 100).toString()
+    // 1600–1699 is the 17th century; fold the year 2000 into the 20th
+    const century = Math.min(Math.floor(doc.year / 100) + 1, 20).toString()
     if (byCentury[century] !== undefined) {
       byCentury[century]++
     }
