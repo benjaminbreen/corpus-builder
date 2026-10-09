@@ -186,41 +186,9 @@ export default async function HomePage() {
 
       <div className="rule" />
 
-      {/* Research themes */}
-      <section className="container-content py-16 md:py-20">
-        <div className="text-center mb-10">
-          <h2 className="mb-3">Four Fault Lines</h2>
-          <p className="text-ink-500 max-w-2xl mx-auto">
-            The full project is organized thematically rather than chronologically. Each
-            year takes up a long-running fault line in thinking about intelligence.
-          </p>
-        </div>
-        <div className="grid md:grid-cols-2 gap-6">
-          {THEMES.map((theme) => (
-            <div key={theme.title} className="p-6 border-l-2 border-copper-300">
-              <div className="meta-label mb-1">{theme.year}</div>
-              <h3 className="font-serif text-xl text-ink-900 mb-2">{theme.title}</h3>
-              <p className="font-serif italic text-ink-700 leading-relaxed mb-3">
-                {theme.question}
-              </p>
-              <div className="flex flex-wrap gap-2">
-                {theme.keywords.map((k) => (
-                  <span key={k} className="tag">{k}</span>
-                ))}
-              </div>
-            </div>
-          ))}
-        </div>
-      </section>
-
-      <div className="rule" />
-
       {/* Featured quote */}
       <section className="container-prose py-16 md:py-20">
-        <blockquote className="relative pl-8 md:pl-12">
-          <span className="absolute left-0 top-0 text-6xl md:text-7xl text-copper-300/60 font-serif leading-none select-none">
-            "
-          </span>
+        <blockquote className="border-l-2 border-copper-300 pl-8 md:pl-12">
           <p className="font-serif text-xl md:text-2xl text-ink-700 italic leading-relaxed mb-4">
             As concepts from ordinary language are co-opted by computational modeling,
             their original semantic complexity is lost.
@@ -362,29 +330,3 @@ function BrowseCard({
   )
 }
 
-const THEMES = [
-  {
-    year: 'Year 1',
-    title: 'Order & Entropy',
-    question: 'Is intelligence obedience to structure, or the capacity to exploit noise?',
-    keywords: ['rules', 'entropy', 'randomness', 'error', 'hallucination'],
-  },
-  {
-    year: 'Year 2',
-    title: 'Mechanism & Minds',
-    question: 'Is the mind a mechanistic system or something that resists simple explanation?',
-    keywords: ['engine', 'mechanism', 'consciousness', 'reasoning', 'agent'],
-  },
-  {
-    year: 'Year 3',
-    title: 'Learning & Memory',
-    question: 'What distinguishes memory from learning?',
-    keywords: ['memory', 'imitation', 'copying', 'learning', 'generativity'],
-  },
-  {
-    year: 'Year 4',
-    title: 'Atomicity & Distributivity',
-    question: 'To what extent are our concepts distributed?',
-    keywords: ['network', 'distributed representation', 'web', 'swarm'],
-  },
-]
