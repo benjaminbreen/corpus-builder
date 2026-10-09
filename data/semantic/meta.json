@@ -1,12 +1,12 @@
 {
   "model": "text-embedding-3-small",
   "dimensions": 1536,
-  "count": 972,
+  "count": 2367,
   "chunk_chars": 1600,
   "overlap_chars": 220,
-  "max_chunks_per_doc": 10,
+  "max_chunks_per_doc": 24,
   "languages": null,
-  "skipped_noisy_docs": 5,
+  "skipped_noisy_docs": 4,
   "cleaned_markup_docs": 1,
-  "generated_at": "2026-02-12T22:15:25.758Z"
+  "generated_at": "2026-10-09T22:46:27.830Z"
 }

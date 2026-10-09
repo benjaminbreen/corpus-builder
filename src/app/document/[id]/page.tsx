@@ -104,6 +104,7 @@ export default async function DocumentPage({ params }: PageProps) {
               )}
 
               <div className="pt-2 space-y-2">
+                {doc.source_url && (
                 <a
                   href={doc.source_url}
                   target="_blank"
@@ -112,6 +113,7 @@ export default async function DocumentPage({ params }: PageProps) {
                 >
                   {SOURCE_LABELS[doc.source || 'internet_archive'] || 'View original source ↗'}
                 </a>
+                )}
               </div>
             </div>
 
@@ -231,5 +233,6 @@ const SOURCE_LABELS: Record<string, string> = {
   gutenberg: 'View on Project Gutenberg ↗',
   wikisource: 'View on Wikisource ↗',
   internet_archive: 'View on Internet Archive ↗',
+  jamesiana: 'View original source ↗',
   hathitrust: 'View on HathiTrust ↗',
 }

@@ -131,7 +131,7 @@ export default async function HomePage() {
           <BrowseCard
             href="/topic"
             title="By Topic"
-            description="Thematic collections on automata, mechanism, and calculating machines."
+            description="Thematic collections from automata and calculating machines to the psychology of mind."
             items={stats.topics.slice(0, 4).map((t) => TOPIC_NAMES[t] || t)}
             count={stats.topics.length}
           />

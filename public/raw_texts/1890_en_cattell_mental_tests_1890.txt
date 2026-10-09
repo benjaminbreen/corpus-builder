@@ -1,0 +1,173 @@
+MENTAL TESTS AND MEASUREMENTS James McKeen Cattell — Mind, 1890 (with appended remarks by Francis Galton)
+
+Psychology cannot attain the certainty and exactness of the physical sciences, unless it rests on a foundation of experiment and measurement. A step in this direction could be made by applying a series of mental tests and measurements to a large number of individuals. The results would be of considerable scientific value in discovering the constancy of mental processes, their interdependence, and their variation under different circumstances. Individuals, besides, would find their tests interesting, and, perhaps, useful in regard to training, mode of life or indication of disease. The scientific and practical value of such tests would be much increased should a uniform system be adopted, so that determinations made at different times and places could be compared and combined. With a view to obtaining agreement among those interested, I venture to suggest the following series of tests and measurements, together with methods of making them.[ 1 ]
+
+The first series of ten tests is made in the Psychological Laboratory, of the University of Pennsylvania on all who present themselves, and the complete series on students of Experimental Psychology. The results will be published when sufficient data have been collected. Meanwhile, I should be glad to have the tests, and the methods of making them, thoroughly discussed.
+
+The following ten tests are proposed:
+
+I. Dynamometer Pressure.
+
+II. Rate of Movement.
+
+III. Sensation-areas.
+
+IV. Pressure causing Pain.
+
+V. Least Noticeable difference in Weight.
+
+VI. Reaction-time for Sound.
+
+VII. Time for naming Colours.
+
+VIII. Bi-section of a 50 cm. Line
+
+IX. Judgment of 10 seconds time.
+
+X. Number of Letters remembered on once Hearing.
+
+[p.374] It will be noticed that the series begins with determinations rather bodily than mental, and proceeds through psychophysical to more purely mental measurements.[ 2 ]
+
+The tests may be readily made on inexperienced persons, the time required for the series being about an hour. The laboratory should be conveniently arranged and quiet, and no spectators should be present while the experiments are being made. The amount of instruction the experimentee should receive, and the number of trials he should be given, are matters which ought to be settled in order to secure uniformity of result. The amount of instruction depends on the experimenter and experimentee, and cannot, unfortunately, be exactly defined. It can only be said that the experimentee must understand clearly what he has to do. A large and uniform number of trials would, of course, be the most satisfactory, the average, average variation, maximum and minimum being recorded. Time is, however, a matter of great importance if many persons are to be tested. The arrangement most economical of time would be to test thoroughly a small number of persons, and a large number in a more rough-and-ready fashion. The number of trials I allow in each test is given below, as also whether I consider the average or 'best' trial the most satisfactory for comparison. Let us now consider the tests in order.
+
+I. Dynamometer Pressure. The greatest possible squeeze of the hand may be thought by many to be a purely physiological quantity. It is, however, impossible to separate bodily from mental energy. The 'sense of effort' and the effects of volition on the body are among the questions most discussed in psychology and even in metaphysics. Interesting experiments may be made on the relation between volitional control or emotional excitement and dynamometer pressure. Other determinations of bodily power could be made (in the second series I have included the 'archer's pull' and pressure of the thumb and fore-finger), but the squeeze of the hand seems the most convenient. It may be readily made, cannot prove injurious, is dependent on mental conditions, and allows comparison of right-and left-handed power. The experimentee should be shown how to hold the dynamometer in order to obtain the maximum pressure. I allow two trials with each hand (the order being right, left, right, left), and record the maximum pressure of each hand.
+
+II. Rate of Movement. Such a determination seems to be of considerable interest, especially in connexion with the preceding. [p.375] Indeed, its physiological importance is such as to make it surprising that careful measurements have not hitherto been made. The rate of movement has the same psychological bearings as the force of movement. Notice, in addition to the subjects already mentioned, the connexion between force and rate of movement on the one hand and the 'four temperaments' on the other. I am now making experiments to determine the rate of different movements. As a general test, I suggest the quickest possible movement of the right hand and arm from rest through 50 cm. A piece of apparatus for this purpose can be obtained from Clay & Torbensen, Philadelphia. An electric current is closed by the first movement of the hand, and broken when the movement through 50 cm. has been completed. I measure the time the current has been closed with the Hipp chronoscope, but it may be done by any chronographic method. The Hipp chronoscope is to be obtained from Peyer & Favarger, Neuchâtel. It is a very convenient apparatus, but care must be taken in regulating and controlling it (see MIND No. 42).[ 3 ]
+
+III. Sensation-areas. The distance on the skin by which two points must be separated in order that they may be felt as two is a constant, interesting both to the physiologist and psychologist. Its variation in different parts of the body (from 1 to 68 mm.) was a most important discovery. What the individual variation may be, and what inferences may be drawn from it, cannot be foreseen; but anything which may throw light on the development of the idea of space deserves careful study. Only one part of the body can be tested in a series such as the present. I suggest the back of the closed right band, between the tendons of the first and second fingers, and in a longitudinal direction. Compasses with rounded wooden or rubber tips should be used, and I suggest that the curvature have a radius of 5mm. This experiment requires some care and skill on the part of the experimenter. The points must be touched simultaneously, and not too hard. The experimentee must turn away his head. In order to obtain exact results, a large number of experiments would be necessary, and all the tact of the experimenter will be required to determine, without undue expenditure of time, the distance at which the touches may just be distinguished.
+
+IV. Pressure causing Pain. This, like the rate of movement, is a determination not hitherto much considered, and if other more important tests can be devised they might be substituted for these. But the point at which pressure causes pain may be an important constant, and in any case it would be valuable in the diagnosis of nervous diseases and in studying abnormal states of consciousness. The determination of any fixed point or quantity in pleasure or pain is a matter of great interest in theoretical and practical ethics, and I should be glad to include. some such test [p.376] the present series. To determine the pressure causing pain, I use an instrument (to be obtained from Clav & Torbensen) which measures the pressure applied by a tip of hard rubber 5 mm. in radius. I am now determining the pressure causing pain in different parts of the body; for the present series commend the centre of the forehead. The pressure should be gradually increased and the maximum read from the indicator after the experiment is complete. As a rule, the point at which the experimentee says the pressure is painful should be recorded, but in some cases it may be necessary to record the point at which signs of pain are shown. I make two trials, and record both.
+
+V. Least noticeable difference in Weight. The just noticeable sensation and the least noticeable difference in sensation are psychological constants of great interest. Indeed, the measurement of mental intensity is probably the most important question with which experimental psychology has at present to deal. The just noticeable sensation can only be determined with great pains, if at all: the point usually found being in reality the least noticeable difference for faint stimuli. This latter point is itself so difficult to determine that I have postponed it to the second series. The least noticeable difference in sensation for stimuli of a given intensity can be more readily determined, but it requires some time, and consequently not more than one sense and intensity can be tested in a preliminary series. I follow Mr. Galton in selecting 'sense of effort' or weight. I use small wooden boxes, the standard one weighing 100 gms. and the others 101, 102, up to 110 gms. The standard weight and another (beginning with 105 gms.) being given to the experimentee, he is asked which is the heavier. I allow him about 10 secs for decision. I record the point at which he is usually right, being careful to note that he is always right with the next heavier weight.
+
+VI. Reaction-time for Sound. The time elapsing before a stimulus calls forth a movement should certainly be included in a series of psychophysical tests: the question to be decided is what stimulus should be chosen. I prefer sound; on it the reaction-time seems to be the shortest and most regular, and the apparatus is most easily arranged. I measure the time with a Hipp chronoscope, but various chronographic methods have been used. There is need of a simpler, cheaper and more portable apparatus for measuring short times. Mr. Galton uses an ingenious instrument, in which the time is measured by the motion of a falling rod, and electricity is dispensed with, but this method will not measure times longer than about 1/3 sec. In measuring the reaction-time, I suggest that three valid reactions be taken, and the minimum recorded. Later, the average and mean variation may be calculated.[ 4 ]
+
+VII. Time for naming Colours. A reaction is essentially reflex, [p.377] and, I think, in addition to it, the time of some process more purely mental should be measured. Several such processes are included in the second series; for the present series I suggest the time needed to see and name a colour. This time may be readily measured for a single colour by means of suitable apparatus (see MIND No. 42), but for general use sufficient accuracy may be attained by allowing the experimentee to name ten colours and taking the average. I paste coloured papers (red, yellow, green and blue) 2 cm. square, 1cm. apart, vertically on a strip of black pasteboard. This I suddenly uncover and start a chronoscope, which I stop when the ten colours have been named. I allow two trials (the order of colours being different in each) and record the average time per colour in the quickest trial.
+
+VIII. Bisection of a 50 cm Line. The accuracy with which space and time are judged may be readily tested, and with interesting results. I follow Mr. Galton in letting the experimentee divide an ebony rule (3 cm. wide) into two equal parts by means of a movable line, but I recommend 50 cm. in place of 1 ft., as with the latter the error is so small that it is difficult to measure, and the metric system seems preferable. The amount of error in mm. (the distance from the true middle) should be recorded, and whether it is to the right or left. One trial would seem to be sufficient.
+
+IX. Judgment of 10 sec. Time. This determination is easily made. I strike on the table with the end of a pencil and again after 10 seconds, and let the experimentee in turn strike when he judges an equal interval to have elapsed. I allow only one trial and record the time, from which the amount and direction of error can be seen.
+
+X. Number of Letters repeated on once Hearing. Memory and attention may be tested by determining how many letters can be repeated on hearing once. I name distinctly and at the rate of two per second six letters, and if the experimentee can repeat these after me I go on to seven, then eight, &c.; if the six are not correctly repeated after three trials (with different letters), I give five, four, &c. The maximum number of letters which can be grasped and remembered is thus determined. Consonants only should be used in order to avoid syllables.
+
+Experimental psychology is likely to take a place in the educational plan of our schools and universities. It teaches accurate observation and correct reasoning in the same way as the other natural sciences, and offers a supply of knowledge interesting and useful to everyone. I am at present preparing a laboratory manual which will include tests of the senses and measurements of mental time, intensity and extensity, but it seems worth while to give here a list of the tests which I look on as the more important in order that attention may be [p.378] drawn to them, and co-operation secured in choosing the best series of tests and the most accurate and convenient methods. In the following series, fifty tests are given, but some of them include more than one determination.
+
+Sight 1. Accomodation (short sight, over-sight, and astigmatism).
+
+2. Drawing Purkinje's figures and the blind-spot.
+
+3. Acuteness of colour vision, including lowest red and highest violet visible.
+
+4. Determination of the field of vision for form and colour.
+
+5. Determination of what the experimentee considers a normal red, yellow, green and blue.
+
+6. Least perceptible light, and least amount of colour distinguished from grey.
+
+7. Least noticeable difference in intensity, determined for stimuli of three degrees of brightness.
+
+8. The time a colour must work on the retina in order to produce a sensation, the maximum sensation and a given degree of fatigue.
+
+9. Nature and duration of after-images.
+
+10. Measurement of amount of contrast.
+
+11. Accuracy with which distance can be judged with one and with two eyes.
+
+12. Test with stereoscope and for struggle of the two fields of vision.
+
+13 Errors of perception, including bisection of line, drawing of square, &c.
+
+14. Colour and arrangement of colours preferred. Shape of figure and of rectangle preferred.
+
+Hearing. 15. Least perceptible sound and least noticeable difference in intensity for sounds of three degrees of loudness.
+
+16. Lowest and highest lens audible, least perceptible difference in pitch for C, C', C", and point where intervals and chords (in melody and harmony) are just noticed to be out of tune.
+
+17. Judgment of absolute pitch and of the nature of intervals, chords and dischords.
+
+18. Number and nature of the overtones which can be heard with and without resonators.
+
+19. Accuracy with which direction and distance of sounds can be judged.
+
+20. Accuracy with which a rhythm can be followed and complexity of rhythm can be grasped.
+
+21. Point at which loudness and shrillness of sound become painful. Point at which beats are the most disagreeable.
+
+22. Sound of nature most agreeable. Musical tone, chord, instrument and composition preferred.
+
+[p.379] Taste and Smell. 23. Least perceptible amount of cane-sugar, quinine, cooking salt and sulphuric acid. and determination of the parts of the mouth with which they are tasted.
+
+24. Least perceptible amount of camphor and bromine.
+
+25. Tastes and smells found to be peculiarly agreeable and disagreeable.
+
+Touch a nd Temperature. 26. Least noticeable pressure for different parts of the body.
+
+27. Least noticeable difference in pressure, with weights of 10, 100 and 1000 gms.
+
+28. Measurement of sensation-areas in different parts of the body.
+
+29. Accuracy with which the amount and direction of the motion of a point over the skin can be judged.
+
+30. Least noticeable difference in temperature.
+
+31. Mapping out of heat, cold and pressure spots on the skin.
+
+32. The point at which pressure and heat and cold cause pain.
+
+Sense of Effort and Movement. [ 5 ] 33. Least noticeable difference in weight, in lifting weights of 10, 100 and 1000 gms.
+
+34. Force of squeeze of hands, pressure with thumb and forefinger and pull as archer.
+
+35. Maximum and normal rate of movement.
+
+36. Accuracy with which the force, extent and rate of active and passive movements can be judged.
+
+Mental Time. 37. The time stimuli must work on the ear and eye in order to call forth sensations.
+
+38. The reaction-time for sound, light, pressure and electrical stimulation.
+
+39. The perception-time for colours, objects, letters and words.
+
+40. The time of naming colours, objects, letters and words.
+
+41 The time it takes to remember and to come to a decision.
+
+42 The time of mental association.
+
+43. The effects of attention, practice and fatigue on mental time.
+
+Mental Intensity. 44. Results of different methods used for determining the least noticeable difference in sensation.
+
+45. Mental intensity as a function of mental time.
+
+[p.380] Mental Extensity. 46. Number of impressions which can be simultaneously perceived.
+
+47. Number of successive impressions which can be correctly repeated, and number of times a larger number of successive impressions must be heard or seen in order that they may be correctly repeated.
+
+48. The rate at which a simple sensation fades from memory.
+
+49. Accuracy with which intervals of time can be remembered.
+
+50. The correlation of mental time, intensity and extensity.
+
+Remarks by Francis Galton, F.R.S. (A) One of the most important objects of measurement is hardly if at all alluded to here and should be emphasised. It is to obtain a general knowledge of the capacities of a man by sinking shafts, as it were, at a few critical points. In order to ascertain the best points for the purpose, the sets of measures should be compared with an independent estimate of the man's powers. We thus may learn which of the measures are the most instructive, The sort of estimate I have in view and which I would suggest should benoted [? for private use] is something of this kind,-"mobile, eager, energetic; well shaped; successful at games requiring good eye and hand; sensitive; good at music and drawing". Such estimates would be far from worthless when made after only a few minutes' talk; they ought to be exact when made of students who have been for months and years under observation. I lately saw a considerable collection of such estimates, made by a medical man for a special purpose. They were singularly searching and they hit off, with a few well chosen epithets, a very great variety of different characters. I could not induce the medical man to consent to the publication of specimens of his excellent analyses, nor even of fancy specimens. Even these would have sufficed to show that if psychologists seriously practised the art of briefly describing characters. they might raise that art to a high level.
+
+(B) The method I have long used for testing keenness of eye-sight in persons whose powers of eye-adaptation are normal, still seems to me quite effective. It is to register the greatest distance at which numerals printed in diamond type can be read. Strips of paper cut out at random from a small sheet printed all over with these numerals, are mounted on blocks set at successive distances from the eye-hole. They can easily be changed when dirty. Fair light is wanted, but that is all that is needed for ordinary test purposes.
+
+C) I have constructed an instrument which is not yet quite as I desire , of which the first part would I think greatly facilitate [p. 381] the working with the Hipp chronograph. I had found great trouble in inducing coarse and inexperienced persons to deliver their blows aright. They bungled and struck the instrument wrongly, and often broke it. Then I made it more massive, yet still they broke it and often hurt themselves much in doing so. My present plan is to give them nothing more than one end of a long thread to hold. The other end passes round a spring reel, like the tape in a spring measuring tape. The string when left to itself will reel home much faster than the swiftest blow can travel. All that the experimentee does is to retard it; the quickest man retarding it the least. The string travels smoothly and swiftly in a straight line between two eyelet holes. A bead attached to that part of the string would make the necessary breaks of electric contact with great neatness. The thread has a stop to cheek it when it has run far enough home. My reel is nothing more than a very light wooden wheel with a groove in it, some 3 inches in diameter, and with a brass axis turning freely between fixed points. One thread passes round the axis, and is tied at the other end to an india rubber band. The other thread passes in the opposite direction round the grooved wheel, and then through the eyelet holes. The experimentee is placed well back, quite clear of the apparatus. Nothing can act better than this part of my new instrument.
+
+(D) I now use a very neat, compact, and effective apparatus (made for me by Groves, 89, Bolsover Street, Portland Street, W.) which is a half-second's pendulum, held by a detent 18º from the vertical. The blow of a released hammer upon the detent gives the sound-signal and simultaneously lets the pendulum go. An elastic thread is fixed to the pendulum parallel to its axis, but about 1½ inch apart from it. As the pendulum oscillates this thread travels between 2 bars; the one fixed, the other movable. The fixed bar lies horizontally between the pendulum and the thread and is graduated. The movable bar nips the thread when a key is touched. Doing this, constitutes the response. The pendulum itself receives no jar through the act, owing to the elasticity of the thread. The graduations on the bar, that forms the chord to an arc of 18º on each side of the vertical, are calculated and published in the Jour. Anthrop. Inst. early last year, 1889, together with my description of the first form of the instrument. I exhibited the revised form of it at the British Association last autumn ; a brief description of it will appear in their Journal. The instrument is arranged for sight-signals as well. It is also arranged to measure the rapidity with which any given act can be performed. The experimentee touches a key that releases the pendulum ; then he performs the act; finally he touches the second key, that causes the thread to be nipped.
+
+Footnotes
+
+[1] Mr. Francis Galton, in his Anthropometric Laboratory at South Kensignton Museum, already uses some of these tests, and I hope the series here suggested will meet with his approval. It is convenient to follow Mr. Galton in combining tests of body, such as weight, size, colour of eyes, & c., with psychophysical and mental determinations, but these latter alone are the subject of the present discussion. The name (or initials) of the experimentee should be recorded, the nationality (including that of the parents), and the age, sex, occupation and sate of health. [See Remark (a) by Mr. Galton]
+
+[2] Sharpness of sight (including colour-vision) and hearing might, perhaps, be included in the list. I have omitted them because it requires considerable time to discover the amount and nature of the defect (which is usually bodily, not mental), and because abundant statistics have been published, and are being collected by oculists and aurists. [See Remark ( b )]
+
+[3] See Remark ( c ).
+
+[4] See Remark ( d )
+
+[5] Organic sensations and sensations of motion, equilibrium and dizziness, should perhaps be included in this series.

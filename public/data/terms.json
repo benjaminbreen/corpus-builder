@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-09T22:42:10.449Z",
-  "corpus_size": 109,
-  "indexed_docs": 105,
+  "generated_at": "2026-10-09T22:46:36.568Z",
+  "corpus_size": 115,
+  "indexed_docs": 111,
   "skipped_noisy_docs": 4,
   "cleaned_markup_docs": 1,
   "concepts": [
@@ -9,8 +9,8 @@
       "id": "intelligence",
       "label": "Intelligence",
       "description": "Capacities of mind, cognition, and adaptive thought as discussed across philosophical, scientific, and technical traditions.",
-      "total_hits": 823,
-      "documents_with_hits": 61,
+      "total_hits": 877,
+      "documents_with_hits": 66,
       "by_decade": {
         "1630s": 1,
         "1640s": 1,
@@ -24,8 +24,8 @@
         "1850s": 3,
         "1860s": 6,
         "1870s": 9,
-        "1880s": 3,
-        "1890s": 4,
+        "1880s": 5,
+        "1890s": 7,
         "1900s": 6,
         "1910s": 1,
         "1920s": 2,
@@ -38,13 +38,15 @@
       },
       "by_language": {
         "de": 2,
-        "en": 45,
+        "en": 50,
         "fr": 13,
         "ru": 1
       },
       "by_topic": {
         "automata_artificial_beings": 21,
         "computing": 8,
+        "intelligence": 4,
+        "learning": 1,
         "mechanism": 32
       },
       "top_documents": [
@@ -92,6 +94,15 @@
           "topic": "mechanism",
           "hit_count": 32,
           "quality_score": 5.845
+        },
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "hit_count": 27,
+          "quality_score": 6.039
         },
         {
           "doc_id": "CuenotIFB",
@@ -166,22 +177,13 @@
           "quality_score": 5.944
         },
         {
-          "doc_id": "levitalismeetla02lemogoog",
-          "title": "Le vitalisme et l'animisme de Stahl",
-          "year": 1864,
-          "language_code": "fr",
-          "topic": "mechanism",
-          "hit_count": 13,
-          "quality_score": 5.523
-        },
-        {
-          "doc_id": "mechanismusundv00btgoog",
-          "title": "Mechanismus und Vitalismus",
-          "year": 1901,
-          "language_code": "de",
-          "topic": "mechanism",
-          "hit_count": 13,
-          "quality_score": 5.473
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "hit_count": 14,
+          "quality_score": 6.3
         }
       ],
       "key_excerpts": [
@@ -349,6 +351,39 @@
           "text": "…s tous les instants consécutifs se trouve ■ implicitement déterminé. Avec ces données et à l’aide d’un outillage de calcul approprié, une intelligence su¬ périeure à la nôtre, quoique fondamentalement cons- 60 PREMIÈRE SEGTIOII. tituée comme la nôtre, pourra calculer et prédire toutes…",
           "start_char": 108544,
           "end_char": 108556
+        },
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "intelligence",
+          "text": "…their select corps, and their generally British descent. The result is a composite having an expression of considerable vigour, resolution, intelligence, and frankness. I have exhibited both this and others that were made respectively from the officers, from the whole collection of privates-…",
+          "start_char": 41787,
+          "end_char": 41799
+        },
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "intelligence",
+          "text": "…through the avenue of our senses; and the more perceptive the senses are of difference, the larger is the field upon which our judgment and intelligence can act. Sensation mounts through a series of grades of \"just perceptible differences.\" It starts from the zero of consciousness, and it be…",
+          "start_char": 62264,
+          "end_char": 62276
+        },
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "intelligent",
+          "text": "…thing of the kind in Hebrew literature, where the snake is figured as an attractive tempter. In Hindu fables the cobra is the ingenious and intelligent animal, corresponding to the fox in ours. Serpent worship was very widely spread. I therefore doubt whether the antipathy to the snake is v…",
+          "start_char": 110673,
+          "end_char": 110684
         },
         {
           "doc_id": "CuenotIFB",
@@ -615,6 +650,39 @@
           "end_char": 445483
         },
         {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "intelligent",
+          "text": "…last twelve years have brought before the world a considerable number of such experiences, recorded at first hand and with corroboration by intelligent witnesses whose good faith is unimpeached. And they will now, I trust, be willing to regard it as at least an obvious and natural explanati…",
+          "start_char": 15643,
+          "end_char": 15654
+        },
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "intelligence",
+          "text": "…the standard of the professional classes, — and correspondence with nearly all has given us an opportunity of judging of the bona fides and intelligence of collectors not personally known to members of the Committee. The work of all the collectors has been entirely gratuitous, and we take t…",
+          "start_char": 27219,
+          "end_char": 27231
+        },
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "intelligent",
+          "text": "…hers, even when numerous, they are confined to a comparatively short period. As a specimen of the former kind described by an exceptionally intelligent witness, see the case of Mrs. D. {Appendix D), also No. 422. 22 (Mr. Mamtchitch's case in Chapter XVII). Instances of the latter kind are N…",
+          "start_char": 369389,
+          "end_char": 369400
+        },
+        {
           "doc_id": "levitalismeetla02lemogoog",
           "title": "Le vitalisme et l'animisme de Stahl",
           "year": 1864,
@@ -712,6 +780,39 @@
           "text": "…chess talent. Saccheri was tbe Philidor of his circle, and a man gifted generally with extraordi- nary calculative powers. He was of an intellect so wonderfully precocious, that, before he was ten years old, he could solve the most difficult problems in algebra and arithmetic, and…",
           "start_char": 222189,
           "end_char": 222198
+        },
+        {
+          "doc_id": "jamesiana_james_automaton_theory_1890",
+          "title": "The Principles of Psychology, Chapter V: The Automaton-Theory",
+          "year": 1890,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "intelligence",
+          "text": "…ce. Suppose we restrict our view to facts of one and the same plane, and let that be the bodily plane: cannot all the outward phenomena of intelligence still be exhaustively described? Those mental images, those 'considerations,' whereof we spoke,--presumably they do not arise without neura…",
+          "start_char": 904,
+          "end_char": 916
+        },
+        {
+          "doc_id": "jamesiana_james_automaton_theory_1890",
+          "title": "The Principles of Psychology, Chapter V: The Automaton-Theory",
+          "year": 1890,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "intelligent",
+          "text": "…and lower spinal cord we see what, so far as we know, is unconscious neural action executing deeds that to all outward intent may be called intelligent; what is there to hinder us from supposing that even where we know consciousness to be there, the still more complicated neural action whic…",
+          "start_char": 2237,
+          "end_char": 2248
+        },
+        {
+          "doc_id": "jamesiana_james_automaton_theory_1890",
+          "title": "The Principles of Psychology, Chapter V: The Automaton-Theory",
+          "year": 1890,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "intelligent",
+          "text": "…the still more complicated neural action which we believe to be its inseparable companion is alone and of itself the real agent of whatever intelligent deeds may appear? \"As actions of a certain degree of complexity are brought about by mere mechanism, why may not actions of a still greater…",
+          "start_char": 2483,
+          "end_char": 2494
         },
         {
           "doc_id": "storyoflivingmac00connrich",
@@ -965,139 +1066,40 @@
           "text": "…s itself, and impressing its stamp on the spirit of the age. They convey, too, the knowledge of this brightest victory of genuine German intellect to those for whom the sweet Muse of Music is as a book with seven seals, and reveal, likewise, a more profound sense of Beethoven's bein…",
           "start_char": 15895,
           "end_char": 15904
-        },
-        {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "intelligence",
-          "text": "…is called the greatest? — and yet herein are displayed the godlike feelings of humanity I — I weep in thinking that you will receive no intelligence from me till probably Saturday. However dearly you may love me, I love you more fondly still. Never conceal your feelings from me. Good n…",
-          "start_char": 59389,
-          "end_char": 59401
-        },
-        {
-          "doc_id": "betweenworlds_201911",
-          "title": "Between Two Worlds",
-          "year": 1964,
-          "language_code": "en",
-          "topic": "mechanism",
-          "variant": "intelligent",
-          "text": "…ected to on this memorable occasion as Mr. Shepard has never been heard by a more cultured and 16 Who Was the Real Francis Grierson? intelligent audience. The Queen of Hanover, who was sitting beside H.R.H. the Reigning Duke of Saxe-Altenburg, rose from her seat during the singing a…",
-          "start_char": 43506,
-          "end_char": 43517
-        },
-        {
-          "doc_id": "betweenworlds_201911",
-          "title": "Between Two Worlds",
-          "year": 1964,
-          "language_code": "en",
-          "topic": "mechanism",
-          "variant": "intelligence",
-          "text": "…about the horse, but Freud did not think the feats of the clever animal indicated the operation of telepathy. He thought that the native intelligence of animals accorded well enough with his ideas of the unconscious. Soon afterward, Freud who had not heard from Ferenczi for several day…",
-          "start_char": 91889,
-          "end_char": 91901
-        },
-        {
-          "doc_id": "betweenworlds_201911",
-          "title": "Between Two Worlds",
-          "year": 1964,
-          "language_code": "en",
-          "topic": "mechanism",
-          "variant": "intelligence",
-          "text": "…, the plot involves a colony of army ants that developed into a single organism of which the individual ants were only mobile cells. The intelligence of this ant-organism was far superior to that of the single ant, and became an actual menace to humanity. This story raised disquieting…",
-          "start_char": 163837,
-          "end_char": 163849
-        },
-        {
-          "doc_id": "anintroductiont02smitgoog",
-          "title": "An Introduction to Physiological and Systematical Botany",
-          "year": 1814,
-          "language_code": "en",
-          "topic": "mechanism",
-          "variant": "intelligent",
-          "text": "…esent less unworthy condition. I should have been proud to have sheltered them under her patronage, because I happ always found the mqst intelligent critics the most in^ dulgent. Their general tendency at least, as calculated to render an interesting and useful a2 IV DEDICATION*…",
-          "start_char": 4180,
-          "end_char": 4191
-        },
-        {
-          "doc_id": "anintroductiont02smitgoog",
-          "title": "An Introduction to Physiological and Systematical Botany",
-          "year": 1814,
-          "language_code": "en",
-          "topic": "mechanism",
-          "variant": "intelligent",
-          "text": "…denomination of their several kinds ; and 3dly, Their csconomicai or medical properties. All these objects should be kept in view by an intelligent botanist. The two first are of essential service to each other, and the last is only tb be pursued, with any certainty, by such as are ve…",
-          "start_char": 34869,
-          "end_char": 34880
-        },
-        {
-          "doc_id": "anintroductiont02smitgoog",
-          "title": "An Introduction to Physiological and Systematical Botany",
-          "year": 1814,
-          "language_code": "en",
-          "topic": "mechanism",
-          "variant": "intelligent",
-          "text": "…e proportion. At the same time the farina of the cotyle- dons becomes sweet, bemg converted into sugan '* Hence it is evident,\" Sys this intelligent writer, '^ that the &rina is changed into sugar, by diminishing its carbon, and of course by augmenting the propordofli of its hydrogen…",
-          "start_char": 132762,
-          "end_char": 132773
-        },
-        {
-          "doc_id": "protoplasmorlif00bealgoog",
-          "title": "Protoplasm; or, Life, force, and matter",
-          "year": 1870,
-          "language_code": "en",
-          "topic": "mechanism",
-          "variant": "intelligent",
-          "text": "…\" page 13, about the kitchen clock, which cries \"cuckoo,\" and shows the phases of the moon, and the death- watch machine, \" a learned and intelligent student of its works, \" ticking like the clock in the clock case. We are told to \"substitute * cosmic vapour' for 'clock,' and * molecule…",
-          "start_char": 38119,
-          "end_char": 38130
-        },
-        {
-          "doc_id": "protoplasmorlif00bealgoog",
-          "title": "Protoplasm; or, Life, force, and matter",
-          "year": 1870,
-          "language_code": "en",
-          "topic": "mechanism",
-          "variant": "intelligence",
-          "text": "…ly suggests the Professor) \" it is no less certain that the existing world lay, potientially, in the cosmic vapour ; and that a sufficient intelligence could, fi-om a knowledge of the properties of the molecules of that vapour, have predicted, say the state of the Fauna of Britain in 1869…",
-          "start_char": 38739,
-          "end_char": 38751
         }
       ],
       "related_concepts": [
         {
           "concept_id": "machine",
-          "count": 58
+          "count": 62
         },
         {
           "concept_id": "error",
-          "count": 53
+          "count": 58
         },
         {
           "concept_id": "network",
-          "count": 52
+          "count": 57
         },
         {
           "concept_id": "reasoning",
-          "count": 49
+          "count": 54
         },
         {
           "concept_id": "probability",
-          "count": 49
+          "count": 54
         },
         {
           "concept_id": "mechanism",
-          "count": 48
-        },
-        {
-          "concept_id": "learning",
-          "count": 47
+          "count": 52
         },
         {
           "concept_id": "agency",
-          "count": 47
+          "count": 51
+        },
+        {
+          "concept_id": "learning",
+          "count": 50
         }
       ],
       "variant_count": 11
@@ -1106,8 +1108,8 @@
       "id": "learning",
       "label": "Learning",
       "description": "Processes of acquiring knowledge, skill, and adaptation in humans, animals, and machines.",
-      "total_hits": 679,
-      "documents_with_hits": 63,
+      "total_hits": 738,
+      "documents_with_hits": 68,
       "by_decade": {
         "1630s": 1,
         "1710s": 1,
@@ -1120,9 +1122,9 @@
         "1840s": 1,
         "1850s": 1,
         "1860s": 6,
-        "1870s": 9,
-        "1880s": 4,
-        "1890s": 7,
+        "1870s": 10,
+        "1880s": 5,
+        "1890s": 10,
         "1900s": 8,
         "1910s": 1,
         "1920s": 3,
@@ -1134,13 +1136,15 @@
       },
       "by_language": {
         "de": 6,
-        "en": 44,
+        "en": 49,
         "fr": 12,
         "ru": 1
       },
       "by_topic": {
         "automata_artificial_beings": 23,
         "computing": 11,
+        "intelligence": 3,
+        "learning": 2,
         "mechanism": 29
       },
       "top_documents": [
@@ -1170,6 +1174,15 @@
           "topic": "automata_artificial_beings",
           "hit_count": 41,
           "quality_score": 5.848
+        },
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "hit_count": 33,
+          "quality_score": 6.039
         },
         {
           "doc_id": "firstlinesofprac13cull",
@@ -1269,15 +1282,6 @@
           "topic": "automata_artificial_beings",
           "hit_count": 19,
           "quality_score": 5.574
-        },
-        {
-          "doc_id": "threetalesghost00congoog",
-          "title": "Three Tales: The Ghost, The Brazen Android, The Carpenter",
-          "year": 1891,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "hit_count": 17,
-          "quality_score": 5.633
         }
       ],
       "key_excerpts": [
@@ -1379,6 +1383,39 @@
           "text": "…for the temporary lodging of *'a cat.\" De Kempelen's gravely walking about the room with his casket^ reminds one of friar Bacon with his learned head, or Merlin and his wand. After a few moves are played, he kindly treats the Automaton to the refresh- ment of winding up» to recruit…",
           "start_char": 29299,
           "end_char": 29306
+        },
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "learn",
+          "text": "…has been to take note of the varied hereditary faculties of different men, and of the great differences in different families and races, to learn how far history may have shown the practicability of supplanting inefficient human stock by better strains, and to consider whether it migh…",
+          "start_char": 23495,
+          "end_char": 23500
+        },
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "learned",
+          "text": "…two faces that have a moderate family likeness will blend into a single one. That neither of these predominated in the present case will be learned from the following letter by the father of the ladies, who is himself a photographer:-- \"I am exceedingly obliged for the very curious and…",
+          "start_char": 39143,
+          "end_char": 39150
+        },
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "learn",
+          "text": "…are unfortunately destitute of trustworthy measurements of Englishmen of past generations to enable us to compare class with class, and to learn how far the several sections of the English nation may be improving or deteriorating. We shall, however, hand useful information concerning…",
+          "start_char": 49762,
+          "end_char": 49767
         },
         {
           "doc_id": "firstlinesofprac13cull",
@@ -1876,6 +1913,39 @@
           "end_char": 39450
         },
         {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "learning",
+          "text": "…years 1878-1890, and were recorded less than 2 years after the event; and in 6 of them a record was made, either by the experimenter before learning the result of the experiment, or by the percipient while ignorant that an experiment had been made. It is also noteworthy that seven out of…",
+          "start_char": 11904,
+          "end_char": 11912
+        },
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "learned",
+          "text": "…d stand in doorway C. She then turned round and looked at him. She had only a glimpse of him after turning round, and then he vanished. She learned afterwards that he had died at that hour on that day. She mentioned what she had seen to no one beforehand. She was in very good health at…",
+          "start_char": 165303,
+          "end_char": 165310
+        },
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "learned",
+          "text": "…everywhere round me, and could distinguish others I had seen before the curious darkness, I never saw him again. About three weeks after, I learned that he died that very day and hour, (Nov. 3rd or 5th, about four o'clock: I cannot remember the exact date). I was, of course, broad awake…",
+          "start_char": 235511,
+          "end_char": 235518
+        },
+        {
           "doc_id": "protoplasmorlif00bealgoog",
           "title": "Protoplasm; or, Life, force, and matter",
           "year": 1870,
@@ -2041,6 +2111,39 @@
           "end_char": 58917
         },
         {
+          "doc_id": "jamesiana_james_habit_1890",
+          "title": "The Principles of Psychology, Chapter IV: Habit",
+          "year": 1890,
+          "language_code": "en",
+          "topic": "learning",
+          "variant": "learning",
+          "text": "…but after a day or two of rest, when we resume the discipline, our increase in skill not seldom surprises us. I have often noticed this in learning a tune; and it has led a German author to say that we learn to swim during the winter and to skate during the summer. Dr. Carpenter writes…",
+          "start_char": 12497,
+          "end_char": 12505
+        },
+        {
+          "doc_id": "jamesiana_james_habit_1890",
+          "title": "The Principles of Psychology, Chapter IV: Habit",
+          "year": 1890,
+          "language_code": "en",
+          "topic": "learning",
+          "variant": "learn",
+          "text": "…our increase in skill not seldom surprises us. I have often noticed this in learning a tune; and it has led a German author to say that we learn to swim during the winter and to skate during the summer. Dr. Carpenter writes:[142] \"It is a matter of universal experience that every k…",
+          "start_char": 12560,
+          "end_char": 12565
+        },
+        {
+          "doc_id": "jamesiana_james_habit_1890",
+          "title": "The Principles of Psychology, Chapter IV: Habit",
+          "year": 1890,
+          "language_code": "en",
+          "topic": "learning",
+          "variant": "learned",
+          "text": "…h and development, the formative activity of the brain will be most amenable to directing influences. It is in this way that what is early 'learned by heart' becomes branded in (as it were) upon the cerebrum; so that its 'traces' are never lost, even though the conscious memory of it ma…",
+          "start_char": 19579,
+          "end_char": 19586
+        },
+        {
           "doc_id": "wikisource_methods_operating_comptometer",
           "title": "Methods of Operating the Comptometer",
           "year": 1895,
@@ -2061,139 +2164,40 @@
           "text": "…tc., can learn how to perform on the Comptometer any of the classes of examples explained in this book in a few minutes. It is very easy to learn how, but it is to have skill of the fingers that is most necessary. The Comptometer is not a hand organ or grind stone. Being a key-operate…",
           "start_char": 1390,
           "end_char": 1395
-        },
-        {
-          "doc_id": "wikisource_methods_operating_comptometer",
-          "title": "Methods of Operating the Comptometer",
-          "year": 1895,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "learn",
-          "text": "…in the book, because there are other methods which one is apt to stumble onto which are not nearly so rapid. Division is more difficult to learn, but easy to remember, and though it requires more practice than multiplication, it does not require nearly as much as addition. To those w…",
-          "start_char": 1960,
-          "end_char": 1965
-        },
-        {
-          "doc_id": "InternationaleZeitschriftFuumlrPsychoanalyseXviii1932Heft2",
-          "title": "Internationale Zeitschrift für Psychoanalyse XVIII 1932 Heft 2",
-          "year": 1932,
-          "language_code": "de",
-          "topic": "mechanism",
-          "variant": "lernen",
-          "text": "…ten Affekte, die sie andeuten. Die Traumdeutung wird auch diese Determinierun¬ gen mit der Zeit und auf Grund weiterer Forschung benutzen lernen. 7) Meine frühere Angabe, daß im Willen der Todestrieb mitwirkt, ist, wie ich in einer ausführlichen Arbeit zu zeigen hoffe, richtig und…",
-          "start_char": 71388,
-          "end_char": 71394
-        },
-        {
-          "doc_id": "InternationaleZeitschriftFuumlrPsychoanalyseXviii1932Heft2",
-          "title": "Internationale Zeitschrift für Psychoanalyse XVIII 1932 Heft 2",
-          "year": 1932,
-          "language_code": "de",
-          "topic": "mechanism",
-          "variant": "lernen",
-          "text": "…verantwortlich gemacht werden. Wir sehen also einen „Wahrtraum“, dessen Voraussage sich nicht er¬ füllte, und es läßt sich an ihm mehr lernen, als wenn die Analysandin zu¬ fällig wirklich konzipiert gehabt hätte. Er sagt nicht aus, was werden sollte. Er verrät, was einst war, un…",
-          "start_char": 175626,
-          "end_char": 175632
-        },
-        {
-          "doc_id": "InternationaleZeitschriftFuumlrPsychoanalyseXviii1932Heft2",
-          "title": "Internationale Zeitschrift für Psychoanalyse XVIII 1932 Heft 2",
-          "year": 1932,
-          "language_code": "de",
-          "topic": "mechanism",
-          "variant": "lernen",
-          "text": "…ei beiden Kindern klagten die Eltern über große Schulschwierig¬ keiten: die Kinder kämen trotz ihrer Intelligenz nur knapp mit, da sie im Lernen lustlos, unkonzentriert, ewig zu anderen Einfällen bereit, besonders zerfahren beim Rechnen und Schreiben seien. Während Kurt sehr gern un…",
-          "start_char": 254528,
-          "end_char": 254534
-        },
-        {
-          "doc_id": "storyoflivingmac00conn",
-          "title": "The story of the living machine : a review of the conclusions of modern biology in regard to the mechanism which controls phenomena of living activity",
-          "year": 1905,
-          "language_code": "en",
-          "topic": "mechanism",
-          "variant": "learning",
-          "text": "…Thirty years ago departments of biology were practically unknown in educational institutions. To-day none of our higher institutions of learning considers itself equipped without such a department. This seems to be somewhat strange. Biology is sim- ply the study of living things;…",
-          "start_char": 6829,
-          "end_char": 6837
-        },
-        {
-          "doc_id": "storyoflivingmac00conn",
-          "title": "The story of the living machine : a review of the conclusions of modern biology in regard to the mechanism which controls phenomena of living activity",
-          "year": 1905,
-          "language_code": "en",
-          "topic": "mechanism",
-          "variant": "learn",
-          "text": "…e conception of the living organism as a machine is borne out by the facts which have been collected in the last quarter century, and to learn where, if anywhere, limits have been found to our possibility of applying the forces of chemistry and physics to an explanation of life.…",
-          "start_char": 35974,
-          "end_char": 35979
-        },
-        {
-          "doc_id": "storyoflivingmac00conn",
-          "title": "The story of the living machine : a review of the conclusions of modern biology in regard to the mechanism which controls phenomena of living activity",
-          "year": 1905,
-          "language_code": "en",
-          "topic": "mechanism",
-          "variant": "learned",
-          "text": "…oads, and control the growth of the cities according to their fancy ; and, lastly, 60 THE STORY OF THE LIVING MACHINE. how it would be learned that it is the human being alone that grows and multiplies and that all else is the result of his activities. Such a supramun- dane obse…",
-          "start_char": 108703,
-          "end_char": 108710
-        },
-        {
-          "doc_id": "LBT_1990021601",
-          "title": "La liberté (1990-02-16)",
-          "year": 1990,
-          "language_code": "fr",
-          "topic": "mechanism",
-          "variant": "apprendre",
-          "text": "…ablir deux programmes dans les centres préscolaires: un pour les enfants qui parlent français et un pour les ayant droit qui doivent l'apprendre. L'objectif reste le même: récupérer le plus pos- Ne restez pas dans la rue. S’il vous plait. faisons pas respecter l'interdiction de…",
-          "start_char": 55063,
-          "end_char": 55072
-        },
-        {
-          "doc_id": "LBT_1990021601",
-          "title": "La liberté (1990-02-16)",
-          "year": 1990,
-          "language_code": "fr",
-          "topic": "mechanism",
-          "variant": "apprendre",
-          "text": "…ne serait pas tolérée. Les petits joueurs, qu'on ignore jusqu'ici dans les rangs profes- sionnels, auront leur place. Et la LNH pourra apprendre. & # E Archives La Liberté L'Association Mondiale de Hockey: seulement un joueur de renom- mée dans cette photo qui compte 7 hocke…",
-          "start_char": 112498,
-          "end_char": 112507
         }
       ],
       "related_concepts": [
         {
           "concept_id": "machine",
-          "count": 59
+          "count": 63
         },
         {
           "concept_id": "network",
-          "count": 58
-        },
-        {
-          "concept_id": "error",
-          "count": 56
+          "count": 62
         },
         {
           "concept_id": "reasoning",
-          "count": 55
+          "count": 60
+        },
+        {
+          "concept_id": "error",
+          "count": 60
         },
         {
           "concept_id": "probability",
-          "count": 52
+          "count": 57
         },
         {
           "concept_id": "mechanism",
-          "count": 51
+          "count": 54
         },
         {
           "concept_id": "agency",
-          "count": 49
+          "count": 52
         },
         {
-          "concept_id": "intelligence",
-          "count": 47
+          "concept_id": "memory",
+          "count": 51
         }
       ],
       "variant_count": 11
@@ -2202,8 +2206,8 @@
       "id": "reasoning",
       "label": "Reasoning",
       "description": "Inference, logical procedure, and rational deliberation in human and non-human systems.",
-      "total_hits": 1251,
-      "documents_with_hits": 68,
+      "total_hits": 1380,
+      "documents_with_hits": 75,
       "by_decade": {
         "1680s": 1,
         "1710s": 1,
@@ -2216,9 +2220,9 @@
         "1840s": 3,
         "1850s": 2,
         "1860s": 5,
-        "1870s": 10,
-        "1880s": 4,
-        "1890s": 6,
+        "1870s": 11,
+        "1880s": 6,
+        "1890s": 10,
         "1900s": 8,
         "1910s": 2,
         "1920s": 3,
@@ -2231,7 +2235,7 @@
       },
       "by_language": {
         "de": 6,
-        "en": 48,
+        "en": 55,
         "fr": 12,
         "la": 1,
         "ru": 1
@@ -2239,6 +2243,8 @@
       "by_topic": {
         "automata_artificial_beings": 24,
         "computing": 14,
+        "intelligence": 5,
+        "learning": 2,
         "mechanism": 30
       },
       "top_documents": [
@@ -2288,6 +2294,15 @@
           "quality_score": 5.523
         },
         {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "hit_count": 82,
+          "quality_score": 6.3
+        },
+        {
           "doc_id": "roughwaysmadesm00procgoog",
           "title": "Rough ways made smooth: a series of familiar essays on scientific subjects",
           "year": 1880,
@@ -2333,6 +2348,15 @@
           "quality_score": 5.798
         },
         {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "hit_count": 32,
+          "quality_score": 6.039
+        },
+        {
           "doc_id": "lamachineanimal02maregoog",
           "title": "La machine animale: locomotion terrestre et sérienne",
           "year": 1878,
@@ -2358,24 +2382,6 @@
           "topic": "mechanism",
           "hit_count": 29,
           "quality_score": 5.651
-        },
-        {
-          "doc_id": "lamachineanimal00maregoog",
-          "title": "La machine animale: locomotion terrestre et aérienne",
-          "year": 1886,
-          "language_code": "fr",
-          "topic": "mechanism",
-          "hit_count": 28,
-          "quality_score": 5.83
-        },
-        {
-          "doc_id": "anintroductiont02smitgoog",
-          "title": "An Introduction to Physiological and Systematical Botany",
-          "year": 1814,
-          "language_code": "en",
-          "topic": "mechanism",
-          "hit_count": 22,
-          "quality_score": 5.781
         }
       ],
       "key_excerpts": [
@@ -2545,6 +2551,39 @@
           "end_char": 10420
         },
         {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "reason",
+          "text": "…s point to the end of the Report our attention is concentrated on that portion of our phenomena which there is — -or may appear to be — any reason to refer to a supernormal cause. In order to explain clearly the principal question on which we endeavour to throw light in this concludin…",
+          "start_char": 3398,
+          "end_char": 3404
+        },
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "reason",
+          "text": "…take count of these experiences, and the best plan seemed to be to exclude them, in order to secure uniformity of result. We have for this reason counted affirmative answers as negative when the experiences on which they were based belonged solely to one or other of the following type…",
+          "start_char": 30402,
+          "end_char": 30408
+        },
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "reason",
+          "text": "…think that those reported are most likely fairly I'epresentative. In about 51 cases (reported by 19 collectors) the collector knew, or had reason to think, that the person who refused should have answered \" yes \" ; and in a few of these we know further that the refusal arose from the…",
+          "start_char": 63862,
+          "end_char": 63868
+        },
+        {
           "doc_id": "roughwaysmadesm00procgoog",
           "title": "Rough ways made smooth: a series of familiar essays on scientific subjects",
           "year": 1880,
@@ -2708,6 +2747,39 @@
           "text": "…t la déperdition. Ainsi, l’alimentation varie avec les climats, de façon que la sobriété forcée de l’habitant des pays chauds n’a plus de raison d’être dans les climats froids. L’oisiveté obligatoire pendant les chaleurs du jour sous un ciel brûlant est une manière de diminuer la p…",
           "start_char": 54455,
           "end_char": 54461
+        },
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "reason",
+          "text": "…it seemed unduly to prevail, to be remade without the component in question, and the result to be much the same as before, showing that the reason of the resemblance was that the rejected portrait had a close approximation to the ideal average picture of the rest. These small composit…",
+          "start_char": 36982,
+          "end_char": 36988
+        },
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "reason",
+          "text": "…idea--the difficulty lies in determining the particular sequence of weights that should be employed. Mine form a geometric series, for the reason that when stimuli of all kinds increase by geometric grades the sensations they give rise to will increase by arithmetic grades, so long as…",
+          "start_char": 72200,
+          "end_char": 72206
+        },
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "reason",
+          "text": "…of a peculiarly centripetal instinct, who ran more madly than the rest into the middle of the herd when they were frightened; and I have no reason to doubt from general recollections that the law of deviation from an average would be as applicable to independence of character among cat…",
+          "start_char": 132285,
+          "end_char": 132291
         },
         {
           "doc_id": "lamachineanimal02maregoog",
@@ -3192,106 +3264,40 @@
           "text": "…in secondhand shops. “This fashion is not likely to become @ watlversal one,” a well known art Gealer said recently, “for the simple reason that the supply cannot meet the demand. “To copy old cameos with any suc- cess is an almost impossible task, and In any case people ob…",
           "start_char": 54279,
           "end_char": 54285
-        },
-        {
-          "doc_id": "SCC_1907100401",
-          "title": "The Strathcona chronicle (1907-10-04)",
-          "year": 1907,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "reason",
-          "text": "…downward rather encourages a child's hair te grow straight. The upward brushiug is not becoming for the time, and tl44 is no doubt the reason that so few cure to persevere with the idea; bat it well repays one afterward. Of course it is not every head of hair that responds to…",
-          "start_char": 56622,
-          "end_char": 56628
-        },
-        {
-          "doc_id": "dervitalismusal00driegoog",
-          "title": "Der Vitalismus als Geschichte und als Lehre",
-          "year": 1905,
-          "language_code": "de",
-          "topic": "mechanism",
-          "variant": "vernunft",
-          "text": "…die Empfindungsseele (ala^TiHrj) verbunden mit der begehrenden; kraft dieser eben sind sie Tiere. Der Mensch allein besitzt als drittes Vernunft {vovg\\ sie allein ist „von außen\" {&vQa&ev) gekommen und ist „göttlich\" (peiov). Doch sind wir damit bereits in die eigentliche Seelen-…",
-          "start_char": 37985,
-          "end_char": 37993
-        },
-        {
-          "doc_id": "dervitalismusal00driegoog",
-          "title": "Der Vitalismus als Geschichte und als Lehre",
-          "year": 1905,
-          "language_code": "de",
-          "topic": "mechanism",
-          "variant": "vernunft",
-          "text": "…, so würde das Sehen seine Seele sein, da dieses das begriffliche Sein des Auges ist, und das Auge wäre dann der Stoff des Sehens\". Der Vernunft das Menschen (vovg) als höchster Seelen- stufe dienen alle niederen Seelenstufen, wie schon gesagt, als Werkzeuge; die Leidenschaften geh…",
-          "start_char": 40202,
-          "end_char": 40210
-        },
-        {
-          "doc_id": "dervitalismusal00driegoog",
-          "title": "Der Vitalismus als Geschichte und als Lehre",
-          "year": 1905,
-          "language_code": "de",
-          "topic": "mechanism",
-          "variant": "vernunft",
-          "text": "…in sie ist; „das Denken und Überlegen wird im Alter nur schwach, weil ein anderes im Inneren verdirbt, es selbst ist leidlos\". Nur die Vernunft, wie sie ja auch von außen gekom- men und göttlich ist, ist unsterblich: „wenn dieses Wesen untergeht, so hört Erinnern und Leiden auf, d…",
-          "start_char": 40733,
-          "end_char": 40741
-        },
-        {
-          "doc_id": "LLP_1964100901",
-          "title": "La liberté et le patriote (1964-10-09)",
-          "year": 1964,
-          "language_code": "fr",
-          "topic": "mechanism",
-          "variant": "raison",
-          "text": "…ourtant une qualité normale chez un peuple | chrétien. | M. Marion se pose alors l’hy- pothèse suivante: si ks défai- | Ustes avaient raison et que dans 125 ans tout soit fini? Faut-il en conhcbure que la lutte ne vaut pas la peine? Il cite alors des |1(1875) et Tupper (1896…",
-          "start_char": 6046,
-          "end_char": 6052
-        },
-        {
-          "doc_id": "LLP_1964100901",
-          "title": "La liberté et le patriote (1964-10-09)",
-          "year": 1964,
-          "language_code": "fr",
-          "topic": "mechanism",
-          "variant": "raison",
-          "text": "…et bien d'au- tres ont vu leurs wierres tom- bales se transformer en marche- pieds, dans la montée de ce peuple, Une magnifique péro- raison sur les ‘sons des cloches’, d'abord de l'Empire britanni- que, et ensuite du Canada fran- çais, de Louksbourg à Maillard- ville, cloche…",
-          "start_char": 9082,
-          "end_char": 9088
         }
       ],
       "related_concepts": [
         {
-          "concept_id": "machine",
-          "count": 63
+          "concept_id": "network",
+          "count": 69
         },
         {
-          "concept_id": "network",
-          "count": 63
+          "concept_id": "machine",
+          "count": 68
         },
         {
           "concept_id": "error",
-          "count": 61
+          "count": 67
         },
         {
           "concept_id": "mechanism",
-          "count": 58
-        },
-        {
-          "concept_id": "learning",
-          "count": 55
-        },
-        {
-          "concept_id": "agency",
-          "count": 54
+          "count": 62
         },
         {
           "concept_id": "probability",
-          "count": 54
+          "count": 61
+        },
+        {
+          "concept_id": "learning",
+          "count": 60
+        },
+        {
+          "concept_id": "agency",
+          "count": 58
         },
         {
           "concept_id": "intelligence",
-          "count": 49
+          "count": 54
         }
       ],
       "variant_count": 11
@@ -3300,8 +3306,8 @@
       "id": "agency",
       "label": "Agency",
       "description": "Questions of intentional action, autonomy, and who or what can be treated as an acting subject.",
-      "total_hits": 421,
-      "documents_with_hits": 58,
+      "total_hits": 502,
+      "documents_with_hits": 62,
       "by_decade": {
         "1720s": 1,
         "1780s": 1,
@@ -3314,8 +3320,8 @@
         "1850s": 2,
         "1860s": 5,
         "1870s": 10,
-        "1880s": 2,
-        "1890s": 4,
+        "1880s": 3,
+        "1890s": 7,
         "1900s": 7,
         "1910s": 1,
         "1920s": 2,
@@ -3327,15 +3333,26 @@
       },
       "by_language": {
         "de": 3,
-        "en": 44,
+        "en": 48,
         "fr": 11
       },
       "by_topic": {
         "automata_artificial_beings": 22,
         "computing": 9,
+        "intelligence": 3,
+        "learning": 1,
         "mechanism": 27
       },
       "top_documents": [
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "hit_count": 72,
+          "quality_score": 6.3
+        },
         {
           "doc_id": "bub_gb__f1TQoJzqOIC",
           "title": "La machine animale locomotion terrestre et aérienne par E.J. Marey",
@@ -3461,18 +3478,42 @@
           "topic": "mechanism",
           "hit_count": 13,
           "quality_score": 5.375
-        },
-        {
-          "doc_id": "betweenworlds_201911",
-          "title": "Between Two Worlds",
-          "year": 1964,
-          "language_code": "en",
-          "topic": "mechanism",
-          "hit_count": 11,
-          "quality_score": 5.837
         }
       ],
       "key_excerpts": [
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "agency",
+          "text": "…r present age, 56) of seeing visions — more or less externahsed — hearing voices and feehng touches, all of which she regards as due to the agency of spirits. \" Among many other experiences of the kind,\" she writes, \" I have frequently been touched by the finger of my eldest son [after…",
+          "start_char": 488689,
+          "end_char": 488695
+        },
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "agent",
+          "text": "…elepathic communications. It is therefore quite likely that anxiety, — with other things which direct the thoughts of the percipient to the agent, — may facilitate telepathic communication ; but except in very special cases, of which we have none in the present collection, it will not…",
+          "start_char": 618259,
+          "end_char": 618264
+        },
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "agent",
+          "text": "…about half an hour after the voice. The voice was distinctly recognised as that of Mrs. Smith's mother. The name called was ' Lizzie.' The agent's name was Ann Youens. I saw a printed memorial card giving the date of her death, March 9th, 1874.\" The newspaper cutting referred to giv…",
+          "start_char": 630697,
+          "end_char": 630702
+        },
         {
           "doc_id": "bub_gb__f1TQoJzqOIC",
           "title": "La machine animale locomotion terrestre et aérienne par E.J. Marey",
@@ -4319,73 +4360,40 @@
           "text": "…rd class contains those Automata which, under the semblance only of mecha- nism, are wholly directed and controlled by a concealed human agent Digitized by Google 11 The pheoomena of the Chess Player are inconsistent with the effects of mere me- chanism ; for, however great…",
           "start_char": 6062,
           "end_char": 6067
-        },
-        {
-          "doc_id": "bub_gb_N7kUAAAAYAAJ",
-          "title": "An attempt to analyse the automaton chess player, of Mr. de Kempelen ... to which is added, a ... collection of the knight's moves over the chess board",
-          "year": 1821,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "agent",
-          "text": "…is the intelligence and the \" promethean heat\" tliat can animate the Automaton and direct its operations ? Not only must an intellectual agent be pro* vided, but between such an agent and his deputy, the Automaton, a direct communi- cation must be formed and preserved, liable t…",
-          "start_char": 8340,
-          "end_char": 8345
-        },
-        {
-          "doc_id": "gutenberg_1906",
-          "title": "Erewhon; Or, Over the Range",
-          "year": 1872,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "agent",
-          "text": "…l things which live are responsible for their lives and actions should society see fit to question them through the mouth of its authorised agent. What is the offence of a lamb that we should rear it, and tend it, and lull it into security, for the express purpose of killing it? Its…",
-          "start_char": 178125,
-          "end_char": 178130
-        },
-        {
-          "doc_id": "gutenberg_1906",
-          "title": "Erewhon; Or, Over the Range",
-          "year": 1872,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "agent",
-          "text": "…see,” I had exclaimed, “that the fact of justice being admirable will not be affected by the absence of a belief in her being also a living agent? Can you really think that men will be one whit less hopeful, because they no longer believe that hope is an actual person?” She shook her…",
-          "start_char": 247144,
-          "end_char": 247149
         }
       ],
       "related_concepts": [
         {
           "concept_id": "machine",
-          "count": 56
+          "count": 60
         },
         {
           "concept_id": "reasoning",
-          "count": 54
+          "count": 58
         },
         {
           "concept_id": "network",
-          "count": 53
+          "count": 57
         },
         {
           "concept_id": "error",
-          "count": 53
+          "count": 57
         },
         {
           "concept_id": "mechanism",
-          "count": 50
+          "count": 54
         },
         {
           "concept_id": "learning",
-          "count": 49
+          "count": 52
         },
         {
           "concept_id": "intelligence",
-          "count": 47
+          "count": 51
         },
         {
           "concept_id": "probability",
-          "count": 46
+          "count": 50
         }
       ],
       "variant_count": 14
@@ -4394,8 +4402,8 @@
       "id": "memory",
       "label": "Memory",
       "description": "Theories of retention, recollection, storage, and transmission in minds, bodies, and machines.",
-      "total_hits": 529,
-      "documents_with_hits": 50,
+      "total_hits": 656,
+      "documents_with_hits": 57,
       "by_decade": {
         "1630s": 1,
         "1720s": 1,
@@ -4406,9 +4414,9 @@
         "1840s": 2,
         "1850s": 1,
         "1860s": 5,
-        "1870s": 6,
-        "1880s": 3,
-        "1890s": 7,
+        "1870s": 7,
+        "1880s": 5,
+        "1890s": 11,
         "1900s": 7,
         "1910s": 1,
         "1920s": 2,
@@ -4421,13 +4429,15 @@
       },
       "by_language": {
         "de": 3,
-        "en": 33,
+        "en": 40,
         "fr": 12,
         "ru": 2
       },
       "by_topic": {
         "automata_artificial_beings": 19,
         "computing": 9,
+        "intelligence": 5,
+        "learning": 2,
         "mechanism": 22
       },
       "top_documents": [
@@ -4448,6 +4458,24 @@
           "topic": "mechanism",
           "hit_count": 75,
           "quality_score": 5.884
+        },
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "hit_count": 53,
+          "quality_score": 6.039
+        },
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "hit_count": 53,
+          "quality_score": 6.3
         },
         {
           "doc_id": "wikisource_calculateur_inaudi",
@@ -4547,24 +4575,6 @@
           "topic": "computing",
           "hit_count": 12,
           "quality_score": 5.933
-        },
-        {
-          "doc_id": "gutenberg_67476",
-          "title": "The Automaton Ear, and Other Sketches",
-          "year": 1876,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "hit_count": 9,
-          "quality_score": 5.574
-        },
-        {
-          "doc_id": "CuenotIFB",
-          "title": "Invention et finalité en biologie",
-          "year": 1941,
-          "language_code": "fr",
-          "topic": "mechanism",
-          "hit_count": 9,
-          "quality_score": 5.651
         }
       ],
       "key_excerpts": [
@@ -4633,6 +4643,72 @@
           "text": "…e de M. le docteur Pize sur l'emploi du perchlorure de fer dans le traitement du purpura hœmorragica, et du rapport âe M. Devergie sur ce mémoire. (Voir le Bulletin de l'Académie de mé* decirie, t. XXV.) Une autre longue discussion sur le vitalisme a eu lieu à la même académie en 18…",
           "start_char": 13761,
           "end_char": 13768
+        },
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "memory",
+          "text": "…how it may be overcome; irksomeness of the process; tentative experiments; method used subsequently; the number of recurrent associations; memory; ages at which associations are formed; similarity of the associations in persons of the same country and class of society; different descr…",
+          "start_char": 15350,
+          "end_char": 15356
+        },
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "memory",
+          "text": "…eredity, thus strengthening my arguments. MENTAL IMAGERY. Anecdotes find their way into print, from time to time, of persons whose visual memory is so clear and sharp as to present mental pictures that may be scrutinised with nearly as much ease and prolonged attention as if they wer…",
+          "start_char": 147623,
+          "end_char": 147629
+        },
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "memory",
+          "text": "…eye.' ... I do not see it ... any more than a man sees the thousand lines of Sophocles which under due pressure he is ready to repeat. The memory possesses it, etc.\" Much the same result followed inquiries made for me by a friend among members of the French Institute. On the other h…",
+          "start_char": 151597,
+          "end_char": 151603
+        },
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "memory",
+          "text": "…I am convinced, from the result of the enquiry, that to answer the question fully requires a pretty careful and prolonged interrogation of memory : a task which my questionees were in most cases probably unwilling to undertake. Some asked to keep the paper, and sent in their reply a d…",
+          "start_char": 81706,
+          "end_char": 81712
+        },
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "memory",
+          "text": "…will ovei'come — the forgetfulness which in course of time effaces some experiences from the mind altogether — at least so far as conscious memory is concerned. This kind of forgetfulness will affect the work of all collectors, and the answers of all groups of informants, alike, and ca…",
+          "start_char": 84744,
+          "end_char": 84750
+        },
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "memory",
+          "text": "…are forgotten, or at least ignored, is very large. If we could assume that the number reported for the most recent year was correct — that memory has been trustworthy for a year — we could infer the total number from it by multiplying it by the mean number of years during which our in…",
+          "start_char": 87106,
+          "end_char": 87112
         },
         {
           "doc_id": "wikisource_calculateur_inaudi",
@@ -5064,6 +5140,72 @@
           "end_char": 226058
         },
         {
+          "doc_id": "jamesiana_galton_psychometric_experiments_1879",
+          "title": "Psychometric Experiments",
+          "year": 1879,
+          "language_code": "en",
+          "topic": "learning",
+          "variant": "memory",
+          "text": "…g, by remembering what had occurred to me on previous occasions, for I found that the process itself had great influence in discharging the memory of what it had just been engaged in, and I of course took care between the experiments never to let my thoughts revert to the words. The re…",
+          "start_char": 9771,
+          "end_char": 9777
+        },
+        {
+          "doc_id": "jamesiana_galton_psychometric_experiments_1879",
+          "title": "Psychometric Experiments",
+          "year": 1879,
+          "language_code": "en",
+          "topic": "learning",
+          "variant": "memory",
+          "text": "…nd barely conscious thoughts, and from the proved iteration of them, that the mind is perpetually travelling over familiar ways without our memory retaining any impression of its excursions. Its footsteps are so light and fleeting, that it is only by such experiments as I have describe…",
+          "start_char": 12995,
+          "end_char": 13001
+        },
+        {
+          "doc_id": "jamesiana_galton_psychometric_experiments_1879",
+          "title": "Psychometric Experiments",
+          "year": 1879,
+          "language_code": "en",
+          "topic": "learning",
+          "variant": "memory",
+          "text": "…mber of similar instances. As I understand it, the subject must have a continued living interest in order to retain an abiding-place in the memory. The mind must refer to it frequently, but whether it does so consciously or unconsciously, is not perhaps a matter of much importance. Oth…",
+          "start_char": 13883,
+          "end_char": 13889
+        },
+        {
+          "doc_id": "jamesiana_galton_mental_imagery_1880",
+          "title": "Statistics of Mental Imagery",
+          "year": 1880,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "memory",
+          "text": "…....... I d o not see it . . . any more than a man sees the thousand lines of Sophocles which under due pressure he is ready to repeat. The memory possesses it, &c.” Much the same result followed some inquiries made for me by a friend among members of the French Institute. On the oth…",
+          "start_char": 3694,
+          "end_char": 3700
+        },
+        {
+          "doc_id": "jamesiana_galton_mental_imagery_1880",
+          "title": "Statistics of Mental Imagery",
+          "year": 1880,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "memory",
+          "text": "…en a copy could be made of them on paper. I have drawn both men and places many days or weeks after seeing them, but it was by an effort of memory acting on study at the time, and assisted by trial and error on the paper or canvas, whether in black, yellow or oolour, afterwards. 96. I…",
+          "start_char": 13735,
+          "end_char": 13741
+        },
+        {
+          "doc_id": "jamesiana_galton_mental_imagery_1880",
+          "title": "Statistics of Mental Imagery",
+          "year": 1880,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "memory",
+          "text": "…ly as a figure of speech that I can describe my recollection of a scene as a ‘mental image’ which I can ‘see’ with my ‘mind’s eye.’ . . The memory possesses it, and the mind can at will roam over the whole, or study minutely any part. 97. No individual objects, only a general idea of…",
+          "start_char": 14028,
+          "end_char": 14034
+        },
+        {
           "doc_id": "firstlinesofprac13cull",
           "title": "First lines of the practice of physic",
           "year": 1790,
@@ -5315,172 +5457,40 @@
           "text": "…s and Convulfions ;. with comatofe Stu-- pors, anda liftlefs difregard of any thing that’ is faid or done, from forgetfulnefs or lofs of Memory. Hon TS Sho a Now from all thefe Symptoms, ’tis ma- nifeft that in fuch fort of Fevers, the Blood by fome preternatural S¢zmulus is der…",
           "start_char": 398703,
           "end_char": 398709
-        },
-        {
-          "doc_id": "b30520903_0002",
-          "title": "Philosophical principles of medicine in three parts. Containing, I. A demonstration of the general laws of gravity, with their effects upon animal bodys. II. The more particular laws which obtain in the motion and secretion of the vital fluids, applied to the principal diseases and irregularitys of the animal machine. III. The primary and chief intentions of medicine in the cure of diseases. Problematically propos'd and mechanically resolv'd",
-          "year": 1725,
-          "language_code": "en",
-          "topic": "mechanism",
-          "variant": "memory",
-          "text": "…cks fpeedily. and won: derfully give Relief, in all thofe delirious Ra- vings, {oporiferous Stupors, and. dofs of Rea- fon, Judgment and Memory,| which :are-the common and. well:known Symptoms of high and dangerous Fevers. 3. Tey reduce, ina fhort time, continual Fevers to fuch…",
-          "start_char": 500605,
-          "end_char": 500611
-        },
-        {
-          "doc_id": "levitalismeetla02lemogoog",
-          "title": "Le vitalisme et l'animisme de Stahl",
-          "year": 1864,
-          "language_code": "fr",
-          "topic": "mechanism",
-          "variant": "mémoire",
-          "text": "…ressuscité par les uns et de nouveau combattu par les autres ; c'est que de ces ouvrages quelques-uns étaient directement suscités par le mémoire lu h l'Académie. Aujourd'hui donc que les belles expériences de M. Pasteur attirent l'attention des savants etdii pu- blic sur la ques…",
-          "start_char": 6752,
-          "end_char": 6759
-        },
-        {
-          "doc_id": "levitalismeetla02lemogoog",
-          "title": "Le vitalisme et l'animisme de Stahl",
-          "year": 1864,
-          "language_code": "fr",
-          "topic": "mechanism",
-          "variant": "mémoire",
-          "text": "…a une puissance propre que les oi^anes ne loi donnent pas; les facultés mêmes que l'on rapporte- rait le plus volontiers aux organes, la mémoire, la sen- sibilité, Stahl ne peut les attribuer qu'à l'esprit. La sensation n'est pas pour lui un phénomène or- ganique, elle n'est pas…",
-          "start_char": 182829,
-          "end_char": 182836
-        },
-        {
-          "doc_id": "levitalismeetla02lemogoog",
-          "title": "Le vitalisme et l'animisme de Stahl",
-          "year": 1864,
-          "language_code": "fr",
-          "topic": "mechanism",
-          "variant": "mémoire",
-          "text": "…t en un instant n et passe également en un instant, sans laisser de » traces dans le corps, comme ie pensent ceux qui » se forment de la mémoire une conception vraiment i> risible (2). n C'est là faire de la sensation une opération de l'es- prit, tout active et marne toute volont…",
-          "start_char": 185206,
-          "end_char": 185213
-        },
-        {
-          "doc_id": "bub_gb__f1TQoJzqOIC",
-          "title": "La machine animale locomotion terrestre et aérienne par E.J. Marey",
-          "year": 1873,
-          "language_code": "fr",
-          "topic": "mechanism",
-          "variant": "mémoire",
-          "text": "…r y avait mise. Nos appareils enregistreurs résolvent le double problème d'analyser fidèlement des actes que les sens ne sauraient 1 . Mémoire artificielle des principes relatifs à la fidelle représenta- tion des animaux, tant en peinture qu'en sculpture. Alfort, MDCCLXIX. Digit…",
-          "start_char": 293155,
-          "end_char": 293162
-        },
-        {
-          "doc_id": "bub_gb__f1TQoJzqOIC",
-          "title": "La machine animale locomotion terrestre et aérienne par E.J. Marey",
-          "year": 1873,
-          "language_code": "fr",
-          "topic": "mechanism",
-          "variant": "mémoire",
-          "text": "…voile a été soutenue avec un grand talent par certains observateurs, et particulièrement par le comte d’Esterno, auteur d’un remarquable mémoire sur le vol des oiseaux. Tout le monde, dit cet auteur, peut voir certains oiseaux pratiquer le vol à voile ; le nier, c’est nier l’évid…",
-          "start_char": 430170,
-          "end_char": 430177
-        },
-        {
-          "doc_id": "bub_gb__f1TQoJzqOIC",
-          "title": "La machine animale locomotion terrestre et aérienne par E.J. Marey",
-          "year": 1873,
-          "language_code": "fr",
-          "topic": "mechanism",
-          "variant": "mémoire",
-          "text": "…li. 1 vol. 5fr. STUART M1LL. I.a Phlloaopble de Hamllton. 1 fort vol. tra- duit de l’anglais par il. Gazelles. 10 fr. STUART M1LL. Hes Mémoire*. Histoire de ma vie et -le mes idées, traduit de l’anglais par M. E. Cazeli.es, 1 vol. 5 fr. STUART M1LL. Mystème de logique déductive…",
-          "start_char": 560430,
-          "end_char": 560437
-        },
-        {
-          "doc_id": "lamachineanimal03maregoog",
-          "title": "La machine animale; locomotion terrestre et aérienne",
-          "year": 1873,
-          "language_code": "fr",
-          "topic": "mechanism",
-          "variant": "mémoire",
-          "text": "…r y avait mise. Nos appareils enregistreurs résolvent le double problème d'analyser fidèlement des actes que les sens ne sauraient 1 . Mémoire artificielle des prin<Apes relatifs à la fidelle représenta' tion des animaux^ tant en peinture qvk*en sculpture» Alfort, MDCCLXIX. 148…",
-          "start_char": 293873,
-          "end_char": 293880
-        },
-        {
-          "doc_id": "lamachineanimal03maregoog",
-          "title": "La machine animale; locomotion terrestre et aérienne",
-          "year": 1873,
-          "language_code": "fr",
-          "topic": "mechanism",
-          "variant": "mémoire",
-          "text": "…voile a été soutenue avec un grand talent par certains observateurs, et particulièrement par le comte d'Esterno, auteur d'un remarquable mémoire sur le vol des oiseaux. Tout le monde, dit cet auteur, peut voir certains oiseaux pratiquer le vol à voile; le nier, c'est nier l'évide…",
-          "start_char": 426250,
-          "end_char": 426257
-        },
-        {
-          "doc_id": "lamachineanimal03maregoog",
-          "title": "La machine animale; locomotion terrestre et aérienne",
-          "year": 1873,
-          "language_code": "fr",
-          "topic": "mechanism",
-          "variant": "mémoire",
-          "text": "…eienee de l'taomnief par P. J. Bartbez, médecin de S. M. Napoléon l^', 3® édition^ aujjpmentée du Discours sur le génie d'Hippocrate^ de Mémoire» sur les fluxions et les coliques iliaques, sur la thérapeutique des maladies, sur Tévanouissement, l*extispice^ la fascination, le faun…",
-          "start_char": 640164,
-          "end_char": 640171
-        },
-        {
-          "doc_id": "EtudeOctober1887",
-          "title": "Volume 05, Number 10 (October 1887)",
-          "year": 1887,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "memory",
-          "text": "…overing o’er the surface of the coals, so our consciousness plays o’er the otherwise dormant mind ; now here, now there ; now sense, now memory ; now one emotion, now another starts for the instant into fluttering life and then darkens back into unconsciousness. What we desire is…",
-          "start_char": 68177,
-          "end_char": 68183
-        },
-        {
-          "doc_id": "EtudeOctober1887",
-          "title": "Volume 05, Number 10 (October 1887)",
-          "year": 1887,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "memory",
-          "text": "…that poor maltreated instrument, and, through the magic of his inspired fingers, speak to thousands in tones that will dwell forever in memory ; calling forth at his own will all human emotions, and quickening many a dormant soul to new life, as he, in a manner, recreates the wor…",
-          "start_char": 71693,
-          "end_char": 71699
         }
       ],
       "related_concepts": [
         {
-          "concept_id": "machine",
-          "count": 47
+          "concept_id": "reasoning",
+          "count": 53
         },
         {
           "concept_id": "network",
-          "count": 47
+          "count": 53
         },
         {
           "concept_id": "error",
-          "count": 47
+          "count": 53
+        },
+        {
+          "concept_id": "machine",
+          "count": 52
         },
         {
           "concept_id": "learning",
-          "count": 46
-        },
-        {
-          "concept_id": "reasoning",
-          "count": 46
-        },
-        {
-          "concept_id": "mechanism",
-          "count": 43
+          "count": 51
         },
         {
           "concept_id": "probability",
-          "count": 41
+          "count": 48
         },
         {
-          "concept_id": "agency",
-          "count": 40
+          "concept_id": "mechanism",
+          "count": 47
+        },
+        {
+          "concept_id": "intelligence",
+          "count": 44
         }
       ],
       "variant_count": 9
@@ -5489,8 +5499,8 @@
       "id": "mechanism",
       "label": "Mechanism",
       "description": "Mechanical explanations of life, mind, and motion, including debates with vitalist and spiritual accounts.",
-      "total_hits": 2260,
-      "documents_with_hits": 70,
+      "total_hits": 2296,
+      "documents_with_hits": 74,
       "by_decade": {
         "1720s": 1,
         "1740s": 1,
@@ -5504,8 +5514,8 @@
         "1850s": 2,
         "1860s": 5,
         "1870s": 9,
-        "1880s": 4,
-        "1890s": 6,
+        "1880s": 5,
+        "1890s": 9,
         "1900s": 10,
         "1910s": 3,
         "1920s": 3,
@@ -5518,13 +5528,15 @@
       },
       "by_language": {
         "de": 6,
-        "en": 51,
+        "en": 55,
         "fr": 11,
         "ru": 2
       },
       "by_topic": {
         "automata_artificial_beings": 22,
         "computing": 17,
+        "intelligence": 3,
+        "learning": 1,
         "mechanism": 31
       },
       "top_documents": [
@@ -6549,35 +6561,35 @@
       "related_concepts": [
         {
           "concept_id": "machine",
-          "count": 65
+          "count": 69
         },
         {
           "concept_id": "network",
-          "count": 62
+          "count": 66
         },
         {
           "concept_id": "reasoning",
-          "count": 58
+          "count": 62
         },
         {
           "concept_id": "error",
-          "count": 57
+          "count": 61
         },
         {
           "concept_id": "learning",
-          "count": 51
+          "count": 54
         },
         {
           "concept_id": "agency",
-          "count": 50
+          "count": 54
         },
         {
           "concept_id": "probability",
-          "count": 49
+          "count": 53
         },
         {
           "concept_id": "intelligence",
-          "count": 48
+          "count": 52
         }
       ],
       "variant_count": 14
@@ -6586,8 +6598,8 @@
       "id": "automaton",
       "label": "Automaton",
       "description": "Self-moving artifacts and models of life-like operation central to early machine-intelligence imaginaries.",
-      "total_hits": 770,
-      "documents_with_hits": 32,
+      "total_hits": 777,
+      "documents_with_hits": 33,
       "by_decade": {
         "1630s": 1,
         "1690s": 2,
@@ -6603,7 +6615,7 @@
         "1860s": 3,
         "1870s": 1,
         "1880s": 1,
-        "1890s": 3,
+        "1890s": 4,
         "1900s": 4,
         "1910s": 1,
         "1930s": 1,
@@ -6611,13 +6623,14 @@
       },
       "by_language": {
         "de": 2,
-        "en": 26,
+        "en": 27,
         "fr": 3,
         "ru": 1
       },
       "by_topic": {
         "automata_artificial_beings": 22,
         "computing": 5,
+        "intelligence": 1,
         "mechanism": 5
       },
       "top_documents": [
@@ -7287,6 +7300,39 @@
           "end_char": 36332
         },
         {
+          "doc_id": "jamesiana_james_automaton_theory_1890",
+          "title": "The Principles of Psychology, Chapter V: The Automaton-Theory",
+          "year": 1890,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "automaton",
+          "text": "THE AUTOMATON-THEORY. In describing the functions of the hemispheres a short way back, we used language derived from both the bodily and the mental life…",
+          "start_char": 4,
+          "end_char": 13
+        },
+        {
+          "doc_id": "jamesiana_james_automaton_theory_1890",
+          "title": "The Principles of Psychology, Chapter V: The Automaton-Theory",
+          "year": 1890,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "automata",
+          "text": "…n is not the cause of a voluntary act, but the symbol of that state of the brain which is the immediate cause of that act. We are conscious automata.\" Professor Clifford writes: \"All the evidence that we have goes to show that the physical world gets along entirely by itself, according…",
+          "start_char": 7641,
+          "end_char": 7649
+        },
+        {
+          "doc_id": "jamesiana_james_automaton_theory_1890",
+          "title": "The Principles of Psychology, Chapter V: The Automaton-Theory",
+          "year": 1890,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "automaton",
+          "text": "…f good news is the direct producer of the feeling of joy, the awareness of premises that of the belief in conclusions. But according to the automaton-theory, each of the feelings mentioned is only the correlate of some nerve-movement whose _cause_ lay wholly in a previous nerve-movement.…",
+          "start_char": 12553,
+          "end_char": 12562
+        },
+        {
           "doc_id": "duprincipevital00bouigoog",
           "title": "Du principe vital et de l'âme pensante: ou, Examen des diverses doctrines ...",
           "year": 1862,
@@ -7543,22 +7589,26 @@
       "related_concepts": [
         {
           "concept_id": "machine",
-          "count": 30
+          "count": 31
         },
         {
           "concept_id": "mechanism",
-          "count": 25
+          "count": 26
         },
         {
           "concept_id": "error",
-          "count": 25
+          "count": 26
         },
         {
           "concept_id": "reasoning",
-          "count": 24
+          "count": 25
         },
         {
           "concept_id": "network",
+          "count": 25
+        },
+        {
+          "concept_id": "agency",
           "count": 24
         },
         {
@@ -7566,12 +7616,8 @@
           "count": 23
         },
         {
-          "concept_id": "agency",
-          "count": 23
-        },
-        {
           "concept_id": "intelligence",
-          "count": 21
+          "count": 22
         }
       ],
       "variant_count": 11
@@ -7580,8 +7626,8 @@
       "id": "machine",
       "label": "Machine",
       "description": "Broad discourse on machines and engines as models, tools, and metaphors for cognition and society.",
-      "total_hits": 2683,
-      "documents_with_hits": 90,
+      "total_hits": 2698,
+      "documents_with_hits": 95,
       "by_decade": {
         "1630s": 1,
         "1640s": 1,
@@ -7598,9 +7644,9 @@
         "1840s": 3,
         "1850s": 3,
         "1860s": 6,
-        "1870s": 12,
-        "1880s": 4,
-        "1890s": 9,
+        "1870s": 13,
+        "1880s": 5,
+        "1890s": 12,
         "1900s": 11,
         "1910s": 5,
         "1920s": 4,
@@ -7613,13 +7659,15 @@
       },
       "by_language": {
         "de": 7,
-        "en": 63,
+        "en": 68,
         "fr": 17,
         "ru": 3
       },
       "by_topic": {
         "automata_artificial_beings": 31,
         "computing": 24,
+        "intelligence": 3,
+        "learning": 2,
         "mechanism": 35
       },
       "top_documents": [
@@ -8644,35 +8692,35 @@
       "related_concepts": [
         {
           "concept_id": "network",
-          "count": 68
+          "count": 73
         },
         {
           "concept_id": "error",
-          "count": 66
+          "count": 70
         },
         {
           "concept_id": "mechanism",
-          "count": 65
+          "count": 69
         },
         {
           "concept_id": "reasoning",
-          "count": 63
+          "count": 68
         },
         {
           "concept_id": "learning",
-          "count": 59
+          "count": 63
         },
         {
           "concept_id": "intelligence",
-          "count": 58
-        },
-        {
-          "concept_id": "agency",
-          "count": 56
+          "count": 62
         },
         {
           "concept_id": "probability",
-          "count": 56
+          "count": 61
+        },
+        {
+          "concept_id": "agency",
+          "count": 60
         }
       ],
       "variant_count": 10
@@ -8681,8 +8729,8 @@
       "id": "computation",
       "label": "Computation",
       "description": "Calculation, symbolic operations, and formal procedures from early arithmetic devices to computational theory.",
-      "total_hits": 400,
-      "documents_with_hits": 50,
+      "total_hits": 411,
+      "documents_with_hits": 52,
       "by_decade": {
         "1630s": 1,
         "1710s": 1,
@@ -8694,9 +8742,9 @@
         "1840s": 4,
         "1850s": 1,
         "1860s": 5,
-        "1870s": 8,
-        "1880s": 3,
-        "1890s": 5,
+        "1870s": 7,
+        "1880s": 5,
+        "1890s": 6,
         "1900s": 6,
         "1910s": 3,
         "1920s": 1,
@@ -8705,14 +8753,15 @@
         "1960s": 1
       },
       "by_language": {
-        "de": 10,
-        "en": 26,
+        "de": 9,
+        "en": 29,
         "fr": 11,
         "ru": 3
       },
       "by_topic": {
         "automata_artificial_beings": 11,
-        "computing": 22,
+        "computing": 21,
+        "intelligence": 3,
         "mechanism": 17
       },
       "top_documents": [
@@ -8789,6 +8838,15 @@
           "quality_score": 6.085
         },
         {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "hit_count": 12,
+          "quality_score": 6.3
+        },
+        {
           "doc_id": "bub_gb_TcsCAAAAYAAJ",
           "title": "Chess and chess-players:",
           "year": 1850,
@@ -8841,15 +8899,6 @@
           "topic": "mechanism",
           "hit_count": 4,
           "quality_score": 5.473
-        },
-        {
-          "doc_id": "gutenberg_11984",
-          "title": "A Pluralistic Universe: Hibbert Lectures at Manchester College on the Present Situation in Philosophy",
-          "year": 1909,
-          "language_code": "en",
-          "topic": "computing",
-          "hit_count": 4,
-          "quality_score": 5.915
         }
       ],
       "key_excerpts": [
@@ -9116,6 +9165,39 @@
           "text": "…ifîêfme, oufi c’eneïïVneducroifi.» cfrac. Qu’en deferira vue du quàtnèfme, & ainfi a l^infini.. comme ileft: fortayfc\" a connoiftrepar le calcul. Et en quelque autre fa^oii, qu’on imagine ladefeription d'vne ligne courbe , pourvûqu’cllélbit du nombre de celles qùcic nomme Géométri…",
           "start_char": 590852,
           "end_char": 590858
+        },
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "calculation",
+          "text": "…p. XIII.. Here, in arguing against the theory of chance coincidence, as applied to apparitions prima facie veridical, Mr. Gurney employed a calculation framed on the basis of a Census similar to ours ; and obtained the result that chance could not account for the number of coincidences. He…",
+          "start_char": 17649,
+          "end_char": 17660
+        },
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "calculation",
+          "text": "…the death — that is, within twelve hours either before or after it.^ The reason for selecting these particular limits is the convenience of calculation. We shall accordingly speak of a coincidence of this kind as a \"death-coincidence.\" We propose in this chapter to discuss the death-coincid…",
+          "start_char": 494812,
+          "end_char": 494823
+        },
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "calculation",
+          "text": "…unted once for each percipient in the general Death-Coincidences. Further, to avoid complication, we do not intend to use for purposes of calculation cases occurring to percipients who have experienced other hallucinations, some of which were, or may have been, apparitions of living perso…",
+          "start_char": 496716,
+          "end_char": 496727
         },
         {
           "doc_id": "bub_gb_TcsCAAAAYAAJ",
@@ -9481,39 +9563,6 @@
           "end_char": 408993
         },
         {
-          "doc_id": "wikisource_blindenanstalt_steglitz",
-          "title": "Besuch der Blindenanstalt in Steglitz",
-          "year": 1877,
-          "language_code": "de",
-          "topic": "computing",
-          "variant": "rechnen",
-          "text": "…hierin die Neuzeit nicht zurückbleiben. Unentbehrlich ist die Hand ferner in der Arithmetik, Geometrie, Geographie und Naturgeschichte. Im Rechnen hat jeder Schüler eine sogenannte russische Rechenmaschine (auf Draht gezogene Holzkugeln), mit welcher die ersten Zahlenbegriffe gewonnen…",
-          "start_char": 13535,
-          "end_char": 13542
-        },
-        {
-          "doc_id": "wikisource_blindenanstalt_steglitz",
-          "title": "Besuch der Blindenanstalt in Steglitz",
-          "year": 1877,
-          "language_code": "de",
-          "topic": "computing",
-          "variant": "rechenmaschine",
-          "text": "…ch ist die Hand ferner in der Arithmetik, Geometrie, Geographie und Naturgeschichte. Im Rechnen hat jeder Schüler eine sogenannte russische Rechenmaschine (auf Draht gezogene Holzkugeln), mit welcher die ersten Zahlenbegriffe gewonnen werden; hieran schließt sich später das schriftliche und Ko…",
-          "start_char": 13587,
-          "end_char": 13601
-        },
-        {
-          "doc_id": "wikisource_blindenanstalt_steglitz",
-          "title": "Besuch der Blindenanstalt in Steglitz",
-          "year": 1877,
-          "language_code": "de",
-          "topic": "computing",
-          "variant": "rechnen",
-          "text": "…es gleichaltrige sehende Kind in Bezug auf die Resultate in der Concurrenz erliegen würde. Viele Blinde haben außerordentliches Talent für Rechnen und Mathematik, welche Erscheinung auf das vorzügliche Gedächtniß, eine Hauptkraft derselben, zurückzuführen ist. Die Geometrie hat Körper…",
-          "start_char": 13909,
-          "end_char": 13916
-        },
-        {
           "doc_id": "lamachineanimal02maregoog",
           "title": "La machine animale: locomotion terrestre et sérienne",
           "year": 1878,
@@ -9737,35 +9786,35 @@
       "related_concepts": [
         {
           "concept_id": "machine",
-          "count": 46
+          "count": 48
         },
         {
           "concept_id": "error",
-          "count": 40
+          "count": 43
         },
         {
           "concept_id": "network",
-          "count": 39
+          "count": 42
         },
         {
           "concept_id": "mechanism",
-          "count": 38
+          "count": 40
         },
         {
           "concept_id": "reasoning",
-          "count": 36
-        },
-        {
-          "concept_id": "learning",
-          "count": 35
+          "count": 39
         },
         {
           "concept_id": "probability",
-          "count": 35
+          "count": 38
+        },
+        {
+          "concept_id": "learning",
+          "count": 37
         },
         {
           "concept_id": "memory",
-          "count": 30
+          "count": 33
         }
       ],
       "variant_count": 16
@@ -9774,14 +9823,14 @@
       "id": "automation",
       "label": "Automation",
       "description": "Automatic operation, mechanization of labor, and social debates about replacing human action with systems.",
-      "total_hits": 68,
-      "documents_with_hits": 23,
+      "total_hits": 98,
+      "documents_with_hits": 29,
       "by_decade": {
         "1850s": 1,
         "1860s": 2,
-        "1870s": 4,
-        "1880s": 3,
-        "1890s": 2,
+        "1870s": 5,
+        "1880s": 5,
+        "1890s": 5,
         "1900s": 2,
         "1920s": 1,
         "1930s": 2,
@@ -9793,16 +9842,27 @@
       },
       "by_language": {
         "de": 1,
-        "en": 13,
+        "en": 19,
         "fr": 8,
         "ru": 1
       },
       "by_topic": {
         "automata_artificial_beings": 7,
         "computing": 3,
+        "intelligence": 4,
+        "learning": 2,
         "mechanism": 13
       },
       "top_documents": [
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "hit_count": 12,
+          "quality_score": 6.039
+        },
         {
           "doc_id": "betweenworlds_201911",
           "title": "Between Two Worlds",
@@ -9820,6 +9880,24 @@
           "topic": "automata_artificial_beings",
           "hit_count": 9,
           "quality_score": 5.944
+        },
+        {
+          "doc_id": "jamesiana_james_habit_1890",
+          "title": "The Principles of Psychology, Chapter IV: Habit",
+          "year": 1890,
+          "language_code": "en",
+          "topic": "learning",
+          "hit_count": 7,
+          "quality_score": 5.018
+        },
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "hit_count": 7,
+          "quality_score": 6.3
         },
         {
           "doc_id": "LLP_1964100901",
@@ -9894,6 +9972,15 @@
           "quality_score": 5.845
         },
         {
+          "doc_id": "jamesiana_galton_psychometric_experiments_1879",
+          "title": "Psychometric Experiments",
+          "year": 1879,
+          "language_code": "en",
+          "topic": "learning",
+          "hit_count": 2,
+          "quality_score": 4.722
+        },
+        {
           "doc_id": "RDM_1907040901",
           "title": "News (1907-04-09)",
           "year": 1907,
@@ -9901,45 +9988,42 @@
           "topic": "automata_artificial_beings",
           "hit_count": 2,
           "quality_score": 5.11
-        },
-        {
-          "doc_id": "CuenotIFB",
-          "title": "Invention et finalité en biologie",
-          "year": 1941,
-          "language_code": "fr",
-          "topic": "mechanism",
-          "hit_count": 2,
-          "quality_score": 5.651
-        },
-        {
-          "doc_id": "essayonorganicor01watt",
-          "title": "An essay on organic, or life force /",
-          "year": 1851,
-          "language_code": "en",
-          "topic": "mechanism",
-          "hit_count": 1,
-          "quality_score": 4.733
-        },
-        {
-          "doc_id": "levitalismeetla02lemogoog",
-          "title": "Le vitalisme et l'animisme de Stahl",
-          "year": 1864,
-          "language_code": "fr",
-          "topic": "mechanism",
-          "hit_count": 1,
-          "quality_score": 5.523
-        },
-        {
-          "doc_id": "EtudeOctober1887",
-          "title": "Volume 05, Number 10 (October 1887)",
-          "year": 1887,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "hit_count": 1,
-          "quality_score": 5.312
         }
       ],
       "key_excerpts": [
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "automatic",
+          "text": "…iousness of seers, at first, of their peculiarity; subsequent dislike to speak about it; imagery connected with words; that of Mrs. Haweis; automatic changes in dark field of eye; my own experiences; those of Rev. G. Henslow; visions frequently unlike vivid visualisations; phantasmagoria;…",
+          "start_char": 14038,
+          "end_char": 14047
+        },
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "automatic",
+          "text": "…y; abstract ideas are slowly formed; multifariousness of sub-conscious operations. ANTECHAMBER OF CONSCIOUSNESS Act of thinking analysed; automatic mental work; fluency of words and of imagery; processes of literary composition; fluency of spiritual ideas; visionary races of men; morbid…",
+          "start_char": 15696,
+          "end_char": 15705
+        },
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "automatic",
+          "text": "…eculiarity in question is found, speaking very roughly, in about 1 out of every 30 adult males or 15 females. It consists in the sudden and automatic appearance of a vivid and invariable \"Form\" in the mental field of view, whenever a numeral is thought of, in which each numeral has its ow…",
+          "start_char": 205819,
+          "end_char": 205828
+        },
         {
           "doc_id": "betweenworlds_201911",
           "title": "Between Two Worlds",
@@ -10005,6 +10089,72 @@
           "text": "…ate indifferently whatever she was fed with, and took nauseous medicines as readily as agreeable food. Her movements were solely of the automatic kind. Thus, she swallowed food put into her mouth, but made no effort to feed herself. Yet when her mother had conveyed the spoon [in the…",
           "start_char": 592940,
           "end_char": 592949
+        },
+        {
+          "doc_id": "jamesiana_james_habit_1890",
+          "title": "The Principles of Psychology, Chapter IV: Habit",
+          "year": 1890,
+          "language_code": "en",
+          "topic": "learning",
+          "variant": "automatic",
+          "text": "…uctive process proportionally active. And this modifiability expresses itself in the formation of the mechanism by which those _secondarily automatic_ modes of movement come to be established, which, in man, take the place of those that are _congenital_ in most of the animals beneath him;…",
+          "start_char": 15790,
+          "end_char": 15799
+        },
+        {
+          "doc_id": "jamesiana_james_habit_1890",
+          "title": "The Principles of Psychology, Chapter IV: Habit",
+          "year": 1890,
+          "language_code": "en",
+          "topic": "learning",
+          "variant": "automatic",
+          "text": "…ction. \"What is so clearly true of the nervous apparatus of animal life can scarcely be otherwise than true of that which ministers to the automatic activity of the mind. For, as already shown, the study of psychology has evolved no more certain result than that there are uniformities of…",
+          "start_char": 17633,
+          "end_char": 17642
+        },
+        {
+          "doc_id": "jamesiana_james_habit_1890",
+          "title": "The Principles of Psychology, Chapter IV: Habit",
+          "year": 1890,
+          "language_code": "en",
+          "topic": "learning",
+          "variant": "automatic",
+          "text": "…th a tendency to do more things than he has ready-made arrangements for in his nerve-centres. Most of the performances of other animals are automatic. But in him the number of them is so enormous, that most of them must be the fruit of painful study. If practice did not make perfect, nor…",
+          "start_char": 22934,
+          "end_char": 22943
+        },
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "automatic",
+          "text": "…lection, No. 49. 5 (see pp. 144-5), and No. 402. 8 (see p. 284.) The phenomenon resembles Form and Development of Hallucinations. that of automatic writing when the writer is unaware till afterwards of what his hand is writing. It has also some analogy with a phenomenon observed by Mr.…",
+          "start_char": 274494,
+          "end_char": 274503
+        },
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "automatic",
+          "text": "…, what he calls \"completely developed \" hallucinations— i.e., of the kinds included in the present collection — are generally caused by the automatic activity of the nerve centres. [Illusions, p. 115.) Speaking of persistent dreamimages, he I'emarks {Ojo. cit., p. 143) \" That the visual i…",
+          "start_char": 296184,
+          "end_char": 296193
+        },
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "automatic",
+          "text": "…time of his death by drowning. This she had heard from her mother. The latter was at one time interested in Spiritualism, and exhibited an automatic capacity for drawing flowers, etc., in which she had normally no ability at all. Later, circumstances determined her to have nothing more t…",
+          "start_char": 349663,
+          "end_char": 349672
         },
         {
           "doc_id": "LLP_1964100901",
@@ -10260,6 +10410,28 @@
           "end_char": 401672
         },
         {
+          "doc_id": "jamesiana_galton_psychometric_experiments_1879",
+          "title": "Psychometric Experiments",
+          "year": 1879,
+          "language_code": "en",
+          "topic": "learning",
+          "variant": "automatic",
+          "text": "…t deal with the second process at all, so I need not speak more in detail concerning it, but I address myself wholly to the first. It is an automatic one; the ideas arise of their own accord, and we cannot, except in indirect and imperfect ways, compel them to come. My object is to show h…",
+          "start_char": 1259,
+          "end_char": 1268
+        },
+        {
+          "doc_id": "jamesiana_galton_psychometric_experiments_1879",
+          "title": "Psychometric Experiments",
+          "year": 1879,
+          "language_code": "en",
+          "topic": "learning",
+          "variant": "automatic",
+          "text": "…stopped the chronograph and wrote them down, and the time they occupied. I soon got into the way of doing all this in a very methodical and automatic manner, keeping the mind perfectly calm and neutral, but intent and, as it were, at full cock and on hair trigger, before displaying the wo…",
+          "start_char": 8605,
+          "end_char": 8614
+        },
+        {
           "doc_id": "RDM_1907040901",
           "title": "News (1907-04-09)",
           "year": 1907,
@@ -10326,6 +10498,17 @@
           "end_char": 183605
         },
         {
+          "doc_id": "jamesiana_galton_mental_imagery_1880",
+          "title": "Statistics of Mental Imagery",
+          "year": 1880,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "automatic",
+          "text": "…y gentlemen who had this curious habit of invariably associating numbers with definite forms of mental imagery. It is a habit that is quite automatic, the form is frequently very vivid and sometimes very elaborate and highly coloured, and its origin is always earlier than those who see it…",
+          "start_char": 43261,
+          "end_char": 43270
+        },
+        {
           "doc_id": "EtudeOctober1887",
           "title": "Volume 05, Number 10 (October 1887)",
           "year": 1887,
@@ -10335,6 +10518,17 @@
           "text": "…bstitute for the piano in learning I IWmf |H I IWHHR the mechanical part or technic of piano playing. I | For the easy, certain, almost automatic ac- |jf quiring of a perfect legato and all grades of J I V ■ ’ ' staccato, it is as superior to the piano as the I 1 I foot-rule is su…",
           "start_char": 199681,
           "end_char": 199690
+        },
+        {
+          "doc_id": "jamesiana_james_automaton_theory_1890",
+          "title": "The Principles of Psychology, Chapter V: The Automaton-Theory",
+          "year": 1890,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "automatic",
+          "text": "…history of consciousness lend color to this view. Consciousness, for example, is only intense when nerve-processes are hesitant. In rapid, automatic, habitual action it sinks to a minimum. Nothing could be more fitting than this, if consciousness have the teleological function we suppose…",
+          "start_char": 32551,
+          "end_char": 32560
         },
         {
           "doc_id": "wikisource_james_watt_kamensky",
@@ -10427,36 +10621,36 @@
       ],
       "related_concepts": [
         {
-          "concept_id": "mechanism",
-          "count": 23
-        },
-        {
-          "concept_id": "machine",
-          "count": 22
-        },
-        {
           "concept_id": "network",
-          "count": 22
-        },
-        {
-          "concept_id": "learning",
-          "count": 21
+          "count": 28
         },
         {
           "concept_id": "reasoning",
-          "count": 21
+          "count": 27
+        },
+        {
+          "concept_id": "mechanism",
+          "count": 27
+        },
+        {
+          "concept_id": "machine",
+          "count": 27
         },
         {
           "concept_id": "error",
-          "count": 21
+          "count": 26
         },
         {
           "concept_id": "intelligence",
-          "count": 20
+          "count": 25
         },
         {
-          "concept_id": "agency",
-          "count": 20
+          "concept_id": "learning",
+          "count": 25
+        },
+        {
+          "concept_id": "probability",
+          "count": 25
         }
       ],
       "variant_count": 15
@@ -10465,8 +10659,8 @@
       "id": "probability",
       "label": "Probability",
       "description": "Statistical and probabilistic reasoning about uncertainty, prediction, and regularity.",
-      "total_hits": 579,
-      "documents_with_hits": 60,
+      "total_hits": 803,
+      "documents_with_hits": 67,
       "by_decade": {
         "1630s": 1,
         "1710s": 1,
@@ -10478,9 +10672,9 @@
         "1840s": 2,
         "1850s": 2,
         "1860s": 6,
-        "1870s": 10,
-        "1880s": 3,
-        "1890s": 4,
+        "1870s": 11,
+        "1880s": 5,
+        "1890s": 8,
         "1900s": 9,
         "1910s": 1,
         "1920s": 3,
@@ -10492,13 +10686,15 @@
       },
       "by_language": {
         "de": 8,
-        "en": 38,
+        "en": 45,
         "fr": 13,
         "ru": 1
       },
       "by_topic": {
         "automata_artificial_beings": 19,
         "computing": 9,
+        "intelligence": 5,
+        "learning": 2,
         "mechanism": 32
       },
       "top_documents": [
@@ -10512,6 +10708,15 @@
           "quality_score": 5.651
         },
         {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "hit_count": 106,
+          "quality_score": 6.3
+        },
+        {
           "doc_id": "bnf-bpt6k6138503q",
           "title": "Matérialisme, vitalisme, rationalisme : études sur l'emploi des données de la science en philosophie / par M. Cournot,..",
           "year": 1875,
@@ -10519,6 +10724,15 @@
           "topic": "mechanism",
           "hit_count": 100,
           "quality_score": 5.845
+        },
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "hit_count": 86,
+          "quality_score": 6.039
         },
         {
           "doc_id": "wikisource_passages_from_the_life_of_a_philosopher",
@@ -10546,6 +10760,15 @@
           "topic": "computing",
           "hit_count": 27,
           "quality_score": 5.933
+        },
+        {
+          "doc_id": "jamesiana_galton_mental_imagery_1880",
+          "title": "Statistics of Mental Imagery",
+          "year": 1880,
+          "language_code": "en",
+          "topic": "intelligence",
+          "hit_count": 21,
+          "quality_score": 4.907
         },
         {
           "doc_id": "mechanismusundv00btgoog",
@@ -10609,33 +10832,6 @@
           "topic": "mechanism",
           "hit_count": 8,
           "quality_score": 5.688
-        },
-        {
-          "doc_id": "in.ernet.dli.2015.91128",
-          "title": "The Book Of Illustrious Mechanics Of Europe And America",
-          "year": 1848,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "hit_count": 7,
-          "quality_score": 5.765
-        },
-        {
-          "doc_id": "levitalismeetla02lemogoog",
-          "title": "Le vitalisme et l'animisme de Stahl",
-          "year": 1864,
-          "language_code": "fr",
-          "topic": "mechanism",
-          "hit_count": 7,
-          "quality_score": 5.523
-        },
-        {
-          "doc_id": "gutenberg_11984",
-          "title": "A Pluralistic Universe: Hibbert Lectures at Manchester College on the Present Situation in Philosophy",
-          "year": 1909,
-          "language_code": "en",
-          "topic": "computing",
-          "hit_count": 7,
-          "quality_score": 5.915
         }
       ],
       "key_excerpts": [
@@ -10673,6 +10869,39 @@
           "end_char": 4595
         },
         {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "statistical",
+          "text": "III. KEPORT ON THE CENSUS OF HALLUCINATIONS. Chapter I. INTRODUCTORY. The statistical inquiry into the spontaneous hallucinations of the sane, of which the results are here given, was undertaken in 1889 by the Committee which…",
+          "start_char": 78,
+          "end_char": 89
+        },
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "statistical",
+          "text": "…our experience of the labour involved in the investigation ; which renders it, in our opinion, very doubtful whether any equally extensive statistical inquiry into the charactei'istics and conditions of this class of phenomena will ever again be undertaken, unless with some such special in…",
+          "start_char": 1608,
+          "end_char": 1619
+        },
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "statistical",
+          "text": "…its scope, divides itself naturally into three parts. First, in Chapters II. and III., we explain the method of inquiry, present the chief statistical results in a tabular form, and then give a full discussion of possible sources of error and endeavour to estimate the extent of their opera…",
+          "start_char": 1986,
+          "end_char": 1997
+        },
+        {
           "doc_id": "bnf-bpt6k6138503q",
           "title": "Matérialisme, vitalisme, rationalisme : études sur l'emploi des données de la science en philosophie / par M. Cournot,..",
           "year": 1875,
@@ -10704,6 +10933,39 @@
           "text": "…forme d'hypothèse! § 6. ^ Des modes de succession et d’extinction des pliénomèues pliysico-cMmiques et des idées de déterminisme et de hasard qui y sont appli¬ cables. Après cette digression sur les sources de nos connais¬ sances, reprenons le cours de nos explications théori¬…",
           "start_char": 107520,
           "end_char": 107526
+        },
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "statistical",
+          "text": "…the Domestication of Animals (_Journal of Ethnological Society_); 1871: Gregariousness in Cattle and in Men (_Macmillan's Magazine_); 1872: Statistical Inquiries into the Efficacy of Prayer (_Fortnightly Review_); 1873: Relative Supplies from Town and Country Families to the Population of F…",
+          "start_char": 4621,
+          "end_char": 4632
+        },
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "statistical",
+          "text": "…Prayer (_Fortnightly Review_); 1873: Relative Supplies from Town and Country Families to the Population of Future Generations (_Journal of Statistical Society_); Hereditary Improvement (_Fraser's Magazine_); Africa for the Chinese (_Times_, June 6); 1875: Statistics by Intercomparison (_Ph…",
+          "start_char": 4803,
+          "end_char": 4814
+        },
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "statistics",
+          "text": "…nerations (_Journal of Statistical Society_); Hereditary Improvement (_Fraser's Magazine_); Africa for the Chinese (_Times_, June 6); 1875: Statistics by Intercomparison (_Philosophical Magazine_); Twins, as a Criterion of the Relative Power of Nature and Nurture (_Fraser's Magazine_, and…",
+          "start_char": 4920,
+          "end_char": 4930
         },
         {
           "doc_id": "wikisource_passages_from_the_life_of_a_philosopher",
@@ -10803,6 +11065,39 @@
           "text": "…, as upon a seashore. Fording was out of the question. I could not swim and carry my swag, and I dared not leave my swag behind me. My only chance was to make a small raft; and that would be difficult to make, and not at all safe when it was made,—not for one man in such a current. As…",
           "start_char": 61857,
           "end_char": 61863
+        },
+        {
+          "doc_id": "jamesiana_galton_mental_imagery_1880",
+          "title": "Statistics of Mental Imagery",
+          "year": 1880,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "statistics",
+          "text": "STATISTICS OF MENTAL IMAGERY Francis Galton — Mind, 1880 A n outline is given in the following memoir of some of the earlier results of an inquiry wh…",
+          "start_char": 0,
+          "end_char": 10
+        },
+        {
+          "doc_id": "jamesiana_galton_mental_imagery_1880",
+          "title": "Statistics of Mental Imagery",
+          "year": 1880,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "statistical",
+          "text": "…outline is given in the following memoir of some of the earlier results of an inquiry which I am still prosecuting, and a comparatively new statistical process will he used in it for the first time in dealing with psychological data. It is that which I described under the title of “ Statist…",
+          "start_char": 202,
+          "end_char": 213
+        },
+        {
+          "doc_id": "jamesiana_galton_mental_imagery_1880",
+          "title": "Statistics of Mental Imagery",
+          "year": 1880,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "statistics",
+          "text": "…istical process will he used in it for the first time in dealing with psychological data. It is that which I described under the title of “ Statistics by Intercom­ parison” in the Philosophical Magazine of Jany., 1875. The larger object of my inquiry is to elicit facts that shall define t…",
+          "start_char": 346,
+          "end_char": 356
         },
         {
           "doc_id": "mechanismusundv00btgoog",
@@ -11168,6 +11463,39 @@
           "end_char": 162666
         },
         {
+          "doc_id": "jamesiana_galton_psychometric_experiments_1879",
+          "title": "Psychometric Experiments",
+          "year": 1879,
+          "language_code": "en",
+          "topic": "learning",
+          "variant": "statistical",
+          "text": "…the back, come on again at the other. I accordingly cast about for means of laying hold of these fleeting thoughts, and, submitting them to statistical analysis, to find out more about their tendency to repetition and other matters, and the method I finally adopted was the one already menti…",
+          "start_char": 7067,
+          "end_char": 7078
+        },
+        {
+          "doc_id": "jamesiana_galton_psychometric_experiments_1879",
+          "title": "Psychometric Experiments",
+          "year": 1879,
+          "language_code": "en",
+          "topic": "learning",
+          "variant": "statistical",
+          "text": "…se took care between the experiments never to let my thoughts revert to the words. The results seem to me to be as trustworthy as any other statistical series that has been collected with equal care. On throwing these results into a common statistical hotchpot, I first examined into the rat…",
+          "start_char": 9968,
+          "end_char": 9979
+        },
+        {
+          "doc_id": "jamesiana_galton_psychometric_experiments_1879",
+          "title": "Psychometric Experiments",
+          "year": 1879,
+          "language_code": "en",
+          "topic": "learning",
+          "variant": "statistical",
+          "text": "…to me to be as trustworthy as any other statistical series that has been collected with equal care. On throwing these results into a common statistical hotchpot, I first examined into the rate at which these associated ideas were formed. It took a total time of 660 seconds to form the 505 i…",
+          "start_char": 10068,
+          "end_char": 10079
+        },
+        {
           "doc_id": "storyoflivingmac00connrich",
           "title": "The story of the living machine; a review of the conclusions of modern biology in regard to the mechanism which controls the phenomena of living activity",
           "year": 1899,
@@ -11386,172 +11714,40 @@
           "text": "…specialis\" je von hoher Mannigfaltigkeit, und eben wegen deren leichter Zerstörbarkeit erfordere er besondere Kräfte der Erhaltung. Der Zufall (casus) im Sinne des Demokrit oder Ep'ikur genügt also nicht zur Erklärung des Lebens- körpers; von den ewigen Gesetzen, den „leges aeter…",
           "start_char": 60959,
           "end_char": 60965
-        },
-        {
-          "doc_id": "dervitalismusal00driegoog",
-          "title": "Der Vitalismus als Geschichte und als Lehre",
-          "year": 1905,
-          "language_code": "de",
-          "topic": "mechanism",
-          "variant": "wahrscheinlichkeit",
-          "text": "…m Zitieren liegt aber wohl bei einem Philosophen, der gewohnt ist, sich seine Sprache in weitem Maße selbst zu schaffen, nicht außer der Wahrscheinlichkeit Bereich. Zum anderen geben wir die Möglichkeit zu bedenken, daß Kant den begrifflichen Unterschied zwischen sta- tischer und dynamische…",
-          "start_char": 154167,
-          "end_char": 154185
-        },
-        {
-          "doc_id": "LBT_1990021601",
-          "title": "La liberté (1990-02-16)",
-          "year": 1990,
-          "language_code": "fr",
-          "topic": "mechanism",
-          "variant": "chance",
-          "text": "…PE) Claire Noël, candidate pour l'investiture libérale dans La Vérendrye. «J'ai rencontré Sha- ron Carstairs, elle m'a souhaité bonne chance». Claire Noël, mariée à Maurice Noël et mère de 6 enfants, vient d'une «famille libérale». Elle esti- me avoir «prouvé son engage- me…",
-          "start_char": 31567,
-          "end_char": 31573
-        },
-        {
-          "doc_id": "LBT_1990021601",
-          "title": "La liberté (1990-02-16)",
-          "year": 1990,
-          "language_code": "fr",
-          "topic": "mechanism",
-          "variant": "chance",
-          "text": "…abord La Vérendrye, puis Lac- du-Bonnet et Springfield. Stein- bach et Emerson seront plus dif- ficiles à gagner, mais il y a une bonne chance». Bernard BOCQUEL (1) En effet, la lutte s'annonce plutôt chaude chez les conservateurs pour l'inves- titure du parti dans La Vérendr…",
-          "start_char": 33027,
-          "end_char": 33033
-        },
-        {
-          "doc_id": "LBT_1990021601",
-          "title": "La liberté (1990-02-16)",
-          "year": 1990,
-          "language_code": "fr",
-          "topic": "mechanism",
-          "variant": "chance",
-          "text": "…ent l'occasion de montrer au monde entier qu'elle est capable d'appuyer un club pro- fessionnel. Et quelques joueurs inconnus auront la chance de faire valoir leurs talents aux dépisteurs de la vraie ligue. La Ligue Global ne survivra pas. Comme l'Association Mon- diale avant…",
-          "start_char": 111889,
-          "end_char": 111895
-        },
-        {
-          "doc_id": "10471351bsb",
-          "title": "Abhandlung über das durch Ertrinken, Erdrosseln und Ersticken gehemmte Athemholen: nebst Vorschlägen zu einer neuen Behandlungsart dieser Krankheit ; mit einem Kupfer und einer Untersuchung und Bestimmung derjenigen Krankheiten, in welchen die Lebenskraft dem Anscheine nach zerstört ist",
-          "year": 1793,
-          "language_code": "de",
-          "topic": "mechanism",
-          "variant": "wahrscheinlichkeit",
-          "text": "…gebragten Dei de Gerne ner „ 68 ater Abſchn. Pbyfolszie der Lungen a 5 der zum Wirken zu bringen, ſo iſt nicht die emt⸗ f fernteſte Wahrſcheinlichkeit mehr übrig, daß die Auwendung irgend eines andern Rene! Bier Bir 73 Tung hervorbringen werde. 5 5 6 habe indeß in keinen meiner wah, d…",
-          "start_char": 81503,
-          "end_char": 81521
-        },
-        {
-          "doc_id": "10471351bsb",
-          "title": "Abhandlung über das durch Ertrinken, Erdrosseln und Ersticken gehemmte Athemholen: nebst Vorschlägen zu einer neuen Behandlungsart dieser Krankheit ; mit einem Kupfer und einer Untersuchung und Bestimmung derjenigen Krankheiten, in welchen die Lebenskraft dem Anscheine nach zerstört ist",
-          "year": 1793,
-          "language_code": "de",
-          "topic": "mechanism",
-          "variant": "wahrscheinlichkeit",
-          "text": "…d, daß ſich Die Lungen ausdehnen, das Herz elektriſirt, nicht aber dabei das Zuſammenfallen der Lungen befördert, ſo hat man immer wenig Wahrſcheinlichkeit eines glücclichen Erfolge für ſich. Denn wenn die Lun⸗ gengefaͤße von dem durch die rechte Herzſeite übers gedruckten Blute ausgedehnt w…",
-          "start_char": 175726,
-          "end_char": 175744
-        },
-        {
-          "doc_id": "10471351bsb",
-          "title": "Abhandlung über das durch Ertrinken, Erdrosseln und Ersticken gehemmte Athemholen: nebst Vorschlägen zu einer neuen Behandlungsart dieser Krankheit ; mit einem Kupfer und einer Untersuchung und Bestimmung derjenigen Krankheiten, in welchen die Lebenskraft dem Anscheine nach zerstört ist",
-          "year": 1793,
-          "language_code": "de",
-          "topic": "mechanism",
-          "variant": "wahrscheinlichkeit",
-          "text": "…uſammengezogen und in eine nähere - VUuoeberſicht gebracht noch einmal vorlege. n Da bei dieſer Krankheit wenige Minuten in Anſehung der Wahrſcheinlichkeit des Wiederaufle· bens einen weſentlichen Unterſchied machen, ſo glau⸗ be ich anmerken zu muͤſſen, daß die Elektriſirma ſchine und der Ap…",
-          "start_char": 202179,
-          "end_char": 202197
-        },
-        {
-          "doc_id": "10369309bsb",
-          "title": "Grundzüge der Lehre von der Lebenskraft",
-          "year": 1797,
-          "language_code": "de",
-          "topic": "mechanism",
-          "variant": "wahrscheinlichkeit",
-          "text": "…wäre ein unfruchtbares Unternehmen, sie, hier ‘ nochmals aufzustellen. - Unter den neuern zeichnen sich besonders drei, wo nicht durch Wahrscheinlichkeit, doch durch sinnreiche und gewagte \"Erfindung aus, Die eine von Prochaska**),, erklärt die Wirkung ‘der Muskeln aus dem Andrange der S…",
-          "start_char": 208146,
-          "end_char": 208164
-        },
-        {
-          "doc_id": "10369309bsb",
-          "title": "Grundzüge der Lehre von der Lebenskraft",
-          "year": 1797,
-          "language_code": "de",
-          "topic": "mechanism",
-          "variant": "wahrscheinlichkeit",
-          "text": "…Kontraktilität ‚ ‚oder mit den, Stahlschen: Tonus, genannt zu werden verdient, theils vermittelst solcher Fasern, ‘die wir mit grofser Wahrscheinlichkeit be= rechtigt sind, für Muskelfasern zu halten, theils vermittelst der häufigen Blutgefälse, mit welchen manche Theile des Zellstoffs d…",
-          "start_char": 231748,
-          "end_char": 231766
-        },
-        {
-          "doc_id": "10369309bsb",
-          "title": "Grundzüge der Lehre von der Lebenskraft",
-          "year": 1797,
-          "language_code": "de",
-          "topic": "mechanism",
-          "variant": "wahrscheinlichkeit",
-          "text": "…Sei es nun, dass die Wärme durch eine Rückwirkung des Gehirns dem Blute in den Schlagadern mitgetheilt werde, oder (was wohl die meiste Wahrscheinlichkeit hat), dass bei der durch vermehrte Thätig- keit des Nervensystems begünstigten Mi- b: N ee Me schungsveränderungen mehr Wärmestoff…",
-          "start_char": 292455,
-          "end_char": 292473
-        },
-        {
-          "doc_id": "anintroductiont02smitgoog",
-          "title": "An Introduction to Physiological and Systematical Botany",
-          "year": 1814,
-          "language_code": "en",
-          "topic": "mechanism",
-          "variant": "probability",
-          "text": "…pith, and add^ internally to the former ones. Truth obliges us to confess that the latter theory is most devoid of any kind of proof or probability. Du Hamel^ by many experiments, proved the wood to be secreted or deposited from the innermost part of the bark or liber. He introduced…",
-          "start_char": 58134,
-          "end_char": 58145
-        },
-        {
-          "doc_id": "anintroductiont02smitgoog",
-          "title": "An Introduction to Physiological and Systematical Botany",
-          "year": 1814,
-          "language_code": "en",
-          "topic": "mechanism",
-          "variant": "probability",
-          "text": "…s^ even with regard to lig^ THE COROLLA* 199 itself. Dr. Darwin calls the Corolla the lungs of the stamens and pistils, and with great probability, for they abound in air-vessels. But when we consider the elaborate and peculiar secretions of a flower, the elastic inflammable pollen^…",
-          "start_char": 301152,
-          "end_char": 301163
         }
       ],
       "related_concepts": [
         {
-          "concept_id": "machine",
-          "count": 56
-        },
-        {
           "concept_id": "network",
-          "count": 56
+          "count": 62
         },
         {
           "concept_id": "reasoning",
-          "count": 54
+          "count": 61
+        },
+        {
+          "concept_id": "machine",
+          "count": 61
         },
         {
           "concept_id": "error",
-          "count": 53
+          "count": 59
         },
         {
           "concept_id": "learning",
-          "count": 52
+          "count": 57
         },
         {
           "concept_id": "intelligence",
-          "count": 49
+          "count": 54
         },
         {
           "concept_id": "mechanism",
-          "count": 49
+          "count": 53
         },
         {
           "concept_id": "agency",
-          "count": 46
+          "count": 50
         }
       ],
       "variant_count": 17
@@ -11560,8 +11756,8 @@
       "id": "network",
       "label": "Network",
       "description": "Networks, interconnection, and distributed systems as metaphors and infrastructures of thought.",
-      "total_hits": 619,
-      "documents_with_hits": 74,
+      "total_hits": 752,
+      "documents_with_hits": 80,
       "by_decade": {
         "1630s": 1,
         "1780s": 1,
@@ -11573,9 +11769,9 @@
         "1840s": 4,
         "1850s": 2,
         "1860s": 6,
-        "1870s": 10,
-        "1880s": 4,
-        "1890s": 6,
+        "1870s": 11,
+        "1880s": 6,
+        "1890s": 9,
         "1900s": 10,
         "1910s": 2,
         "1920s": 3,
@@ -11588,16 +11784,27 @@
       },
       "by_language": {
         "de": 9,
-        "en": 51,
+        "en": 57,
         "fr": 12,
         "ru": 2
       },
       "by_topic": {
         "automata_artificial_beings": 24,
         "computing": 16,
+        "intelligence": 4,
+        "learning": 2,
         "mechanism": 34
       },
       "top_documents": [
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "hit_count": 82,
+          "quality_score": 6.3
+        },
         {
           "doc_id": "storyoflivingmac00connrich",
           "title": "The story of the living machine; a review of the conclusions of modern biology in regard to the mechanism which controls the phenomena of living activity",
@@ -11615,6 +11822,15 @@
           "topic": "mechanism",
           "hit_count": 48,
           "quality_score": 5.532
+        },
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "hit_count": 44,
+          "quality_score": 6.039
         },
         {
           "doc_id": "roughwaysmadesm00procgoog",
@@ -11714,27 +11930,42 @@
           "topic": "computing",
           "hit_count": 13,
           "quality_score": 5.518
-        },
-        {
-          "doc_id": "EtudeOctober1887",
-          "title": "Volume 05, Number 10 (October 1887)",
-          "year": 1887,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "hit_count": 13,
-          "quality_score": 5.312
-        },
-        {
-          "doc_id": "dervitalismusal00driegoog",
-          "title": "Der Vitalismus als Geschichte und als Lehre",
-          "year": 1905,
-          "language_code": "de",
-          "topic": "mechanism",
-          "hit_count": 13,
-          "quality_score": 5.652
         }
       ],
       "key_excerpts": [
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "connected",
+          "text": "…tent of their operation. Then — in Chapters IV.-XI. inclusive — we deal mainly with topics interesting to psychologists generally, and only connected in a subordinate way with the primary aim of our inquiry. \"We discuss the characteristics by which sensory halkicinations are to be distin…",
+          "start_char": 2258,
+          "end_char": 2267
+        },
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "connected",
+          "text": "…nels of sensation, and not necessarily implying any definite interval of space between the persons Avhose states of mind are telepathically connected. Now, there can be no doul^t that the general acceptance of Telepathy, in this sense, as a fact of nature, must importantly modify the cur…",
+          "start_char": 4624,
+          "end_char": 4633
+        },
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "connected",
+          "text": "…anisms concerned. Or (b), it may lead ultimately to the conclusion that the causal relation between the two psychical facts telepathically connected is independent of any such physical process. It is obvious that the modification of received views involved in the acceptance of the secon…",
+          "start_char": 5350,
+          "end_char": 5359
+        },
         {
           "doc_id": "storyoflivingmac00connrich",
           "title": "The story of the living machine; a review of the conclusions of modern biology in regard to the mechanism which controls the phenomena of living activity",
@@ -11800,6 +12031,39 @@
           "text": "…ation. Cytology. — A third conception which contrib- uted to the formulation of modern biology was derived from the facts discovered in connection with the organic cell and protoplasm. The sig- nificance of these facts we shall notice later, but here we may simply state that these d…",
           "start_char": 23401,
           "end_char": 23411
+        },
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "connection",
+          "text": "…_Journal of Anthropological Institute_); 1876: Whistles for Determining the Upper Limits of Audible Sound (_S. Kensington Conferences_, in connection with the Loan Exhibition of Scientific Instruments, p. 61); 1877: Presidential Address to the Anthropological Department of the British Ass…",
+          "start_char": 5209,
+          "end_char": 5219
+        },
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "connected",
+          "text": "…n of colour; some liability to exaggeration; blindfold chess-players; remarkable instances of visualisation; the faculty is not necessarily connected with keen sight or tendency to dream; comprehensive imagery; the faculty in different sexes and ages; is strongly hereditary; seems notable…",
+          "start_char": 12345,
+          "end_char": 12354
+        },
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "connected",
+          "text": "…ions; the simpler kinds of visions; unconsciousness of seers, at first, of their peculiarity; subsequent dislike to speak about it; imagery connected with words; that of Mrs. Haweis; automatic changes in dark field of eye; my own experiences; those of Rev. G. Henslow; visions frequently u…",
+          "start_char": 13995,
+          "end_char": 14004
         },
         {
           "doc_id": "roughwaysmadesm00procgoog",
@@ -12548,106 +12812,40 @@
           "text": "…great and little— of soul etherial, and flesh corruptible— of diamonds and mud. Every lofty thought of man's mind is coupled closely in connection with some puerile trifle. But I am getting into a Victor Hugo line of meditation, and so let us on. Our game of chess commenced in solem…",
           "start_char": 165439,
           "end_char": 165449
-        },
-        {
-          "doc_id": "bub_gb_TcsCAAAAYAAJ",
-          "title": "Chess and chess-players:",
-          "year": 1850,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "web",
-          "text": "…is practised opponent, by some hard opposing thrust, some Srv. iliul counter-attack, breaks from the meshes, and not only tears the £imsj web to atoms, but checkmates so rudely, that the astonished student is all abroad. True, he has the consolation left of assuring his friends…",
-          "start_char": 228973,
-          "end_char": 228976
-        },
-        {
-          "doc_id": "wikisource_eb1911_calculating_machines",
-          "title": "Calculating Machines (1911 Encyclopædia Britannica)",
-          "year": 1911,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "connected",
-          "text": "…ga, the figure disks are all mounted on a common horizontal axis, the figures being placed on the rim. On the side of each disk and rigidly connected with it lies its A-wheel with which it can turn independent of the others. The B-wheels, all fixed on another horizontal axis, gear directl…",
-          "start_char": 11269,
-          "end_char": 11278
-        },
-        {
-          "doc_id": "wikisource_eb1911_calculating_machines",
-          "title": "Calculating Machines (1911 Encyclopædia Britannica)",
-          "year": 1911,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "connected",
-          "text": "…the hand of the first clock be turned. As it comes opposite a number on the dial the clock strikes that number of times. Let this clock be connected with the second in such a manner that by each stroke of the first the hand of the second is moved from one number to the next, but can only…",
-          "start_char": 18410,
-          "end_char": 18419
-        },
-        {
-          "doc_id": "wikisource_eb1911_calculating_machines",
-          "title": "Calculating Machines (1911 Encyclopædia Britannica)",
-          "year": 1911,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "connected",
-          "text": "…rrangement has to be made to drive the whole by turning one handle by hand or some other power. Imagine further that with the last clock is connected a kind of typewriter which prints the number, or, better, impresses the number in a soft substance from which a stereotype casting can be t…",
-          "start_char": 20016,
-          "end_char": 20025
-        },
-        {
-          "doc_id": "wikisource_comptometer_news_v1_i2",
-          "title": "Comptometer News, Volume 1, Issue 2",
-          "year": 1927,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "connected",
-          "text": "…rted as teacher, then demonstrator and later taking the salesmen's training course, doing sales work for a good number of years. She is now connected with the National Enameling & Stamping Co., in their executive offices. National Enameling's gain is our loss, but nevertheless we wish her…",
-          "start_char": 17275,
-          "end_char": 17284
-        },
-        {
-          "doc_id": "wikisource_comptometer_news_v1_i2",
-          "title": "Comptometer News, Volume 1, Issue 2",
-          "year": 1927,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "connected",
-          "text": "…r Essex sedan for the sole purpose of coming to the Comptometer school. CHARLOTTE, N. C. Mrs. Vera Trantham, from the Hartford School, is connected with the M. V. Moore & Co., Asheville, N. C. We are very glad to have Mrs. Trantham with us. Miss Virginia Drum, has returned from Miami,…",
-          "start_char": 24971,
-          "end_char": 24980
         }
       ],
       "related_concepts": [
         {
           "concept_id": "machine",
-          "count": 68
-        },
-        {
-          "concept_id": "error",
-          "count": 64
+          "count": 73
         },
         {
           "concept_id": "reasoning",
-          "count": 63
+          "count": 69
+        },
+        {
+          "concept_id": "error",
+          "count": 69
         },
         {
           "concept_id": "mechanism",
-          "count": 62
+          "count": 66
         },
         {
           "concept_id": "learning",
-          "count": 58
+          "count": 62
         },
         {
           "concept_id": "probability",
-          "count": 56
-        },
-        {
-          "concept_id": "agency",
-          "count": 53
+          "count": 62
         },
         {
           "concept_id": "intelligence",
-          "count": 52
+          "count": 57
+        },
+        {
+          "concept_id": "agency",
+          "count": 57
         }
       ],
       "variant_count": 16
@@ -12656,8 +12854,8 @@
       "id": "error",
       "label": "Error & Hallucination",
       "description": "Error, illusion, and hallucination in minds and machines, from faulty perception and mechanical failure to today's \"hallucinating\" language models.",
-      "total_hits": 735,
-      "documents_with_hits": 73,
+      "total_hits": 1172,
+      "documents_with_hits": 79,
       "by_decade": {
         "1630s": 1,
         "1710s": 1,
@@ -12672,8 +12870,8 @@
         "1850s": 3,
         "1860s": 6,
         "1870s": 8,
-        "1880s": 4,
-        "1890s": 7,
+        "1880s": 6,
+        "1890s": 11,
         "1900s": 8,
         "1910s": 3,
         "1920s": 3,
@@ -12685,16 +12883,27 @@
       },
       "by_language": {
         "de": 6,
-        "en": 53,
+        "en": 59,
         "fr": 13,
         "ru": 1
       },
       "by_topic": {
         "automata_artificial_beings": 27,
         "computing": 17,
+        "intelligence": 5,
+        "learning": 1,
         "mechanism": 29
       },
       "top_documents": [
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "hit_count": 376,
+          "quality_score": 6.3
+        },
         {
           "doc_id": "gutenberg_71292",
           "title": "The calculating engine",
@@ -12712,6 +12921,15 @@
           "topic": "computing",
           "hit_count": 85,
           "quality_score": 5.449
+        },
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "hit_count": 48,
+          "quality_score": 6.039
         },
         {
           "doc_id": "duprincipevital01bouigoog",
@@ -12811,27 +13029,42 @@
           "topic": "mechanism",
           "hit_count": 14,
           "quality_score": 5.848
-        },
-        {
-          "doc_id": "firstlinesofprac13cull",
-          "title": "First lines of the practice of physic",
-          "year": 1790,
-          "language_code": "en",
-          "topic": "mechanism",
-          "hit_count": 14,
-          "quality_score": 6.134
-        },
-        {
-          "doc_id": "gutenberg_1906",
-          "title": "Erewhon; Or, Over the Range",
-          "year": 1872,
-          "language_code": "en",
-          "topic": "computing",
-          "hit_count": 14,
-          "quality_score": 5.933
         }
       ],
       "key_excerpts": [
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "hallucinations",
+          "text": "III. KEPORT ON THE CENSUS OF HALLUCINATIONS. Chapter I. INTRODUCTORY. The statistical inquiry into the spontaneous hallucinations of the sane, of which the results are here given,…",
+          "start_char": 30,
+          "end_char": 44
+        },
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "hallucinations",
+          "text": "III. KEPORT ON THE CENSUS OF HALLUCINATIONS. Chapter I. INTRODUCTORY. The statistical inquiry into the spontaneous hallucinations of the sane, of which the results are here given, was undertaken in 1889 by the Committee which now presents its final report. It will be c…",
+          "start_char": 119,
+          "end_char": 133
+        },
+        {
+          "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
+          "title": "Report on the Census of Hallucinations",
+          "year": 1894,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "hallucination",
+          "text": "…han we should otherwise have done, such points as seemed likely to interest psychologists generally who might be studying the phenomenon of hallucination, — apart from the special question of the \" veridicality \" of some hallucinations, on which the Census was primarily designed to throw ligh…",
+          "start_char": 1224,
+          "end_char": 1237
+        },
         {
           "doc_id": "gutenberg_71292",
           "title": "The calculating engine",
@@ -12897,6 +13130,39 @@
           "text": "…at the public expense; by showing also, that they are nevertheless rendered inefficient, to a greater or less extent, by the prevalence of errors in them; that these errors pervade not merely tables produced by individual labour and enterprise, but that they vitiate even those on whic…",
           "start_char": 9303,
           "end_char": 9309
+        },
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "hallucinations",
+          "text": "…changes in dark field of eye; my own experiences; those of Rev. G. Henslow; visions frequently unlike vivid visualisations; phantasmagoria; hallucinations; simile of a seal in a pond; dreams and partial sensitiveness of brain; hallucinations and illusions, their causes; \"faces in the fire,\" et…",
+          "start_char": 14188,
+          "end_char": 14202
+        },
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "hallucinations",
+          "text": "…quently unlike vivid visualisations; phantasmagoria; hallucinations; simile of a seal in a pond; dreams and partial sensitiveness of brain; hallucinations and illusions, their causes; \"faces in the fire,\" etc.; sub-conscious picture-drawing; visions based on patched recollections; on blended r…",
+          "start_char": 14275,
+          "end_char": 14289
+        },
+        {
+          "doc_id": "jamesiana_galton_human_faculty_1883",
+          "title": "Inquiries into Human Faculty and Its Development",
+          "year": 1883,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "illusions",
+          "text": "…d visualisations; phantasmagoria; hallucinations; simile of a seal in a pond; dreams and partial sensitiveness of brain; hallucinations and illusions, their causes; \"faces in the fire,\" etc.; sub-conscious picture-drawing; visions based on patched recollections; on blended recollections;…",
+          "start_char": 14294,
+          "end_char": 14303
         },
         {
           "doc_id": "duprincipevital01bouigoog",
@@ -13625,126 +13891,60 @@
           "end_char": 215722
         },
         {
-          "doc_id": "secondlettertore00ganduoft",
-          "title": "A second letter to the Rev. Herbert Marsh, D.D., F.R.S., Margaret Professor of History in the University of Cambridge, confirming the opinion that the vital principle of the Reformation has been lately conceded by him to the Church of Rome",
-          "year": 1813,
+          "doc_id": "jamesiana_galton_mental_imagery_1880",
+          "title": "Statistics of Mental Imagery",
+          "year": 1880,
           "language_code": "en",
-          "topic": "mechanism",
-          "variant": "mistake",
-          "text": "…l express an eternal grati- tude to me, if my humbIe^,etforts should throw some new light upon the subject, and enable them to discover a mistake in their theoltgi- Crt/ calculations. But in your letter to me (p. 7.) ^ notice another proposition, to which I cannot by any means sub…",
-          "start_char": 22956,
-          "end_char": 22963
+          "topic": "intelligence",
+          "variant": "hallucinations",
+          "text": "…hich has left an abiding mark on the vocabularies of every language, and which supplies the material out of which dreams and the well-known hallucinations of sick people are built up. To my astonishment, I found that the great majority of the men of science to whom I first applied, protested…",
+          "start_char": 2429,
+          "end_char": 2443
         },
         {
-          "doc_id": "secondlettertore00ganduoft",
-          "title": "A second letter to the Rev. Herbert Marsh, D.D., F.R.S., Margaret Professor of History in the University of Cambridge, confirming the opinion that the vital principle of the Reformation has been lately conceded by him to the Church of Rome",
-          "year": 1813,
+          "doc_id": "jamesiana_galton_mental_imagery_1880",
+          "title": "Statistics of Mental Imagery",
+          "year": 1880,
           "language_code": "en",
-          "topic": "mechanism",
+          "topic": "intelligence",
           "variant": "error",
-          "text": "…Tradition Xhe paramount authority, by which the truth or falsehood of Christian doctrines is to be decided.\" I must then notice a little error in the propo- sition you have stated. We do not say that Tradition is a para- mount authority — or that Tradition is to decide the truth…",
-          "start_char": 26148,
-          "end_char": 26153
-        },
-        {
-          "doc_id": "secondlettertore00ganduoft",
-          "title": "A second letter to the Rev. Herbert Marsh, D.D., F.R.S., Margaret Professor of History in the University of Cambridge, confirming the opinion that the vital principle of the Reformation has been lately conceded by him to the Church of Rome",
-          "year": 1813,
-          "language_code": "en",
-          "topic": "mechanism",
-          "variant": "error",
-          "text": "…in the New Testament are therefore intitled to credit, because the writers were prevented by divine assistance from falling into material error, we assert indeed what is true ; but it is a truth, which we can no more apply in the present stage of our inquiry, than we can apply th…",
-          "start_char": 46648,
-          "end_char": 46653
-        },
-        {
-          "doc_id": "wikisource_sketch_analytical_engine",
-          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
-          "year": 1843,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "errors",
-          "text": "…. 6. On a Method of expressing by Signs the Action of Machinery. By Charles Babbage, Esq.—Philosophical Transactions. London, 1826. 7. On Errors common to many Tables of Logarithms. By Charles Babbage, Esq.—Memoirs of the Astronomical Society, London, 1827. 8. Report of the Committe…",
-          "start_char": 1941,
-          "end_char": 1947
-        },
-        {
-          "doc_id": "wikisource_sketch_analytical_engine",
-          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
-          "year": 1843,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "errors",
-          "text": "…such machines is, that they require the continual intervention of a human agent to regulate their movements, and thence arises a source of errors; so that, if their use has not become general for large numerical calculations, it is because they have not in fact resolved the double pro…",
-          "start_char": 9242,
-          "end_char": 9248
-        },
-        {
-          "doc_id": "wikisource_sketch_analytical_engine",
-          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
-          "year": 1843,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "errors",
-          "text": "…coefficients must be written on twelve different columns. But it is possible to simplify this process, and thus to diminish the chances of errors, which chances are greater, the larger the number of the quantities that have to be inscribed previous to setting the machine in action. To…",
-          "start_char": 32200,
-          "end_char": 32206
-        },
-        {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "mistake",
-          "text": "…must say he has reason to be so, but even before seeing him it was my intention to have reminded you of this, for I can only explain the mistake by great haste or great forgetfulness. Be so good, then, dear lady, as to attend to my hint, otherwise you will certainly expose yourself…",
-          "start_char": 63454,
-          "end_char": 63461
-        },
-        {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "errors",
-          "text": "…after to-morrow. Beethoven. 32. To Herr Ries. I must again ask you to undertake the disagreeable task of making a fair copy of the errors in the Zurich Sonata. I have got your list of errata ^ auf der WiedenJ* * Eies relates that the three following, notes refer to the pian…",
-          "start_char": 96557,
-          "end_char": 96563
+          "text": "…n and places many days or weeks after seeing them, but it was by an effort of memory acting on study at the time, and assisted by trial and error on the paper or canvas, whether in black, yellow or oolour, afterwards. 96. It is only as a figure of speech that I can describe my recoll…",
+          "start_char": 13797,
+          "end_char": 13802
         }
       ],
       "related_concepts": [
         {
           "concept_id": "machine",
-          "count": 66
+          "count": 70
         },
         {
           "concept_id": "network",
-          "count": 64
+          "count": 69
         },
         {
           "concept_id": "reasoning",
-          "count": 61
+          "count": 67
         },
         {
           "concept_id": "mechanism",
-          "count": 57
+          "count": 61
         },
         {
           "concept_id": "learning",
-          "count": 56
-        },
-        {
-          "concept_id": "intelligence",
-          "count": 53
-        },
-        {
-          "concept_id": "agency",
-          "count": 53
+          "count": 60
         },
         {
           "concept_id": "probability",
-          "count": 53
+          "count": 59
+        },
+        {
+          "concept_id": "intelligence",
+          "count": 58
+        },
+        {
+          "concept_id": "agency",
+          "count": 57
         }
       ],
       "variant_count": 21

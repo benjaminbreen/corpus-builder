@@ -239,18 +239,6 @@ items:
     summary: >
       Modernist novel of newsroom labor that explicitly names machines à calculer alongside other office machines.
       Shows mechanized calculation as part of everyday work.
-  - identifier: wikisource_blindenanstalt_steglitz
-    source: wikisource
-    wikisource_lang: de
-    wikisource_title: Besuch der Blindenanstalt in Steglitz
-    title: Besuch der Blindenanstalt in Steglitz
-    author: Unknown
-    year: 1864
-    language_code: de
-    source_url: https://de.wikisource.org/wiki/Besuch_der_Blindenanstalt_in_Steglitz
-    summary: >
-      Report on blind education describing the use of a "russische Rechenmaschine" (abacus).
-      Shows tactile computation and pedagogy.
   - identifier: wikisource_gartenlaube_1865_heft34
     source: wikisource
     wikisource_lang: de
