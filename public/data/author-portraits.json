@@ -1,0 +1,152 @@
+{
+  "Ada Lovelace": {
+    "name": "Ada Lovelace",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png/330px-Ada_Lovelace_daguerreotype_by_Antoine_Claudet_1843_-_cropped.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "url": "https://en.wikipedia.org/wiki/Ada_Lovelace"
+  },
+  "Alfred Binet": {
+    "name": "Alfred Binet",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Alfred_Binet.jpg/330px-Alfred_Binet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "url": "https://en.wikipedia.org/wiki/Alfred_Binet"
+  },
+  "André Baillon": {
+    "name": "André Baillon",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Andr%C3%A9_Baillon%2C_asset_k1geZWgWfemfdQQVKVhesjkQ.tif/lossy-page1-330px-Andr%C3%A9_Baillon%2C_asset_k1geZWgWfemfdQQVKVhesjkQ.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "url": "https://en.wikipedia.org/wiki/Andr%C3%A9_Baillon"
+  },
+  "Brandis, Joachim Dietrich": {
+    "name": "Joachim Dietrich Brandis",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Brandis_Joachim_Dietrich_1.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "url": "https://en.wikipedia.org/wiki/Joachim_Dietrich_Brandis"
+  },
+  "Caus, Isaac de, 1590-1648": {
+    "name": "Isaac de Caus",
+    "thumbnail": null,
+    "url": "https://en.wikipedia.org/wiki/Isaac_de_Caus"
+  },
+  "Charles Babbage": {
+    "name": "Charles Babbage",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Charles_Babbage_-_1860.jpg/330px-Charles_Babbage_-_1860.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "url": "https://en.wikipedia.org/wiki/Charles_Babbage"
+  },
+  "Conn, Herbert William, 1859-1917": {
+    "name": "Herbert William Conn",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Herbert_William_Conn.jpg/330px-Herbert_William_Conn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "url": "https://en.wikipedia.org/wiki/Herbert_William_Conn"
+  },
+  "Descartes, René, 1596-1650": {
+    "name": "René Descartes",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg/330px-Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "url": "https://en.wikipedia.org/wiki/Rene%CC%81_Descartes"
+  },
+  "Etienne Jules Marey": {
+    "name": "Étienne-Jules Marey",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/%C3%89tienne_Jules_Marey_by_Nadar.jpg/330px-%C3%89tienne_Jules_Marey_by_Nadar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "url": "https://en.wikipedia.org/wiki/%C3%89tienne-Jules_Marey"
+  },
+  "Etienne-Jules Marey": {
+    "name": "Étienne-Jules Marey",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/%C3%89tienne_Jules_Marey_by_Nadar.jpg/330px-%C3%89tienne_Jules_Marey_by_Nadar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "url": "https://en.wikipedia.org/wiki/%C3%89tienne-Jules_Marey"
+  },
+  "Francis Galton": {
+    "name": "Francis Galton",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Francis_Galton_1850s.jpg/330px-Francis_Galton_1850s.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "url": "https://en.wikipedia.org/wiki/Francis_Galton"
+  },
+  "Francisque Bouillier": {
+    "name": "Francisque Bouillier",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Francisque_Bouillier.jpg/330px-Francisque_Bouillier.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "url": "https://en.wikipedia.org/wiki/Francisque_Bouillier"
+  },
+  "Gaston Leroux": {
+    "name": "Gaston Leroux",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/G._LEROUX.jpg/330px-G._LEROUX.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "url": "https://en.wikipedia.org/wiki/Gaston_Leroux"
+  },
+  "Hans Driesch": {
+    "name": "Hans Driesch",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Driesch1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "url": "https://en.wikipedia.org/wiki/Hans_Driesch"
+  },
+  "Hufeland, Christoph Wilhelm": {
+    "name": "Christoph Wilhelm Hufeland",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Christoph_Wilhelm_Hufeland.jpg/330px-Christoph_Wilhelm_Hufeland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "url": "https://en.wikipedia.org/wiki/Christoph_Wilhelm_Hufeland"
+  },
+  "James McKeen Cattell": {
+    "name": "James McKeen Cattell",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/James_McKeen_Cattell.jpg/330px-James_McKeen_Cattell.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "url": "https://en.wikipedia.org/wiki/James_McKeen_Cattell"
+  },
+  "Lionel Smith Beale": {
+    "name": "Lionel Smith Beale",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Lionel_Smith_Beale.jpg/330px-Lionel_Smith_Beale.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "url": "https://en.wikipedia.org/wiki/Lionel_Smith_Beale"
+  },
+  "Lucien Cuénot": {
+    "name": "Lucien Cuénot",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Le_biologiste_Lucien_CUENOT_%281866-1951%29.JPG/330px-Le_biologiste_Lucien_CUENOT_%281866-1951%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "url": "https://en.wikipedia.org/wiki/Lucien_Cu%C3%A9not"
+  },
+  "Luigi Federico Menabrea": {
+    "name": "Luigi Federico Menabrea",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Luigi_Federico_Menabrea.jpg/330px-Luigi_Federico_Menabrea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "url": "https://en.wikipedia.org/wiki/Luigi_Federico_Menabrea"
+  },
+  "McLandburgh, Florence": {
+    "name": "Florence McLandburgh",
+    "thumbnail": null,
+    "url": "https://en.wikipedia.org/wiki/Florence_McLandburgh"
+  },
+  "Moritz Cantor": {
+    "name": "Moritz Cantor",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Moritz_Cantor_%28HeidICON_28790%29_%28cropped%29.jpg/330px-Moritz_Cantor_%28HeidICON_28790%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "url": "https://en.wikipedia.org/wiki/Moritz_Cantor"
+  },
+  "O'Connor, William Douglas, 1832-1889": {
+    "name": "William D. O'Connor",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/William_Douglas_O%27Connor%2C_head-and-shoulders_portrait%2C_looking_front%29_-_Ritz_%26_Hastings%2C_Boston%2C_Mass_LCCN89714828.tif/lossy-page1-330px-William_Douglas_O%27Connor%2C_head-and-shoulders_portrait%2C_looking_front%29_-_Ritz_%26_Hastings%2C_Boston%2C_Mass_LCCN89714828.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "url": "https://en.wikipedia.org/wiki/William_D._O'Connor"
+  },
+  "Otto Bütschli": {
+    "name": "Otto Bütschli",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Otto_B%C3%BCtschli_%28HeidICON_116096%29_%28cropped%29.jpg/330px-Otto_B%C3%BCtschli_%28HeidICON_116096%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "url": "https://en.wikipedia.org/wiki/Otto_B%C3%BCtschli"
+  },
+  "Oughtred, William, 1575-1660": {
+    "name": "William Oughtred",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Portret_van_William_Oughtred%2C_RP-P-1907-2855.jpg/330px-Portret_van_William_Oughtred%2C_RP-P-1907-2855.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "url": "https://en.wikipedia.org/wiki/William_Oughtred"
+  },
+  "Phillips, Rog": {
+    "name": "Rog Phillips",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Rog_Phillips_5304.jpg/330px-Rog_Phillips_5304.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "url": "https://en.wikipedia.org/wiki/Rog_Phillips"
+  },
+  "Thicknesse, Philip, 1719-1792.": {
+    "name": "Philip Thicknesse",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Thomas_Gainsborough_-_Ann_Ford_%28later_Mrs._Philip_Thicknesse%29_-_Google_Art_Project.jpg/330px-Thomas_Gainsborough_-_Ann_Ford_%28later_Mrs._Philip_Thicknesse%29_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "url": "https://en.wikipedia.org/wiki/Philip_Thicknesse"
+  },
+  "Vaucanson, Jacques de, 1709-1782": {
+    "name": "Jacques de Vaucanson",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Jacques_de_Vaucanson_rectangular.jpg/330px-Jacques_de_Vaucanson_rectangular.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "url": "https://en.wikipedia.org/wiki/Jacques_de_Vaucanson"
+  },
+  "William James": {
+    "name": "William James",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/William_James_b1842c.jpg/330px-William_James_b1842c.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "url": "https://en.wikipedia.org/wiki/William_James"
+  },
+  "Wolf, Mari": {
+    "name": "Mari Wolf",
+    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Mari_Wolf_5203.jpg/330px-Mari_Wolf_5203.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "url": "https://en.wikipedia.org/wiki/Mari_Wolf"
+  },
+  "Čapek, Karel": {
+    "name": "Karel Čapek",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Karel-capek.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "url": "https://en.wikipedia.org/wiki/Karel_%C4%8Capek"
+  }
+}

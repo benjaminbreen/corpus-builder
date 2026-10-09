@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-09T22:46:36.568Z",
-  "corpus_size": 115,
-  "indexed_docs": 111,
+  "generated_at": "2026-10-09T23:21:01.417Z",
+  "corpus_size": 116,
+  "indexed_docs": 112,
   "skipped_noisy_docs": 4,
   "cleaned_markup_docs": 1,
   "concepts": [
@@ -9,8 +9,8 @@
       "id": "intelligence",
       "label": "Intelligence",
       "description": "Capacities of mind, cognition, and adaptive thought as discussed across philosophical, scientific, and technical traditions.",
-      "total_hits": 877,
-      "documents_with_hits": 66,
+      "total_hits": 884,
+      "documents_with_hits": 67,
       "by_decade": {
         "1630s": 1,
         "1640s": 1,
@@ -23,7 +23,7 @@
         "1840s": 3,
         "1850s": 3,
         "1860s": 6,
-        "1870s": 9,
+        "1870s": 10,
         "1880s": 5,
         "1890s": 7,
         "1900s": 6,
@@ -38,14 +38,14 @@
       },
       "by_language": {
         "de": 2,
-        "en": 50,
+        "en": 51,
         "fr": 13,
         "ru": 1
       },
       "by_topic": {
         "automata_artificial_beings": 21,
         "computing": 8,
-        "intelligence": 4,
+        "intelligence": 5,
         "learning": 1,
         "mechanism": 32
       },
@@ -1013,6 +1013,39 @@
           "end_char": 213727
         },
         {
+          "doc_id": "wikisource_james_are_we_automata",
+          "title": "Are We Automata?",
+          "year": 1879,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "intelligent",
+          "text": "…to hear them speak of conscious events as something so essentially vague and shadowy as even doubtfully to exist at all I have heard a most intelligent [p. 3] biologist say: \"It is high time for scientific men to protest against the recognition of any such thing as consciousness in a scient…",
+          "start_char": 3889,
+          "end_char": 3900
+        },
+        {
+          "doc_id": "wikisource_james_are_we_automata",
+          "title": "Are We Automata?",
+          "year": 1879,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "intellect",
+          "text": "…treatment of perception, but I may say, in passing that I think his rather indefinite and oracular statements about the part played by the intellect therein have momentarily contributed to retard psychological inquiry. We find the Kantian philosophers everywhere hailing him as the great…",
+          "start_char": 22426,
+          "end_char": 22435
+        },
+        {
+          "doc_id": "wikisource_james_are_we_automata",
+          "title": "Are We Automata?",
+          "year": 1879,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "intellect",
+          "text": "…iews. They say he has proved the present sensation to have nothing to do with the construction of the Object that is an original act of the intellect which the sensation merely instigates but does not furnish forth: it contains ultra-sensational elements. All that Helmholtz really does pr…",
+          "start_char": 22760,
+          "end_char": 22769
+        },
+        {
           "doc_id": "gutenberg_59112",
           "title": "R.U.R. (Rossum's Universal Robots): A Fantastic Melodrama in Three Acts and an Epilogue",
           "year": 1923,
@@ -1033,69 +1066,36 @@
           "text": "…ead of one of the ROBOTS. They come to a mechanical standstill._) There you are, as powerful as a small tractor. Guaranteed to have average intelligence. That will do, Marius. (_MARIUS exits R.C. with ROBOTS._) HELENA. They make me feel so strange. DOMIN. (_Crosses to desk. Rings_) Did you…",
           "start_char": 24637,
           "end_char": 24649
-        },
-        {
-          "doc_id": "gutenberg_59112",
-          "title": "R.U.R. (Rossum's Universal Robots): A Fantastic Melodrama in Three Acts and an Epilogue",
-          "year": 1923,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "intelligent",
-          "text": "…ELENA. Why--why don’t you make them--happier? HALLEMEIER. That wouldn’t do, Miss Glory. They are only workmen. HELENA. Oh, but they’re so intelligent. HALLEMEIER. Confoundedly so, but they’re nothing else. They’ve no will of their own. No soul. No passion. HELENA. No love? HALLEMEIER.…",
-          "start_char": 39895,
-          "end_char": 39906
-        },
-        {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "intelligent",
-          "text": "…k, interrupting the electric current of the whole, and thus destroying its peculiar eflFect. And now, what is this spirit which, for an intelligent mind, binds together these scattered fragments into a whole, and what is its actual power ? I cannot tell ; but I feel to this day just…",
-          "start_char": 13916,
-          "end_char": 13927
-        },
-        {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "intellect",
-          "text": "…s itself, and impressing its stamp on the spirit of the age. They convey, too, the knowledge of this brightest victory of genuine German intellect to those for whom the sweet Muse of Music is as a book with seven seals, and reveal, likewise, a more profound sense of Beethoven's bein…",
-          "start_char": 15895,
-          "end_char": 15904
         }
       ],
       "related_concepts": [
         {
           "concept_id": "machine",
-          "count": 62
+          "count": 63
         },
         {
           "concept_id": "error",
-          "count": 58
+          "count": 59
         },
         {
           "concept_id": "network",
-          "count": 57
+          "count": 58
         },
         {
           "concept_id": "reasoning",
-          "count": 54
+          "count": 55
         },
         {
           "concept_id": "probability",
-          "count": 54
+          "count": 55
         },
         {
           "concept_id": "mechanism",
-          "count": 52
+          "count": 53
         },
         {
           "concept_id": "agency",
-          "count": 51
+          "count": 52
         },
         {
           "concept_id": "learning",
@@ -2206,8 +2206,8 @@
       "id": "reasoning",
       "label": "Reasoning",
       "description": "Inference, logical procedure, and rational deliberation in human and non-human systems.",
-      "total_hits": 1380,
-      "documents_with_hits": 75,
+      "total_hits": 1395,
+      "documents_with_hits": 76,
       "by_decade": {
         "1680s": 1,
         "1710s": 1,
@@ -2220,7 +2220,7 @@
         "1840s": 3,
         "1850s": 2,
         "1860s": 5,
-        "1870s": 11,
+        "1870s": 12,
         "1880s": 6,
         "1890s": 10,
         "1900s": 8,
@@ -2235,7 +2235,7 @@
       },
       "by_language": {
         "de": 6,
-        "en": 55,
+        "en": 56,
         "fr": 12,
         "la": 1,
         "ru": 1
@@ -2243,7 +2243,7 @@
       "by_topic": {
         "automata_artificial_beings": 24,
         "computing": 14,
-        "intelligence": 5,
+        "intelligence": 6,
         "learning": 2,
         "mechanism": 30
       },
@@ -3112,6 +3112,39 @@
           "end_char": 79229
         },
         {
+          "doc_id": "wikisource_james_are_we_automata",
+          "title": "Are We Automata?",
+          "year": 1879,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "rationality",
+          "text": "…which performs rational-seeming acts although probably it has no consciousness, and passing up to the hemispheres of man concludes that the rationality of their performances can owe nothing to the feelings that co-exist with it. This is the inverse of Mr. Lewes's procedure. He starts from t…",
+          "start_char": 2166,
+          "end_char": 2177
+        },
+        {
+          "doc_id": "wikisource_james_are_we_automata",
+          "title": "Are We Automata?",
+          "year": 1879,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "reason",
+          "text": "…tent must still be there to make it act so rationally. Clearly such arguments as these may mutually eat each other up to all eternity. The reason why the writers we speak of venture to dogmatise as they do on this subject, seems due to a sort of philosophic faith, bred like most faith…",
+          "start_char": 2600,
+          "end_char": 2606
+        },
+        {
+          "doc_id": "wikisource_james_are_we_automata",
+          "title": "Are We Automata?",
+          "year": 1879,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "reasoning",
+          "text": "…i to shrink from a \"chasm\" between the objects of one's contemplation is as respectable as to dislike heterogeneity in the factors of one's reasoning operations. The truth is, then, that neither æsthetic motives nor ostensible reasons entitle us to decide between the Conscious-Automaton-t…",
+          "start_char": 5475,
+          "end_char": 5484
+        },
+        {
           "doc_id": "gutenberg_72556",
           "title": "Wesblock, the autobiography of an automaton",
           "year": 1914,
@@ -3231,61 +3264,28 @@
           "text": "…ming authority of every kind, the adherents of the new school of opinion profess to influence others, and to be influenced themselves, by reason alone. But by urging \" the tendency of investigation\" and \" the spirit of modem thought\" in favour of doctrines they cannot support by ev…",
           "start_char": 4479,
           "end_char": 4485
-        },
-        {
-          "doc_id": "b21446258",
-          "title": "Protoplasm, or, Life, force, and matter",
-          "year": 1870,
-          "language_code": "en",
-          "topic": "mechanism",
-          "variant": "reasoning",
-          "text": "…the thing which we call dead, is, after all, only a few degrees less actively living than the thing we say is alive. But is this sort of reasoning convincing, seeing that although matter in the living state may suddenly pass into the dead state, this same matter can never pass back…",
-          "start_char": 6827,
-          "end_char": 6836
-        },
-        {
-          "doc_id": "SCC_1907100401",
-          "title": "The Strathcona chronicle (1907-10-04)",
-          "year": 1907,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "reason",
-          "text": "…sh, While entering a new house for the first time the lady is to take hold of a fah, probably for the sams rea- son, Whatever may be the reason for regarding the handling of fish as auspl- clous, it Is indisputable that over a large part of northern India the “wa- ter vegetable…",
-          "start_char": 43553,
-          "end_char": 43559
-        },
-        {
-          "doc_id": "SCC_1907100401",
-          "title": "The Strathcona chronicle (1907-10-04)",
-          "year": 1907,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "reason",
-          "text": "…in secondhand shops. “This fashion is not likely to become @ watlversal one,” a well known art Gealer said recently, “for the simple reason that the supply cannot meet the demand. “To copy old cameos with any suc- cess is an almost impossible task, and In any case people ob…",
-          "start_char": 54279,
-          "end_char": 54285
         }
       ],
       "related_concepts": [
         {
           "concept_id": "network",
-          "count": 69
+          "count": 70
         },
         {
           "concept_id": "machine",
-          "count": 68
+          "count": 69
         },
         {
           "concept_id": "error",
-          "count": 67
+          "count": 68
         },
         {
           "concept_id": "mechanism",
-          "count": 62
+          "count": 63
         },
         {
           "concept_id": "probability",
-          "count": 61
+          "count": 62
         },
         {
           "concept_id": "learning",
@@ -3293,11 +3293,11 @@
         },
         {
           "concept_id": "agency",
-          "count": 58
+          "count": 59
         },
         {
           "concept_id": "intelligence",
-          "count": 54
+          "count": 55
         }
       ],
       "variant_count": 11
@@ -3306,8 +3306,8 @@
       "id": "agency",
       "label": "Agency",
       "description": "Questions of intentional action, autonomy, and who or what can be treated as an acting subject.",
-      "total_hits": 502,
-      "documents_with_hits": 62,
+      "total_hits": 503,
+      "documents_with_hits": 63,
       "by_decade": {
         "1720s": 1,
         "1780s": 1,
@@ -3319,7 +3319,7 @@
         "1840s": 3,
         "1850s": 2,
         "1860s": 5,
-        "1870s": 10,
+        "1870s": 11,
         "1880s": 3,
         "1890s": 7,
         "1900s": 7,
@@ -3333,13 +3333,13 @@
       },
       "by_language": {
         "de": 3,
-        "en": 48,
+        "en": 49,
         "fr": 11
       },
       "by_topic": {
         "automata_artificial_beings": 22,
         "computing": 9,
-        "intelligence": 3,
+        "intelligence": 4,
         "learning": 1,
         "mechanism": 27
       },
@@ -4365,35 +4365,35 @@
       "related_concepts": [
         {
           "concept_id": "machine",
-          "count": 60
+          "count": 61
         },
         {
           "concept_id": "reasoning",
-          "count": 58
+          "count": 59
         },
         {
           "concept_id": "network",
-          "count": 57
+          "count": 58
         },
         {
           "concept_id": "error",
-          "count": 57
+          "count": 58
         },
         {
           "concept_id": "mechanism",
-          "count": 54
+          "count": 55
+        },
+        {
+          "concept_id": "intelligence",
+          "count": 52
         },
         {
           "concept_id": "learning",
           "count": 52
         },
         {
-          "concept_id": "intelligence",
-          "count": 51
-        },
-        {
           "concept_id": "probability",
-          "count": 50
+          "count": 51
         }
       ],
       "variant_count": 14
@@ -4402,8 +4402,8 @@
       "id": "memory",
       "label": "Memory",
       "description": "Theories of retention, recollection, storage, and transmission in minds, bodies, and machines.",
-      "total_hits": 656,
-      "documents_with_hits": 57,
+      "total_hits": 658,
+      "documents_with_hits": 58,
       "by_decade": {
         "1630s": 1,
         "1720s": 1,
@@ -4414,7 +4414,7 @@
         "1840s": 2,
         "1850s": 1,
         "1860s": 5,
-        "1870s": 7,
+        "1870s": 8,
         "1880s": 5,
         "1890s": 11,
         "1900s": 7,
@@ -4429,14 +4429,14 @@
       },
       "by_language": {
         "de": 3,
-        "en": 40,
+        "en": 41,
         "fr": 12,
         "ru": 2
       },
       "by_topic": {
         "automata_artificial_beings": 19,
         "computing": 9,
-        "intelligence": 5,
+        "intelligence": 6,
         "learning": 2,
         "mechanism": 22
       },
@@ -5462,19 +5462,19 @@
       "related_concepts": [
         {
           "concept_id": "reasoning",
-          "count": 53
+          "count": 54
         },
         {
           "concept_id": "network",
-          "count": 53
+          "count": 54
         },
         {
           "concept_id": "error",
-          "count": 53
+          "count": 54
         },
         {
           "concept_id": "machine",
-          "count": 52
+          "count": 53
         },
         {
           "concept_id": "learning",
@@ -5482,15 +5482,15 @@
         },
         {
           "concept_id": "probability",
-          "count": 48
+          "count": 49
         },
         {
           "concept_id": "mechanism",
-          "count": 47
+          "count": 48
         },
         {
           "concept_id": "intelligence",
-          "count": 44
+          "count": 45
         }
       ],
       "variant_count": 9
@@ -5499,8 +5499,8 @@
       "id": "mechanism",
       "label": "Mechanism",
       "description": "Mechanical explanations of life, mind, and motion, including debates with vitalist and spiritual accounts.",
-      "total_hits": 2296,
-      "documents_with_hits": 74,
+      "total_hits": 2302,
+      "documents_with_hits": 75,
       "by_decade": {
         "1720s": 1,
         "1740s": 1,
@@ -5513,7 +5513,7 @@
         "1840s": 4,
         "1850s": 2,
         "1860s": 5,
-        "1870s": 9,
+        "1870s": 10,
         "1880s": 5,
         "1890s": 9,
         "1900s": 10,
@@ -5528,14 +5528,14 @@
       },
       "by_language": {
         "de": 6,
-        "en": 55,
+        "en": 56,
         "fr": 11,
         "ru": 2
       },
       "by_topic": {
         "automata_artificial_beings": 22,
         "computing": 17,
-        "intelligence": 3,
+        "intelligence": 4,
         "learning": 1,
         "mechanism": 31
       },
@@ -6561,35 +6561,35 @@
       "related_concepts": [
         {
           "concept_id": "machine",
-          "count": 69
+          "count": 70
         },
         {
           "concept_id": "network",
-          "count": 66
+          "count": 67
         },
         {
           "concept_id": "reasoning",
-          "count": 62
+          "count": 63
         },
         {
           "concept_id": "error",
-          "count": 61
+          "count": 62
+        },
+        {
+          "concept_id": "agency",
+          "count": 55
         },
         {
           "concept_id": "learning",
           "count": 54
         },
         {
-          "concept_id": "agency",
+          "concept_id": "probability",
           "count": 54
         },
         {
-          "concept_id": "probability",
-          "count": 53
-        },
-        {
           "concept_id": "intelligence",
-          "count": 52
+          "count": 53
         }
       ],
       "variant_count": 14
@@ -6598,8 +6598,8 @@
       "id": "automaton",
       "label": "Automaton",
       "description": "Self-moving artifacts and models of life-like operation central to early machine-intelligence imaginaries.",
-      "total_hits": 777,
-      "documents_with_hits": 33,
+      "total_hits": 785,
+      "documents_with_hits": 34,
       "by_decade": {
         "1630s": 1,
         "1690s": 2,
@@ -6613,7 +6613,7 @@
         "1840s": 2,
         "1850s": 1,
         "1860s": 3,
-        "1870s": 1,
+        "1870s": 2,
         "1880s": 1,
         "1890s": 4,
         "1900s": 4,
@@ -6623,14 +6623,14 @@
       },
       "by_language": {
         "de": 2,
-        "en": 27,
+        "en": 28,
         "fr": 3,
         "ru": 1
       },
       "by_topic": {
         "automata_artificial_beings": 22,
         "computing": 5,
-        "intelligence": 1,
+        "intelligence": 2,
         "mechanism": 5
       },
       "top_documents": [
@@ -7267,6 +7267,39 @@
           "end_char": 1020
         },
         {
+          "doc_id": "wikisource_james_are_we_automata",
+          "title": "Are We Automata?",
+          "year": 1879,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "automaton",
+          "text": "Everyone is now acquainted with the Conscious-Automaton-theory to which Prof. Huxley1 gave such publicity in his Belfast address; which the late Mr. D. A. Spalding punctiliously made the pivot of…",
+          "start_char": 46,
+          "end_char": 55
+        },
+        {
+          "doc_id": "wikisource_james_are_we_automata",
+          "title": "Are We Automata?",
+          "year": 1879,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "automaton",
+          "text": "…s reasoning operations. The truth is, then, that neither æsthetic motives nor ostensible reasons entitle us to decide between the Conscious-Automaton-theory and the theory of Common Sense. Both alike are conceptions of the possible, and for any one dogmatically to affirm the truth of eith…",
+          "start_char": 5613,
+          "end_char": 5622
+        },
+        {
+          "doc_id": "wikisource_james_are_we_automata",
+          "title": "Are We Automata?",
+          "year": 1879,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "automaton",
+          "text": "…owly evolved in the animal series, and resembles in this all organs that have a use. Since the mere supernumerary depicted by the Conscious-Automaton-theory would be useless, it follows [p. 4] that if we can discover the utility of consciousness we shall overthrow that, theory. Our probl…",
+          "start_char": 6497,
+          "end_char": 6506
+        },
+        {
           "doc_id": "b30358711",
           "title": "An account of the mechanism of an automaton, or image playing on the German-flute: as it was presented in a memoire, to the gentlemen of the Royal-Academy of Sciences at Paris ... By M.V., inventor ... of the ... machine. Together with a description of an artificial duck, eating, drinking, macerating the food, and voiding excrements; pluming her wings, picking her feathers, and performing several operations in imitation of a living duck ... as also that of another image, no less wonderful than the first, playing on the tabor and pipe ...",
           "year": 1742,
@@ -7589,35 +7622,35 @@
       "related_concepts": [
         {
           "concept_id": "machine",
-          "count": 31
+          "count": 32
         },
         {
           "concept_id": "mechanism",
-          "count": 26
+          "count": 27
         },
         {
           "concept_id": "error",
-          "count": 26
+          "count": 27
         },
         {
           "concept_id": "reasoning",
-          "count": 25
+          "count": 26
         },
         {
           "concept_id": "network",
-          "count": 25
+          "count": 26
         },
         {
           "concept_id": "agency",
-          "count": 24
+          "count": 25
+        },
+        {
+          "concept_id": "intelligence",
+          "count": 23
         },
         {
           "concept_id": "learning",
           "count": 23
-        },
-        {
-          "concept_id": "intelligence",
-          "count": 22
         }
       ],
       "variant_count": 11
@@ -7626,8 +7659,8 @@
       "id": "machine",
       "label": "Machine",
       "description": "Broad discourse on machines and engines as models, tools, and metaphors for cognition and society.",
-      "total_hits": 2698,
-      "documents_with_hits": 95,
+      "total_hits": 2706,
+      "documents_with_hits": 96,
       "by_decade": {
         "1630s": 1,
         "1640s": 1,
@@ -7644,7 +7677,7 @@
         "1840s": 3,
         "1850s": 3,
         "1860s": 6,
-        "1870s": 13,
+        "1870s": 14,
         "1880s": 5,
         "1890s": 12,
         "1900s": 11,
@@ -7659,14 +7692,14 @@
       },
       "by_language": {
         "de": 7,
-        "en": 68,
+        "en": 69,
         "fr": 17,
         "ru": 3
       },
       "by_topic": {
         "automata_artificial_beings": 31,
         "computing": 24,
-        "intelligence": 3,
+        "intelligence": 4,
         "learning": 2,
         "mechanism": 35
       },
@@ -8692,35 +8725,35 @@
       "related_concepts": [
         {
           "concept_id": "network",
-          "count": 73
+          "count": 74
         },
         {
           "concept_id": "error",
-          "count": 70
+          "count": 71
         },
         {
           "concept_id": "mechanism",
-          "count": 69
+          "count": 70
         },
         {
           "concept_id": "reasoning",
-          "count": 68
+          "count": 69
+        },
+        {
+          "concept_id": "intelligence",
+          "count": 63
         },
         {
           "concept_id": "learning",
           "count": 63
         },
         {
-          "concept_id": "intelligence",
+          "concept_id": "probability",
           "count": 62
         },
         {
-          "concept_id": "probability",
-          "count": 61
-        },
-        {
           "concept_id": "agency",
-          "count": 60
+          "count": 61
         }
       ],
       "variant_count": 10
@@ -9823,12 +9856,12 @@
       "id": "automation",
       "label": "Automation",
       "description": "Automatic operation, mechanization of labor, and social debates about replacing human action with systems.",
-      "total_hits": 98,
-      "documents_with_hits": 29,
+      "total_hits": 100,
+      "documents_with_hits": 30,
       "by_decade": {
         "1850s": 1,
         "1860s": 2,
-        "1870s": 5,
+        "1870s": 6,
         "1880s": 5,
         "1890s": 5,
         "1900s": 2,
@@ -9842,14 +9875,14 @@
       },
       "by_language": {
         "de": 1,
-        "en": 19,
+        "en": 20,
         "fr": 8,
         "ru": 1
       },
       "by_topic": {
         "automata_artificial_beings": 7,
         "computing": 3,
-        "intelligence": 4,
+        "intelligence": 5,
         "learning": 2,
         "mechanism": 13
       },
@@ -9981,13 +10014,13 @@
           "quality_score": 4.722
         },
         {
-          "doc_id": "RDM_1907040901",
-          "title": "News (1907-04-09)",
-          "year": 1907,
+          "doc_id": "wikisource_james_are_we_automata",
+          "title": "Are We Automata?",
+          "year": 1879,
           "language_code": "en",
-          "topic": "automata_artificial_beings",
+          "topic": "intelligence",
           "hit_count": 2,
-          "quality_score": 5.11
+          "quality_score": 5.025
         }
       ],
       "key_excerpts": [
@@ -10432,6 +10465,28 @@
           "end_char": 8614
         },
         {
+          "doc_id": "wikisource_james_are_we_automata",
+          "title": "Are We Automata?",
+          "year": 1879,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "automatic",
+          "text": "…are retarded or hesitant, and at its minimum when nerve-action is rapid or certain, adds colour to the view that it is efficacious. Rapid, automatic action is action through thoroughly excavated nerve-tracks which have not the defect of uncertain performance. All instincts and confirmed…",
+          "start_char": 37842,
+          "end_char": 37851
+        },
+        {
+          "doc_id": "wikisource_james_are_we_automata",
+          "title": "Are We Automata?",
+          "year": 1879,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "automatic",
+          "text": "…nd at best a sign of strength of nerve-disturbance. But he is immediately confronted by the notorious fact that the strongest tendencies to automatic activity in the nerves often run most counter to the selective pressure of consciousness. Every day of our lives we struggle to escape some…",
+          "start_char": 49245,
+          "end_char": 49254
+        },
+        {
           "doc_id": "RDM_1907040901",
           "title": "News (1907-04-09)",
           "year": 1907,
@@ -10622,34 +10677,34 @@
       "related_concepts": [
         {
           "concept_id": "network",
-          "count": 28
+          "count": 29
         },
         {
           "concept_id": "reasoning",
-          "count": 27
+          "count": 28
         },
         {
           "concept_id": "mechanism",
-          "count": 27
+          "count": 28
         },
         {
           "concept_id": "machine",
-          "count": 27
+          "count": 28
         },
         {
           "concept_id": "error",
-          "count": 26
+          "count": 27
         },
         {
           "concept_id": "intelligence",
-          "count": 25
-        },
-        {
-          "concept_id": "learning",
-          "count": 25
+          "count": 26
         },
         {
           "concept_id": "probability",
+          "count": 26
+        },
+        {
+          "concept_id": "learning",
           "count": 25
         }
       ],
@@ -10659,8 +10714,8 @@
       "id": "probability",
       "label": "Probability",
       "description": "Statistical and probabilistic reasoning about uncertainty, prediction, and regularity.",
-      "total_hits": 803,
-      "documents_with_hits": 67,
+      "total_hits": 808,
+      "documents_with_hits": 68,
       "by_decade": {
         "1630s": 1,
         "1710s": 1,
@@ -10672,7 +10727,7 @@
         "1840s": 2,
         "1850s": 2,
         "1860s": 6,
-        "1870s": 11,
+        "1870s": 12,
         "1880s": 5,
         "1890s": 8,
         "1900s": 9,
@@ -10686,14 +10741,14 @@
       },
       "by_language": {
         "de": 8,
-        "en": 45,
+        "en": 46,
         "fr": 13,
         "ru": 1
       },
       "by_topic": {
         "automata_artificial_beings": 19,
         "computing": 9,
-        "intelligence": 5,
+        "intelligence": 6,
         "learning": 2,
         "mechanism": 32
       },
@@ -11595,6 +11650,39 @@
           "end_char": 189708
         },
         {
+          "doc_id": "wikisource_james_are_we_automata",
+          "title": "Are We Automata?",
+          "year": 1879,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "chance",
+          "text": "…em perfectly forfeits all other use. The performances of a high brain are like dice thrown for ever on a table. Unless they be loaded, what chance is there that the highest number will turn up oftener than the lowest? [p. 6] All this is said of the brain as a physical machine pure and…",
+          "start_char": 12054,
+          "end_char": 12060
+        },
+        {
+          "doc_id": "wikisource_james_are_we_automata",
+          "title": "Are We Automata?",
+          "year": 1879,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "statistics",
+          "text": "…l this will be non-existent; and distances and prices, populations and drainage-arrangements, door- and window-fastenings, and other useful statistics will take their place A third will give a rich account of the theatres, restaurants, and public balls, and naught beside; whilst the fourth…",
+          "start_char": 26702,
+          "end_char": 26712
+        },
+        {
+          "doc_id": "wikisource_james_are_we_automata",
+          "title": "Are We Automata?",
+          "year": 1879,
+          "language_code": "en",
+          "topic": "intelligence",
+          "variant": "probability",
+          "text": "…ndacious by Professor Clifford. But the intricate analysis by which it has been reached gives it great plausibility. I shall strengthen the probability by further facts in a moment. But I beg the reader to notice here the limitations of the power of Feeling, if power there be. All the possi…",
+          "start_char": 33423,
+          "end_char": 33434
+        },
+        {
           "doc_id": "SCC_1907100401",
           "title": "The Strathcona chronicle (1907-10-04)",
           "year": 1907,
@@ -11681,57 +11769,24 @@
           "text": "…to give you to-day is one which, if you can take it — and in most cases you can take it, either in whole or in part — will increase your chance by about 90 per cent., if it is again your fate to be wounded, of getting off' with a ir wound which, however severe it may be at the…",
           "start_char": 6486,
           "end_char": 6492
-        },
-        {
-          "doc_id": "livingmachine00macciala",
-          "title": "A living machine;",
-          "year": 1921,
-          "language_code": "en",
-          "topic": "mechanism",
-          "variant": "chance",
-          "text": "…condition in men, such as soldiers, who have difficulty in obtain- ing baths and washing as frequently as they would do if they had the chance. 18 A LIVING MACHINE Here I want to clear the air for a great many things which I have to tell you in the second part of my lectur…",
-          "start_char": 7783,
-          "end_char": 7789
-        },
-        {
-          "doc_id": "dervitalismusal00driegoog",
-          "title": "Der Vitalismus als Geschichte und als Lehre",
-          "year": 1905,
-          "language_code": "de",
-          "topic": "mechanism",
-          "variant": "zufall",
-          "text": "…Zwar kann Biologiegeschichte nie in dem Grade die Wissen- schaft selbst sein, wie Geschichte der Mechanik das ist; aber ganz und gar vom Zufall hängt darum doch auch sie nicht ab: auch in ihr gibt es ein Sich-selbst- vollenden der Grundgedanken. Es scheint mir in diesem Sinne von…",
-          "start_char": 11145,
-          "end_char": 11151
-        },
-        {
-          "doc_id": "dervitalismusal00driegoog",
-          "title": "Der Vitalismus als Geschichte und als Lehre",
-          "year": 1905,
-          "language_code": "de",
-          "topic": "mechanism",
-          "variant": "zufall",
-          "text": "…specialis\" je von hoher Mannigfaltigkeit, und eben wegen deren leichter Zerstörbarkeit erfordere er besondere Kräfte der Erhaltung. Der Zufall (casus) im Sinne des Demokrit oder Ep'ikur genügt also nicht zur Erklärung des Lebens- körpers; von den ewigen Gesetzen, den „leges aeter…",
-          "start_char": 60959,
-          "end_char": 60965
         }
       ],
       "related_concepts": [
         {
           "concept_id": "network",
-          "count": 62
+          "count": 63
         },
         {
           "concept_id": "reasoning",
-          "count": 61
+          "count": 62
         },
         {
           "concept_id": "machine",
-          "count": 61
+          "count": 62
         },
         {
           "concept_id": "error",
-          "count": 59
+          "count": 60
         },
         {
           "concept_id": "learning",
@@ -11739,15 +11794,15 @@
         },
         {
           "concept_id": "intelligence",
-          "count": 54
+          "count": 55
         },
         {
           "concept_id": "mechanism",
-          "count": 53
+          "count": 54
         },
         {
           "concept_id": "agency",
-          "count": 50
+          "count": 51
         }
       ],
       "variant_count": 17
@@ -11756,8 +11811,8 @@
       "id": "network",
       "label": "Network",
       "description": "Networks, interconnection, and distributed systems as metaphors and infrastructures of thought.",
-      "total_hits": 752,
-      "documents_with_hits": 80,
+      "total_hits": 754,
+      "documents_with_hits": 81,
       "by_decade": {
         "1630s": 1,
         "1780s": 1,
@@ -11769,7 +11824,7 @@
         "1840s": 4,
         "1850s": 2,
         "1860s": 6,
-        "1870s": 11,
+        "1870s": 12,
         "1880s": 6,
         "1890s": 9,
         "1900s": 10,
@@ -11784,14 +11839,14 @@
       },
       "by_language": {
         "de": 9,
-        "en": 57,
+        "en": 58,
         "fr": 12,
         "ru": 2
       },
       "by_topic": {
         "automata_artificial_beings": 24,
         "computing": 16,
-        "intelligence": 4,
+        "intelligence": 5,
         "learning": 2,
         "mechanism": 34
       },
@@ -12817,35 +12872,35 @@
       "related_concepts": [
         {
           "concept_id": "machine",
-          "count": 73
+          "count": 74
         },
         {
           "concept_id": "reasoning",
-          "count": 69
+          "count": 70
         },
         {
           "concept_id": "error",
-          "count": 69
+          "count": 70
         },
         {
           "concept_id": "mechanism",
-          "count": 66
+          "count": 67
+        },
+        {
+          "concept_id": "probability",
+          "count": 63
         },
         {
           "concept_id": "learning",
           "count": 62
         },
         {
-          "concept_id": "probability",
-          "count": 62
-        },
-        {
           "concept_id": "intelligence",
-          "count": 57
+          "count": 58
         },
         {
           "concept_id": "agency",
-          "count": 57
+          "count": 58
         }
       ],
       "variant_count": 16
@@ -12854,8 +12909,8 @@
       "id": "error",
       "label": "Error & Hallucination",
       "description": "Error, illusion, and hallucination in minds and machines, from faulty perception and mechanical failure to today's \"hallucinating\" language models.",
-      "total_hits": 1172,
-      "documents_with_hits": 79,
+      "total_hits": 1176,
+      "documents_with_hits": 80,
       "by_decade": {
         "1630s": 1,
         "1710s": 1,
@@ -12869,7 +12924,7 @@
         "1840s": 4,
         "1850s": 3,
         "1860s": 6,
-        "1870s": 8,
+        "1870s": 9,
         "1880s": 6,
         "1890s": 11,
         "1900s": 8,
@@ -12883,14 +12938,14 @@
       },
       "by_language": {
         "de": 6,
-        "en": 59,
+        "en": 60,
         "fr": 13,
         "ru": 1
       },
       "by_topic": {
         "automata_artificial_beings": 27,
         "computing": 17,
-        "intelligence": 5,
+        "intelligence": 6,
         "learning": 1,
         "mechanism": 29
       },
@@ -13916,19 +13971,19 @@
       "related_concepts": [
         {
           "concept_id": "machine",
-          "count": 70
+          "count": 71
         },
         {
           "concept_id": "network",
-          "count": 69
+          "count": 70
         },
         {
           "concept_id": "reasoning",
-          "count": 67
+          "count": 68
         },
         {
           "concept_id": "mechanism",
-          "count": 61
+          "count": 62
         },
         {
           "concept_id": "learning",
@@ -13936,15 +13991,15 @@
         },
         {
           "concept_id": "probability",
-          "count": 59
+          "count": 60
         },
         {
           "concept_id": "intelligence",
-          "count": 58
+          "count": 59
         },
         {
           "concept_id": "agency",
-          "count": 57
+          "count": 58
         }
       ],
       "variant_count": 21

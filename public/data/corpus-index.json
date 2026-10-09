@@ -2542,5 +2542,26 @@
     "has_translation": false,
     "translation_filename": null,
     "gibberish_pages": []
+  },
+  {
+    "identifier": "wikisource_james_are_we_automata",
+    "title": "Are We Automata?",
+    "year": 1879,
+    "publication_year": null,
+    "gutenberg_release_year": null,
+    "year_source": null,
+    "creator": "William James",
+    "description": "James's first major paper, in Mind, arguing against Huxley and Clifford that consciousness is not a mere by-product of a nervous machine but does causal work: it selects among the brain's possibilities. James later reworked it into Chapter V of The Principles of Psychology.",
+    "summary": "James's first major paper, in Mind, arguing against Huxley and Clifford that consciousness is not a mere by-product of a nervous machine but does causal work: it selects among the brain's possibilities. James later reworked it into Chapter V of The Principles of Psychology.",
+    "topic": "intelligence",
+    "language_code": "en",
+    "language": "English",
+    "source_url": "https://en.wikisource.org/wiki/Are_We_Automata%3F",
+    "char_count": 59548,
+    "source": "wikisource",
+    "filename": "1879_en_wikisource_james_are_we_automata.txt",
+    "has_translation": false,
+    "translation_filename": null,
+    "gibberish_pages": []
   }
 ]

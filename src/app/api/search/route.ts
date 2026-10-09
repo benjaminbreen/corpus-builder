@@ -192,6 +192,18 @@ function tokenizeQuery(query: string): string[] {
   return Array.from(new Set(parts.filter((token) => token.length >= 2)))
 }
 
+// Short, on-topic texts otherwise lose to long ones on the length-based quality prior,
+// so reward documents whose title matches the query.
+function titleBonus(title: string | undefined, queryLower: string, queryTokens: string[]): number {
+  if (!title) return 0
+  const titleLower = title.toLowerCase()
+  const phrase = queryLower.replace(/[^a-z0-9\s'-]/g, ' ').replace(/\s+/g, ' ').trim()
+  if (phrase.length >= 4 && titleLower.includes(phrase)) return 0.2
+  const content = queryTokens.filter((t) => t.length >= 4)
+  if (content.length < 2) return 0
+  return content.every((t) => titleLower.includes(t)) ? 0.1 : 0
+}
+
 function lexicalScore(chunkTextLower: string, queryLower: string, queryTokens: string[]): number {
   if (queryTokens.length === 0) return 0
 
@@ -479,7 +491,8 @@ export async function POST(req: NextRequest) {
         const score =
           semanticComponent * weights.semantic +
           lexicalComponent * weights.lexical +
-          qualityComponent * weights.quality
+          qualityComponent * weights.quality +
+          titleBonus(candidate.doc.title, queryLower, queryTokens)
 
         return {
           candidate,

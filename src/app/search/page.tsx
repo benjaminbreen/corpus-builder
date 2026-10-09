@@ -31,9 +31,24 @@ interface SearchPayload {
 }
 
 interface CorpusDocLite {
+  identifier: string
+  creator?: string | string[]
   year: number
   topic?: string
   language_code?: string
+}
+
+interface AuthorPortrait {
+  name: string
+  thumbnail?: string | null
+}
+
+function displayCreator(creator: CorpusDocLite['creator']): string | null {
+  const raw = Array.isArray(creator) ? creator[0] : creator
+  if (!raw || /^(none|unknown|anonymous)$/i.test(raw)) return null
+  const name = raw.replace(/,?\s*\(?\d{4}\s*-\s*\d{0,4}\)?\.?/g, '').replace(/,?\s*(praeses|respondent|editor)\b.*$/i, '').trim().replace(/[,.]$/, '')
+  const parts = name.split(',').map((p) => p.trim()).filter(Boolean)
+  return parts.length === 2 ? `${parts[1]} ${parts[0]}` : name
 }
 
 interface FilterCounts {
@@ -74,6 +89,8 @@ export default function SearchPage() {
   const [error, setError] = useState<string | null>(null)
   const [searchPerformed, setSearchPerformed] = useState(false)
   const [filters, setFilters] = useState<FilterCounts>({ decade: {}, topic: {}, language: {} })
+  const [creators, setCreators] = useState<Record<string, CorpusDocLite['creator']>>({})
+  const [portraits, setPortraits] = useState<Record<string, AuthorPortrait>>({})
   const [selectedFilters, setSelectedFilters] = useState<Record<string, string>>({})
   const [includeLowQuality, setIncludeLowQuality] = useState(false)
   const [searchMeta, setSearchMeta] = useState<{ model?: string; usedSemantic?: boolean; totalCandidates?: number }>({})
@@ -85,6 +102,9 @@ export default function SearchPage() {
         if (!response.ok) return
         const docs = (await response.json()) as CorpusDocLite[]
         setFilters(buildFilterCounts(docs))
+        setCreators(Object.fromEntries(docs.map((doc) => [doc.identifier, doc.creator])))
+        const portraitResponse = await fetch('/data/author-portraits.json')
+        if (portraitResponse.ok) setPortraits(await portraitResponse.json())
       } catch {
         // Ignore filter-load errors and keep empty filters.
       }
@@ -295,10 +315,8 @@ export default function SearchPage() {
         ) : results.length > 0 ? (
           <div>
             <p className="text-sm text-ink-500 mb-6">
-              Found {results.length} results for "{activeQuery}".
-              {searchMeta.model && <span> Model: {searchMeta.model}.</span>}
-              {searchMeta.totalCandidates !== undefined && <span> Candidates scored: {searchMeta.totalCandidates}.</span>}
-              {searchMeta.usedSemantic === false && <span> Semantic fallback unavailable; lexical + quality ranking used.</span>}
+              {results.length} passages for &ldquo;{activeQuery}&rdquo;, ranked by meaning and wording.
+              {searchMeta.usedSemantic === false && <span> (Meaning-based ranking is unavailable; showing word matches.)</span>}
             </p>
             <div className="space-y-5">
               {results.map((result) => {
@@ -316,26 +334,41 @@ export default function SearchPage() {
                     }}
                     className="block p-4 border border-paper-200 rounded-sm hover:border-copper-400 hover:bg-paper-50 transition-all"
                   >
-                    <div className="flex items-start gap-4">
-                      {result.year && <span className="date-stamp shrink-0">{result.year}</span>}
-                      <div className="min-w-0 flex-1">
-                        <h3 className="font-serif text-base text-ink-900 mb-2 line-clamp-2">{result.title || result.doc_id}</h3>
-                        <p className="font-sans text-sm text-ink-700 leading-relaxed">
-                          {renderTextWithHighlights(result.text, snippetHits, {
-                            className: 'search-highlight',
-                            activeClassName: '',
-                          })}
-                        </p>
-                        <div className="mt-2 flex flex-wrap gap-2">
-                          {result.topic && <span className="tag text-xs">{TOPIC_NAMES[result.topic] || result.topic}</span>}
-                          {result.language_code && <span className="tag text-xs">{LANGUAGE_NAMES[result.language_code] || result.language_code}</span>}
-                          <span className="tag text-xs">score {result.score.toFixed(3)}</span>
-                          <span className="tag text-xs">lex {result.lexical_score.toFixed(2)}</span>
-                          <span className="tag text-xs">sem {result.semantic_score.toFixed(2)}</span>
-                          <span className="tag text-xs">quality {Math.round(result.quality_prior * 100)}%</span>
-                        </div>
+                    <div className="flex items-center justify-between gap-4 mb-2">
+                      <div className="flex items-center gap-2 min-w-0 text-sm text-ink-500">
+                        {(() => {
+                          const rawCreator = creators[result.doc_id]
+                          const key = Array.isArray(rawCreator) ? rawCreator[0] : rawCreator
+                          const portrait = key ? portraits[key] : undefined
+                          const name = portrait?.name || displayCreator(rawCreator)
+                          return (
+                            <>
+                              {portrait?.thumbnail ? (
+                                // eslint-disable-next-line @next/next/no-img-element
+                                <img src={portrait.thumbnail} alt="" className="w-6 h-6 rounded-full object-cover border border-paper-200" />
+                              ) : null}
+                              {name && <span className="truncate">{name}</span>}
+                            </>
+                          )
+                        })()}
                       </div>
+                      {result.year && <span className="font-mono text-sm text-copper-700 shrink-0">{result.year}</span>}
                     </div>
+                    <h3 className="font-serif text-lg text-ink-900 mb-1 line-clamp-2">{result.title || result.doc_id}</h3>
+                    <div className="text-xs text-ink-400 mb-3">
+                      {[
+                        result.topic ? TOPIC_NAMES[result.topic] || result.topic : null,
+                        result.language_code ? LANGUAGE_NAMES[result.language_code] || result.language_code : null,
+                      ]
+                        .filter(Boolean)
+                        .join(' · ')}
+                    </div>
+                    <p className="font-sans text-sm text-ink-700 leading-relaxed line-clamp-4">
+                      {renderTextWithHighlights(result.text, snippetHits, {
+                        className: 'search-highlight',
+                        activeClassName: '',
+                      })}
+                    </p>
                   </Link>
                 )
               })}

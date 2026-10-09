@@ -42,6 +42,14 @@ export default async function HomePage() {
               About the Project
             </Link>
           </div>
+          <div className="mt-6 flex flex-wrap items-center gap-2 font-sans text-sm">
+            <span className="text-ink-400 mr-1">Try:</span>
+            {SUGGESTED_SEARCHES.map((q) => (
+              <Link key={q} href={`/search?q=${encodeURIComponent(q)}`} className="tag hover:bg-paper-200 transition-colors">
+                {q}
+              </Link>
+            ))}
+          </div>
           <p className="mt-8 font-sans text-sm text-ink-500 max-w-2xl leading-relaxed">
             This is a working prototype built at the University of California, Santa Cruz.
             The current sample of {stats.totalDocuments} documents demonstrates the
@@ -213,15 +221,9 @@ export default async function HomePage() {
           <h2 className="mb-4">Start Exploring</h2>
           <p className="text-ink-500 max-w-xl mx-auto mb-8">
             Search across {stats.totalDocuments} documents for phrases like
-            &ldquo;thinking machine,&rdquo; &ldquo;calculating engine,&rdquo; or &ldquo;hallucination.&rdquo;
+            &ldquo;thinking machine,&rdquo; &ldquo;calculating engine,&rdquo; or &ldquo;hallucination,&rdquo;
+            or by meaning, with questions like &ldquo;can a machine be conscious?&rdquo;
           </p>
-          <div className="flex flex-wrap justify-center gap-3 mb-8">
-            {['thinking machine', 'calculating engine', 'hallucination', 'animal machine'].map((q) => (
-              <Link key={q} href={`/search?q=${encodeURIComponent(q)}`} className="tag hover:bg-paper-200">
-                {q}
-              </Link>
-            ))}
-          </div>
           <Link href="/search" className="btn-primary text-lg px-8 py-3">
             Search the Archive
           </Link>
@@ -315,3 +317,11 @@ function BrowseCard({
   )
 }
 
+
+const SUGGESTED_SEARCHES = [
+  'thinking machine',
+  'are we automata?',
+  'hallucination',
+  'calculating engine',
+  'mental tests',
+]

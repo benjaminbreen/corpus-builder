@@ -61,6 +61,11 @@ export function Footer() {
                 </Link>
               </li>
               <li>
+                <Link href="/data" className="font-sans text-sm text-ink-500 hover:text-ink-900">
+                  Data
+                </Link>
+              </li>
+              <li>
                 <a
                   href="https://thi.ucsc.edu"
                   target="_blank"

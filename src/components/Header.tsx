@@ -18,6 +18,7 @@ const browseItems = [
 
 const utilityItems = [
   { href: '/methods', label: 'Methods' },
+  { href: '/data', label: 'Data' },
   { href: '/about', label: 'About' },
 ]
 

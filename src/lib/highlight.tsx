@@ -18,6 +18,13 @@ function normalizeQuery(query: string): string {
   return query.trim().replace(/\s+/g, ' ')
 }
 
+// Function words that would otherwise light up every line of a passage
+const STOPWORDS = new Set([
+  'a', 'an', 'and', 'are', 'as', 'at', 'be', 'by', 'can', 'do', 'for', 'from', 'how', 'in', 'is',
+  'it', 'of', 'on', 'or', 'that', 'the', 'this', 'to', 'was', 'we', 'what', 'when', 'who', 'why',
+  'with', 'you',
+])
+
 export function extractHighlightTerms(query: string): string[] {
   const normalized = normalizeQuery(query)
   if (!normalized) return []
@@ -26,7 +33,7 @@ export function extractHighlightTerms(query: string): string[] {
   const tokenized = normalized
     .split(/[^a-z0-9']+/i)
     .map((token) => token.trim())
-    .filter((token) => token.length >= 2)
+    .filter((token) => token.length >= 2 && !STOPWORDS.has(token.toLowerCase()))
 
   candidates.push(...tokenized)
 

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-09T22:46:36.568Z",
-  "corpus_size": 115,
-  "indexed_docs": 111,
+  "generated_at": "2026-10-09T23:21:01.417Z",
+  "corpus_size": 116,
+  "indexed_docs": 112,
   "skipped_noisy_docs": 4,
   "concepts": {
     "intelligence": {
@@ -781,6 +781,37 @@
               "start_char": 213718,
               "end_char": 213727,
               "text": "…the phantom creations of his inflamed imagination. Here a part of the diary is altogether incoherent, showing into what utter confusion his intellect had been thrown. The waves roared at him in anger, and the winds joined them in their rage. Fiendish spirits seemed to rise up before him…"
+            }
+          ]
+        },
+        {
+          "doc_id": "wikisource_james_are_we_automata",
+          "title": "Are We Automata?",
+          "year": 1879,
+          "decade": "1870s",
+          "language_code": "en",
+          "topic": "intelligence",
+          "char_count": 59548,
+          "quality_score": 5.025,
+          "hit_count": 7,
+          "snippets": [
+            {
+              "variant": "intelligent",
+              "start_char": 3889,
+              "end_char": 3900,
+              "text": "…to hear them speak of conscious events as something so essentially vague and shadowy as even doubtfully to exist at all I have heard a most intelligent [p. 3] biologist say: \"It is high time for scientific men to protest against the recognition of any such thing as consciousness in a scient…"
+            },
+            {
+              "variant": "intellect",
+              "start_char": 22426,
+              "end_char": 22435,
+              "text": "…treatment of perception, but I may say, in passing that I think his rather indefinite and oracular statements about the part played by the intellect therein have momentarily contributed to retard psychological inquiry. We find the Kantian philosophers everywhere hailing him as the great…"
+            },
+            {
+              "variant": "intellect",
+              "start_char": 22760,
+              "end_char": 22769,
+              "text": "…iews. They say he has proved the present sensation to have nothing to do with the construction of the Object that is an original act of the intellect which the sensation merely instigates but does not furnish forth: it contains ultra-sensational elements. All that Helmholtz really does pr…"
             }
           ]
         },
@@ -4524,6 +4555,37 @@
           ]
         },
         {
+          "doc_id": "wikisource_james_are_we_automata",
+          "title": "Are We Automata?",
+          "year": 1879,
+          "decade": "1870s",
+          "language_code": "en",
+          "topic": "intelligence",
+          "char_count": 59548,
+          "quality_score": 5.025,
+          "hit_count": 15,
+          "snippets": [
+            {
+              "variant": "rationality",
+              "start_char": 2166,
+              "end_char": 2177,
+              "text": "…which performs rational-seeming acts although probably it has no consciousness, and passing up to the hemispheres of man concludes that the rationality of their performances can owe nothing to the feelings that co-exist with it. This is the inverse of Mr. Lewes's procedure. He starts from t…"
+            },
+            {
+              "variant": "reason",
+              "start_char": 2600,
+              "end_char": 2606,
+              "text": "…tent must still be there to make it act so rationally. Clearly such arguments as these may mutually eat each other up to all eternity. The reason why the writers we speak of venture to dogmatise as they do on this subject, seems due to a sort of philosophic faith, bred like most faith…"
+            },
+            {
+              "variant": "reasoning",
+              "start_char": 5475,
+              "end_char": 5484,
+              "text": "…i to shrink from a \"chasm\" between the objects of one's contemplation is as respectable as to dislike heterogeneity in the factors of one's reasoning operations. The truth is, then, that neither æsthetic motives nor ostensible reasons entitle us to decide between the Conscious-Automaton-t…"
+            }
+          ]
+        },
+        {
           "doc_id": "gutenberg_72556",
           "title": "Wesblock, the autobiography of an automaton",
           "year": 1914,
@@ -7527,6 +7589,25 @@
           ]
         },
         {
+          "doc_id": "wikisource_james_are_we_automata",
+          "title": "Are We Automata?",
+          "year": 1879,
+          "decade": "1870s",
+          "language_code": "en",
+          "topic": "intelligence",
+          "char_count": 59548,
+          "quality_score": 5.025,
+          "hit_count": 1,
+          "snippets": [
+            {
+              "variant": "agency",
+              "start_char": 30779,
+              "end_char": 30785,
+              "text": "…nsists in the comparison of these with each other, the selection of some, and the suppression of the rest by the reinforcing and inhibiting agency of attention. The highest and most elaborated mental products are filtered from the data chosen by the faculty next beneath out of the mass…"
+            }
+          ]
+        },
+        {
           "doc_id": "gutenberg_55817",
           "title": "Automata Old and New",
           "year": 1891,
@@ -8760,6 +8841,31 @@
               "start_char": 430317,
               "end_char": 430323,
               "text": "…rince, and Genlinna immortalizes a king of Illyria. The scientific botanists of modern times have adopted the same mode of preserving the memory of benefactors to their science ; and though the honour may have been sometimes extended too far, that is no argument for its total abro…"
+            }
+          ]
+        },
+        {
+          "doc_id": "wikisource_james_are_we_automata",
+          "title": "Are We Automata?",
+          "year": 1879,
+          "decade": "1870s",
+          "language_code": "en",
+          "topic": "intelligence",
+          "char_count": 59548,
+          "quality_score": 5.025,
+          "hit_count": 2,
+          "snippets": [
+            {
+              "variant": "memory",
+              "start_char": 26369,
+              "end_char": 26375,
+              "text": "…mologist, do they say anything distinct? On the other hand, an object met only once in a life-time may leave an indelible experience in the memory. Let four men make a tour in Europe. One will bring home only picturesque impressions-costumes and colours, parks and views and works of ar…"
+            },
+            {
+              "variant": "memory",
+              "start_char": 56998,
+              "end_char": 57004,
+              "text": "…f association, so thoroughly riddled of late by Professor Green. The association of sensations of which I speak, presupposes comparison and memory which are functions not given in any one sensation. All I mean is, that these mental functions are already at work in the first beginnings…"
             }
           ]
         },
@@ -10607,6 +10713,37 @@
           ]
         },
         {
+          "doc_id": "wikisource_james_are_we_automata",
+          "title": "Are We Automata?",
+          "year": 1879,
+          "decade": "1870s",
+          "language_code": "en",
+          "topic": "intelligence",
+          "char_count": 59548,
+          "quality_score": 5.025,
+          "hit_count": 6,
+          "snippets": [
+            {
+              "variant": "machinery",
+              "start_char": 7864,
+              "end_char": 7873,
+              "text": "…f man. In the beheaded frog the legs twitch as fatally when we touch the skin with acid as do a jumping-jack's when we pull the string. The machinery is as narrow and perfect in the one case as in the other. Even if all; the centres above the cord except the cerebral hemispheres are left…"
+            },
+            {
+              "variant": "mechanical",
+              "start_char": 9999,
+              "end_char": 10009,
+              "text": "…f which may be for him a sign, suggesting distant motives more powerful than any present solicitations of sense. Now it seems as if certain mechanical conclusions should be drawn from this state of things. An organ swayed by slight impressions is an organ whose natural state is one of unst…"
+            },
+            {
+              "variant": "mechanical",
+              "start_char": 16487,
+              "end_char": 16497,
+              "text": "…ss of Mr. Darwin lays it down as axiomatic that self-preservation or survival is the essential or universal good for all living things. The mechanical processes of \"spontaneous variation\" and \"natural selection\" bring about this good by their combined action; but being physical processes t…"
+            }
+          ]
+        },
+        {
           "doc_id": "gutenberg_59112",
           "title": "R.U.R. (Rossum's Universal Robots): A Fantastic Melodrama in Three Acts and an Epilogue",
           "year": 1923,
@@ -11823,6 +11960,37 @@
               "start_char": 1011,
               "end_char": 1020,
               "text": "…p.net (This book was produced from images made available by the HathiTrust Digital Library.) *** START OF THE PROJECT GUTENBERG EBOOK THE AUTOMATON EAR, AND OTHER SKETCHES *** THE AUTOMATON EAR,…"
+            }
+          ]
+        },
+        {
+          "doc_id": "wikisource_james_are_we_automata",
+          "title": "Are We Automata?",
+          "year": 1879,
+          "decade": "1870s",
+          "language_code": "en",
+          "topic": "intelligence",
+          "char_count": 59548,
+          "quality_score": 5.025,
+          "hit_count": 8,
+          "snippets": [
+            {
+              "variant": "automaton",
+              "start_char": 46,
+              "end_char": 55,
+              "text": "Everyone is now acquainted with the Conscious-Automaton-theory to which Prof. Huxley1 gave such publicity in his Belfast address; which the late Mr. D. A. Spalding punctiliously made the pivot of…"
+            },
+            {
+              "variant": "automaton",
+              "start_char": 5613,
+              "end_char": 5622,
+              "text": "…s reasoning operations. The truth is, then, that neither æsthetic motives nor ostensible reasons entitle us to decide between the Conscious-Automaton-theory and the theory of Common Sense. Both alike are conceptions of the possible, and for any one dogmatically to affirm the truth of eith…"
+            },
+            {
+              "variant": "automaton",
+              "start_char": 6497,
+              "end_char": 6506,
+              "text": "…owly evolved in the animal series, and resembles in this all organs that have a use. Since the mere supernumerary depicted by the Conscious-Automaton-theory would be useless, it follows [p. 4] that if we can discover the utility of consciousness we shall overthrow that, theory. Our probl…"
             }
           ]
         },
@@ -13757,6 +13925,37 @@
               "start_char": 4867,
               "end_char": 4874,
               "text": "…-plant was in full operation. Then, reasonably certain of their immunity to human detection, they took time to hold a general parley. Each machine said what it had to say, then listened impassively to the others; and at the end they all agreed. Singly or en masse the automatons did not…"
+            }
+          ]
+        },
+        {
+          "doc_id": "wikisource_james_are_we_automata",
+          "title": "Are We Automata?",
+          "year": 1879,
+          "decade": "1870s",
+          "language_code": "en",
+          "topic": "intelligence",
+          "char_count": 59548,
+          "quality_score": 5.025,
+          "hit_count": 8,
+          "snippets": [
+            {
+              "variant": "machines",
+              "start_char": 507,
+              "end_char": 515,
+              "text": "…exposition in Mr. Hodgson's magnificent work, The Theory of Practice.³ The theory maintains that in everything outward we are pure material machines. Feeling is a mere collateral product of our nervous processes, unable to react upon them any more than a shadow reacts on the steps of the…"
+            },
+            {
+              "variant": "machine",
+              "start_char": 8027,
+              "end_char": 8034,
+              "text": "…and perfect in the one case as in the other. Even if all; the centres above the cord except the cerebral hemispheres are left in place, the machine-like regularity of the animal's response is hardly less striking. He breathes, he swallows, he crawls, he turns over from his back, he move…"
+            },
+            {
+              "variant": "machine",
+              "start_char": 12184,
+              "end_char": 12191,
+              "text": "…ded, what chance is there that the highest number will turn up oftener than the lowest? [p. 6] All this is said of the brain as a physical machine pure and simple. Can consciousness increase its efficiency by loading its dice? Such is our next problem. But before directly attacking it…"
             }
           ]
         },
@@ -16647,6 +16846,31 @@
           ]
         },
         {
+          "doc_id": "wikisource_james_are_we_automata",
+          "title": "Are We Automata?",
+          "year": 1879,
+          "decade": "1870s",
+          "language_code": "en",
+          "topic": "intelligence",
+          "char_count": 59548,
+          "quality_score": 5.025,
+          "hit_count": 2,
+          "snippets": [
+            {
+              "variant": "automatic",
+              "start_char": 37842,
+              "end_char": 37851,
+              "text": "…are retarded or hesitant, and at its minimum when nerve-action is rapid or certain, adds colour to the view that it is efficacious. Rapid, automatic action is action through thoroughly excavated nerve-tracks which have not the defect of uncertain performance. All instincts and confirmed…"
+            },
+            {
+              "variant": "automatic",
+              "start_char": 49245,
+              "end_char": 49254,
+              "text": "…nd at best a sign of strength of nerve-disturbance. But he is immediately confronted by the notorious fact that the strongest tendencies to automatic activity in the nerves often run most counter to the selective pressure of consciousness. Every day of our lives we struggle to escape some…"
+            }
+          ]
+        },
+        {
           "doc_id": "RDM_1907040901",
           "title": "News (1907-04-09)",
           "year": 1907,
@@ -17660,6 +17884,37 @@
               "start_char": 189690,
               "end_char": 189708,
               "text": "…nie werden wir das Geheimnifs völ- lig erforschen können. Aus diesem Gesetze können wir aber, wie ich glaube, manches Dunkle mit grofser Wahrscheinlichkeit er- klären. Das Periodische mancher Krankhei- j En re ee ee 2 2 ee ER] — , 143 ee ten; vorzüglich im Nervensystem, wird da- durc…"
+            }
+          ]
+        },
+        {
+          "doc_id": "wikisource_james_are_we_automata",
+          "title": "Are We Automata?",
+          "year": 1879,
+          "decade": "1870s",
+          "language_code": "en",
+          "topic": "intelligence",
+          "char_count": 59548,
+          "quality_score": 5.025,
+          "hit_count": 5,
+          "snippets": [
+            {
+              "variant": "chance",
+              "start_char": 12054,
+              "end_char": 12060,
+              "text": "…em perfectly forfeits all other use. The performances of a high brain are like dice thrown for ever on a table. Unless they be loaded, what chance is there that the highest number will turn up oftener than the lowest? [p. 6] All this is said of the brain as a physical machine pure and…"
+            },
+            {
+              "variant": "statistics",
+              "start_char": 26702,
+              "end_char": 26712,
+              "text": "…l this will be non-existent; and distances and prices, populations and drainage-arrangements, door- and window-fastenings, and other useful statistics will take their place A third will give a rich account of the theatres, restaurants, and public balls, and naught beside; whilst the fourth…"
+            },
+            {
+              "variant": "probability",
+              "start_char": 33423,
+              "end_char": 33434,
+              "text": "…ndacious by Professor Clifford. But the intricate analysis by which it has been reached gives it great plausibility. I shall strengthen the probability by further facts in a moment. But I beg the reader to notice here the limitations of the power of Feeling, if power there be. All the possi…"
             }
           ]
         },
@@ -20545,6 +20800,31 @@
           ]
         },
         {
+          "doc_id": "wikisource_james_are_we_automata",
+          "title": "Are We Automata?",
+          "year": 1879,
+          "decade": "1870s",
+          "language_code": "en",
+          "topic": "intelligence",
+          "char_count": 59548,
+          "quality_score": 5.025,
+          "hit_count": 2,
+          "snippets": [
+            {
+              "variant": "connection",
+              "start_char": 34396,
+              "end_char": 34406,
+              "text": "…ting finger of consciousness deal with the fluctuating eddies in the cerebral cortex. That these eddies are stirred by causes that have no connection with either dominant interests or present impressions seems manifest from the phenomena of dreaming. The chaotic imagery there appears due…"
+            },
+            {
+              "variant": "connected",
+              "start_char": 59305,
+              "end_char": 59314,
+              "text": "…nerations, it need not be true of hesitant acts not yet habitual; it need not be true of pains and pleasures, such as hunger and sleep, not connected with motor discharge; and even in the instance chosen it leaves out the possibility that the nervous mechanism, now automatically perfect,…"
+            }
+          ]
+        },
+        {
           "doc_id": "jamesiana_james_habit_1890",
           "title": "The Principles of Psychology, Chapter IV: Habit",
           "year": 1890,
@@ -22341,6 +22621,37 @@
               "start_char": 439513,
               "end_char": 439522,
               "text": "…nt les gestes sont le moins apparents, est certainement celui qui trouble le m.oins les jouissances du public et lui conserve le mieux ses illusions. — m — “ Les qualités que doit posséder un bon chef d’orchestre sont très multipliées . une grande régularité dans les mouvements, mai…"
+            }
+          ]
+        },
+        {
+          "doc_id": "wikisource_james_are_we_automata",
+          "title": "Are We Automata?",
+          "year": 1879,
+          "decade": "1870s",
+          "language_code": "en",
+          "topic": "intelligence",
+          "char_count": 59548,
+          "quality_score": 5.025,
+          "hit_count": 4,
+          "snippets": [
+            {
+              "variant": "error",
+              "start_char": 876,
+              "end_char": 881,
+              "text": "…oyage of life, it is allowed to remain on board, but not to touch the helm or handle the rigging. The theory also maintains that we are in error to suppose that our thoughts awaken each other by inward congruity or rational necessity, that disappointed hopes cause sadness, premisses…"
+            },
+            {
+              "variant": "hallucinations",
+              "start_char": 35013,
+              "end_char": 35027,
+              "text": "…brain's operations when awake. But Maury in his classic work, Le Sommeil, has conclusively proved the passage of dreams through \"hypnagogic hallucinations\" into that meteoric shower of images and suggestions, irrelevant to the main line of thought, the continual presence of which every one who…"
+            },
+            {
+              "variant": "error",
+              "start_char": 39858,
+              "end_char": 39863,
+              "text": "…practised eye may be needed to suspect anything wrong. If we suppose the presence of a mind, not only taking cognisance of each functional error, but able to exert an efficient pressure to inhibit it if it be a sin of commission, to lend a strengthening-hand if the nerve-defect be a…"
             }
           ]
         },
