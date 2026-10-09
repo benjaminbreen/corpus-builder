@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import Image from 'next/image'
 import type { Document } from '@/lib/types'
+import { LANGUAGE_NAMES, TOPIC_NAMES } from '@/lib/types'
 
 export interface PathwayStop {
   id: string
@@ -79,13 +80,13 @@ export function PathwayTimeline({ stops }: PathwayTimelineProps) {
                       {doc?.language_code && (
                         <>
                           <span className="text-ink-300">·</span>
-                          <span className="tag">{doc.language_code}</span>
+                          <span className="tag">{LANGUAGE_NAMES[doc.language_code] || doc.language_code}</span>
                         </>
                       )}
                       {doc?.topic && (
                         <>
                           <span className="text-ink-300">·</span>
-                          <span className="tag">{doc.topic}</span>
+                          <span className="tag">{TOPIC_NAMES[doc.topic] || doc.topic}</span>
                         </>
                       )}
                     </div>

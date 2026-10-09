@@ -20,8 +20,8 @@ export async function getWikipediaThumbnail(
     const thumb = data?.thumbnail?.source
     if (!thumb) return null
 
-    // Request a specific width by rewriting the wikimedia thumb URL
-    return thumb.replace(/\/\d+px-/, `/${width}px-`)
+    // Use the thumbnail as served; Wikimedia rejects non-standard widths (HTTP 400)
+    return thumb
   } catch {
     return null
   }

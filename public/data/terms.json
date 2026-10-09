@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-09T15:57:54.175Z",
+  "generated_at": "2026-10-09T22:42:10.449Z",
   "corpus_size": 109,
-  "indexed_docs": 104,
-  "skipped_noisy_docs": 5,
+  "indexed_docs": 105,
+  "skipped_noisy_docs": 4,
   "cleaned_markup_docs": 1,
   "concepts": [
     {
       "id": "intelligence",
       "label": "Intelligence",
       "description": "Capacities of mind, cognition, and adaptive thought as discussed across philosophical, scientific, and technical traditions.",
-      "total_hits": 817,
+      "total_hits": 823,
       "documents_with_hits": 61,
       "by_decade": {
         "1630s": 1,
@@ -846,6 +846,39 @@
           "end_char": 556124
         },
         {
+          "doc_id": "wikisource_sketch_analytical_engine",
+          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
+          "year": 1843,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "intellect",
+          "text": "…hich belong to the various branches of the mathematical sciences, although on first consideration they seem to be the exclusive province of intellect, may, nevertheless, be divided into two distinct sections; one of which may be called the mechanical, because it is subjected to precise an…",
+          "start_char": 7740,
+          "end_char": 7749
+        },
+        {
+          "doc_id": "wikisource_sketch_analytical_engine",
+          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
+          "year": 1843,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "intellect",
+          "text": "…understanding. This admitted, we may propose to execute, by means of machinery, the mechanical branch of these labours, reserving for pure intellect that which depends on the reasoning faculties. Thus the rigid exactness of those laws which regulate numerical calculations must frequently…",
+          "start_char": 8223,
+          "end_char": 8232
+        },
+        {
+          "doc_id": "wikisource_sketch_analytical_engine",
+          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
+          "year": 1843,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "intellect",
+          "text": "…attained it. For instance, the much-admired machine of Pascal is now simply an object of curiosity, which, whilst it displays the powerful intellect of its inventor, is yet of little utility in itself. Its powers extended no further than the execution of the four first operations of arit…",
+          "start_char": 8752,
+          "end_char": 8761
+        },
+        {
           "doc_id": "gutenberg_67476",
           "title": "The Automaton Ear, and Other Sketches",
           "year": 1876,
@@ -1031,39 +1064,6 @@
           "text": "…ly suggests the Professor) \" it is no less certain that the existing world lay, potientially, in the cosmic vapour ; and that a sufficient intelligence could, fi-om a knowledge of the properties of the molecules of that vapour, have predicted, say the state of the Fauna of Britain in 1869…",
           "start_char": 38739,
           "end_char": 38751
-        },
-        {
-          "doc_id": "protoplasmorlif00bealgoog",
-          "title": "Protoplasm; or, Life, force, and matter",
-          "year": 1870,
-          "language_code": "en",
-          "topic": "mechanism",
-          "variant": "intelligence",
-          "text": "…upon the non-existence of aquosity, is utterly worthless, and it is astonishing that any writer who gave his readers credit for moderate intelligence should have adduced it at all. To sum up in few words. The term protoplasm has been applied to the viscid nitrogenous substance within…",
-          "start_char": 60376,
-          "end_char": 60388
-        },
-        {
-          "doc_id": "EtudeOctober1887",
-          "title": "Volume 05, Number 10 (October 1887)",
-          "year": 1887,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "intelligence",
-          "text": "…lishment of any object which affects the temporal or eternal well-being of our species, without enlisting an entire devotedness to it, of intelligence, zeal, fidelity, in- dustry, integrity, and practical exertion. — Thomas H. Gallaudet. Skill is a consequence of education, and skill i…",
-          "start_char": 57275,
-          "end_char": 57287
-        },
-        {
-          "doc_id": "EtudeOctober1887",
-          "title": "Volume 05, Number 10 (October 1887)",
-          "year": 1887,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "intelligent",
-          "text": "…ear again? I do not wish to appear as underrating the value, of the study of harmony, for I considerdtPoqe of the best means of securing intelligent interpretations, nor do I fail to appreciate the necessity of encouraging a desire for crea- tion. We can easily overlook the literary tr…",
-          "start_char": 74088,
-          "end_char": 74099
         }
       ],
       "related_concepts": [
@@ -1080,11 +1080,11 @@
           "count": 52
         },
         {
-          "concept_id": "probability",
-          "count": 50
+          "concept_id": "reasoning",
+          "count": 49
         },
         {
-          "concept_id": "reasoning",
+          "concept_id": "probability",
           "count": 49
         },
         {
@@ -2047,9 +2047,9 @@
           "language_code": "en",
           "topic": "computing",
           "variant": "learn",
-          "text": "…T 1895, BY FELT & TARRANT MFG. CO. ​ Preface. Anyone knowing the meaning of common mathematical terms, such as dividend, product, etc., can learn how to perform on the Comptometer any of the classes of examples explained in this book in a few minutes. It is very easy to learn how , bu…",
-          "start_char": 1499,
-          "end_char": 1504
+          "text": "…T 1895, BY FELT & TARRANT MFG. CO. Preface. Anyone knowing the meaning of common mathematical terms, such as dividend, product, etc., can learn how to perform on the Comptometer any of the classes of examples explained in this book in a few minutes. It is very easy to learn how, but…",
+          "start_char": 1259,
+          "end_char": 1264
         },
         {
           "doc_id": "wikisource_methods_operating_comptometer",
@@ -2058,9 +2058,9 @@
           "language_code": "en",
           "topic": "computing",
           "variant": "learn",
-          "text": "…tc., can learn how to perform on the Comptometer any of the classes of examples explained in this book in a few minutes. It is very easy to learn how , but it is to have skill of the fingers that is most necessary. The Comptometer is not a hand organ or grind stone. Being a key-operat…",
-          "start_char": 1630,
-          "end_char": 1635
+          "text": "…tc., can learn how to perform on the Comptometer any of the classes of examples explained in this book in a few minutes. It is very easy to learn how, but it is to have skill of the fingers that is most necessary. The Comptometer is not a hand organ or grind stone. Being a key-operate…",
+          "start_char": 1390,
+          "end_char": 1395
         },
         {
           "doc_id": "wikisource_methods_operating_comptometer",
@@ -2070,8 +2070,8 @@
           "topic": "computing",
           "variant": "learn",
           "text": "…in the book, because there are other methods which one is apt to stumble onto which are not nearly so rapid. Division is more difficult to learn, but easy to remember, and though it requires more practice than multiplication, it does not require nearly as much as addition. To those w…",
-          "start_char": 2201,
-          "end_char": 2206
+          "start_char": 1960,
+          "end_char": 1965
         },
         {
           "doc_id": "InternationaleZeitschriftFuumlrPsychoanalyseXviii1932Heft2",
@@ -2202,7 +2202,7 @@
       "id": "reasoning",
       "label": "Reasoning",
       "description": "Inference, logical procedure, and rational deliberation in human and non-human systems.",
-      "total_hits": 1252,
+      "total_hits": 1251,
       "documents_with_hits": 68,
       "by_decade": {
         "1680s": 1,
@@ -3282,11 +3282,11 @@
           "count": 55
         },
         {
-          "concept_id": "probability",
-          "count": 55
+          "concept_id": "agency",
+          "count": 54
         },
         {
-          "concept_id": "agency",
+          "concept_id": "probability",
           "count": 54
         },
         {
@@ -3300,7 +3300,7 @@
       "id": "agency",
       "label": "Agency",
       "description": "Questions of intentional action, autonomy, and who or what can be treated as an acting subject.",
-      "total_hits": 423,
+      "total_hits": 421,
       "documents_with_hits": 58,
       "by_decade": {
         "1720s": 1,
@@ -4385,7 +4385,7 @@
         },
         {
           "concept_id": "probability",
-          "count": 47
+          "count": 46
         }
       ],
       "variant_count": 14
@@ -4456,7 +4456,7 @@
           "language_code": "fr",
           "topic": "computing",
           "hit_count": 49,
-          "quality_score": 4.955
+          "quality_score": 4.952
         },
         {
           "doc_id": "betweenworlds_201911",
@@ -4641,9 +4641,9 @@
           "language_code": "fr",
           "topic": "computing",
           "variant": "mémoire",
-          "text": "…urs reprises à nos expériences. Nous avons puisé dans nos recherches la conviction que M. Inaudi, par le développement extraordinaire de sa mémoire, peut soutenir la comparaison avec tous les calculateurs connus. I. Jacques Inaudi est né le 13 octobre 1867 à Onorato, dans le Piémont ; i…",
-          "start_char": 1571,
-          "end_char": 1578
+          "text": "…urs reprises à nos expériences. Nous avons puisé dans nos recherches la conviction que M. Inaudi, par le développement extraordinaire de sa mémoire, peut soutenir la comparaison avec tous les calculateurs connus. I. Jacques Inaudi est né le 13 octobre 1867 à Onorato, dans le Piémont;…",
+          "start_char": 1489,
+          "end_char": 1496
         },
         {
           "doc_id": "wikisource_calculateur_inaudi",
@@ -4653,8 +4653,8 @@
           "topic": "computing",
           "variant": "mémoire",
           "text": "…de tête, sans que la personne emploie la lecture des chiffres, ou l’écriture, ou un moyen matériel quelconque ayant pour but de soulager la mémoire. Voici comment M. Inaudi procède en général dans ses exercices. D’abord, quand on lui pose un problème de vive voix, il écoute attentivemen…",
-          "start_char": 6556,
-          "end_char": 6563
+          "start_char": 6451,
+          "end_char": 6458
         },
         {
           "doc_id": "wikisource_calculateur_inaudi",
@@ -4664,8 +4664,8 @@
           "topic": "computing",
           "variant": "mémoire",
           "text": "…rairement choisi d’années, de mois, de jours et d’heures. Ces opérations exigent, pour être conduites à bien, que le sujet conserve dans sa mémoire la donnée du problème et ses solutions partielles jusqu’au moment où la solution définitive est trouvée. Pour un travail aussi considérable…",
-          "start_char": 8714,
-          "end_char": 8721
+          "start_char": 8597,
+          "end_char": 8604
         },
         {
           "doc_id": "betweenworlds_201911",
@@ -5203,8 +5203,8 @@
           "topic": "computing",
           "variant": "memory",
           "text": "…s arising in the process of carrying, would afford a curious subject of metaphysical speculation respecting the operation of the faculty of memory. In the arithmetical process, the memory is employed in a twofold way;—in ascertaining each successive figure of the calculated result by t…",
-          "start_char": 50836,
-          "end_char": 50842
+          "start_char": 50708,
+          "end_char": 50714
         },
         {
           "doc_id": "wikisource_edinburgh_review_babbage",
@@ -5213,9 +5213,9 @@
           "language_code": "en",
           "topic": "computing",
           "variant": "memory",
-          "text": "…ld afford a curious subject of metaphysical speculation respecting the operation of the faculty of memory. In the arithmetical process, the memory is employed in a twofold way;—in ascertaining each successive figure of the calculated result by the ​ recollection of a table committed to…",
-          "start_char": 50877,
-          "end_char": 50883
+          "text": "…ld afford a curious subject of metaphysical speculation respecting the operation of the faculty of memory. In the arithmetical process, the memory is employed in a twofold way;—in ascertaining each successive figure of the calculated result by the recollection of a table committed to m…",
+          "start_char": 50749,
+          "end_char": 50755
         },
         {
           "doc_id": "wikisource_edinburgh_review_babbage",
@@ -5224,9 +5224,9 @@
           "language_code": "en",
           "topic": "computing",
           "variant": "memory",
-          "text": "…is employed in a twofold way;—in ascertaining each successive figure of the calculated result by the ​ recollection of a table committed to memory at an early period of life; and by another act of memory, in which the number carried from column to column is retained. It is a curious fa…",
-          "start_char": 51024,
-          "end_char": 51030
+          "text": "…y is employed in a twofold way;—in ascertaining each successive figure of the calculated result by the recollection of a table committed to memory at an early period of life; and by another act of memory, in which the number carried from column to column is retained. It is a curious fa…",
+          "start_char": 50894,
+          "end_char": 50900
         },
         {
           "doc_id": "lamachineanimal00maregoog",
@@ -5489,7 +5489,7 @@
       "id": "mechanism",
       "label": "Mechanism",
       "description": "Mechanical explanations of life, mind, and motion, including debates with vitalist and spiritual accounts.",
-      "total_hits": 2301,
+      "total_hits": 2260,
       "documents_with_hits": 70,
       "by_decade": {
         "1720s": 1,
@@ -5538,15 +5538,6 @@
           "quality_score": 5.518
         },
         {
-          "doc_id": "wikisource_edinburgh_review_babbage",
-          "title": "Babbage's Calculating Engine (Edinburgh Review, Vol. 59)",
-          "year": 1834,
-          "language_code": "en",
-          "topic": "computing",
-          "hit_count": 197,
-          "quality_score": 5.462
-        },
-        {
           "doc_id": "wikisource_passages_from_the_life_of_a_philosopher",
           "title": "Passages from the Life of a Philosopher",
           "year": 1864,
@@ -5554,6 +5545,15 @@
           "topic": "computing",
           "hit_count": 192,
           "quality_score": 6.176
+        },
+        {
+          "doc_id": "wikisource_edinburgh_review_babbage",
+          "title": "Babbage's Calculating Engine (Edinburgh Review, Vol. 59)",
+          "year": 1834,
+          "language_code": "en",
+          "topic": "computing",
+          "hit_count": 189,
+          "quality_score": 5.449
         },
         {
           "doc_id": "storyoflivingmac00connrich",
@@ -5699,39 +5699,6 @@
           "end_char": 2141
         },
         {
-          "doc_id": "wikisource_edinburgh_review_babbage",
-          "title": "Babbage's Calculating Engine (Edinburgh Review, Vol. 59)",
-          "year": 1834,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "machinery",
-          "text": "…alculating Engine ​ THE EDINBURGH REVIEW. JULY, 1834. No . CXX. Art I. —1. Letter to Sir Humphry Davy , Bart. P.R.S., on the application of Machinery to Calculate and Print Mathematical Tables . By Charles Babbage , Esq. F.R.S. 4to. Printed by order of the House of Commons. 2. On the Appl…",
-          "start_char": 224,
-          "end_char": 233
-        },
-        {
-          "doc_id": "wikisource_edinburgh_review_babbage",
-          "title": "Babbage's Calculating Engine (Edinburgh Review, Vol. 59)",
-          "year": 1834,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "machinery",
-          "text": "…te and Print Mathematical Tables . By Charles Babbage , Esq. F.R.S. 4to. Printed by order of the House of Commons. 2. On the Application of Machinery to the Calculation of Astronomical and Mathematical Tables . By Charles Babbage , Esq. Memoirs Astron. Soc. Vol. I. Part 2. London: 1822. 3…",
-          "start_char": 384,
-          "end_char": 393
-        },
-        {
-          "doc_id": "wikisource_edinburgh_review_babbage",
-          "title": "Babbage's Calculating Engine (Edinburgh Review, Vol. 59)",
-          "year": 1834,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "machinery",
-          "text": "…any Tables of Logarithms . By Charles Babbage , Esq. Memoirs Astron. Soc. London: 1827. 6. On a Method of Expressing by Signs the Action of Machinery. By Charles Babbage , Esq. Phil. Trans. London: 1826. 7. Report by the Committee appointed by the Council of the Royal Society to consider…",
-          "start_char": 1113,
-          "end_char": 1122
-        },
-        {
           "doc_id": "wikisource_passages_from_the_life_of_a_philosopher",
           "title": "Passages from the Life of a Philosopher",
           "year": 1864,
@@ -5763,6 +5730,39 @@
           "text": "…nature. I saw the vast field that the Difference Engine had opened out; for, before I left England in the previous year, I had extended its mechanism to the tabulation of functions having no constant ​ difference, and more particularly I had arrived at the knowledge of the entire command…",
           "start_char": 48684,
           "end_char": 48693
+        },
+        {
+          "doc_id": "wikisource_edinburgh_review_babbage",
+          "title": "Babbage's Calculating Engine (Edinburgh Review, Vol. 59)",
+          "year": 1834,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "machinery",
+          "text": "THE EDINBURGH REVIEW. JULY, 1834. No. CXX. Art I.—1. Letter to Sir Humphry Davy, Bart. P.R.S., on the application of Machinery to Calculate and Print Mathematical Tables. By Charles Babbage, Esq. F.R.S.4to. Printed by order of the House of Commons. 2. On the Applic…",
+          "start_char": 121,
+          "end_char": 130
+        },
+        {
+          "doc_id": "wikisource_edinburgh_review_babbage",
+          "title": "Babbage's Calculating Engine (Edinburgh Review, Vol. 59)",
+          "year": 1834,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "machinery",
+          "text": "…late and Print Mathematical Tables. By Charles Babbage, Esq. F.R.S.4to. Printed by order of the House of Commons. 2. On the Application of Machinery to the Calculation of Astronomical and Mathematical Tables. By Charles Babbage, Esq. Memoirs Astron. Soc. Vol. I. Part 2. London: 1822. 3.…",
+          "start_char": 279,
+          "end_char": 288
+        },
+        {
+          "doc_id": "wikisource_edinburgh_review_babbage",
+          "title": "Babbage's Calculating Engine (Edinburgh Review, Vol. 59)",
+          "year": 1834,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "machinery",
+          "text": "…many Tables of Logarithms.By Charles Babbage, Esq. Memoirs Astron. Soc. London: 1827. 6. On a Method of Expressing by Signs the Action of Machinery.By Charles Babbage, Esq. Phil. Trans. London: 1826. 7. Report by the Committee appointed by the Council of the Royal Society to consider t…",
+          "start_char": 1000,
+          "end_char": 1009
         },
         {
           "doc_id": "storyoflivingmac00connrich",
@@ -6161,72 +6161,6 @@
           "end_char": 30897
         },
         {
-          "doc_id": "wikisource_sketch_analytical_engine",
-          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
-          "year": 1843,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "mechanism",
-          "text": "…we may call the neutral or zero state of the engine, it is ready to receive at any moment, by means of cards constituting a portion of its mechanism (and applied on the principle of those used in the Jacquard-loom), the impress of whatever special function we may desire to develope or to…",
-          "start_char": 2157,
-          "end_char": 2166
-        },
-        {
-          "doc_id": "wikisource_sketch_analytical_engine",
-          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
-          "year": 1843,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "mechanism",
-          "text": "…he Memoir itself, pages 677 and 678) the law of development of the particular function that may be under consideration, and they compel the mechanism to act accordingly in a certain corresponding order. One of the simplest cases would be, for example, to suppose that F( x , y , z , {\\disp…",
-          "start_char": 2522,
-          "end_char": 2531
-        },
-        {
-          "doc_id": "wikisource_sketch_analytical_engine",
-          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
-          "year": 1843,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "mechanism",
-          "text": "…which the Difference Engine tabulates for values of n {\\displaystyle \\scriptstyle {n}} only up to 7. In this case the cards would order the mechanism to go through that succession of operations which would tabulate u z = a + b x + c x 2 + … m x n − 1 {\\displaystyle \\scriptstyle {u_{z}=a+b…",
-          "start_char": 2941,
-          "end_char": 2950
-        },
-        {
-          "doc_id": "wikisource_notes_by_translator",
-          "title": "Notes by the Translator",
-          "year": 1843,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "mechanism",
-          "text": "…we may call the neutral or zero state of the engine, it is ready to receive at any moment, by means of cards constituting a portion of its mechanism (and applied on the principle of those used in the Jacquard-loom), the impress of whatever special function we may desire to develope or to…",
-          "start_char": 2008,
-          "end_char": 2017
-        },
-        {
-          "doc_id": "wikisource_notes_by_translator",
-          "title": "Notes by the Translator",
-          "year": 1843,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "mechanism",
-          "text": "…he Memoir itself, pages 677 and 678) the law of development of the particular function that may be under consideration, and they compel the mechanism to act accordingly in a certain corresponding order. One of the simplest cases would be, for example, to suppose that F( x , y , z , {\\disp…",
-          "start_char": 2373,
-          "end_char": 2382
-        },
-        {
-          "doc_id": "wikisource_notes_by_translator",
-          "title": "Notes by the Translator",
-          "year": 1843,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "mechanism",
-          "text": "…which the Difference Engine tabulates for values of n {\\displaystyle \\scriptstyle {n}} only up to 7. In this case the cards would order the mechanism to go through that succession of operations which would tabulate u z = a + b x + c x 2 + … m x n − 1 {\\displaystyle \\scriptstyle {u_{z}=a+b…",
-          "start_char": 2792,
-          "end_char": 2801
-        },
-        {
           "doc_id": "gutenberg_1906",
           "title": "Erewhon; Or, Over the Range",
           "year": 1872,
@@ -6324,6 +6258,39 @@
           "text": "…ntif fait bienldt distin- guer (rots grands systèmes principaux. Le premier fait de la vie un résultait plus compliqué des forces de la mécanique, de la physique ou de la chi- mie : si différents que soient les phénomènes vitaux, ils n'ont pas une autre origine que les phénomènes qu…",
           "start_char": 9379,
           "end_char": 9388
+        },
+        {
+          "doc_id": "wikisource_notes_by_translator",
+          "title": "Notes by the Translator",
+          "year": 1843,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "mechanism",
+          "text": "…we may call the neutral or zero state of the engine, it is ready to receive at any moment, by means of cards constituting a portion of its mechanism (and applied on the principle of those used in the Jacquard-loom), the impress of whatever special function we may desire to develope or to…",
+          "start_char": 1434,
+          "end_char": 1443
+        },
+        {
+          "doc_id": "wikisource_notes_by_translator",
+          "title": "Notes by the Translator",
+          "year": 1843,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "mechanism",
+          "text": "…he Memoir itself, pages 677 and 678) the law of development of the particular function that may be under consideration, and they compel the mechanism to act accordingly in a certain corresponding order. One of the simplest cases would be, for example, to suppose that F( x,y,z, &c. &c.)…",
+          "start_char": 1799,
+          "end_char": 1808
+        },
+        {
+          "doc_id": "wikisource_notes_by_translator",
+          "title": "Notes by the Translator",
+          "year": 1843,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "mechanism",
+          "text": "…articular function Δ^n u_z = 0 which the Difference Engine tabulates for values of n only up to 7. In this case the cards would order the mechanism to go through that succession of operations which would tabulate u_z = a + b x + c x^2 + … m x^(n−1), where n might be any number whateve…",
+          "start_char": 2096,
+          "end_char": 2105
         },
         {
           "doc_id": "gutenberg_55817",
@@ -6544,6 +6511,39 @@
           "text": "…and in the higher order of wind instruments, in their several varieties: and hence the present age has produced the most finished pieces of mechanical science, in the Flute-player of Monsieur de Vaucanson, the Trumpeter of Maelzel[1], the Panharmonicon of Mr. Gurk, and the Apollonicon of o…",
           "start_char": 3401,
           "end_char": 3411
+        },
+        {
+          "doc_id": "gutenberg_60420",
+          "title": "Observations on the Automaton Chess Player Now Exhibited in London, at 4 Spring Gardens",
+          "year": 1819,
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "variant": "mechanism",
+          "text": "…f modern artists, in mechanics, which these scientific inventions discover, it seems to be a thing absolutely impossible, that any piece of mechanism should be invented, which, possessing perfect mechanical motion, should appear to exert the intelligence of a reasoning agent. This seeming…",
+          "start_char": 3806,
+          "end_char": 3815
+        },
+        {
+          "doc_id": "wikisource_sketch_analytical_engine",
+          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
+          "year": 1843,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "machinery",
+          "text": "…uded to by M. Menabrea, we refer the reader to the following sources:— 1. Letter to Sir Humphry Davy, Bart., P.R.S., on the Application of Machinery to Calculate and Print Mathematical Tables. By Charles Babbage, Esq., F.R.S. London, July 1822. Reprinted, with a Report of the Council of…",
+          "start_char": 752,
+          "end_char": 761
+        },
+        {
+          "doc_id": "wikisource_sketch_analytical_engine",
+          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
+          "year": 1843,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "machinery",
+          "text": "…y 1822. Reprinted, with a Report of the Council of the Royal Society, by order of the House of Commons, May 1823. 2. On the Application of Machinery to the Calculation of Astronomical and Mathematical Tables. By Charles Babbage, Esq.—Memoirs of the Astronomical Society, vol. i. part 2. L…",
+          "start_char": 990,
+          "end_char": 999
         }
       ],
       "related_concepts": [
@@ -6573,7 +6573,7 @@
         },
         {
           "concept_id": "probability",
-          "count": 50
+          "count": 49
         },
         {
           "concept_id": "intelligence",
@@ -6586,8 +6586,8 @@
       "id": "automaton",
       "label": "Automaton",
       "description": "Self-moving artifacts and models of life-like operation central to early machine-intelligence imaginaries.",
-      "total_hits": 769,
-      "documents_with_hits": 31,
+      "total_hits": 770,
+      "documents_with_hits": 32,
       "by_decade": {
         "1630s": 1,
         "1690s": 2,
@@ -6598,7 +6598,7 @@
         "1810s": 1,
         "1820s": 2,
         "1830s": 2,
-        "1840s": 1,
+        "1840s": 2,
         "1850s": 1,
         "1860s": 3,
         "1870s": 1,
@@ -6611,13 +6611,13 @@
       },
       "by_language": {
         "de": 2,
-        "en": 25,
+        "en": 26,
         "fr": 3,
         "ru": 1
       },
       "by_topic": {
         "automata_artificial_beings": 22,
-        "computing": 4,
+        "computing": 5,
         "mechanism": 5
       },
       "top_documents": [
@@ -7481,8 +7481,19 @@
           "topic": "computing",
           "variant": "automaton",
           "text": "…since, of his celebrated project of a Calculating Engine. A proposition to reduce arithmetic to the dominion of mechanism,—to substitute an automaton for a compositor,—to throw the powers of thought into wheelwork could not fail to awaken the attention of the world. To bring the practicab…",
-          "start_char": 3051,
-          "end_char": 3060
+          "start_char": 2934,
+          "end_char": 2943
+        },
+        {
+          "doc_id": "wikisource_sketch_analytical_engine",
+          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
+          "year": 1843,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "automaton",
+          "text": "…rk, and can only admit the direct processes of calculation. It is necessarily thus; for the machine is not a thinking being, but simply an automaton which acts according to the laws imposed upon it. This being fundamental, one of the earliest researches its author had to undertake, was t…",
+          "start_char": 20870,
+          "end_char": 20879
         },
         {
           "doc_id": "dervitalismusal00driegoog",
@@ -7502,9 +7513,9 @@
           "language_code": "ru",
           "topic": "computing",
           "variant": "автомат",
-          "text": "…цинации выступала огромная фигура Стэрни с его неумолимо-спокойным лицом. Все остальное смешивалось и терялось в тяжелом, темном хаосе. Как автомат, я вышел из библиотеки и сел в свою гондолу. Холодный ветер от быстрого полета заставил меня плотно закутаться в плащ, и это как будто внуш…",
-          "start_char": 228239,
-          "end_char": 228246
+          "text": "…инации выступала огромная фигура Стэрни с его неумолимо-спокойным лицом. Все остальное смешивалось и терялось в тяжелом, темном хаосе. Как автомат, я вышел из библиотеки и сел в свою гондолу. Холодный ветер от быстрого полета заставил меня плотно закутаться в плащ, и это как будто внуш…",
+          "start_char": 228352,
+          "end_char": 228359
         },
         {
           "doc_id": "gutenberg_68558",
@@ -7532,14 +7543,22 @@
       "related_concepts": [
         {
           "concept_id": "machine",
-          "count": 29
+          "count": 30
         },
         {
           "concept_id": "mechanism",
-          "count": 24
+          "count": 25
         },
         {
           "concept_id": "error",
+          "count": 25
+        },
+        {
+          "concept_id": "reasoning",
+          "count": 24
+        },
+        {
+          "concept_id": "network",
           "count": 24
         },
         {
@@ -7547,20 +7566,12 @@
           "count": 23
         },
         {
-          "concept_id": "reasoning",
-          "count": 23
-        },
-        {
-          "concept_id": "network",
-          "count": 23
-        },
-        {
           "concept_id": "agency",
-          "count": 22
+          "count": 23
         },
         {
           "concept_id": "intelligence",
-          "count": 20
+          "count": 21
         }
       ],
       "variant_count": 11
@@ -7569,8 +7580,8 @@
       "id": "machine",
       "label": "Machine",
       "description": "Broad discourse on machines and engines as models, tools, and metaphors for cognition and society.",
-      "total_hits": 2724,
-      "documents_with_hits": 89,
+      "total_hits": 2683,
+      "documents_with_hits": 90,
       "by_decade": {
         "1630s": 1,
         "1640s": 1,
@@ -7592,7 +7603,7 @@
         "1890s": 9,
         "1900s": 11,
         "1910s": 5,
-        "1920s": 3,
+        "1920s": 4,
         "1930s": 1,
         "1940s": 1,
         "1950s": 3,
@@ -7603,12 +7614,12 @@
       "by_language": {
         "de": 7,
         "en": 63,
-        "fr": 16,
+        "fr": 17,
         "ru": 3
       },
       "by_topic": {
         "automata_artificial_beings": 31,
-        "computing": 23,
+        "computing": 24,
         "mechanism": 35
       },
       "top_documents": [
@@ -7649,22 +7660,13 @@
           "quality_score": 5.933
         },
         {
-          "doc_id": "wikisource_sketch_analytical_engine",
-          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
-          "year": 1843,
-          "language_code": "en",
-          "topic": "computing",
-          "hit_count": 133,
-          "quality_score": 5.504
-        },
-        {
           "doc_id": "wikisource_notes_by_translator",
           "title": "Notes by the Translator",
           "year": 1843,
           "language_code": "en",
           "topic": "computing",
-          "hit_count": 133,
-          "quality_score": 5.504
+          "hit_count": 132,
+          "quality_score": 5.34
         },
         {
           "doc_id": "livingmachine00macciala",
@@ -7685,6 +7687,15 @@
           "quality_score": 5.649
         },
         {
+          "doc_id": "wikisource_sketch_analytical_engine",
+          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
+          "year": 1843,
+          "language_code": "en",
+          "topic": "computing",
+          "hit_count": 104,
+          "quality_score": 5.015
+        },
+        {
           "doc_id": "lamachineanimal03maregoog",
           "title": "La machine animale; locomotion terrestre et aérienne",
           "year": 1873,
@@ -7692,24 +7703,6 @@
           "topic": "mechanism",
           "hit_count": 66,
           "quality_score": 5.824
-        },
-        {
-          "doc_id": "wikisource_eb1911_calculating_machines",
-          "title": "Calculating Machines (1911 Encyclopædia Britannica)",
-          "year": 1911,
-          "language_code": "en",
-          "topic": "computing",
-          "hit_count": 63,
-          "quality_score": 5.108
-        },
-        {
-          "doc_id": "wikisource_methods_operating_comptometer",
-          "title": "Methods of Operating the Comptometer",
-          "year": 1895,
-          "language_code": "en",
-          "topic": "computing",
-          "hit_count": 62,
-          "quality_score": 5.035
         },
         {
           "doc_id": "in.ernet.dli.2015.91128",
@@ -7746,6 +7739,24 @@
           "topic": "computing",
           "hit_count": 59,
           "quality_score": 5.518
+        },
+        {
+          "doc_id": "wikisource_eb1911_calculating_machines",
+          "title": "Calculating Machines (1911 Encyclopædia Britannica)",
+          "year": 1911,
+          "language_code": "en",
+          "topic": "computing",
+          "hit_count": 59,
+          "quality_score": 5.093
+        },
+        {
+          "doc_id": "lamachineanimal02maregoog",
+          "title": "La machine animale: locomotion terrestre et sérienne",
+          "year": 1878,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "hit_count": 57,
+          "quality_score": 5.794
         }
       ],
       "key_excerpts": [
@@ -7882,37 +7893,15 @@
           "end_char": 1933
         },
         {
-          "doc_id": "wikisource_sketch_analytical_engine",
-          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
+          "doc_id": "wikisource_notes_by_translator",
+          "title": "Notes by the Translator",
           "year": 1843,
           "language_code": "en",
           "topic": "computing",
           "variant": "engine",
-          "text": "…########################## # Notes by the Translator ############################################################ Sketch of the Analytical Engine invented by Charles Babbage, Esq. Scientific Memoirs Volume 3 Notes by the Translator by Augusta Ada Lovelace Index 1547929 Scientific Memo…",
-          "start_char": 174,
-          "end_char": 180
-        },
-        {
-          "doc_id": "wikisource_sketch_analytical_engine",
-          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
-          "year": 1843,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "engine",
-          "text": "…the Translator by Augusta Ada Lovelace ​ NOTES BY THE TRANSLATOR. Note A. —Page 674. The particular function whose integral the Difference Engine was constructed to tabulate, is Δ 7 u z = 0 {\\displaystyle \\scriptstyle {\\Delta ^{7}u_{z}=0}} . The purpose which that engine has been spec…",
-          "start_char": 483,
-          "end_char": 489
-        },
-        {
-          "doc_id": "wikisource_sketch_analytical_engine",
-          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
-          "year": 1843,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "engine",
-          "text": "…he Difference Engine was constructed to tabulate, is Δ 7 u z = 0 {\\displaystyle \\scriptstyle {\\Delta ^{7}u_{z}=0}} . The purpose which that engine has been specially intended and adapted to fulfil, is the computation of nautical and astronomical tables. The integral of Δ 7 u z = 0 {\\di…",
-          "start_char": 609,
-          "end_char": 615
+          "text": "NOTES BY THE TRANSLATOR. Note A.—Page 674. The particular function whose integral the Difference Engine was constructed to tabulate, is Δ^7 u_z = 0. The purpose which that engine has been specially intended and adapted to fulfil, is the comp…",
+          "start_char": 99,
+          "end_char": 105
         },
         {
           "doc_id": "wikisource_notes_by_translator",
@@ -7921,9 +7910,9 @@
           "language_code": "en",
           "topic": "computing",
           "variant": "engine",
-          "text": "Sketch of the Analytical Engine invented by Charles Babbage, Esq. Scientific Memoirs Volume 3 Notes by the Translator by Augusta Ada Lovelace Index 1547929 Scientific Memo…",
-          "start_char": 25,
-          "end_char": 31
+          "text": "…ge 674. The particular function whose integral the Difference Engine was constructed to tabulate, is Δ^7 u_z = 0. The purpose which that engine has been specially intended and adapted to fulfil, is the computation of nautical and astronomical tables. The integral of Δ^7 u_z = 0 be…",
+          "start_char": 176,
+          "end_char": 182
         },
         {
           "doc_id": "wikisource_notes_by_translator",
@@ -7932,20 +7921,9 @@
           "language_code": "en",
           "topic": "computing",
           "variant": "engine",
-          "text": "…the Translator by Augusta Ada Lovelace ​ NOTES BY THE TRANSLATOR. Note A. —Page 674. The particular function whose integral the Difference Engine was constructed to tabulate, is Δ 7 u z = 0 {\\displaystyle \\scriptstyle {\\Delta ^{7}u_{z}=0}} . The purpose which that engine has been spec…",
-          "start_char": 334,
-          "end_char": 340
-        },
-        {
-          "doc_id": "wikisource_notes_by_translator",
-          "title": "Notes by the Translator",
-          "year": 1843,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "engine",
-          "text": "…he Difference Engine was constructed to tabulate, is Δ 7 u z = 0 {\\displaystyle \\scriptstyle {\\Delta ^{7}u_{z}=0}} . The purpose which that engine has been specially intended and adapted to fulfil, is the computation of nautical and astronomical tables. The integral of Δ 7 u z = 0 {\\di…",
-          "start_char": 460,
-          "end_char": 466
+          "text": "…= a + b x + c x^2 + d x^3 + e x^4 + f x^5 + g x^6, the constants a, b, c, &c. are represented on the seven columns of discs, of which the engine consists. It can therefore tabulate accurately and to an unlimited extent, all series whose general term is comprised in the above formula;…",
+          "start_char": 470,
+          "end_char": 476
         },
         {
           "doc_id": "livingmachine00macciala",
@@ -8014,6 +7992,39 @@
           "end_char": 26224
         },
         {
+          "doc_id": "wikisource_sketch_analytical_engine",
+          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
+          "year": 1843,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "engine",
+          "text": "Article XXIX. Sketch of the Analytical Engine invented by Charles Babbage Esq. By L. F. Menabrea, of Turin, Officer of the Military Engineers. [From the Bibliothèque Universelle de Gén…",
+          "start_char": 40,
+          "end_char": 46
+        },
+        {
+          "doc_id": "wikisource_sketch_analytical_engine",
+          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
+          "year": 1843,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "engine",
+          "text": "…October 1842.] [Before submitting to our readers the translation of M. Menabrea's memoir 'On the Mathematical Principles of the Analytical Engine' invented by Mr. Babbage, we shall present to them a list of the printed papers connected with the subject, and also of those relating to t…",
+          "start_char": 339,
+          "end_char": 345
+        },
+        {
+          "doc_id": "wikisource_sketch_analytical_engine",
+          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
+          "year": 1843,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "engine",
+          "text": "…Mr. Babbage, we shall present to them a list of the printed papers connected with the subject, and also of those relating to the Difference Engine by which it was preceded. For information on Mr. Babbage's \"Difference Engine,\" which is but slightly alluded to by M. Menabrea, we refer…",
+          "start_char": 499,
+          "end_char": 505
+        },
+        {
           "doc_id": "lamachineanimal03maregoog",
           "title": "La machine animale; locomotion terrestre et aérienne",
           "year": 1873,
@@ -8045,72 +8056,6 @@
           "text": "…E LA VIE. Lo^OnS faitOS au collège de France, i vol. in-8 avec 144 figures dans le texte 10 fr. GoDLOMMiBRs. — Typ. A. MOUSSIK. LÀ MACHINE ANIMALE LOCOMOTION TERRESTRE ET AÉRIENNE PAR E. J. MAREY Professeur aa Collège de France, menobre de l'Académie de Médeoine ATeo…",
           "start_char": 8561,
           "end_char": 8568
-        },
-        {
-          "doc_id": "wikisource_eb1911_calculating_machines",
-          "title": "Calculating Machines (1911 Encyclopædia Britannica)",
-          "year": 1911,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "machines",
-          "text": "Calcium 1911 Encyclopædia Britannica , Volume 4 Calculating Machines by Olaus Magnus Friedrich Henrici Calcutta sister projects : Wikipedia article , quotes , Wikidata item See also Calculating machine and Pl…",
-          "start_char": 60,
-          "end_char": 68
-        },
-        {
-          "doc_id": "wikisource_eb1911_calculating_machines",
-          "title": "Calculating Machines (1911 Encyclopædia Britannica)",
-          "year": 1911,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "machine",
-          "text": "…ating Machines by Olaus Magnus Friedrich Henrici Calcutta sister projects : Wikipedia article , quotes , Wikidata item See also Calculating machine and Planimeter on Wikipedia ; Slide rule on Wikipedia ; and our 1911 Encyclopædia Britannica disclaimer . 75992 1911 Encyclopædia Britannic…",
-          "start_char": 194,
-          "end_char": 201
-        },
-        {
-          "doc_id": "wikisource_eb1911_calculating_machines",
-          "title": "Calculating Machines (1911 Encyclopædia Britannica)",
-          "year": 1911,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "machines",
-          "text": "…a ; Slide rule on Wikipedia ; and our 1911 Encyclopædia Britannica disclaimer . 75992 1911 Encyclopædia Britannica , Volume 4 — Calculating Machines Olaus Magnus Friedrich Henrici ​ CALCULATING MACHINES. Instruments for the mechanical performance of numerical calculations, have in modern…",
-          "start_char": 368,
-          "end_char": 376
-        },
-        {
-          "doc_id": "wikisource_methods_operating_comptometer",
-          "title": "Methods of Operating the Comptometer",
-          "year": 1895,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "machines",
-          "text": "…Tarrant Mfg. Co. First edition of the operating manual for the Comptometer , one of the first successfully mass-produced key-driven adding machines. 4480234 Methods of Operating the Comptometer 1895 Felt & Tarrant Mfg. Co. Layout 2 ​ METHODS OF OPERATING ....THE.... Felt & Tarrant Mfg.…",
-          "start_char": 192,
-          "end_char": 200
-        },
-        {
-          "doc_id": "wikisource_methods_operating_comptometer",
-          "title": "Methods of Operating the Comptometer",
-          "year": 1895,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "machine",
-          "text": "…ometer 1895 Felt & Tarrant Mfg. Co. Layout 2 ​ METHODS OF OPERATING ....THE.... Felt & Tarrant Mfg. Co. Chicago, U.S.A. ​ INDEX. To Set the Machine at Naught 1 Explanation of the Key-Board 1 Addition 1-4 Not Necessary to Strike Keys in Regular Order 2 How to Finger the Keys 3 Finger Exe…",
-          "start_char": 380,
-          "end_char": 387
-        },
-        {
-          "doc_id": "wikisource_methods_operating_comptometer",
-          "title": "Methods of Operating the Comptometer",
-          "year": 1895,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "machine",
-          "text": "…Key Strokes 6 Explanation of Diagram 7 Position of Hands for 8 Two Finger Method 9 Where the Sum to be Multiplied Stands on the Register of Machine 9 Where the Multiplier Consists of Two Figures and the Multiplicand is Already on the Machine 9 Multiplying High Decimals 10 The Red Figure…",
-          "start_char": 758,
-          "end_char": 765
         },
         {
           "doc_id": "in.ernet.dli.2015.91128",
@@ -8245,6 +8190,39 @@
           "end_char": 909
         },
         {
+          "doc_id": "wikisource_eb1911_calculating_machines",
+          "title": "Calculating Machines (1911 Encyclopædia Britannica)",
+          "year": 1911,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "machines",
+          "text": "CALCULATING MACHINES. Instruments for the mechanical performance of numerical calculations, have in modern times come into ever-increasing use, not merely for d…",
+          "start_char": 12,
+          "end_char": 20
+        },
+        {
+          "doc_id": "wikisource_eb1911_calculating_machines",
+          "title": "Calculating Machines (1911 Encyclopædia Britannica)",
+          "year": 1911,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "machines",
+          "text": "…urance offices, &c., but also, as cash registers, for use on the counters of retail shops. They may be classified as follows:—(i.) Addition machines; the first invented by Blaise Pascal (1642). (ii.) Addition machines modified to facilitate multiplication; the first by G. W. Leibnitz (16…",
+          "start_char": 349,
+          "end_char": 357
+        },
+        {
+          "doc_id": "wikisource_eb1911_calculating_machines",
+          "title": "Calculating Machines (1911 Encyclopædia Britannica)",
+          "year": 1911,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "machines",
+          "text": "…ters of retail shops. They may be classified as follows:—(i.) Addition machines; the first invented by Blaise Pascal (1642). (ii.) Addition machines modified to facilitate multiplication; the first by G. W. Leibnitz (1671). (iii.) True multiplication machines; Léon Bollés (1888), Steiger…",
+          "start_char": 418,
+          "end_char": 426
+        },
+        {
           "doc_id": "lamachineanimal02maregoog",
           "title": "La machine animale: locomotion terrestre et sérienne",
           "year": 1878,
@@ -8278,59 +8256,70 @@
           "end_char": 10533
         },
         {
-          "doc_id": "wikisource_edinburgh_review_babbage",
-          "title": "Babbage's Calculating Engine (Edinburgh Review, Vol. 59)",
-          "year": 1834,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "engine",
-          "text": "Edinburgh Review Babbage's Calculating Engine 1851993 Edinburgh Review — Babbage's Calculating Engine ​ THE EDINBURGH REVIEW. JULY, 1834. No . CXX. Art I. —1. Letter to Sir Humphry Davy…",
-          "start_char": 39,
-          "end_char": 45
-        },
-        {
-          "doc_id": "wikisource_edinburgh_review_babbage",
-          "title": "Babbage's Calculating Engine (Edinburgh Review, Vol. 59)",
-          "year": 1834,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "engine",
-          "text": "Edinburgh Review Babbage's Calculating Engine 1851993 Edinburgh Review — Babbage's Calculating Engine ​ THE EDINBURGH REVIEW. JULY, 1834. No . CXX. Art I. —1. Letter to Sir Humphry Davy , Bart. P.R.S., on the application of Machinery to Calc…",
-          "start_char": 95,
-          "end_char": 101
-        },
-        {
-          "doc_id": "wikisource_edinburgh_review_babbage",
-          "title": "Babbage's Calculating Engine (Edinburgh Review, Vol. 59)",
-          "year": 1834,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "engine",
-          "text": "…ke , Esq. F.R.S. President, on presenting the first gold medal of the Society to Charles Babbage, Esq. for the invention of the Calculating Engine . Memoirs Astron. Soc. Vol. I. Part 2. London: 1822. 4. On the determination of the General Term of a new Class of Infinite Series . By Cha…",
-          "start_char": 736,
-          "end_char": 742
-        },
-        {
-          "doc_id": "wikisource_interview_father_calculating_machine",
-          "title": "An Interview with the Father of the Calculating Machine",
-          "year": 1919,
+          "doc_id": "wikisource_methods_operating_comptometer",
+          "title": "Methods of Operating the Comptometer",
+          "year": 1895,
           "language_code": "en",
           "topic": "computing",
           "variant": "machine",
-          "text": "An Interview with the Father of the Calculating Machine ( 1919 ) by Frank Stephen Baldwin sister projects : Wikipedia article , Wikidata item 80650 An Interview with the Father of the Calculating…",
-          "start_char": 48,
-          "end_char": 55
+          "text": "Layout 2 METHODS OF OPERATING....THE.... Felt & Tarrant Mfg. Co. Chicago, U.S.A. INDEX. To Set the Machine at Naught 1 Explanation of the Key-Board 1 Addition 1-4 Not Necessary to Strike Keys in Regular Order 2 How to Finger the Keys 3 Finge…",
+          "start_char": 104,
+          "end_char": 111
         },
         {
-          "doc_id": "wikisource_interview_father_calculating_machine",
-          "title": "An Interview with the Father of the Calculating Machine",
-          "year": 1919,
+          "doc_id": "wikisource_methods_operating_comptometer",
+          "title": "Methods of Operating the Comptometer",
+          "year": 1895,
           "language_code": "en",
           "topic": "computing",
           "variant": "machine",
-          "text": "…( 1919 ) by Frank Stephen Baldwin sister projects : Wikipedia article , Wikidata item 80650 An Interview with the Father of the Calculating Machine 1919 Frank Stephen Baldwin A Personal Story of Interest to Business Men and Accountants In the summer of 1840, when I was two years old, my…",
-          "start_char": 196,
-          "end_char": 203
+          "text": "…Strokes 6 Explanation of Diagram 7 Position of Hands for 8 Two Finger Method 9 Where the Sum to be Multiplied Stands on the Register of Machine 9 Where the Multiplier Consists of Two Figures and the Multiplicand is Already on the Machine 9 Multiplying High Decimals 10 The Red Fig…",
+          "start_char": 495,
+          "end_char": 502
+        },
+        {
+          "doc_id": "wikisource_methods_operating_comptometer",
+          "title": "Methods of Operating the Comptometer",
+          "year": 1895,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "machine",
+          "text": "…m to be Multiplied Stands on the Register of Machine 9 Where the Multiplier Consists of Two Figures and the Multiplicand is Already on the Machine 9 Multiplying High Decimals 10 The Red Figures 11 Subtraction 12 Correcting Mistakes 12 Division 13-21 Rule for Small Divisors 13-17…",
+          "start_char": 590,
+          "end_char": 597
+        },
+        {
+          "doc_id": "wikisource_edinburgh_review_babbage",
+          "title": "Babbage's Calculating Engine (Edinburgh Review, Vol. 59)",
+          "year": 1834,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "engine",
+          "text": "…oke, Esq. F.R.S. President, on presenting the first gold medal of the Society to Charles Babbage, Esq. for the invention of the Calculating Engine.Memoirs Astron. Soc. Vol. I. Part 2. London: 1822. 4. On the determination of the General Term of a new Class of Infinite Series.By Charle…",
+          "start_char": 629,
+          "end_char": 635
+        },
+        {
+          "doc_id": "wikisource_edinburgh_review_babbage",
+          "title": "Babbage's Calculating Engine (Edinburgh Review, Vol. 59)",
+          "year": 1834,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "engine",
+          "text": "…oyal Society to consider the subject referred to in a Communication received by them from the Treasury, respecting Mr Babbage's Calculating Engine, and to report thereupon. London: 1829. There is no position in society more enviable than that of the few who unite a moderate independen…",
+          "start_char": 1263,
+          "end_char": 1269
+        },
+        {
+          "doc_id": "wikisource_edinburgh_review_babbage",
+          "title": "Babbage's Calculating Engine (Edinburgh Review, Vol. 59)",
+          "year": 1834,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "engine",
+          "text": "…vation of the abstract sciences. This distinction he owes to the announcement, some years since, of his celebrated project of a Calculating Engine. A proposition to reduce arithmetic to the dominion of mechanism,—to substitute an automaton for a compositor,—to throw the powers of thoug…",
+          "start_char": 2844,
+          "end_char": 2850
         },
         {
           "doc_id": "wikisource_interview_father_calculating_machine",
@@ -8339,9 +8328,31 @@
           "language_code": "en",
           "topic": "computing",
           "variant": "machines",
-          "text": "…Wayne, Indiana. An uncle at Carlyle, Illinois, had designed a corn-planter for which I assisted in securing a patent. This was a pioneer of machines of this class. Early in ’61, I went over to Carlyle to build the first model and arrange for the manufacture of the device. The Civil War b…",
-          "start_char": 1416,
-          "end_char": 1424
+          "text": "…Wayne, Indiana. An uncle at Carlyle, Illinois, had designed a corn-planter for which I assisted in securing a patent. This was a pioneer of machines of this class. Early in ’61, I went over to Carlyle to build the first model and arrange for the manufacture of the device. The Civil War…",
+          "start_char": 1189,
+          "end_char": 1197
+        },
+        {
+          "doc_id": "wikisource_interview_father_calculating_machine",
+          "title": "An Interview with the Father of the Calculating Machine",
+          "year": 1919,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "machine",
+          "text": "…ion. This ended my efforts to improve the railroad business. Shortly thereafter, I invented and patented the ‘Recording Lumber Measure’, a machine which automatically measured and recorded four different kinds of lumber at the same time. This device set me thinking about computing mach…",
+          "start_char": 2464,
+          "end_char": 2471
+        },
+        {
+          "doc_id": "wikisource_interview_father_calculating_machine",
+          "title": "An Interview with the Father of the Calculating Machine",
+          "year": 1919,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "machines",
+          "text": "…hine which automatically measured and recorded four different kinds of lumber at the same time. This device set me thinking about computing machines and this point really marks the birth of the Monroe. In the office of a life insurance company at St. Louis, I had seen the Thomas type of…",
+          "start_char": 2607,
+          "end_char": 2615
         },
         {
           "doc_id": "bub_gb_SLYUAAAAYAAJ",
@@ -8656,11 +8667,11 @@
           "count": 58
         },
         {
-          "concept_id": "probability",
-          "count": 57
+          "concept_id": "agency",
+          "count": 56
         },
         {
-          "concept_id": "agency",
+          "concept_id": "probability",
           "count": 56
         }
       ],
@@ -8670,7 +8681,7 @@
       "id": "computation",
       "label": "Computation",
       "description": "Calculation, symbolic operations, and formal procedures from early arithmetic devices to computational theory.",
-      "total_hits": 454,
+      "total_hits": 400,
       "documents_with_hits": 50,
       "by_decade": {
         "1630s": 1,
@@ -8682,8 +8693,8 @@
         "1830s": 2,
         "1840s": 4,
         "1850s": 1,
-        "1860s": 6,
-        "1870s": 7,
+        "1860s": 5,
+        "1870s": 8,
         "1880s": 3,
         "1890s": 5,
         "1900s": 6,
@@ -8706,22 +8717,13 @@
       },
       "top_documents": [
         {
-          "doc_id": "wikisource_sketch_analytical_engine",
-          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
-          "year": 1843,
-          "language_code": "en",
-          "topic": "computing",
-          "hit_count": 62,
-          "quality_score": 5.504
-        },
-        {
           "doc_id": "wikisource_notes_by_translator",
           "title": "Notes by the Translator",
           "year": 1843,
           "language_code": "en",
           "topic": "computing",
-          "hit_count": 62,
-          "quality_score": 5.504
+          "hit_count": 56,
+          "quality_score": 5.34
         },
         {
           "doc_id": "gutenberg_71292",
@@ -8739,7 +8741,7 @@
           "language_code": "en",
           "topic": "computing",
           "hit_count": 48,
-          "quality_score": 5.462
+          "quality_score": 5.449
         },
         {
           "doc_id": "wikisource_calculateur_inaudi",
@@ -8747,8 +8749,8 @@
           "year": 1892,
           "language_code": "fr",
           "topic": "computing",
-          "hit_count": 40,
-          "quality_score": 4.955
+          "hit_count": 39,
+          "quality_score": 4.952
         },
         {
           "doc_id": "wikisource_passages_from_the_life_of_a_philosopher",
@@ -8767,6 +8769,15 @@
           "topic": "mechanism",
           "hit_count": 30,
           "quality_score": 5.845
+        },
+        {
+          "doc_id": "wikisource_sketch_analytical_engine",
+          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
+          "year": 1843,
+          "language_code": "en",
+          "topic": "computing",
+          "hit_count": 19,
+          "quality_score": 5.015
         },
         {
           "doc_id": "bub_gb_s6lSHDngPFoC",
@@ -8811,7 +8822,7 @@
           "language_code": "en",
           "topic": "computing",
           "hit_count": 6,
-          "quality_score": 4.636
+          "quality_score": 4.63
         },
         {
           "doc_id": "bim_eighteenth-century_a-practical-method-to-d_ward-john_1714",
@@ -8843,48 +8854,15 @@
       ],
       "key_excerpts": [
         {
-          "doc_id": "wikisource_sketch_analytical_engine",
-          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
-          "year": 1843,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "computation",
-          "text": "…{\\displaystyle \\scriptstyle {\\Delta ^{7}u_{z}=0}} . The purpose which that engine has been specially intended and adapted to fulfil, is the computation of nautical and astronomical tables. The integral of Δ 7 u z = 0 {\\displaystyle \\scriptstyle {\\Delta ^{7}u_{z}=0}} being u z = a + b x + c…",
-          "start_char": 674,
-          "end_char": 685
-        },
-        {
-          "doc_id": "wikisource_sketch_analytical_engine",
-          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
-          "year": 1843,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "calculating machine",
-          "text": "…o claim. We do not wish to deny to this latter all such claims. We believe that it is the only proposal or attempt ever made to construct a calculating machine founded on the principle of successive orders of differences , and capable of printing off its own results ; and that this engine surpasses…",
-          "start_char": 19010,
-          "end_char": 19029
-        },
-        {
-          "doc_id": "wikisource_sketch_analytical_engine",
-          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
-          "year": 1843,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "calculating machine",
-          "text": "…have been successively invented by the same person within the last few years; while others again have never heard but of the one original \"calculating machine,\" and are not aware of there being any extension upon this. For either of these two classes of persons the above considerations are appropr…",
-          "start_char": 25332,
-          "end_char": 25351
-        },
-        {
           "doc_id": "wikisource_notes_by_translator",
           "title": "Notes by the Translator",
           "year": 1843,
           "language_code": "en",
           "topic": "computing",
           "variant": "computation",
-          "text": "…{\\displaystyle \\scriptstyle {\\Delta ^{7}u_{z}=0}} . The purpose which that engine has been specially intended and adapted to fulfil, is the computation of nautical and astronomical tables. The integral of Δ 7 u z = 0 {\\displaystyle \\scriptstyle {\\Delta ^{7}u_{z}=0}} being u z = a + b x + c…",
-          "start_char": 525,
-          "end_char": 536
+          "text": "…gine was constructed to tabulate, is Δ^7 u_z = 0. The purpose which that engine has been specially intended and adapted to fulfil, is the computation of nautical and astronomical tables. The integral of Δ^7 u_z = 0 being u_z = a + b x + c x^2 + d x^3 + e x^4 + f x^5 + g x^6, the const…",
+          "start_char": 241,
+          "end_char": 252
         },
         {
           "doc_id": "wikisource_notes_by_translator",
@@ -8893,9 +8871,9 @@
           "language_code": "en",
           "topic": "computing",
           "variant": "calculating machine",
-          "text": "…o claim. We do not wish to deny to this latter all such claims. We believe that it is the only proposal or attempt ever made to construct a calculating machine founded on the principle of successive orders of differences , and capable of printing off its own results ; and that this engine surpasses…",
-          "start_char": 18861,
-          "end_char": 18880
+          "text": "…o claim. We do not wish to deny to this latter all such claims. We believe that it is the only proposal or attempt ever made to construct a calculating machine founded on the principle of successive orders of differences, and capable of printing off its own results; and that this engine surpasses i…",
+          "start_char": 17454,
+          "end_char": 17473
         },
         {
           "doc_id": "wikisource_notes_by_translator",
@@ -8905,8 +8883,8 @@
           "topic": "computing",
           "variant": "calculating machine",
           "text": "…have been successively invented by the same person within the last few years; while others again have never heard but of the one original \"calculating machine,\" and are not aware of there being any extension upon this. For either of these two classes of persons the above considerations are appropr…",
-          "start_char": 25183,
-          "end_char": 25202
+          "start_char": 23720,
+          "end_char": 23739
         },
         {
           "doc_id": "gutenberg_71292",
@@ -8948,9 +8926,9 @@
           "language_code": "en",
           "topic": "computing",
           "variant": "calculation",
-          "text": "…ematical Tables . By Charles Babbage , Esq. F.R.S. 4to. Printed by order of the House of Commons. 2. On the Application of Machinery to the Calculation of Astronomical and Mathematical Tables . By Charles Babbage , Esq. Memoirs Astron. Soc. Vol. I. Part 2. London: 1822. 3. Address to the As…",
-          "start_char": 401,
-          "end_char": 412
+          "text": "…thematical Tables. By Charles Babbage, Esq. F.R.S.4to. Printed by order of the House of Commons. 2. On the Application of Machinery to the Calculation of Astronomical and Mathematical Tables. By Charles Babbage, Esq. Memoirs Astron. Soc. Vol. I. Part 2. London: 1822. 3. Address to the Ast…",
+          "start_char": 296,
+          "end_char": 307
         },
         {
           "doc_id": "wikisource_edinburgh_review_babbage",
@@ -8960,8 +8938,8 @@
           "topic": "computing",
           "variant": "computation",
           "text": "…olumes without number of such tables have been from time to time computed and published. It is not sufficient, however, for the purposes of computation to tabulate these immediate trigonometrical functions. Their squares and higher powers, their square roots, and other roots, occur so frequ…",
-          "start_char": 15205,
-          "end_char": 15216
+          "start_char": 15085,
+          "end_char": 15096
         },
         {
           "doc_id": "wikisource_edinburgh_review_babbage",
@@ -8970,9 +8948,9 @@
           "language_code": "en",
           "topic": "computing",
           "variant": "compute",
-          "text": "…l functions. Their squares and higher powers, their square roots, and other roots, occur so frequently, that it has been found expedient to compute tables for them, as well as for the same functions of abstract numbers. The measurement of linear, superficial, and solid magnitudes, in th…",
-          "start_char": 15399,
-          "end_char": 15406
+          "text": "…l functions. Their squares and higher powers, their square roots, and other roots, occur so frequently, that it has been found expedient to compute tables for them, as well as for the same functions of abstract numbers. The measurement of linear, superficial, and solid magnitudes, in t…",
+          "start_char": 15279,
+          "end_char": 15286
         },
         {
           "doc_id": "wikisource_calculateur_inaudi",
@@ -8981,9 +8959,9 @@
           "language_code": "fr",
           "topic": "computing",
           "variant": "calculateur",
-          "text": "Le calculateur Jacques Inaudi Alfred Binet Revue des Deux Mondes tome 111, 1892 LE CALCULATEUR JACQUES INAUDI I. Rapport de la commission académique sur M…",
-          "start_char": 3,
-          "end_char": 14
+          "text": "LE CALCULATEUR JACQUES INAUDI I. Rapport de la commission académique sur M. Inaudi, 1892. — II. Scripture, Arithmetical prodigies (Am. Journ. of Psych.,…",
+          "start_char": 4,
+          "end_char": 15
         },
         {
           "doc_id": "wikisource_calculateur_inaudi",
@@ -8992,9 +8970,9 @@
           "language_code": "fr",
           "topic": "computing",
           "variant": "calculateur",
-          "text": "Le calculateur Jacques Inaudi Alfred Binet Revue des Deux Mondes tome 111, 1892 LE CALCULATEUR JACQUES INAUDI I. Rapport de la commission académique sur M. Inaudi, 1892. — II. Scripture, Arithmetical prodigies (Am. Journ. of Psych .,…",
-          "start_char": 83,
-          "end_char": 94
+          "text": "…1840). Les mathématiciens, les médecins et les philosophes ont eu, dans ces derniers temps, l’occasion inappréciable d’étudier un nouveau calculateur prodige; c’est un jeune homme de vingt-quatre ans, appelé Jacques Inaudi, que M. Darboux a présenté au mois de février dernier à une séance…",
+          "start_char": 397,
+          "end_char": 408
         },
         {
           "doc_id": "wikisource_calculateur_inaudi",
@@ -9002,10 +8980,10 @@
           "year": 1892,
           "language_code": "fr",
           "topic": "computing",
-          "variant": "calculateur",
-          "text": "…, 1840). Les mathématiciens, les médecins et les philosophes ont eu, dans ces derniers temps, l’occasion inappréciable d’étudier un nouveau calculateur prodige ; c’est un jeune homme de vingt-quatre ans, appelé Jacques Inaudi, que M. Darboux a présenté au mois de février dernier à une séanc…",
-          "start_char": 477,
-          "end_char": 488
+          "variant": "calcul",
+          "text": "…de chiffres. Nous désirons exposer, à propos de M. Inaudi, quelques considérations sur les aptitudes psychologiques qui servent de base au calcul mental. Notre étude sera, dans une large mesure, facilitée par le savant rapport de la commission que l’Académie a chargée d’examiner M. In…",
+          "start_char": 842,
+          "end_char": 848
         },
         {
           "doc_id": "wikisource_passages_from_the_life_of_a_philosopher",
@@ -9072,6 +9050,39 @@
           "text": "…l’état du système dans tous les instants consécutifs se trouve ■ implicitement déterminé. Avec ces données et à l’aide d’un outillage de calcul approprié, une intelligence su¬ périeure à la nôtre, quoique fondamentalement cons- 60 PREMIÈRE SEGTIOII. tituée comme la nôtre, pourr…",
           "start_char": 108522,
           "end_char": 108528
+        },
+        {
+          "doc_id": "wikisource_sketch_analytical_engine",
+          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
+          "year": 1843,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "calculation",
+          "text": "…, with a Report of the Council of the Royal Society, by order of the House of Commons, May 1823. 2. On the Application of Machinery to the Calculation of Astronomical and Mathematical Tables. By Charles Babbage, Esq.—Memoirs of the Astronomical Society, vol. i. part 2. London, 1822. 3. Ad…",
+          "start_char": 1007,
+          "end_char": 1018
+        },
+        {
+          "doc_id": "wikisource_sketch_analytical_engine",
+          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
+          "year": 1843,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "calculating machine",
+          "text": "…the 7th and 8th of May, 1835. \"A Letter from Mr. Babbage announces that he has for six months been engaged in making the drawings of a new calculating machine of far greater power than the first. \"'I am myself astonished,' says Mr. Babbage, 'at the power I have been enabled to give to this machin…",
+          "start_char": 3693,
+          "end_char": 3712
+        },
+        {
+          "doc_id": "wikisource_sketch_analytical_engine",
+          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
+          "year": 1843,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "calculation",
+          "text": "…ed a special class of persons. In the first section the formulæ were so combined as to render them subservient to the purposes of numerical calculation; in the second, these same formulæ were calculated for values of the variable, selected at certain successive distances; and under the thir…",
+          "start_char": 11535,
+          "end_char": 11546
         },
         {
           "doc_id": "bub_gb_s6lSHDngPFoC",
@@ -9213,8 +9224,8 @@
           "topic": "computing",
           "variant": "computation",
           "text": "…table up to the square of 1,000. But here, it may be said, the results all depend one upon another; any error will carry itself to the next computation, and grow, like a snow-ball that at last becomes an avalanche, and overthrow the whole calculation. The remedy for this inconvenience is ea…",
-          "start_char": 6176,
-          "end_char": 6187
+          "start_char": 5747,
+          "end_char": 5758
         },
         {
           "doc_id": "wikisource_calculating_machines_popular_science",
@@ -9224,8 +9235,8 @@
           "topic": "computing",
           "variant": "calculation",
           "text": "…any error will carry itself to the next computation, and grow, like a snow-ball that at last becomes an avalanche, and overthrow the whole calculation. The remedy for this inconvenience is easy. When we have got the squares of the first ten numbers, we have only to add two ciphers to have…",
-          "start_char": 6275,
-          "end_char": 6286
+          "start_char": 5846,
+          "end_char": 5857
         },
         {
           "doc_id": "wikisource_calculating_machines_popular_science",
@@ -9234,9 +9245,9 @@
           "language_code": "en",
           "topic": "computing",
           "variant": "calculation",
-          "text": "…le example the series of the cubes of whole numbers, which form an arithmetical progression of the third ​ order (Fig. 8). We get by direct calculation the first four terms, 1, 8, 27, 64; then, by subtraction, the first three terms of the column D 1 , the first two of the column D 2 , and t…",
-          "start_char": 7466,
-          "end_char": 7477
+          "text": "…ngle example the series of the cubes of whole numbers, which form an arithmetical progression of the third order (Fig. 8). We get by direct calculation the first four terms, 1, 8, 27, 64; then, by subtraction, the first three terms of the column D1, the first two of the column D2, and the f…",
+          "start_char": 7116,
+          "end_char": 7127
         },
         {
           "doc_id": "bim_eighteenth-century_a-practical-method-to-d_ward-john_1714",
@@ -9404,39 +9415,6 @@
           "end_char": 626379
         },
         {
-          "doc_id": "wikisource_blindenanstalt_steglitz",
-          "title": "Besuch der Blindenanstalt in Steglitz",
-          "year": 1864,
-          "language_code": "de",
-          "topic": "computing",
-          "variant": "rechnen",
-          "text": "…hierin die Neuzeit nicht zurückbleiben. Unentbehrlich ist die Hand ferner in der Arithmetik, Geometrie, Geographie und Naturgeschichte. Im Rechnen hat jeder Schüler eine sogenannte russische Rechenmaschine (auf Draht gezogene Holzkugeln), mit welcher die ersten Zahlenbegriffe gewonnen…",
-          "start_char": 14394,
-          "end_char": 14401
-        },
-        {
-          "doc_id": "wikisource_blindenanstalt_steglitz",
-          "title": "Besuch der Blindenanstalt in Steglitz",
-          "year": 1864,
-          "language_code": "de",
-          "topic": "computing",
-          "variant": "rechenmaschine",
-          "text": "…ch ist die Hand ferner in der Arithmetik, Geometrie, Geographie und Naturgeschichte. Im Rechnen hat jeder Schüler eine sogenannte russische Rechenmaschine (auf Draht gezogene Holzkugeln), mit welcher die ersten Zahlenbegriffe gewonnen werden; hieran schließt sich später das schriftliche und Ko…",
-          "start_char": 14446,
-          "end_char": 14460
-        },
-        {
-          "doc_id": "wikisource_blindenanstalt_steglitz",
-          "title": "Besuch der Blindenanstalt in Steglitz",
-          "year": 1864,
-          "language_code": "de",
-          "topic": "computing",
-          "variant": "rechnen",
-          "text": "…hes gleichaltrige sehende Kind in Bezug auf die Resultate in der Concurrenz erliegen würde. Viele Blinde haben außerordentliches Talent für Rechnen und Mathematik, welche Erscheinung auf das vorzügliche Gedächtniß, eine Hauptkraft derselben, zurückzuführen ist. Die Geometrie hat Körper…",
-          "start_char": 14767,
-          "end_char": 14774
-        },
-        {
           "doc_id": "beethovenslette00beetgoog",
           "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
           "year": 1866,
@@ -9501,6 +9479,39 @@
           "text": "…me : 17 hirondelles dépenseraient le travail d'un cheval-vapeur. « Autant vaudrait, » dit spiri- tuellement M. Bertrand, « prouver par le calcul que les oi- « seaux ne peuvent pas voler, ce qui ne laisserait pas d'être « compromettant pour les mathématiques. » Ailleurs, nous voyo…",
           "start_char": 408987,
           "end_char": 408993
+        },
+        {
+          "doc_id": "wikisource_blindenanstalt_steglitz",
+          "title": "Besuch der Blindenanstalt in Steglitz",
+          "year": 1877,
+          "language_code": "de",
+          "topic": "computing",
+          "variant": "rechnen",
+          "text": "…hierin die Neuzeit nicht zurückbleiben. Unentbehrlich ist die Hand ferner in der Arithmetik, Geometrie, Geographie und Naturgeschichte. Im Rechnen hat jeder Schüler eine sogenannte russische Rechenmaschine (auf Draht gezogene Holzkugeln), mit welcher die ersten Zahlenbegriffe gewonnen…",
+          "start_char": 13535,
+          "end_char": 13542
+        },
+        {
+          "doc_id": "wikisource_blindenanstalt_steglitz",
+          "title": "Besuch der Blindenanstalt in Steglitz",
+          "year": 1877,
+          "language_code": "de",
+          "topic": "computing",
+          "variant": "rechenmaschine",
+          "text": "…ch ist die Hand ferner in der Arithmetik, Geometrie, Geographie und Naturgeschichte. Im Rechnen hat jeder Schüler eine sogenannte russische Rechenmaschine (auf Draht gezogene Holzkugeln), mit welcher die ersten Zahlenbegriffe gewonnen werden; hieran schließt sich später das schriftliche und Ko…",
+          "start_char": 13587,
+          "end_char": 13601
+        },
+        {
+          "doc_id": "wikisource_blindenanstalt_steglitz",
+          "title": "Besuch der Blindenanstalt in Steglitz",
+          "year": 1877,
+          "language_code": "de",
+          "topic": "computing",
+          "variant": "rechnen",
+          "text": "…es gleichaltrige sehende Kind in Bezug auf die Resultate in der Concurrenz erliegen würde. Viele Blinde haben außerordentliches Talent für Rechnen und Mathematik, welche Erscheinung auf das vorzügliche Gedächtniß, eine Hauptkraft derselben, zurückzuführen ist. Die Geometrie hat Körper…",
+          "start_char": 13909,
+          "end_char": 13916
         },
         {
           "doc_id": "lamachineanimal02maregoog",
@@ -9569,105 +9580,6 @@
           "end_char": 413749
         },
         {
-          "doc_id": "wikisource_esbe_arithmometer",
-          "title": "Арифмометр (ЭСБЕ)",
-          "year": 1890,
-          "language_code": "ru",
-          "topic": "computing",
-          "variant": "арифмометр",
-          "text": "Арифмомантия Арифмометр Энциклопедический словарь Брокгауза и Ефрона Ариадна, дочь Миноса Словник : Араго — Аутка . Источник: т. II (1890): Араго — Аутка, с. 100—1…",
-          "start_char": 13,
-          "end_char": 23
-        },
-        {
-          "doc_id": "wikisource_esbe_arithmometer",
-          "title": "Арифмометр (ЭСБЕ)",
-          "year": 1890,
-          "language_code": "ru",
-          "topic": "computing",
-          "variant": "арифмометр",
-          "text": "…юлианскому календарю. Википроекты Википедия (поиск) Данные Арифмомантия ЭСБЕ . Россия , Санкт-Петербург , 1890 — 1907 Ариадна, дочь Миноса Арифмометр — прибор, служащий для механического выполнения больших вычислений, или числительная машина . История открытия А-а начинается с самой глубо…",
-          "start_char": 360,
-          "end_char": 370
-        },
-        {
-          "doc_id": "wikisource_esbe_arithmometer",
-          "title": "Арифмометр (ЭСБЕ)",
-          "year": 1890,
-          "language_code": "ru",
-          "topic": "computing",
-          "variant": "арифмометр",
-          "text": "…боре к действию последнего (об А-х другого рода см. статьи: Бабедж , Интеграторы и «Прибавление»). Схематический чертеж арифмометра Томаса. Арифмометр В. Т. Орднера.",
-          "start_char": 7813,
-          "end_char": 7823
-        },
-        {
-          "doc_id": "wikisource_eb1911_calculating_machines",
-          "title": "Calculating Machines (1911 Encyclopædia Britannica)",
-          "year": 1911,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "calculating machine",
-          "text": "…ume 4 Calculating Machines by Olaus Magnus Friedrich Henrici Calcutta sister projects : Wikipedia article , quotes , Wikidata item See also Calculating machine and Planimeter on Wikipedia ; Slide rule on Wikipedia ; and our 1911 Encyclopædia Britannica disclaimer . 75992 1911 Encyclopædia Britannic…",
-          "start_char": 182,
-          "end_char": 201
-        },
-        {
-          "doc_id": "wikisource_eb1911_calculating_machines",
-          "title": "Calculating Machines (1911 Encyclopædia Britannica)",
-          "year": 1911,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "calculation",
-          "text": "…ons, and simple proportions can be solved at once. Dr John Perry added log log scales to the ordinary slide rule in order to facilitate the calculation of a x or e x according to the formula log log a x = log log a + log x . These rules are manufactured by A. G. Thornton of Manchester. Many…",
-          "start_char": 24523,
-          "end_char": 24534
-        },
-        {
-          "doc_id": "wikisource_eb1911_calculating_machines",
-          "title": "Calculating Machines (1911 Encyclopædia Britannica)",
-          "year": 1911,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "calculation",
-          "text": "…all those quantities which are required for calculating the strength of the beam under bending. One chief use of this integrator is for the calculation of the displacement and stability of a ship from the drawings of a number of sections. It will be noticed that the length of the figure in…",
-          "start_char": 51884,
-          "end_char": 51895
-        },
-        {
-          "doc_id": "wikisource_interview_father_calculating_machine",
-          "title": "An Interview with the Father of the Calculating Machine",
-          "year": 1919,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "calculating machine",
-          "text": "An Interview with the Father of the Calculating Machine ( 1919 ) by Frank Stephen Baldwin sister projects : Wikipedia article , Wikidata item 80650 An Interview with the Father of the Calculating…",
-          "start_char": 36,
-          "end_char": 55
-        },
-        {
-          "doc_id": "wikisource_interview_father_calculating_machine",
-          "title": "An Interview with the Father of the Calculating Machine",
-          "year": 1919,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "calculating machine",
-          "text": "…ing Machine ( 1919 ) by Frank Stephen Baldwin sister projects : Wikipedia article , Wikidata item 80650 An Interview with the Father of the Calculating Machine 1919 Frank Stephen Baldwin A Personal Story of Interest to Business Men and Accountants In the summer of 1840, when I was two years old, my…",
-          "start_char": 184,
-          "end_char": 203
-        },
-        {
-          "doc_id": "wikisource_interview_father_calculating_machine",
-          "title": "An Interview with the Father of the Calculating Machine",
-          "year": 1919,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "calculating machine",
-          "text": "…and this point really marks the birth of the Monroe. In the office of a life insurance company at St. Louis, I had seen the Thomas type of calculating machine, devised by C. X. Thomas of Colmar, France, about 1820. I contrived the plan of substituting one cylinder for the nine cylinders in that ma…",
-          "start_char": 2978,
-          "end_char": 2997
-        },
-        {
           "doc_id": "InternationaleZeitschriftFuumlrPsychoanalyseXviii1932Heft2",
           "title": "Internationale Zeitschrift für Psychoanalyse XVIII 1932 Heft 2",
           "year": 1932,
@@ -9721,6 +9633,105 @@
           "text": "…es, the profusion of solid plate, and the gems of every description, are of an immense value. The very vestments of the images are beyond calculation ; the Jewels seem to have been selected from the choicest oriental stones, and are so numerous, that one woidd imagine all the courts in…",
           "start_char": 126192,
           "end_char": 126203
+        },
+        {
+          "doc_id": "wikisource_gartenlaube_1865_heft34",
+          "title": "Die Gartenlaube (1865), Heft 34",
+          "year": 1865,
+          "language_code": "de",
+          "topic": "computing",
+          "variant": "rechnen",
+          "text": "…en werden müssen, daß er ein religiöser Taschenspieler gewesen sei. Weit eher könnte man ihn zu den Schwärmern für eine festgewurzelte Idee rechnen, für die Idee einer göttlichen Mission zur Vereinigung des Judenthums mit dem Christenthum. Durch das Hinbrüten über der Geheimlehre der Ka…",
+          "start_char": 50590,
+          "end_char": 50597
+        },
+        {
+          "doc_id": "wikisource_gartenlaube_1865_heft34",
+          "title": "Die Gartenlaube (1865), Heft 34",
+          "year": 1865,
+          "language_code": "de",
+          "topic": "computing",
+          "variant": "rechenmaschine",
+          "text": "…sie weder Raum noch die Redaction Zeit zur Verfügung. Ihre Erzählung ist übrigens noch ein ziemlich unreifes Product. J. A. K…r Wien. Die Rechenmaschine, nach welcher Sie sich erkundigen, ist am Besten von A. M. Hoart in Paris, Rue du Helder 13 zu beziehen und ihr Preis 500 Franken. Verantw…",
+          "start_char": 128479,
+          "end_char": 128493
+        },
+        {
+          "doc_id": "gutenberg_1906",
+          "title": "Erewhon; Or, Over the Range",
+          "year": 1872,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "computation",
+          "text": "…s true, I imagine myself to have made a discovery which, if I can be the first to profit by it, will bring me a recompense beyond all money computation, and secure me a position such as has not been attained by more than some fifteen or sixteen persons, since the creation of the universe. B…",
+          "start_char": 15285,
+          "end_char": 15296
+        },
+        {
+          "doc_id": "gutenberg_1906",
+          "title": "Erewhon; Or, Over the Range",
+          "year": 1872,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "calculation",
+          "text": "…ngine, which has shown us the existence of infinitely minute organisms which swarm unsuspected around us? “And take man’s vaunted power of calculation. Have we not engines which can do all manner of sums more quickly and correctly than we can? What prizeman in Hypothetics at any of our Col…",
+          "start_char": 350218,
+          "end_char": 350229
+        },
+        {
+          "doc_id": "bub_gb__f1TQoJzqOIC",
+          "title": "La machine animale locomotion terrestre et aérienne par E.J. Marey",
+          "year": 1873,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "calcul",
+          "text": "…e la machine ? De l’aveu des hommes compétents en pareille matière, ces problèmes sont trop complexes pour qu’on puisse déterminer par le calcul les conditions les plus favorables dans la construction des navires. Faut-il attendre que l’empirisme, à force de tâton- nements ruineux…",
+          "start_char": 7654,
+          "end_char": 7660
+        },
+        {
+          "doc_id": "bub_gb__f1TQoJzqOIC",
+          "title": "La machine animale locomotion terrestre et aérienne par E.J. Marey",
+          "year": 1873,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "calcul",
+          "text": "…me : 17 hirondelles dépenseraient le travail d’un cheval-vapeur. « Autant vaudrait, » dit spiri- tuellement M. Bertrand, « prouver par le calcul que les oi- « seaux ne peuvent pas voler, ce qui ne laisserait pas d’être « compromettant pour les mathématiques, s Ailleurs, nous voyo…",
+          "start_char": 412671,
+          "end_char": 412677
+        },
+        {
+          "doc_id": "wikisource_gartenlaube_1879_heft9",
+          "title": "Die Gartenlaube (1879), Heft 9",
+          "year": 1879,
+          "language_code": "de",
+          "topic": "computing",
+          "variant": "rechnen",
+          "text": "…rnehmen, ohne sich auf Vorposten und Kundschafter stützen zu können, weil deren Beschaffung angeblich zu kostspielig ist. Wie man aber auch rechnen möge: gegenüber dem ungeheuren materiellen Verkehrsverluste, den auch nur die Ungewißheit über die Natur der Seuche zur Folge hat, erschein…",
+          "start_char": 49528,
+          "end_char": 49535
+        },
+        {
+          "doc_id": "wikisource_gartenlaube_1879_heft9",
+          "title": "Die Gartenlaube (1879), Heft 9",
+          "year": 1879,
+          "language_code": "de",
+          "topic": "computing",
+          "variant": "rechenmaschine",
+          "text": "…inausschwingt, der lernt anders denken. Er freilich behandelte mich immer wie einen Untergebenen – einen gedankenlosen Zahlenmenschen, eine Rechenmaschine, der nur eine Marotte hatte, die Sternguckerei. Diese Marotte schien ihm aber ganz bequem. Dadurch, meinte er, würde ich nicht sehen, was u…",
+          "start_char": 88946,
+          "end_char": 88960
+        },
+        {
+          "doc_id": "wikisource_esbe_arithmometer",
+          "title": "Арифмометр (ЭСБЕ)",
+          "year": 1890,
+          "language_code": "ru",
+          "topic": "computing",
+          "variant": "арифмометр",
+          "text": "Арифмометр — прибор, служащий для механического выполнения больших вычислений, или числительная машина. История открытия А-а начинается с самой глубок…",
+          "start_char": 0,
+          "end_char": 10
         }
       ],
       "related_concepts": [
@@ -9745,11 +9756,11 @@
           "count": 36
         },
         {
-          "concept_id": "probability",
-          "count": 36
+          "concept_id": "learning",
+          "count": 35
         },
         {
-          "concept_id": "learning",
+          "concept_id": "probability",
           "count": 35
         },
         {
@@ -10454,8 +10465,8 @@
       "id": "probability",
       "label": "Probability",
       "description": "Statistical and probabilistic reasoning about uncertainty, prediction, and regularity.",
-      "total_hits": 581,
-      "documents_with_hits": 61,
+      "total_hits": 579,
+      "documents_with_hits": 60,
       "by_decade": {
         "1630s": 1,
         "1710s": 1,
@@ -10464,7 +10475,7 @@
         "1800s": 2,
         "1810s": 2,
         "1820s": 2,
-        "1840s": 3,
+        "1840s": 2,
         "1850s": 2,
         "1860s": 6,
         "1870s": 10,
@@ -10481,13 +10492,13 @@
       },
       "by_language": {
         "de": 8,
-        "en": 39,
+        "en": 38,
         "fr": 13,
         "ru": 1
       },
       "by_topic": {
         "automata_artificial_beings": 19,
-        "computing": 10,
+        "computing": 9,
         "mechanism": 32
       },
       "top_documents": [
@@ -11512,19 +11523,19 @@
       "related_concepts": [
         {
           "concept_id": "machine",
-          "count": 57
+          "count": 56
         },
         {
           "concept_id": "network",
-          "count": 57
+          "count": 56
         },
         {
           "concept_id": "reasoning",
-          "count": 55
+          "count": 54
         },
         {
           "concept_id": "error",
-          "count": 54
+          "count": 53
         },
         {
           "concept_id": "learning",
@@ -11532,15 +11543,15 @@
         },
         {
           "concept_id": "intelligence",
-          "count": 50
+          "count": 49
         },
         {
           "concept_id": "mechanism",
-          "count": 50
+          "count": 49
         },
         {
           "concept_id": "agency",
-          "count": 47
+          "count": 46
         }
       ],
       "variant_count": 17
@@ -11549,7 +11560,7 @@
       "id": "network",
       "label": "Network",
       "description": "Networks, interconnection, and distributed systems as metaphors and infrastructures of thought.",
-      "total_hits": 621,
+      "total_hits": 619,
       "documents_with_hits": 74,
       "by_decade": {
         "1630s": 1,
@@ -12253,39 +12264,6 @@
           "end_char": 37910
         },
         {
-          "doc_id": "wikisource_edinburgh_review_babbage",
-          "title": "Babbage's Calculating Engine (Edinburgh Review, Vol. 59)",
-          "year": 1834,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "connected",
-          "text": "…t of attempting to convey to readers unaccustomed to such speculations, any thing approaching to an adequate idea of them. These tables are connected with the various sciences, with almost every department of the useful arts, with commerce in all its relations; but above all, with Astrono…",
-          "start_char": 11471,
-          "end_char": 11480
-        },
-        {
-          "doc_id": "wikisource_edinburgh_review_babbage",
-          "title": "Babbage's Calculating Engine (Edinburgh Review, Vol. 59)",
-          "year": 1834,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "connected",
-          "text": "…d a large number of computations are required. To express angular magnitude, and the various relations of linear magnitude with which it is connected, involves the consideration of a vast variety of Geometrical and Trigonometrical tables; such as tables of the natural sines, co-sines, tan…",
-          "start_char": 14756,
-          "end_char": 14765
-        },
-        {
-          "doc_id": "wikisource_edinburgh_review_babbage",
-          "title": "Babbage's Calculating Engine (Edinburgh Review, Vol. 59)",
-          "year": 1834,
-          "language_code": "en",
-          "topic": "computing",
-          "variant": "connected",
-          "text": "…others, the most extensive and accurate tables are indispensable, is Astronomy; with the improvement and perfection of which is inseparably connected that of the kindred art of Navigation. We scarcely dare hope to convey to the general reader any thing approaching to an adequate notion of…",
-          "start_char": 17640,
-          "end_char": 17649
-        },
-        {
           "doc_id": "mechanismusundv00btgoog",
           "title": "Mechanismus und Vitalismus",
           "year": 1901,
@@ -12317,6 +12295,39 @@
           "text": "…lich : Zur Teleologic Bd. j p. 377 ff, jedoch auch; Kritik d. Kant. Philosophie Bd. 2, p 630 ff. — 34 — geht, dass ich diese Lehre, in Verbindung mit der Voraussetzung von Keim es Variationen, welche allein vererbhch sind (wie ich selbst dies schon 1876 angedeutet habe), für eine se…",
           "start_char": 80753,
           "end_char": 80763
+        },
+        {
+          "doc_id": "wikisource_edinburgh_review_babbage",
+          "title": "Babbage's Calculating Engine (Edinburgh Review, Vol. 59)",
+          "year": 1834,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "connected",
+          "text": "…t of attempting to convey to readers unaccustomed to such speculations, any thing approaching to an adequate idea of them. These tables are connected with the various sciences, with almost every department of the useful arts, with commerce in all its relations; but above all, with Astrono…",
+          "start_char": 11353,
+          "end_char": 11362
+        },
+        {
+          "doc_id": "wikisource_edinburgh_review_babbage",
+          "title": "Babbage's Calculating Engine (Edinburgh Review, Vol. 59)",
+          "year": 1834,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "connected",
+          "text": "…a large number of computations are required. To express angular magnitude, and the various relations of linear magnitude with which it is connected, involves the consideration of a vast variety of Geometrical and Trigonometrical tables; such as tables of the natural sines, co-sines, tan…",
+          "start_char": 14638,
+          "end_char": 14647
+        },
+        {
+          "doc_id": "wikisource_edinburgh_review_babbage",
+          "title": "Babbage's Calculating Engine (Edinburgh Review, Vol. 59)",
+          "year": 1834,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "connected",
+          "text": "…others, the most extensive and accurate tables are indispensable, is Astronomy; with the improvement and perfection of which is inseparably connected that of the kindred art of Navigation. We scarcely dare hope to convey to the general reader any thing approaching to an adequate notion of…",
+          "start_char": 17521,
+          "end_char": 17530
         },
         {
           "doc_id": "essayonorganicor01watt",
@@ -12458,8 +12469,8 @@
           "topic": "computing",
           "variant": "связь",
           "text": "…при самом своем вступлении исполнить какое-либо важное и ответственное поручение общества. Этим способом, с одной стороны, укрепляется его связь с обществом, с другой — выясняется на деле уровень его способностей и энергии. — Значит, и мне будет теперь же предложено такое поручение?…",
-          "start_char": 13210,
-          "end_char": 13215
+          "start_char": 12648,
+          "end_char": 12653
         },
         {
           "doc_id": "wikisource_krasnaya_zvezda",
@@ -12469,8 +12480,8 @@
           "topic": "computing",
           "variant": "сеть",
           "text": "…хней половине ворот и, оглушенные шумом машин, сразу попали во второй этаж. Впрочем, это не был особый этаж в точном смысле слова, а скорее сеть воздушных мостиков, оплетавшая со всех сторон гигантские машины незнакомого мне устройства. На несколько метров над нею находилась другая п…",
-          "start_char": 85601,
-          "end_char": 85605
+          "start_char": 85297,
+          "end_char": 85301
         },
         {
           "doc_id": "wikisource_krasnaya_zvezda",
@@ -12480,8 +12491,8 @@
           "topic": "computing",
           "variant": "сеть",
           "text": "…ых мостиков, оплетавшая со всех сторон гигантские машины незнакомого мне устройства. На несколько метров над нею находилась другая подобная сеть, еще выше — третья, четвертая, пятая; все они были образованы из стеклянного паркета, охваченного брусьями железных решеток, все были связа…",
-          "start_char": 85753,
-          "end_char": 85757
+          "start_char": 85449,
+          "end_char": 85453
         },
         {
           "doc_id": "betweenworlds_201911",
@@ -12557,8 +12568,8 @@
           "topic": "computing",
           "variant": "connected",
           "text": "…ga, the figure disks are all mounted on a common horizontal axis, the figures being placed on the rim. On the side of each disk and rigidly connected with it lies its A-wheel with which it can turn independent of the others. The B-wheels, all fixed on another horizontal axis, gear directl…",
-          "start_char": 11686,
-          "end_char": 11695
+          "start_char": 11269,
+          "end_char": 11278
         },
         {
           "doc_id": "wikisource_eb1911_calculating_machines",
@@ -12568,8 +12579,8 @@
           "topic": "computing",
           "variant": "connected",
           "text": "…the hand of the first clock be turned. As it comes opposite a number on the dial the clock strikes that number of times. Let this clock be connected with the second in such a manner that by each stroke of the first the hand of the second is moved from one number to the next, but can only…",
-          "start_char": 18835,
-          "end_char": 18844
+          "start_char": 18410,
+          "end_char": 18419
         },
         {
           "doc_id": "wikisource_eb1911_calculating_machines",
@@ -12579,8 +12590,8 @@
           "topic": "computing",
           "variant": "connected",
           "text": "…rrangement has to be made to drive the whole by turning one handle by hand or some other power. Imagine further that with the last clock is connected a kind of typewriter which prints the number, or, better, impresses the number in a soft substance from which a stereotype casting can be t…",
-          "start_char": 20445,
-          "end_char": 20454
+          "start_char": 20016,
+          "end_char": 20025
         },
         {
           "doc_id": "wikisource_comptometer_news_v1_i2",
@@ -12590,8 +12601,8 @@
           "topic": "computing",
           "variant": "connected",
           "text": "…rted as teacher, then demonstrator and later taking the salesmen's training course, doing sales work for a good number of years. She is now connected with the National Enameling & Stamping Co., in their executive offices. National Enameling's gain is our loss, but nevertheless we wish her…",
-          "start_char": 17375,
-          "end_char": 17384
+          "start_char": 17275,
+          "end_char": 17284
         },
         {
           "doc_id": "wikisource_comptometer_news_v1_i2",
@@ -12600,9 +12611,9 @@
           "language_code": "en",
           "topic": "computing",
           "variant": "connected",
-          "text": "…eir Essex sedan for the sole purpose of coming to the Comptometer school. CHARLOTTE, N. C. Mrs. Vera Trantham, from the Hartford School, is connected with the M. V. Moore & Co., Asheville, N. C. We are very glad to have Mrs. Trantham with us. Miss Virginia Drum, has returned from Miami, w…",
-          "start_char": 25043,
-          "end_char": 25052
+          "text": "…r Essex sedan for the sole purpose of coming to the Comptometer school. CHARLOTTE, N. C. Mrs. Vera Trantham, from the Hartford School, is connected with the M. V. Moore & Co., Asheville, N. C. We are very glad to have Mrs. Trantham with us. Miss Virginia Drum, has returned from Miami,…",
+          "start_char": 24971,
+          "end_char": 24980
         }
       ],
       "related_concepts": [
@@ -12628,7 +12639,7 @@
         },
         {
           "concept_id": "probability",
-          "count": 57
+          "count": 56
         },
         {
           "concept_id": "agency",
@@ -12699,8 +12710,8 @@
           "year": 1834,
           "language_code": "en",
           "topic": "computing",
-          "hit_count": 86,
-          "quality_score": 5.462
+          "hit_count": 85,
+          "quality_score": 5.449
         },
         {
           "doc_id": "duprincipevital01bouigoog",
@@ -12861,9 +12872,9 @@
           "language_code": "en",
           "topic": "computing",
           "variant": "errors",
-          "text": "…tion of the General Term of a new Class of Infinite Series . By Charles Babbage , Esq. Transactions Camb. Phil. Soc. Cambridge: 1824. 5. On Errors common to many Tables of Logarithms . By Charles Babbage , Esq. Memoirs Astron. Soc. London: 1827. 6. On a Method of Expressing by Signs th…",
-          "start_char": 955,
-          "end_char": 961
+          "text": "…ination of the General Term of a new Class of Infinite Series.By Charles Babbage, Esq.Transactions Camb. Phil. Soc. Cambridge: 1824. 5. On Errors common to many Tables of Logarithms.By Charles Babbage, Esq. Memoirs Astron. Soc. London: 1827. 6. On a Method of Expressing by Signs the…",
+          "start_char": 844,
+          "end_char": 850
         },
         {
           "doc_id": "wikisource_edinburgh_review_babbage",
@@ -12873,8 +12884,8 @@
           "topic": "computing",
           "variant": "mistake",
           "text": "…ding, been accustomed to regard it more in the light of a philosophical curiosity, than an instrument for purposes practically useful. This mistake (than which it is not possible to imagine a greater) has arisen mainly from the ignorance which prevails of the extensive utility of those…",
-          "start_char": 6154,
-          "end_char": 6161
+          "start_char": 6038,
+          "end_char": 6045
         },
         {
           "doc_id": "wikisource_edinburgh_review_babbage",
@@ -12884,8 +12895,8 @@
           "topic": "computing",
           "variant": "errors",
           "text": "…at the public expense; by showing also, that they are nevertheless rendered inefficient, to a greater or less extent, by the prevalence of errors in them; that these errors pervade not merely tables produced by individual labour and enterprise, but that they vitiate even those on whic…",
-          "start_char": 9420,
-          "end_char": 9426
+          "start_char": 9303,
+          "end_char": 9309
         },
         {
           "doc_id": "duprincipevital01bouigoog",
@@ -13647,6 +13658,39 @@
           "end_char": 46653
         },
         {
+          "doc_id": "wikisource_sketch_analytical_engine",
+          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
+          "year": 1843,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "errors",
+          "text": "…. 6. On a Method of expressing by Signs the Action of Machinery. By Charles Babbage, Esq.—Philosophical Transactions. London, 1826. 7. On Errors common to many Tables of Logarithms. By Charles Babbage, Esq.—Memoirs of the Astronomical Society, London, 1827. 8. Report of the Committe…",
+          "start_char": 1941,
+          "end_char": 1947
+        },
+        {
+          "doc_id": "wikisource_sketch_analytical_engine",
+          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
+          "year": 1843,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "errors",
+          "text": "…such machines is, that they require the continual intervention of a human agent to regulate their movements, and thence arises a source of errors; so that, if their use has not become general for large numerical calculations, it is because they have not in fact resolved the double pro…",
+          "start_char": 9242,
+          "end_char": 9248
+        },
+        {
+          "doc_id": "wikisource_sketch_analytical_engine",
+          "title": "Sketch of the Analytical Engine invented by Charles Babbage, Esq.",
+          "year": 1843,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "errors",
+          "text": "…coefficients must be written on twelve different columns. But it is possible to simplify this process, and thus to diminish the chances of errors, which chances are greater, the larger the number of the quantities that have to be inscribed previous to setting the machine in action. To…",
+          "start_char": 32200,
+          "end_char": 32206
+        },
+        {
           "doc_id": "beethovenslette00beetgoog",
           "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
           "year": 1866,
@@ -13667,39 +13711,6 @@
           "text": "…after to-morrow. Beethoven. 32. To Herr Ries. I must again ask you to undertake the disagreeable task of making a fair copy of the errors in the Zurich Sonata. I have got your list of errata ^ auf der WiedenJ* * Eies relates that the three following, notes refer to the pian…",
           "start_char": 96557,
           "end_char": 96563
-        },
-        {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "error",
-          "text": "…died. In order to know my precise age, the date of my birth must be first ascertained, this circumstance having ah'eady led others into error, and caused me to be thought older than I really am. Unluckily, I lived for some time without myself knowing my age [see Nos. 26 and 51]…",
-          "start_char": 139707,
-          "end_char": 139712
-        },
-        {
-          "doc_id": "ACN_1907050201",
-          "title": "The advertiser and central Alberta news (1907-05-02)",
-          "year": 1907,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "mistake",
-          "text": "…'s a confi- dence queen,” said the detective rough- ly. “Don’t you come butting in or - we'll have to run you in too.” “There’s some mistake here,” Olay- ton said quietly. “I presume are 2) Rar ce ar from his pocket and passed it to Clay- ton. It recited that Loa Cogswell,…",
-          "start_char": 10448,
-          "end_char": 10455
-        },
-        {
-          "doc_id": "ACN_1907050201",
-          "title": "The advertiser and central Alberta news (1907-05-02)",
-          "year": 1907,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "mistake",
-          "text": "…ny letters to back this up?’ he de- manded. Clayton produced several from his coat. The detective touched his hat. ' “[ guess we made a mistake,” he said uncertainly. “Sorry we troubled the lady. I hope this will go no fur ther, sir.” “It’s all right, I suppose,” was the care…",
-          "start_char": 11632,
-          "end_char": 11639
         }
       ],
       "related_concepts": [
@@ -13724,15 +13735,15 @@
           "count": 56
         },
         {
-          "concept_id": "probability",
-          "count": 54
-        },
-        {
           "concept_id": "intelligence",
           "count": 53
         },
         {
           "concept_id": "agency",
+          "count": 53
+        },
+        {
+          "concept_id": "probability",
           "count": 53
         }
       ],

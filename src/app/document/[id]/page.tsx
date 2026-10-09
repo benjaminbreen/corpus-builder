@@ -110,7 +110,7 @@ export default async function DocumentPage({ params }: PageProps) {
                   rel="noopener noreferrer"
                   className="btn-secondary w-full justify-center text-sm"
                 >
-                  {doc.source === 'gutenberg' ? 'View on Project Gutenberg ↗' : 'View on Internet Archive ↗'}
+                  {SOURCE_LABELS[doc.source || 'internet_archive'] || 'View original source ↗'}
                 </a>
               </div>
             </div>
@@ -225,4 +225,11 @@ function TextViewerFallback() {
       </div>
     </div>
   )
+}
+
+const SOURCE_LABELS: Record<string, string> = {
+  gutenberg: 'View on Project Gutenberg ↗',
+  wikisource: 'View on Wikisource ↗',
+  internet_archive: 'View on Internet Archive ↗',
+  hathitrust: 'View on HathiTrust ↗',
 }

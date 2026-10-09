@@ -186,21 +186,6 @@ export default async function HomePage() {
 
       <div className="rule" />
 
-      {/* Featured quote */}
-      <section className="container-prose py-16 md:py-20">
-        <blockquote className="border-l-2 border-copper-300 pl-8 md:pl-12">
-          <p className="font-serif text-xl md:text-2xl text-ink-700 italic leading-relaxed mb-4">
-            As concepts from ordinary language are co-opted by computational modeling,
-            their original semantic complexity is lost.
-          </p>
-          <cite className="block font-sans text-sm text-ink-400 not-italic">
-            — Paraphrasing Philip Agre&apos;s account of &ldquo;formalization as social forgetting&rdquo;
-          </cite>
-        </blockquote>
-      </section>
-
-      <div className="rule" />
-
       {/* Recent additions */}
       {stats.recentDocuments.length > 0 && (
         <section className="container-content py-16 md:py-20">
