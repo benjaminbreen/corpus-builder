@@ -28,7 +28,7 @@ const STOPS: PathwayStop[] = [
   },
   {
     id: 'gutenberg_60420',
-    note: 'Willis\'s careful mechanical analysis: if no human is hidden, what would that imply about thought? The chess automaton becomes a philosophical experiment.',
+    note: 'An anonymous "Oxford graduate" examines the Turk during its London exhibition: if no human is hidden, what would that imply about thought? The chess automaton becomes a philosophical experiment.',
   },
   {
     id: 'bub_gb_TcsCAAAAYAAJ',

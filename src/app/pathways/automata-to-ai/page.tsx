@@ -43,7 +43,7 @@ const STOPS: PathwayStop[] = [
   {
     id: 'wikisource_interview_father_calculating_machine',
     note: 'Retrospective accounts narrate invention lineages that later AI narratives inherit.',
-    wikipedia: 'Dorr_Eugene_Felt',
+    wikipedia: 'Frank_Stephen_Baldwin',
   },
   {
     id: 'gutenberg_59112',

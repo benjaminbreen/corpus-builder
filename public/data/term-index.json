@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-09T23:21:01.417Z",
-  "corpus_size": 116,
-  "indexed_docs": 112,
+  "generated_at": "2026-10-10T02:49:43.430Z",
+  "corpus_size": 112,
+  "indexed_docs": 108,
   "skipped_noisy_docs": 4,
   "concepts": {
     "intelligence": {
@@ -847,37 +847,6 @@
           ]
         },
         {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "decade": "1860s",
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "char_count": 345102,
-          "quality_score": 5.538,
-          "hit_count": 6,
-          "snippets": [
-            {
-              "variant": "intelligent",
-              "start_char": 13916,
-              "end_char": 13927,
-              "text": "…k, interrupting the electric current of the whole, and thus destroying its peculiar eflFect. And now, what is this spirit which, for an intelligent mind, binds together these scattered fragments into a whole, and what is its actual power ? I cannot tell ; but I feel to this day just…"
-            },
-            {
-              "variant": "intellect",
-              "start_char": 15895,
-              "end_char": 15904,
-              "text": "…s itself, and impressing its stamp on the spirit of the age. They convey, too, the knowledge of this brightest victory of genuine German intellect to those for whom the sweet Muse of Music is as a book with seven seals, and reveal, likewise, a more profound sense of Beethoven's bein…"
-            },
-            {
-              "variant": "intelligence",
-              "start_char": 59389,
-              "end_char": 59401,
-              "text": "…is called the greatest? — and yet herein are displayed the godlike feelings of humanity I — I weep in thinking that you will receive no intelligence from me till probably Saturday. However dearly you may love me, I love you more fondly still. Never conceal your feelings from me. Good n…"
-            }
-          ]
-        },
-        {
           "doc_id": "betweenworlds_201911",
           "title": "Between Two Worlds",
           "year": 1964,
@@ -967,37 +936,6 @@
               "start_char": 60376,
               "end_char": 60388,
               "text": "…upon the non-existence of aquosity, is utterly worthless, and it is astonishing that any writer who gave his readers credit for moderate intelligence should have adduced it at all. To sum up in few words. The term protoplasm has been applied to the viscid nitrogenous substance within…"
-            }
-          ]
-        },
-        {
-          "doc_id": "EtudeOctober1887",
-          "title": "Volume 05, Number 10 (October 1887)",
-          "year": 1887,
-          "decade": "1880s",
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "char_count": 204916,
-          "quality_score": 5.312,
-          "hit_count": 5,
-          "snippets": [
-            {
-              "variant": "intelligence",
-              "start_char": 57275,
-              "end_char": 57287,
-              "text": "…lishment of any object which affects the temporal or eternal well-being of our species, without enlisting an entire devotedness to it, of intelligence, zeal, fidelity, in- dustry, integrity, and practical exertion. — Thomas H. Gallaudet. Skill is a consequence of education, and skill i…"
-            },
-            {
-              "variant": "intelligent",
-              "start_char": 74088,
-              "end_char": 74099,
-              "text": "…ear again? I do not wish to appear as underrating the value, of the study of harmony, for I considerdtPoqe of the best means of securing intelligent interpretations, nor do I fail to appreciate the necessity of encouraging a desire for crea- tion. We can easily overlook the literary tr…"
-            },
-            {
-              "variant": "intellect",
-              "start_char": 77381,
-              "end_char": 77390,
-              "text": "…xpression in music generally. In order to play with expression, two ele- ments are called into play — mind and heart — or, in other words, intellect and feeling on the one hand and physical powers on the other hand. Under the head of mind would come Imagination, Fancy, Perception ; und…"
             }
           ]
         },
@@ -1826,25 +1764,6 @@
           ]
         },
         {
-          "doc_id": "cia-readingroom-document-cia-rdp96-00792r000600380001-0",
-          "title": "CIA Reading Room cia-rdp96-00792r000600380001-0: SOVIET STUDIES OF THE HUMAN ABILITY OF SUPER-PERCEPTION",
-          "year": 1990,
-          "decade": "1990s",
-          "language_code": "en",
-          "topic": "mechanism",
-          "char_count": 33834,
-          "quality_score": 4.529,
-          "hit_count": 1,
-          "snippets": [
-            {
-              "variant": "intelligence",
-              "start_char": 33178,
-              "end_char": 33190,
-              "text": "…proved For Release 2000/08/09 : CIA-RDP96-00792R000600380001-0 Approved For Release 2000/08/09 : CIA-RDP96-00792R000600380001-0 DEFENSE INTELLIGENCE AGENCY WASHINGTON, D.C. 20301 TRANSLATION REQUESTER TRANSLATOR'S INITIALS | TRANSLATION NUMBER ENCLIS) TOTR NO. ST LN190-91 LANGUAGE…"
-            }
-          ]
-        },
-        {
           "doc_id": "LBT_1990021601",
           "title": "La liberté (1990-02-16)",
           "year": 1990,
@@ -1860,25 +1779,6 @@
               "start_char": 82465,
               "end_char": 82476,
               "text": "…as». «Son humour est assez tranchant, toujours avec une certaine conscience sociale. Ce sont des petites pointes ici et là. Un humour intelligent». «Ça peut paraître facile de dire ça maintenant, mais son succès ne m'a pas surprise. La première fois que je l'ai vu, je me suis di…"
-            }
-          ]
-        },
-        {
-          "doc_id": "ivan-pavlov-exploring-the-animal-machine-oxford-portraits-in-science-by-daniel-todes-z-lib.org",
-          "title": "Ivan Pavlov Exploring The Animal Machine",
-          "year": 2000,
-          "decade": "2000s",
-          "language_code": "en",
-          "topic": "mechanism",
-          "char_count": 4030530,
-          "quality_score": 6.605,
-          "hit_count": 1,
-          "snippets": [
-            {
-              "variant": "intelligent",
-              "start_char": 103477,
-              "end_char": 103488,
-              "text": "…te and wage war. Per- haps he would even discover how society could produce fewer “bad machines” and more good ones—that is, more generous, intelligent, and noble types of humans. Shortly after his first experiments on this new subject, Pavlov cor- nered some of his colleagues in a hallway…"
             }
           ]
         }
@@ -2103,37 +2003,6 @@
               "start_char": 131583,
               "end_char": 131590,
               "text": "…ars previously, the state of mechanical knowledge was far beyond our own, and was advancing with prodigious rapidity, until one of the most learned professors of hypothetics wrote an extraordinary book (from which I propose to give extracts later on), proving that the machines were ulti…"
-            }
-          ]
-        },
-        {
-          "doc_id": "EtudeOctober1887",
-          "title": "Volume 05, Number 10 (October 1887)",
-          "year": 1887,
-          "decade": "1880s",
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "char_count": 204916,
-          "quality_score": 5.312,
-          "hit_count": 28,
-          "snippets": [
-            {
-              "variant": "learn",
-              "start_char": 4334,
-              "end_char": 4339,
-              "text": "…ove the quality of your finger work ; second, to acquire a knowledge of at least a few compositions by the great masters, and if possible learn them so thoroughly that they will become second nature to you. As to the first, j I would recommend you to get and learn by heart, and p…"
-            },
-            {
-              "variant": "learn",
-              "start_char": 4457,
-              "end_char": 4462,
-              "text": "…and if possible learn them so thoroughly that they will become second nature to you. As to the first, j I would recommend you to get and learn by heart, and practice until they go easily and with enjoyment, the following: Raff’s “La Fileuse,” Mason’s edition (Schirmer) ; Moszko…"
-            },
-            {
-              "variant": "learn",
-              "start_char": 4829,
-              "end_char": 4834,
-              "text": "…” from the “Am Genfer See ” ; Wollenhaupt’s “Whisper- ing Winds.” The last is easier than the others, but if has good practice in it. To learn these three pieces well will take probably six weeks or two months. In connec- tion with them there will be ample time to practice sever…"
             }
           ]
         },
@@ -2444,37 +2313,6 @@
               "start_char": 20483,
               "end_char": 20490,
               "text": "…is, equally ab- fird, wmmechanical, and unphilofophical “— -¥ a bg svi The PREF A Co. the other, muft be left to the Fudgment of the learned World. But for my own part, LT muft acknowledge, fuch 7s the duline of my Apprebenfion, or the “dipreulty “of -7be\\ Subject, that what t…"
-            }
-          ]
-        },
-        {
-          "doc_id": "ivan-pavlov-exploring-the-animal-machine-oxford-portraits-in-science-by-daniel-todes-z-lib.org",
-          "title": "Ivan Pavlov Exploring The Animal Machine",
-          "year": 2000,
-          "decade": "2000s",
-          "language_code": "en",
-          "topic": "mechanism",
-          "char_count": 4030530,
-          "quality_score": 6.605,
-          "hit_count": 14,
-          "snippets": [
-            {
-              "variant": "learned",
-              "start_char": 8440,
-              "end_char": 8447,
-              "text": "…parish- ioners for performing religious services and other priestly CHAPTER Image Not Available Pavlov’s mother, Varvara lvanovna Pavlova, learned to read despite the opposition of her father, who was an important clergyman in Ryazan. duties. Petr Dmitrievich supplement- ed this income…"
-            },
-            {
-              "variant": "learned",
-              "start_char": 33216,
-              "end_char": 33223,
-              "text": "…ians, and skilled workers who knew how to study nature, heal sickness, build ships, and forge modern weapons. He himself studied carpentry, learned how to pull teeth and perform minor surgery, and looked through one of the first microscopes to see what Antonie van Leeuwenhoek called “li…"
-            },
-            {
-              "variant": "learned",
-              "start_char": 39443,
-              "end_char": 39450,
-              "text": "…bout what made an animal tick: that is, about how it kept the blood flowing throughout its body, how it turned food into energy, and how it learned about and responded to its environment. But how could the physiologist study animal organs? Tsion’s answer, like Bernard’s, was: through vi…"
             }
           ]
         },
@@ -3099,37 +2937,6 @@
           ]
         },
         {
-          "doc_id": "cia-readingroom-document-cia-rdp96-00792r000600380001-0",
-          "title": "CIA Reading Room cia-rdp96-00792r000600380001-0: SOVIET STUDIES OF THE HUMAN ABILITY OF SUPER-PERCEPTION",
-          "year": 1990,
-          "decade": "1990s",
-          "language_code": "en",
-          "topic": "mechanism",
-          "char_count": 33834,
-          "quality_score": 4.529,
-          "hit_count": 5,
-          "snippets": [
-            {
-              "variant": "learn",
-              "start_char": 2827,
-              "end_char": 2832,
-              "text": "…r from its own publication to investigate the matter and to interview the super- sensitive. The reporter's assignment was first of all to learn everything possible from the super-sensitive with power over the biological field and the patients he had cured, to learn many details, a…"
-            },
-            {
-              "variant": "learn",
-              "start_char": 2951,
-              "end_char": 2956,
-              "text": "…first of all to learn everything possible from the super-sensitive with power over the biological field and the patients he had cured, to learn many details, and to listen to all types of contrary opinions and evaluations from specialists. He was also to locate 1 Approved For R…"
-            },
-            {
-              "variant": "learned",
-              "start_char": 5660,
-              "end_char": 5667,
-              "text": "…were a day late in arriving at Warsaw. By this time, the incident at the border inspection station was all but forgotten. However, we had learned a lesson and an important principle. In the words of the first lieutenant: \"all border inspection stations have to make a check. We cann…"
-            }
-          ]
-        },
-        {
           "doc_id": "duprincipevital00bouigoog",
           "title": "Du principe vital et de l'âme pensante: ou, Examen des diverses doctrines ...",
           "year": 1862,
@@ -3219,37 +3026,6 @@
               "start_char": 165672,
               "end_char": 165681,
               "text": "…L'art commence vraiment, » justement, convenablement, où finit la nature, où » elle manque de forces, où elle se trouble et chancelle. D Apprendre , examiner, savoir, comprendre cela, le » pouvoir faire et l'accomplir, voUft le propre de > l'art (I). » « Il faut observer quel est l…"
-            }
-          ]
-        },
-        {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "decade": "1860s",
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "char_count": 345102,
-          "quality_score": 5.538,
-          "hit_count": 4,
-          "snippets": [
-            {
-              "variant": "learn",
-              "start_char": 10214,
-              "end_char": 10219,
-              "text": "…aesthetic, and even on the repulsive, provoked by his wrath against the meanness of men. In the last part of these genuine documents, we learn with a feeling of sadness, and with almost a tragic sensation, how low was the standard of moral worth, or rather how great was the posi-…"
-            },
-            {
-              "variant": "learning",
-              "start_char": 31047,
-              "end_char": 31055,
-              "text": "…proof of sincere contrition is to acknowledge our faults ; and this is what I wish to do. Let us now draw a veil (tver the whole affair, learning one lesson from it — that when friends are at variance, it is always better to employ no mediator, but to com- municate directly with ea…"
-            },
-            {
-              "variant": "learn",
-              "start_char": 158202,
-              "end_char": 158207,
-              "text": "…which, however, has evidently been conducted by a clever hand. The date of the first letter is to be gleaned from the HPcond, and we also learn from them that * The Buins of Athens* and King Stephen ' (or at all events the Overture) were already finished in' January 1812. i MU…"
             }
           ]
         },
@@ -4896,37 +4672,6 @@
           ]
         },
         {
-          "doc_id": "ivan-pavlov-exploring-the-animal-machine-oxford-portraits-in-science-by-daniel-todes-z-lib.org",
-          "title": "Ivan Pavlov Exploring The Animal Machine",
-          "year": 2000,
-          "decade": "2000s",
-          "language_code": "en",
-          "topic": "mechanism",
-          "char_count": 4030530,
-          "quality_score": 6.605,
-          "hit_count": 7,
-          "snippets": [
-            {
-              "variant": "reason",
-              "start_char": 15290,
-              "end_char": 15296,
-              "text": "…, Russian and world history, literature, languages, logic, philosophy, and some courses in the natural sciences. Petr Dmitrievich had every reason to believe that his eldest son would be the first in the seventh generation of Pavlovs to serve the Church. The times, however, were changi…"
-            },
-            {
-              "variant": "reason",
-              "start_char": 92772,
-              "end_char": 92778,
-              "text": "…rpretations of the dogs’ behavior. The main point is that these experiments did not turn out exactly the same each time. For precisely this reason—that the dogs’ psyche did not behave predictably—Pavlov did not think it was a simple reflex. Another important fact was this: Without “app…"
-            },
-            {
-              "variant": "reason",
-              "start_char": 93357,
-              "end_char": 93363,
-              "text": "…their food. Too often people ate hurriedly, without paying attention to their food, or they were worried and preoccupied at meals. For this reason, they did not produce the necessary “appetite juice” to digest their food. Although people had not understood this scientifically, they had…"
-            }
-          ]
-        },
-        {
           "doc_id": "bim_eighteenth-century_a-practical-method-to-d_ward-john_1714",
           "title": "A practical method, to discover the longitude at sea, by a new contrived automaton.... With an account of the author's new instrument for taking the latitude more accurately at sea, than hath hitherto been practised. ...By John Ward.... 1714",
           "year": 1714,
@@ -5047,68 +4792,6 @@
               "start_char": 104536,
               "end_char": 104544,
               "text": "…Vermögen, die zur Erklärung der Wirkung der ersten zulan- gen, welche Reduktion aber nur bis zu Grund. kräften forsgehr, über die unsre Vernunft wiche hinauskann.‘“ — Alle Erscheinungen der or- ganischen Welt E sich zurückführen auf das Grundvermögen Lebenskraft. # A... 0.1. 8.…"
-            }
-          ]
-        },
-        {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "decade": "1860s",
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "char_count": 345102,
-          "quality_score": 5.538,
-          "hit_count": 5,
-          "snippets": [
-            {
-              "variant": "reason",
-              "start_char": 34177,
-              "end_char": 34183,
-              "text": "…instance, the Abbe Gelinek]. Concluding, therefore, that some of these things would soon appear, I resolved to anticipate this. Another reason also was to puzzle some of the piano- forte teachers here, many of whom are my mortal foes ; so I wished to revenge myself on them in thi…"
-            },
-            {
-              "variant": "reason",
-              "start_char": 63330,
-              "end_char": 63336,
-              "text": "…to [the celebrated horn-player, for whom Beethoven wrote Sonata 17] is not a little indig- nant about the omission, and I must say he has reason to be so, but even before seeing him it was my intention to have reminded you of this, for I can only explain the mistake by great haste…"
-            },
-            {
-              "variant": "reason",
-              "start_char": 141601,
-              "end_char": 141607,
-              "text": "…ew acquaintances, and even as regards art I am often driven nearly distracted by my undeserved fame. Fortune seeks me, and for that very reason I almost dread some new calamity. As for your IphigSniCy the facts are these. I have not seen it for the last two years and a half, and h…"
-            }
-          ]
-        },
-        {
-          "doc_id": "EtudeOctober1887",
-          "title": "Volume 05, Number 10 (October 1887)",
-          "year": 1887,
-          "decade": "1880s",
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "char_count": 204916,
-          "quality_score": 5.312,
-          "hit_count": 5,
-          "snippets": [
-            {
-              "variant": "reason",
-              "start_char": 64399,
-              "end_char": 64405,
-              "text": "…dences of music proper. Even among the elements of speech we have the beginnings of music, the vowels themselves being pure tones. The reason, then, that music has a much greater power over the feelings than any other art, is that music alone is based on a natural means of emoti…"
-            },
-            {
-              "variant": "reason",
-              "start_char": 64733,
-              "end_char": 64739,
-              "text": "…es not stop with the feelings. Inextricably bound up with every human feeling is a host of ideas associated with it in the mind — for the reason that the possible feelings are few, while ideas are innumer- able. Accordingly, music, whose power of direct expres- j sion is almost li…"
-            },
-            {
-              "variant": "reason",
-              "start_char": 89162,
-              "end_char": 89168,
-              "text": "…hod of interpretation speaks louder than anything I could say. The objective artist has of necessity first to analyze the composition, to reason out the possi- ble or probable intentions of the composer, and then to make up his mind as to the mode and manner and all the details of…"
             }
           ]
         },
@@ -7231,31 +6914,6 @@
           ]
         },
         {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "decade": "1860s",
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "char_count": 345102,
-          "quality_score": 5.538,
-          "hit_count": 2,
-          "snippets": [
-            {
-              "variant": "agent",
-              "start_char": 79066,
-              "end_char": 79071,
-              "text": "…Beethoven. 22. To He^'T Hofmeister. Vienna, June, 1801. I am rather surprised at the communication you have desired your business agent here to make to me ; I may well feel offended at your believing me capable of so mean a trick. It would have been a very different thing…"
-            },
-            {
-              "variant": "agency",
-              "start_char": 267186,
-              "end_char": 267192,
-              "text": "…to Prince Heinrich of Prussia, and then went to London, where he was very active in the introduction of German music. It was through his agency that Beethoven's connection with Birchall, the music publisher, first com- menced, to whom a number of his letters are addressed. AN au…"
-            }
-          ]
-        },
-        {
           "doc_id": "jamesiana_james_habit_1890",
           "title": "The Principles of Psychology, Chapter IV: Habit",
           "year": 1890,
@@ -7682,25 +7340,6 @@
               "text": "…ement shall not void the remaining provisions. 1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the trademark owner, any agent or employee of the Foundation, anyone providing copies of Project Gutenberg™ electronic works in accordance with this agreement, and any vo…"
             }
           ]
-        },
-        {
-          "doc_id": "cia-readingroom-document-cia-rdp96-00792r000600380001-0",
-          "title": "CIA Reading Room cia-rdp96-00792r000600380001-0: SOVIET STUDIES OF THE HUMAN ABILITY OF SUPER-PERCEPTION",
-          "year": 1990,
-          "decade": "1990s",
-          "language_code": "en",
-          "topic": "mechanism",
-          "char_count": 33834,
-          "quality_score": 4.529,
-          "hit_count": 1,
-          "snippets": [
-            {
-              "variant": "agency",
-              "start_char": 33191,
-              "end_char": 33197,
-              "text": "…lease 2000/08/09 : CIA-RDP96-00792R000600380001-0 Approved For Release 2000/08/09 : CIA-RDP96-00792R000600380001-0 DEFENSE INTELLIGENCE AGENCY WASHINGTON, D.C. 20301 TRANSLATION REQUESTER TRANSLATOR'S INITIALS | TRANSLATION NUMBER ENCLIS) TOTR NO. ST LN190-91 LANGUAGE GEOGRA…"
-            }
-          ]
         }
       ]
     },
@@ -8113,37 +7752,6 @@
           ]
         },
         {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "decade": "1860s",
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "char_count": 345102,
-          "quality_score": 5.538,
-          "hit_count": 12,
-          "snippets": [
-            {
-              "variant": "remembrance",
-              "start_char": 16770,
-              "end_char": 16781,
-              "text": "…o bestowed on myself the best recompense of my labours, in the humble conviction that by this means I may have vividly reawakened in the remembrance of many the mighty mission which our age is called on to perform for the development of our race, even in the realm of harmony — more es…"
-            },
-            {
-              "variant": "remembrance",
-              "start_char": 29885,
-              "end_char": 29896,
-              "text": "…ore, my dearest Friend, A year of my stay in this capital has nearly elapsed before you receive a letter from me, and yet the most vivid remembrance of you is ever present with me. I have often conversed in thought with you and your dear family, though not always in the happy mood I c…"
-            },
-            {
-              "variant": "remembrance",
-              "start_char": 34872,
-              "end_char": 34883,
-              "text": "…l former days, and to put me to shame by your noble conduct to me. I, indeed, little thought that you still considered me worthy of your remembrance. Oh! if you could have witnessed my emotions yesterday when this incident occurred, you would not think that I exaggerate in saying tha…"
-            }
-          ]
-        },
-        {
           "doc_id": "gutenberg_1906",
           "title": "Erewhon; Or, Over the Range",
           "year": 1872,
@@ -8485,37 +8093,6 @@
           ]
         },
         {
-          "doc_id": "ivan-pavlov-exploring-the-animal-machine-oxford-portraits-in-science-by-daniel-todes-z-lib.org",
-          "title": "Ivan Pavlov Exploring The Animal Machine",
-          "year": 2000,
-          "decade": "2000s",
-          "language_code": "en",
-          "topic": "mechanism",
-          "char_count": 4030530,
-          "quality_score": 6.605,
-          "hit_count": 4,
-          "snippets": [
-            {
-              "variant": "memory",
-              "start_char": 9586,
-              "end_char": 9592,
-              "text": "…on September 26, 1849. Ivan Pavlov, recalled one relative, was ‘“‘a weak and sickly child?’ Small, frail, and scrawny, he had a phenomenal memory, a passionate nature, and an explosive temper. (Petr blamed this last trait on his wife’s hereditary influence.) He did not like to read, a…"
-            },
-            {
-              "variant": "memory",
-              "start_char": 13758,
-              "end_char": 13764,
-              "text": "…of his two uncles as a warning—one he would never forget— about the dangers of alcohol and uncontrolled behavior. Another lasting childhood memory was the Easter holi- day. In Ryazan, one day was much like the next—except for Easter and Christmas. The Pavlov family fasted for the 40 da…"
-            },
-            {
-              "variant": "memory",
-              "start_char": 24064,
-              "end_char": 24070,
-              "text": "…ht, and, according to one friend, was “the best-read and also the most heated and inexhaustible debater” in his kruzhok. He could cite from memory entire pages from Pisarev’s arti- cles and from his favorite book—Lewes’s The Physiology of Common Life. Ivan was especially fond of Pisare…"
-            }
-          ]
-        },
-        {
           "doc_id": "b30520903_0002",
           "title": "Philosophical principles of medicine in three parts. Containing, I. A demonstration of the general laws of gravity, with their effects upon animal bodys. II. The more particular laws which obtain in the motion and secretion of the vital fluids, applied to the principal diseases and irregularitys of the animal machine. III. The primary and chief intentions of medicine in the cure of diseases. Problematically propos'd and mechanically resolv'd",
           "year": 1725,
@@ -8636,37 +8213,6 @@
               "start_char": 640164,
               "end_char": 640171,
               "text": "…eienee de l'taomnief par P. J. Bartbez, médecin de S. M. Napoléon l^', 3® édition^ aujjpmentée du Discours sur le génie d'Hippocrate^ de Mémoire» sur les fluxions et les coliques iliaques, sur la thérapeutique des maladies, sur Tévanouissement, l*extispice^ la fascination, le faun…"
-            }
-          ]
-        },
-        {
-          "doc_id": "EtudeOctober1887",
-          "title": "Volume 05, Number 10 (October 1887)",
-          "year": 1887,
-          "decade": "1880s",
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "char_count": 204916,
-          "quality_score": 5.312,
-          "hit_count": 3,
-          "snippets": [
-            {
-              "variant": "memory",
-              "start_char": 68177,
-              "end_char": 68183,
-              "text": "…overing o’er the surface of the coals, so our consciousness plays o’er the otherwise dormant mind ; now here, now there ; now sense, now memory ; now one emotion, now another starts for the instant into fluttering life and then darkens back into unconsciousness. What we desire is…"
-            },
-            {
-              "variant": "memory",
-              "start_char": 71693,
-              "end_char": 71699,
-              "text": "…that poor maltreated instrument, and, through the magic of his inspired fingers, speak to thousands in tones that will dwell forever in memory ; calling forth at his own will all human emotions, and quickening many a dormant soul to new life, as he, in a manner, recreates the wor…"
-            },
-            {
-              "variant": "memory",
-              "start_char": 75891,
-              "end_char": 75897,
-              "text": "…the strength of a mighty purpose to do and to bear even to th8 end. The tones cease ; the story is told ; the mu- sic is hushed, but the memory of that interpretation wilL live for many a day in the hearts of all who heard it. Perhaps the readers of this article will smile quietly…"
             }
           ]
         },
@@ -10527,37 +10073,6 @@
           ]
         },
         {
-          "doc_id": "EtudeOctober1887",
-          "title": "Volume 05, Number 10 (October 1887)",
-          "year": 1887,
-          "decade": "1880s",
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "char_count": 204916,
-          "quality_score": 5.312,
-          "hit_count": 8,
-          "snippets": [
-            {
-              "variant": "machinery",
-              "start_char": 21065,
-              "end_char": 21074,
-              "text": "…yed with bow. In this instrument the pressing of each 1 brought a resined wheel in contact with thestri The wheels were kept rotating by machinery in motion by the foot. Other ideas looking tow the improvement of the harpsiehord were broached. As regards this instrument the attit o…"
-            },
-            {
-              "variant": "mechanical",
-              "start_char": 77027,
-              "end_char": 77037,
-              "text": "…elude my grasp when trying to express what I think and feel about it. While Miss Fay has gone into detail, and diven us the technical or mechanical resources which are employed for pro- gucing expression, such as accent, phrasing, touch, tempo, contrast, etc., I should like also to vi…"
-            },
-            {
-              "variant": "mechanical",
-              "start_char": 77696,
-              "end_char": 77706,
-              "text": "…uld come Passion, Sentiment, Depth, Fire and Repose; under the head of physical powere would come Strength, Facility, Touch and the other mechanical resources generally called technique. It cannot be said that, to produce certain effects, it will be sufficient to em- ploy just one or…"
-            }
-          ]
-        },
-        {
           "doc_id": "gutenberg_11984",
           "title": "A Pluralistic Universe: Hibbert Lectures at Manchester College on the Present Situation in Philosophy",
           "year": 1909,
@@ -10833,37 +10348,6 @@
               "start_char": 137287,
               "end_char": 137297,
               "text": "…ve here a neat and pretty little letter opener,” began the agent. “@o have I at home,” sald the bush ners map gadly, “I'w married.” A Mechanical Man, Frederick Ireland, a German invent- or, bas produced a mechanical man, made of wheels and springs, which en- able It to walk, wri…"
-            }
-          ]
-        },
-        {
-          "doc_id": "ivan-pavlov-exploring-the-animal-machine-oxford-portraits-in-science-by-daniel-todes-z-lib.org",
-          "title": "Ivan Pavlov Exploring The Animal Machine",
-          "year": 2000,
-          "decade": "2000s",
-          "language_code": "en",
-          "topic": "mechanism",
-          "char_count": 4030530,
-          "quality_score": 6.605,
-          "hit_count": 5,
-          "snippets": [
-            {
-              "variant": "mechanical",
-              "start_char": 899,
-              "end_char": 909,
-              "text": "…rved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without the prior permission of Oxford University Press. Design: Design Oasis Layout: Greg Wozney P…"
-            },
-            {
-              "variant": "mechanism",
-              "start_char": 70383,
-              "end_char": 70392,
-              "text": "…topics to the workers he thought were best). He demanded punctuality and precision. As one coworker put it, “the laboratory worked like the mechanism of a watch.” Every morning when Pavlov arrived at the laboratory, he checked the coat-rack. If any coworker was late (as evi- denced by the…"
-            },
-            {
-              "variant": "mechanical",
-              "start_char": 89323,
-              "end_char": 89333,
-              "text": "…tainly was influenced by the great social and economic struggles that were part of the everyday life of his country at the time. When great mechanical clocks were hailed as a modern invention, many psychologists thought about the human mind as a clock. Now, when computers are all the rage,…"
             }
           ]
         },
@@ -11349,31 +10833,6 @@
               "start_char": 1977,
               "end_char": 1986,
               "text": "…t; mais comme le bonhomme n’a aucun talent que celuy de manier adroitement ses outils, et qu’il nesçait pas seulement si la Géométrie et la Mécanique sont au monde, aussy... ne fit-il qu’une pièce inutile, propre véritablement, polie et très bien limée par le dehors, mais tellement imparf…"
-            }
-          ]
-        },
-        {
-          "doc_id": "cia-readingroom-document-cia-rdp96-00792r000600380001-0",
-          "title": "CIA Reading Room cia-rdp96-00792r000600380001-0: SOVIET STUDIES OF THE HUMAN ABILITY OF SUPER-PERCEPTION",
-          "year": 1990,
-          "decade": "1990s",
-          "language_code": "en",
-          "topic": "mechanism",
-          "char_count": 33834,
-          "quality_score": 4.529,
-          "hit_count": 2,
-          "snippets": [
-            {
-              "variant": "mechanism",
-              "start_char": 8752,
-              "end_char": 8761,
-              "text": "…in the. study of skin blood circulation, but has created new possibilities in brain research. Through the study of minute changes in the mechanism of heat exchange in the skin, many new things may be discovered.\" \"Does your plan include study of persons with super-sensitive abilitie…"
-            },
-            {
-              "variant": "mechanism",
-              "start_char": 23071,
-              "end_char": 23080,
-              "text": "…on and intensify biochemical reaction processes to ensure the energy supply. Finally, it even uses shivering methods to alter the heating mechanism. In addition, the skin also has small systems which function independently in some areas. At 0.5 mm below the surface of the skin, there…"
             }
           ]
         },
@@ -13340,37 +12799,6 @@
           ]
         },
         {
-          "doc_id": "ivan-pavlov-exploring-the-animal-machine-oxford-portraits-in-science-by-daniel-todes-z-lib.org",
-          "title": "Ivan Pavlov Exploring The Animal Machine",
-          "year": 2000,
-          "decade": "2000s",
-          "language_code": "en",
-          "topic": "mechanism",
-          "char_count": 4030530,
-          "quality_score": 6.605,
-          "hit_count": 23,
-          "snippets": [
-            {
-              "variant": "machine",
-              "start_char": 90,
-              "end_char": 97,
-              "text": "S A= oO) af _~ (©) ‘= — 2 OF 4 Lu DY Val(sl im Kove (=45 Ivan Pavlov Exploring the Animal Machine Image Not Available Owen Gingerich General Editor Ivan Pavlov Exploring the Animal Machine Daniel Todes Oxford University Press For Sarah,…"
-            },
-            {
-              "variant": "machine",
-              "start_char": 181,
-              "end_char": 188,
-              "text": "…sl im Kove (=45 Ivan Pavlov Exploring the Animal Machine Image Not Available Owen Gingerich General Editor Ivan Pavlov Exploring the Animal Machine Daniel Todes Oxford University Press For Sarah, with all my love Oxford New York Athens Auckland Bangkok Bogota Buenos Aires Calcutta Cape…"
-            },
-            {
-              "variant": "machine",
-              "start_char": 1184,
-              "end_char": 1191,
-              "text": "…ney Picture research: Amla Sanguu Library of Congress Cataloging-in-Publication Data Todes, Daniel Philip Ivan Pavlov: exploring the animal machine / by Daniel Todes. p. cm. -- (Oxford portraits in science) Includes bibliographic references and index. Summary: A biography of the Russian…"
-            }
-          ]
-        },
-        {
           "doc_id": "levitalismeetla02lemogoog",
           "title": "Le vitalisme et l'animisme de Stahl",
           "year": 1864,
@@ -14763,25 +14191,6 @@
           ]
         },
         {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "decade": "1860s",
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "char_count": 345102,
-          "quality_score": 5.538,
-          "hit_count": 1,
-          "snippets": [
-            {
-              "variant": "machine",
-              "start_char": 1570,
-              "end_char": 1577,
-              "text": "…rposes. + Refrain fivm automated querying Do not send automated queries of any sort to Google's system: If you are conducting research on machine translation, optical character recognition or other areas where access to a large amount of text is helpful, please contact us. We encoura…"
-            }
-          ]
-        },
-        {
           "doc_id": "gutenberg_67476",
           "title": "The Automaton Ear, and Other Sketches",
           "year": 1876,
@@ -14873,25 +14282,6 @@
               "start_char": 21466,
               "end_char": 21473,
               "text": "…otations or names of persons. This was frequently a mere parrot-like memory which acted instantaneously and in a meaningless way, just as a machine might act. In the next group there was every other kind of sense-imagery; the chime of imagined bells, the shiver of remembered cold, the s…"
-            }
-          ]
-        },
-        {
-          "doc_id": "EtudeOctober1887",
-          "title": "Volume 05, Number 10 (October 1887)",
-          "year": 1887,
-          "decade": "1880s",
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "char_count": 204916,
-          "quality_score": 5.312,
-          "hit_count": 1,
-          "snippets": [
-            {
-              "variant": "machine",
-              "start_char": 144507,
-              "end_char": 144514,
-              "text": "…rect use of the fingers is equally important, since the other so greatly depends npon it. For, unless the band is applied correctly, as a machine, it will be. impossible to secure satisfactory musical effects. In the present case, the fingers curve inward because the hand is weak,…"
             }
           ]
         },
@@ -15044,25 +14434,6 @@
               "start_char": 965,
               "end_char": 972,
               "text": "…and touch were extraordinarily acute, and he could carry on mentally long and intricate mathematical calculations. He devised a calculating machine or abacus, by which he could perform arithmetical and algebraical operations by the sense of touch; this method is sometimes termed his pal…"
-            }
-          ]
-        },
-        {
-          "doc_id": "cia-readingroom-document-cia-rdp96-00792r000600380001-0",
-          "title": "CIA Reading Room cia-rdp96-00792r000600380001-0: SOVIET STUDIES OF THE HUMAN ABILITY OF SUPER-PERCEPTION",
-          "year": 1990,
-          "decade": "1990s",
-          "language_code": "en",
-          "topic": "mechanism",
-          "char_count": 33834,
-          "quality_score": 4.529,
-          "hit_count": 1,
-          "snippets": [
-            {
-              "variant": "machine",
-              "start_char": 19267,
-              "end_char": 19274,
-              "text": "…unavoidably led to the study of the processes of body temperature control and heat transfer. The skin is a very complex biological living machine. It s a primary object of our long term research. -- Both skin and heat control have been studied for dozens of years. Almost everythin…"
             }
           ]
         },
@@ -15647,37 +15018,6 @@
               "start_char": 626373,
               "end_char": 626379,
               "text": "…es sécrétions, etc., sans que jamais ces mouve- ments soient au risque d'être suspendus ou troublés par quelque défaut de vigilance ou de calcul, sans qu'ils exi- gent de sa part ces rares et difficiles connaissances, que possède fort incomplètement Thomme lui-même qui a passé sa…"
-            }
-          ]
-        },
-        {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "decade": "1860s",
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "char_count": 345102,
-          "quality_score": 5.538,
-          "hit_count": 3,
-          "snippets": [
-            {
-              "variant": "calculation",
-              "start_char": 184111,
-              "end_char": 184122,
-              "text": "…ill this affair was finally settled, H. H. was so kind as to mak^ me a pajrment of sixty ducats on account, which, ac cording to H. H.'s calculation, were good for 600 florins, Vienna ^currency. The arrears were to be paid up on my return to Vienna, and an order given to the cashier t…"
-            },
-            {
-              "variant": "compute",
-              "start_char": 194912,
-              "end_char": 194919,
-              "text": "…days ♦ See a letter to Ries, Nov. 22nd, 1816 : — *He was consumptive for some years, and, in order to make his life easier, I can safely compute what I gave him at 10,000 florins W.W/ BENEVOLENT EFFOBTS. 127 hence I shall take the liberty of making enquiries on the subject from…"
-            },
-            {
-              "variant": "compute",
-              "start_char": 279075,
-              "end_char": 279082,
-              "text": "…]; he had a bad wife. For some years past he has been suf- fering from consumption, and from my wish to make his life less irksome I may compute what I gave him at 10,000 florins {Wiener Wdhi^ng). This indeed does not seem much to an Englishman, but it is a great deal for a poor G…"
             }
           ]
         },
@@ -16978,25 +16318,6 @@
           ]
         },
         {
-          "doc_id": "EtudeOctober1887",
-          "title": "Volume 05, Number 10 (October 1887)",
-          "year": 1887,
-          "decade": "1880s",
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "char_count": 204916,
-          "quality_score": 5.312,
-          "hit_count": 1,
-          "snippets": [
-            {
-              "variant": "automatic",
-              "start_char": 199681,
-              "end_char": 199690,
-              "text": "…bstitute for the piano in learning I IWmf |H I IWHHR the mechanical part or technic of piano playing. I | For the easy, certain, almost automatic ac- |jf quiring of a perfect legato and all grades of J I V ■ ’ ' staccato, it is as superior to the piano as the I 1 I foot-rule is su…"
-            }
-          ]
-        },
-        {
           "doc_id": "jamesiana_james_automaton_theory_1890",
           "title": "The Principles of Psychology, Chapter V: The Automaton-Theory",
           "year": 1890,
@@ -17126,44 +16447,6 @@
               "start_char": 45043,
               "end_char": 45052,
               "text": "…g monotone. We looked in windows at fur coats marked down from four hundred and ninety-nine ninety-five. We bought a sack of popcorn in an automatic vending machine that cheated on the amount, and fought over it until it skidded out of our hands onto the sidewalk. We had our picture take…"
-            }
-          ]
-        },
-        {
-          "doc_id": "cia-readingroom-document-cia-rdp96-00792r000600380001-0",
-          "title": "CIA Reading Room cia-rdp96-00792r000600380001-0: SOVIET STUDIES OF THE HUMAN ABILITY OF SUPER-PERCEPTION",
-          "year": 1990,
-          "decade": "1990s",
-          "language_code": "en",
-          "topic": "mechanism",
-          "char_count": 33834,
-          "quality_score": 4.529,
-          "hit_count": 1,
-          "snippets": [
-            {
-              "variant": "automatic",
-              "start_char": 23655,
-              "end_char": 23664,
-              "text": "…perspire 50 grams over a 24 hour period without realizing it. During heavy perspiration, a liter or more can he lost every hour. The area automatic temperature regulating systems can only function within a small range of outside temperatures. For example in a room with a temperature o…"
-            }
-          ]
-        },
-        {
-          "doc_id": "ivan-pavlov-exploring-the-animal-machine-oxford-portraits-in-science-by-daniel-todes-z-lib.org",
-          "title": "Ivan Pavlov Exploring The Animal Machine",
-          "year": 2000,
-          "decade": "2000s",
-          "language_code": "en",
-          "topic": "mechanism",
-          "char_count": 4030530,
-          "quality_score": 6.605,
-          "hit_count": 1,
-          "snippets": [
-            {
-              "variant": "automatic",
-              "start_char": 27338,
-              "end_char": 27347,
-              "text": "…r brain has sent a signal through the spine to your motor nerves). Sechenov, though, believed that this thought is itself a reflex—it is an automatic reaction to seeing a food we like. If you see a food you like and do not eat it because it is close to dinnertime and your parents are watc…"
             }
           ]
         }
@@ -17543,37 +16826,6 @@
               "start_char": 335718,
               "end_char": 335729,
               "text": "…of the extremities of the hepatic artery, or of thofe of the vena porta- rum ; but of the laft fuppofition there is neither evidence nor probability. CCCCXVIII, It feems probable, that the acute hepatitis is always an affection of the external mem- brane of the liver ; and that the…"
-            }
-          ]
-        },
-        {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "decade": "1860s",
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "char_count": 345102,
-          "quality_score": 5.538,
-          "hit_count": 12,
-          "snippets": [
-            {
-              "variant": "chance",
-              "start_char": 12712,
-              "end_char": 12718,
-              "text": "…of dignity and virtue. The soul of that man cannot fail to be elevated, who can seize the real spirit of the scattered pages that a happy chance has preserved for us. If not fettered by petty feelings, he will quickly surmount the casual obstacles and stum- bling-blocks which the…"
-            },
-            {
-              "variant": "chance",
-              "start_char": 40287,
-              "end_char": 40293,
-              "text": "…if possible to come at five o'clock this evening — if not then, at five or six o'clock to-morrow morning; but he must not waken me if I chance to be still asleep. Adieu, mon ami a bon marchS, Perhaps we may meet at the * Swan ' ? * Ab it appears from the following letters that…"
-            },
-            {
-              "variant": "chance",
-              "start_char": 46685,
-              "end_char": 46691,
-              "text": "…ceeded in writing Quartetts properly : this you will at once perceive when you receive it. Now, farewell, my dear kind friend I If by any chance I can serve you here, I need not say that you have only to command me. Your faithful and truly attached L. V. Beethoven. 14. To Weg…"
             }
           ]
         },
@@ -18194,37 +17446,6 @@
               "start_char": 615588,
               "end_char": 615599,
               "text": "…tation des Européens dans les pays chauds, par Simonot, IV. — La physionomie; théorie des mouvements d'expression, par P. Gratiolet, IL Statistique, — Mouvement et décadence de la population fran- çaise, par Broca, Jules Guérin, Bertillon, Boudet, IV. — La mortalité dans les divers dé…"
-            }
-          ]
-        },
-        {
-          "doc_id": "EtudeOctober1887",
-          "title": "Volume 05, Number 10 (October 1887)",
-          "year": 1887,
-          "decade": "1880s",
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "char_count": 204916,
-          "quality_score": 5.312,
-          "hit_count": 3,
-          "snippets": [
-            {
-              "variant": "chance",
-              "start_char": 71429,
-              "end_char": 71435,
-              "text": "…et them gradually become music interpreters, losing the thought of self in the effort to bring oat the composers’ 8 idea, and then it may chance, that from out their numbers, some century may give birth to a second Rubinstein, who shall impart a living soul to that poor maltreated…"
-            },
-            {
-              "variant": "chance",
-              "start_char": 92597,
-              "end_char": 92603,
-              "text": "…National Association of America, together with that of the National Society of Profes- sional Musicians of England, we have a far greater chance of supplying the wants of the profession than we have ever had before. This being so, I need not apologize for the subject I have chosen,…"
-            },
-            {
-              "variant": "chance",
-              "start_char": 101367,
-              "end_char": 101373,
-              "text": "…sional Musicians undertake to publish music for music’s sake — form a sort of club for the purpose ; let an aspiring young composer have a chance of being fairly dealt with ; let the public know that whatever is published by the club is worthy of their attention and patronage, and g…"
             }
           ]
         },
@@ -19016,25 +18237,6 @@
               "text": "…. (_He draws her to him._) HELENA. (_Not meaning it_) You are--you are-- DOMIN. Well? HELENA. Don’t, you’re hurting me! DOMIN. The last chance, Helena. Now or never-- HELENA. But--but-- (_He embraces her; kisses her. She embraces him. KNOCKING at R. door._) DOMIN. (_Releasing her…"
             }
           ]
-        },
-        {
-          "doc_id": "ivan-pavlov-exploring-the-animal-machine-oxford-portraits-in-science-by-daniel-todes-z-lib.org",
-          "title": "Ivan Pavlov Exploring The Animal Machine",
-          "year": 2000,
-          "decade": "2000s",
-          "language_code": "en",
-          "topic": "mechanism",
-          "char_count": 4030530,
-          "quality_score": 6.605,
-          "hit_count": 1,
-          "snippets": [
-            {
-              "variant": "chance",
-              "start_char": 42037,
-              "end_char": 42043,
-              "text": "…and graduate from college. Pavlov now knew for certain that he wanted to be a physiologist. He also knew that he would have a much bet- ter chance to get one of the rare jobs as a professor of physi- ology if he first graduated from medical school. So, he decided that after college he…"
-            }
-          ]
         }
       ]
     },
@@ -19509,37 +18711,6 @@
           ]
         },
         {
-          "doc_id": "EtudeOctober1887",
-          "title": "Volume 05, Number 10 (October 1887)",
-          "year": 1887,
-          "decade": "1880s",
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "char_count": 204916,
-          "quality_score": 5.312,
-          "hit_count": 13,
-          "snippets": [
-            {
-              "variant": "connection",
-              "start_char": 58127,
-              "end_char": 58137,
-              "text": "…l. — Quintilian. — . We cannot imagine a complete/daucktion of man with- out music. It is the gymnastic of. the affections. In suitable connection with exercise, it is necessary to keep body and soul in health. — Jean Paul Richter. We ought to be able to say as Richter did : “I have…"
-            },
-            {
-              "variant": "connected",
-              "start_char": 93777,
-              "end_char": 93786,
-              "text": "…ssion of music should be fully understood and appreciated, and I think it is our duty to be constantly placing the ideal before every one connected with music in any way, whether as composer, critic, executant or teacher, and to be particu- larly careful that nothing of a character ca…"
-            },
-            {
-              "variant": "connected",
-              "start_char": 99347,
-              "end_char": 99356,
-              "text": "…in every direction possible, to develop and increase their powers, and not to rest satisfied until they have the management of all matters connected with the interests of the profession in their hands. This leads me to the consideration of what I believe to be one of the greatest nee…"
-            }
-          ]
-        },
-        {
           "doc_id": "dervitalismusal00driegoog",
           "title": "Der Vitalismus als Geschichte und als Lehre",
           "year": 1905,
@@ -19567,37 +18738,6 @@
               "start_char": 133924,
               "end_char": 133934,
               "text": "…immen, „nicht als Ursache — denn dann wäre es ein Kunstprodukt — , sondern als Er- kenntnisgrund der systematischen Einheit der Form und Verbindung alles Mannigfaltigen, was in der gegebenen Materie enthalten ist, für den, der es beurteilt**. Es erscheint passend, hier die Bemerkung…"
-            }
-          ]
-        },
-        {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "decade": "1860s",
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "char_count": 345102,
-          "quality_score": 5.538,
-          "hit_count": 12,
-          "snippets": [
-            {
-              "variant": "web",
-              "start_char": 2968,
-              "end_char": 2971,
-              "text": "…scover the world's books while helping authors and publishers reach new audiences. You can search through the full text of this book on the web at |http: //books .google .com/I BEETHOVEN'S LETTEES. VOL. I. LOXDOX PBIXTSO BT 8P0TTISW00DE A50 CO. KKW<8TRKBT SQUABS §EE TJ…"
-            },
-            {
-              "variant": "connected",
-              "start_char": 32846,
-              "end_char": 32855,
-              "text": "…ve my indiscreet request, it proceeds from my great love for all that comes from you ; and I may privately admit that a little vanity is connected with it, namely, that I may say I possess something from the best and most admired young lady in Bonn. I still have the one you were so…"
-            },
-            {
-              "variant": "connection",
-              "start_char": 37900,
-              "end_char": 37910,
-              "text": "…s to have b^en written in June 1794, and first printed in the ' Freischiitz/ No. 183, about 1836, at the time of Schenk's death, when his connection with Beethoven was mentioned. * Dr. Wegeler, in answer to my request that he would send me the entire letter, replied that ' the passage…"
             }
           ]
         },
@@ -20377,37 +19517,6 @@
           ]
         },
         {
-          "doc_id": "ivan-pavlov-exploring-the-animal-machine-oxford-portraits-in-science-by-daniel-todes-z-lib.org",
-          "title": "Ivan Pavlov Exploring The Animal Machine",
-          "year": 2000,
-          "decade": "2000s",
-          "language_code": "en",
-          "topic": "mechanism",
-          "char_count": 4030530,
-          "quality_score": 6.605,
-          "hit_count": 4,
-          "snippets": [
-            {
-              "variant": "network",
-              "start_char": 28044,
-              "end_char": 28051,
-              "text": "…everything we do. From the day we are born, all of our experiences—with nature and with our families, teachers, friends, and society—form a network of reflexes and inhibitory responses. Therefore, people who do good things are basically well-built machines; and text continued on page 22…"
-            },
-            {
-              "variant": "connected",
-              "start_char": 77299,
-              "end_char": 77308,
-              "text": "…arge and a small section. When the dog ate food, it reached the large stomach and stimulated the gastric glands. The small stomach remained connected to the large one by nerves—and so, according to Pavlov, reacted to the food in the exact same way. This small stomach, however, was separat…"
-            },
-            {
-              "variant": "connected",
-              "start_char": 80154,
-              "end_char": 80163,
-              "text": "…2 shows the stomach after the operation. Food still comes down the esophagus into the large stomach (area V). The small stomach (area S) is connected by nerves to the large stomach, and so still reacts to the food. Food is prevented from contaminating the small stomach, however, by a laye…"
-            }
-          ]
-        },
-        {
           "doc_id": "gutenberg_67476",
           "title": "The Automaton Ear, and Other Sketches",
           "year": 1876,
@@ -20590,37 +19699,6 @@
               "start_char": 103451,
               "end_char": 103457,
               "text": "…n Le sottil emblème “Air Cas\" met en vedette la feuille d'érable Montréal — Le nouvel emblè- me d'Air Canada, de même que | dans son réseau ainsi que dans le logo et les couleurs, fruits de centaines d'heures de travail de concepteurs conseils, traduiront le caractère canad…"
-            }
-          ]
-        },
-        {
-          "doc_id": "cia-readingroom-document-cia-rdp96-00792r000600380001-0",
-          "title": "CIA Reading Room cia-rdp96-00792r000600380001-0: SOVIET STUDIES OF THE HUMAN ABILITY OF SUPER-PERCEPTION",
-          "year": 1990,
-          "decade": "1990s",
-          "language_code": "en",
-          "topic": "mechanism",
-          "char_count": 33834,
-          "quality_score": 4.529,
-          "hit_count": 3,
-          "snippets": [
-            {
-              "variant": "network",
-              "start_char": 23225,
-              "end_char": 23232,
-              "text": "…addition, the skin also has small systems which function independently in some areas. At 0.5 mm below the surface of the skin, there is a network of capillaries. The dilation or contraction of these capillaries is a primary factor which directly functions to regulate the body temper…"
-            },
-            {
-              "variant": "connection",
-              "start_char": 25572,
-              "end_char": 25582,
-              "text": "…xists between some internal organs and specific areas of skin through the central nervous system. This area is called the ZHAHALIN - GEDA connection region from the name of the person who first discovered the relationship. He published his discovery of this phenomenon at the end of the…"
-            },
-            {
-              "variant": "connection",
-              "start_char": 25980,
-              "end_char": 25990,
-              "text": "…enomenon exists from the concepts of the theory of evolution. At times the internal organ will be on one side while the corresponding skin connection region is on the other side of the body. At the present time, the dermatomes have already become diagnostic and even treatment windows fo…"
             }
           ]
         },
@@ -22191,37 +21269,6 @@
           ]
         },
         {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "decade": "1860s",
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "char_count": 345102,
-          "quality_score": 5.538,
-          "hit_count": 6,
-          "snippets": [
-            {
-              "variant": "mistake",
-              "start_char": 63454,
-              "end_char": 63461,
-              "text": "…must say he has reason to be so, but even before seeing him it was my intention to have reminded you of this, for I can only explain the mistake by great haste or great forgetfulness. Be so good, then, dear lady, as to attend to my hint, otherwise you will certainly expose yourself…"
-            },
-            {
-              "variant": "errors",
-              "start_char": 96557,
-              "end_char": 96563,
-              "text": "…after to-morrow. Beethoven. 32. To Herr Ries. I must again ask you to undertake the disagreeable task of making a fair copy of the errors in the Zurich Sonata. I have got your list of errata ^ auf der WiedenJ* * Eies relates that the three following, notes refer to the pian…"
-            },
-            {
-              "variant": "error",
-              "start_char": 139707,
-              "end_char": 139712,
-              "text": "…died. In order to know my precise age, the date of my birth must be first ascertained, this circumstance having ah'eady led others into error, and caused me to be thought older than I really am. Unluckily, I lived for some time without myself knowing my age [see Nos. 26 and 51]…"
-            }
-          ]
-        },
-        {
           "doc_id": "ACN_1907050201",
           "title": "The advertiser and central Alberta news (1907-05-02)",
           "year": 1907,
@@ -22873,37 +21920,6 @@
           ]
         },
         {
-          "doc_id": "EtudeOctober1887",
-          "title": "Volume 05, Number 10 (October 1887)",
-          "year": 1887,
-          "decade": "1880s",
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "char_count": 204916,
-          "quality_score": 5.312,
-          "hit_count": 3,
-          "snippets": [
-            {
-              "variant": "errors",
-              "start_char": 28084,
-              "end_char": 28090,
-              "text": "…esign of this method of teaching, but to explain many other important points in piano-forte teaching. It is only by the pointing out of errors that it will be- come possible, in the course of time, to rid the world of them, as well as to find out who are incompetent to teach thi…"
-            },
-            {
-              "variant": "error",
-              "start_char": 78966,
-              "end_char": 78971,
-              "text": "…tant things necessary for producing expression is a knowledge of theory, a study sadly neglected by most would-be pianists- It is a great error to suppose that the sensibilities of the heart are blunted by a knowledge of musical science, or that our pleasures are diminished by a re…"
-            },
-            {
-              "variant": "error",
-              "start_char": 134644,
-              "end_char": 134649,
-              "text": "…vious to the storm of petty scandal that was raised about his musical ears. He plays the Bb minor concerto of Tchai- kowski. I made an error last month when I said Strelezki the pianist would play the B minor concerto of Tehaikow- ski. It should have read, G major, and a mighty…"
-            }
-          ]
-        },
-        {
           "doc_id": "gutenberg_55817",
           "title": "Automata Old and New",
           "year": 1891,
@@ -23545,25 +22561,6 @@
               "start_char": 32987,
               "end_char": 32993,
               "text": "…dium on which they may be stored, may contain “Defects,” such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes…"
-            }
-          ]
-        },
-        {
-          "doc_id": "cia-readingroom-document-cia-rdp96-00792r000600380001-0",
-          "title": "CIA Reading Room cia-rdp96-00792r000600380001-0: SOVIET STUDIES OF THE HUMAN ABILITY OF SUPER-PERCEPTION",
-          "year": 1990,
-          "decade": "1990s",
-          "language_code": "en",
-          "topic": "mechanism",
-          "char_count": 33834,
-          "quality_score": 4.529,
-          "hit_count": 1,
-          "snippets": [
-            {
-              "variant": "error",
-              "start_char": 15625,
-              "end_char": 15630,
-              "text": "…erence or distortion. Therefore, methods of recording the magnetic fields formed by the heart determine specific seats of disease with an error of no more than one millimeter. Prior to these methods, however, in order to record this type of magnetic field it was necessary to inser…"
             }
           ]
         }

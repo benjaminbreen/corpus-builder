@@ -17,13 +17,13 @@ const STOPS: PathwayStop[] = [
   },
   {
     id: '2576049R.nlm.nih.gov',
-    note: 'Rush argues life resists mechanical reduction — introduces the "vital principle" as an irreducible force distinct from physics and chemistry.',
-    wikipedia: 'Benjamin_Rush',
+    note: 'Benjamin Waterhouse, speaking to a society devoted to reviving the apparently drowned, argues for a "principle of vitality" that mechanical explanation cannot capture.',
+    wikipedia: 'Benjamin_Waterhouse',
   },
   {
     id: '10367865bsb',
-    note: 'Humboldt experimentally probes Lebenskraft with galvanic experiments on muscle tissue, testing the boundary between chemistry and life.',
-    wikipedia: 'Alexander_von_Humboldt',
+    note: 'The physician Joachim Dietrich Brandis tries to define Lebenskraft ("life force"), the question of what separates a living body from a machine that dominated German physiology around 1800.',
+    wikipedia: 'Joachim_Dietrich_Brandis',
   },
   {
     id: 'bub_gb__f1TQoJzqOIC',
@@ -31,23 +31,23 @@ const STOPS: PathwayStop[] = [
     wikipedia: 'Étienne-Jules_Marey',
   },
   {
+    id: 'jamesiana_james_habit_1890',
+    note: 'William James recasts learning as habit: repetition physically reshapes nervous tissue, so the living machine is one that rebuilds itself as it is used.',
+    wikipedia: 'William_James',
+  },
+  {
     id: 'storyoflivingmac00connrich',
     note: 'Popular synthesis collapses the debate: the body is a machine, just an extraordinarily complex one. Mechanism wins by absorption.',
   },
   {
     id: 'mechanismusundv00btgoog',
-    note: 'German neo-vitalists mount a philosophical counterattack — mechanism cannot explain purpose, development, or the unity of the organism.',
-    wikipedia: 'Hans_Driesch',
+    note: 'The zoologist Otto Bütschli defends mechanistic explanation against the neo-vitalism of Hans Driesch and others, who argued that mechanism cannot explain development or purpose.',
+    wikipedia: 'Otto_Bütschli',
   },
   {
     id: 'CuenotIFB',
-    note: 'Canguilhem historicizes the whole debate, showing how "machine" was always a shifting metaphor shaped by the technology of each era.',
-    wikipedia: 'Georges_Canguilhem',
-  },
-  {
-    id: 'ivan-pavlov-exploring-the-animal-machine-oxford-portraits-in-science-by-daniel-todes-z-lib.org',
-    note: 'Pavlov\'s conditioned reflexes complete the circle — the animal machine now runs on signals and learning, not clockwork.',
-    wikipedia: 'Ivan_Pavlov',
+    note: 'The biologist Lucien Cuénot argues that organisms show invention and purpose (finalité) that strict mechanism struggles to explain, carrying the old debate into the age of genetics.',
+    wikipedia: 'Lucien_Cuénot',
   },
 ]
 
@@ -68,7 +68,7 @@ export default async function AnimalMachinePathwayPage() {
         </Link>
         <h1 className="mb-4">The Animal Machine</h1>
         <p className="text-lg text-ink-600 max-w-3xl">
-          From Descartes' bête-machine to Pavlov's reflexes — tracing the centuries-long debate
+          From Descartes' bête-machine to 20th-century biology, tracing the centuries-long debate
           over whether living beings are machines.
         </p>
       </section>

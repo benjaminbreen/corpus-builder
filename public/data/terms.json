@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-09T23:21:01.417Z",
-  "corpus_size": 116,
-  "indexed_docs": 112,
+  "generated_at": "2026-10-10T02:49:43.430Z",
+  "corpus_size": 112,
+  "indexed_docs": 108,
   "skipped_noisy_docs": 4,
-  "cleaned_markup_docs": 1,
+  "cleaned_markup_docs": 0,
   "concepts": [
     {
       "id": "intelligence",
       "label": "Intelligence",
       "description": "Capacities of mind, cognition, and adaptive thought as discussed across philosophical, scientific, and technical traditions.",
-      "total_hits": 884,
-      "documents_with_hits": 67,
+      "total_hits": 871,
+      "documents_with_hits": 63,
       "by_decade": {
         "1630s": 1,
         "1640s": 1,
@@ -22,9 +22,9 @@
         "1820s": 2,
         "1840s": 3,
         "1850s": 3,
-        "1860s": 6,
+        "1860s": 5,
         "1870s": 10,
-        "1880s": 5,
+        "1880s": 4,
         "1890s": 7,
         "1900s": 6,
         "1910s": 1,
@@ -33,21 +33,20 @@
         "1940s": 1,
         "1950s": 2,
         "1960s": 1,
-        "1990s": 2,
-        "2000s": 1
+        "1990s": 1
       },
       "by_language": {
         "de": 2,
-        "en": 51,
+        "en": 47,
         "fr": 13,
         "ru": 1
       },
       "by_topic": {
-        "automata_artificial_beings": 21,
+        "automata_artificial_beings": 19,
         "computing": 8,
         "intelligence": 5,
         "learning": 1,
-        "mechanism": 32
+        "mechanism": 30
       },
       "top_documents": [
         {
@@ -1071,35 +1070,35 @@
       "related_concepts": [
         {
           "concept_id": "machine",
-          "count": 63
-        },
-        {
-          "concept_id": "error",
           "count": 59
         },
         {
+          "concept_id": "error",
+          "count": 56
+        },
+        {
           "concept_id": "network",
-          "count": 58
+          "count": 54
         },
         {
           "concept_id": "reasoning",
-          "count": 55
-        },
-        {
-          "concept_id": "probability",
-          "count": 55
-        },
-        {
-          "concept_id": "mechanism",
-          "count": 53
-        },
-        {
-          "concept_id": "agency",
           "count": 52
         },
         {
-          "concept_id": "learning",
+          "concept_id": "probability",
+          "count": 52
+        },
+        {
+          "concept_id": "agency",
           "count": 50
+        },
+        {
+          "concept_id": "mechanism",
+          "count": 50
+        },
+        {
+          "concept_id": "learning",
+          "count": 46
         }
       ],
       "variant_count": 11
@@ -1108,8 +1107,8 @@
       "id": "learning",
       "label": "Learning",
       "description": "Processes of acquiring knowledge, skill, and adaptation in humans, animals, and machines.",
-      "total_hits": 738,
-      "documents_with_hits": 68,
+      "total_hits": 687,
+      "documents_with_hits": 64,
       "by_decade": {
         "1630s": 1,
         "1710s": 1,
@@ -1121,9 +1120,9 @@
         "1830s": 2,
         "1840s": 1,
         "1850s": 1,
-        "1860s": 6,
+        "1860s": 5,
         "1870s": 10,
-        "1880s": 5,
+        "1880s": 4,
         "1890s": 10,
         "1900s": 8,
         "1910s": 1,
@@ -1131,21 +1130,20 @@
         "1930s": 2,
         "1950s": 3,
         "1960s": 2,
-        "1990s": 2,
-        "2000s": 1
+        "1990s": 1
       },
       "by_language": {
         "de": 6,
-        "en": 49,
+        "en": 45,
         "fr": 12,
         "ru": 1
       },
       "by_topic": {
-        "automata_artificial_beings": 23,
+        "automata_artificial_beings": 21,
         "computing": 11,
         "intelligence": 3,
         "learning": 2,
-        "mechanism": 29
+        "mechanism": 27
       },
       "top_documents": [
         {
@@ -1212,15 +1210,6 @@
           "quality_score": 5.933
         },
         {
-          "doc_id": "EtudeOctober1887",
-          "title": "Volume 05, Number 10 (October 1887)",
-          "year": 1887,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "hit_count": 28,
-          "quality_score": 5.312
-        },
-        {
           "doc_id": "bib_fict_9075530",
           "title": "Essays on the progress of the vital principle from the vegetable to the animal kingdoms and the soul of man, introductory to contemplations on deity. By John Collier, Author of Essays on the Jewish History, 1791 […]",
           "year": 1800,
@@ -1282,6 +1271,15 @@
           "topic": "automata_artificial_beings",
           "hit_count": 19,
           "quality_score": 5.574
+        },
+        {
+          "doc_id": "threetalesghost00congoog",
+          "title": "Three Tales: The Ghost, The Brazen Android, The Carpenter",
+          "year": 1891,
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "hit_count": 17,
+          "quality_score": 5.633
         }
       ],
       "key_excerpts": [
@@ -1515,39 +1513,6 @@
           "text": "…ars previously, the state of mechanical knowledge was far beyond our own, and was advancing with prodigious rapidity, until one of the most learned professors of hypothetics wrote an extraordinary book (from which I propose to give extracts later on), proving that the machines were ulti…",
           "start_char": 131583,
           "end_char": 131590
-        },
-        {
-          "doc_id": "EtudeOctober1887",
-          "title": "Volume 05, Number 10 (October 1887)",
-          "year": 1887,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "learn",
-          "text": "…ove the quality of your finger work ; second, to acquire a knowledge of at least a few compositions by the great masters, and if possible learn them so thoroughly that they will become second nature to you. As to the first, j I would recommend you to get and learn by heart, and p…",
-          "start_char": 4334,
-          "end_char": 4339
-        },
-        {
-          "doc_id": "EtudeOctober1887",
-          "title": "Volume 05, Number 10 (October 1887)",
-          "year": 1887,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "learn",
-          "text": "…and if possible learn them so thoroughly that they will become second nature to you. As to the first, j I would recommend you to get and learn by heart, and practice until they go easily and with enjoyment, the following: Raff’s “La Fileuse,” Mason’s edition (Schirmer) ; Moszko…",
-          "start_char": 4457,
-          "end_char": 4462
-        },
-        {
-          "doc_id": "EtudeOctober1887",
-          "title": "Volume 05, Number 10 (October 1887)",
-          "year": 1887,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "learn",
-          "text": "…” from the “Am Genfer See ” ; Wollenhaupt’s “Whisper- ing Winds.” The last is easier than the others, but if has good practice in it. To learn these three pieces well will take probably six weeks or two months. In connec- tion with them there will be ample time to practice sever…",
-          "start_char": 4829,
-          "end_char": 4834
         },
         {
           "doc_id": "bib_fict_9075530",
@@ -1880,39 +1845,6 @@
           "end_char": 20490
         },
         {
-          "doc_id": "ivan-pavlov-exploring-the-animal-machine-oxford-portraits-in-science-by-daniel-todes-z-lib.org",
-          "title": "Ivan Pavlov Exploring The Animal Machine",
-          "year": 2000,
-          "language_code": "en",
-          "topic": "mechanism",
-          "variant": "learned",
-          "text": "…parish- ioners for performing religious services and other priestly CHAPTER Image Not Available Pavlov’s mother, Varvara lvanovna Pavlova, learned to read despite the opposition of her father, who was an important clergyman in Ryazan. duties. Petr Dmitrievich supplement- ed this income…",
-          "start_char": 8440,
-          "end_char": 8447
-        },
-        {
-          "doc_id": "ivan-pavlov-exploring-the-animal-machine-oxford-portraits-in-science-by-daniel-todes-z-lib.org",
-          "title": "Ivan Pavlov Exploring The Animal Machine",
-          "year": 2000,
-          "language_code": "en",
-          "topic": "mechanism",
-          "variant": "learned",
-          "text": "…ians, and skilled workers who knew how to study nature, heal sickness, build ships, and forge modern weapons. He himself studied carpentry, learned how to pull teeth and perform minor surgery, and looked through one of the first microscopes to see what Antonie van Leeuwenhoek called “li…",
-          "start_char": 33216,
-          "end_char": 33223
-        },
-        {
-          "doc_id": "ivan-pavlov-exploring-the-animal-machine-oxford-portraits-in-science-by-daniel-todes-z-lib.org",
-          "title": "Ivan Pavlov Exploring The Animal Machine",
-          "year": 2000,
-          "language_code": "en",
-          "topic": "mechanism",
-          "variant": "learned",
-          "text": "…bout what made an animal tick: that is, about how it kept the blood flowing throughout its body, how it turned food into energy, and how it learned about and responded to its environment. But how could the physiologist study animal organs? Tsion’s answer, like Bernard’s, was: through vi…",
-          "start_char": 39443,
-          "end_char": 39450
-        },
-        {
           "doc_id": "jamesiana_spr_census_of_hallucinations_1894",
           "title": "Report on the Census of Hallucinations",
           "year": 1894,
@@ -2164,40 +2096,106 @@
           "text": "…tc., can learn how to perform on the Comptometer any of the classes of examples explained in this book in a few minutes. It is very easy to learn how, but it is to have skill of the fingers that is most necessary. The Comptometer is not a hand organ or grind stone. Being a key-operate…",
           "start_char": 1390,
           "end_char": 1395
+        },
+        {
+          "doc_id": "wikisource_methods_operating_comptometer",
+          "title": "Methods of Operating the Comptometer",
+          "year": 1895,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "learn",
+          "text": "…in the book, because there are other methods which one is apt to stumble onto which are not nearly so rapid. Division is more difficult to learn, but easy to remember, and though it requires more practice than multiplication, it does not require nearly as much as addition. To those w…",
+          "start_char": 1960,
+          "end_char": 1965
+        },
+        {
+          "doc_id": "InternationaleZeitschriftFuumlrPsychoanalyseXviii1932Heft2",
+          "title": "Internationale Zeitschrift für Psychoanalyse XVIII 1932 Heft 2",
+          "year": 1932,
+          "language_code": "de",
+          "topic": "mechanism",
+          "variant": "lernen",
+          "text": "…ten Affekte, die sie andeuten. Die Traumdeutung wird auch diese Determinierun¬ gen mit der Zeit und auf Grund weiterer Forschung benutzen lernen. 7) Meine frühere Angabe, daß im Willen der Todestrieb mitwirkt, ist, wie ich in einer ausführlichen Arbeit zu zeigen hoffe, richtig und…",
+          "start_char": 71388,
+          "end_char": 71394
+        },
+        {
+          "doc_id": "InternationaleZeitschriftFuumlrPsychoanalyseXviii1932Heft2",
+          "title": "Internationale Zeitschrift für Psychoanalyse XVIII 1932 Heft 2",
+          "year": 1932,
+          "language_code": "de",
+          "topic": "mechanism",
+          "variant": "lernen",
+          "text": "…verantwortlich gemacht werden. Wir sehen also einen „Wahrtraum“, dessen Voraussage sich nicht er¬ füllte, und es läßt sich an ihm mehr lernen, als wenn die Analysandin zu¬ fällig wirklich konzipiert gehabt hätte. Er sagt nicht aus, was werden sollte. Er verrät, was einst war, un…",
+          "start_char": 175626,
+          "end_char": 175632
+        },
+        {
+          "doc_id": "InternationaleZeitschriftFuumlrPsychoanalyseXviii1932Heft2",
+          "title": "Internationale Zeitschrift für Psychoanalyse XVIII 1932 Heft 2",
+          "year": 1932,
+          "language_code": "de",
+          "topic": "mechanism",
+          "variant": "lernen",
+          "text": "…ei beiden Kindern klagten die Eltern über große Schulschwierig¬ keiten: die Kinder kämen trotz ihrer Intelligenz nur knapp mit, da sie im Lernen lustlos, unkonzentriert, ewig zu anderen Einfällen bereit, besonders zerfahren beim Rechnen und Schreiben seien. Während Kurt sehr gern un…",
+          "start_char": 254528,
+          "end_char": 254534
+        },
+        {
+          "doc_id": "storyoflivingmac00conn",
+          "title": "The story of the living machine : a review of the conclusions of modern biology in regard to the mechanism which controls phenomena of living activity",
+          "year": 1905,
+          "language_code": "en",
+          "topic": "mechanism",
+          "variant": "learning",
+          "text": "…Thirty years ago departments of biology were practically unknown in educational institutions. To-day none of our higher institutions of learning considers itself equipped without such a department. This seems to be somewhat strange. Biology is sim- ply the study of living things;…",
+          "start_char": 6829,
+          "end_char": 6837
+        },
+        {
+          "doc_id": "storyoflivingmac00conn",
+          "title": "The story of the living machine : a review of the conclusions of modern biology in regard to the mechanism which controls phenomena of living activity",
+          "year": 1905,
+          "language_code": "en",
+          "topic": "mechanism",
+          "variant": "learn",
+          "text": "…e conception of the living organism as a machine is borne out by the facts which have been collected in the last quarter century, and to learn where, if anywhere, limits have been found to our possibility of applying the forces of chemistry and physics to an explanation of life.…",
+          "start_char": 35974,
+          "end_char": 35979
         }
       ],
       "related_concepts": [
         {
           "concept_id": "machine",
-          "count": 63
+          "count": 59
         },
         {
           "concept_id": "network",
-          "count": 62
+          "count": 58
         },
         {
           "concept_id": "reasoning",
-          "count": 60
-        },
-        {
-          "concept_id": "error",
-          "count": 60
-        },
-        {
-          "concept_id": "probability",
           "count": 57
         },
         {
-          "concept_id": "mechanism",
+          "concept_id": "error",
+          "count": 57
+        },
+        {
+          "concept_id": "probability",
           "count": 54
         },
         {
+          "concept_id": "mechanism",
+          "count": 51
+        },
+        {
           "concept_id": "agency",
-          "count": 52
+          "count": 50
         },
         {
           "concept_id": "memory",
-          "count": 51
+          "count": 48
         }
       ],
       "variant_count": 11
@@ -2206,8 +2204,8 @@
       "id": "reasoning",
       "label": "Reasoning",
       "description": "Inference, logical procedure, and rational deliberation in human and non-human systems.",
-      "total_hits": 1395,
-      "documents_with_hits": 76,
+      "total_hits": 1378,
+      "documents_with_hits": 73,
       "by_decade": {
         "1680s": 1,
         "1710s": 1,
@@ -2219,9 +2217,9 @@
         "1830s": 2,
         "1840s": 3,
         "1850s": 2,
-        "1860s": 5,
+        "1860s": 4,
         "1870s": 12,
-        "1880s": 6,
+        "1880s": 5,
         "1890s": 10,
         "1900s": 8,
         "1910s": 2,
@@ -2230,22 +2228,21 @@
         "1940s": 1,
         "1950s": 3,
         "1960s": 2,
-        "1990s": 1,
-        "2000s": 1
+        "1990s": 1
       },
       "by_language": {
         "de": 6,
-        "en": 56,
+        "en": 53,
         "fr": 12,
         "la": 1,
         "ru": 1
       },
       "by_topic": {
-        "automata_artificial_beings": 24,
+        "automata_artificial_beings": 22,
         "computing": 14,
         "intelligence": 6,
         "learning": 2,
-        "mechanism": 30
+        "mechanism": 29
       },
       "top_documents": [
         {
@@ -3269,35 +3266,35 @@
       "related_concepts": [
         {
           "concept_id": "network",
-          "count": 70
+          "count": 67
         },
         {
           "concept_id": "machine",
-          "count": 69
+          "count": 66
         },
         {
           "concept_id": "error",
-          "count": 68
+          "count": 66
         },
         {
           "concept_id": "mechanism",
-          "count": 63
+          "count": 61
         },
         {
           "concept_id": "probability",
-          "count": 62
-        },
-        {
-          "concept_id": "learning",
-          "count": 60
-        },
-        {
-          "concept_id": "agency",
           "count": 59
         },
         {
+          "concept_id": "agency",
+          "count": 58
+        },
+        {
+          "concept_id": "learning",
+          "count": 57
+        },
+        {
           "concept_id": "intelligence",
-          "count": 55
+          "count": 52
         }
       ],
       "variant_count": 11
@@ -3306,8 +3303,8 @@
       "id": "agency",
       "label": "Agency",
       "description": "Questions of intentional action, autonomy, and who or what can be treated as an acting subject.",
-      "total_hits": 503,
-      "documents_with_hits": 63,
+      "total_hits": 500,
+      "documents_with_hits": 61,
       "by_decade": {
         "1720s": 1,
         "1780s": 1,
@@ -3318,7 +3315,7 @@
         "1830s": 2,
         "1840s": 3,
         "1850s": 2,
-        "1860s": 5,
+        "1860s": 4,
         "1870s": 11,
         "1880s": 3,
         "1890s": 7,
@@ -3329,19 +3326,19 @@
         "1940s": 1,
         "1950s": 3,
         "1960s": 2,
-        "1990s": 2
+        "1990s": 1
       },
       "by_language": {
         "de": 3,
-        "en": 49,
+        "en": 47,
         "fr": 11
       },
       "by_topic": {
-        "automata_artificial_beings": 22,
+        "automata_artificial_beings": 21,
         "computing": 9,
         "intelligence": 4,
         "learning": 1,
-        "mechanism": 27
+        "mechanism": 26
       },
       "top_documents": [
         {
@@ -4365,35 +4362,35 @@
       "related_concepts": [
         {
           "concept_id": "machine",
-          "count": 61
-        },
-        {
-          "concept_id": "reasoning",
           "count": 59
         },
         {
-          "concept_id": "network",
+          "concept_id": "reasoning",
           "count": 58
+        },
+        {
+          "concept_id": "network",
+          "count": 56
         },
         {
           "concept_id": "error",
-          "count": 58
+          "count": 56
         },
         {
           "concept_id": "mechanism",
-          "count": 55
+          "count": 54
         },
         {
           "concept_id": "intelligence",
-          "count": 52
+          "count": 50
         },
         {
           "concept_id": "learning",
-          "count": 52
+          "count": 50
         },
         {
           "concept_id": "probability",
-          "count": 51
+          "count": 50
         }
       ],
       "variant_count": 14
@@ -4402,8 +4399,8 @@
       "id": "memory",
       "label": "Memory",
       "description": "Theories of retention, recollection, storage, and transmission in minds, bodies, and machines.",
-      "total_hits": 658,
-      "documents_with_hits": 58,
+      "total_hits": 639,
+      "documents_with_hits": 55,
       "by_decade": {
         "1630s": 1,
         "1720s": 1,
@@ -4413,9 +4410,9 @@
         "1830s": 2,
         "1840s": 2,
         "1850s": 1,
-        "1860s": 5,
+        "1860s": 4,
         "1870s": 8,
-        "1880s": 5,
+        "1880s": 4,
         "1890s": 11,
         "1900s": 7,
         "1910s": 1,
@@ -4424,21 +4421,20 @@
         "1940s": 1,
         "1950s": 3,
         "1960s": 1,
-        "1990s": 1,
-        "2000s": 1
+        "1990s": 1
       },
       "by_language": {
         "de": 3,
-        "en": 41,
+        "en": 38,
         "fr": 12,
         "ru": 2
       },
       "by_topic": {
-        "automata_artificial_beings": 19,
+        "automata_artificial_beings": 17,
         "computing": 9,
         "intelligence": 6,
         "learning": 2,
-        "mechanism": 22
+        "mechanism": 21
       },
       "top_documents": [
         {
@@ -4559,15 +4555,6 @@
           "quality_score": 5.765
         },
         {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "hit_count": 12,
-          "quality_score": 5.538
-        },
-        {
           "doc_id": "gutenberg_1906",
           "title": "Erewhon; Or, Over the Range",
           "year": 1872,
@@ -4575,6 +4562,15 @@
           "topic": "computing",
           "hit_count": 12,
           "quality_score": 5.933
+        },
+        {
+          "doc_id": "gutenberg_67476",
+          "title": "The Automaton Ear, and Other Sketches",
+          "year": 1876,
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "hit_count": 9,
+          "quality_score": 5.574
         }
       ],
       "key_excerpts": [
@@ -5008,39 +5004,6 @@
           "end_char": 112459
         },
         {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "remembrance",
-          "text": "…o bestowed on myself the best recompense of my labours, in the humble conviction that by this means I may have vividly reawakened in the remembrance of many the mighty mission which our age is called on to perform for the development of our race, even in the realm of harmony — more es…",
-          "start_char": 16770,
-          "end_char": 16781
-        },
-        {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "remembrance",
-          "text": "…ore, my dearest Friend, A year of my stay in this capital has nearly elapsed before you receive a letter from me, and yet the most vivid remembrance of you is ever present with me. I have often conversed in thought with you and your dear family, though not always in the happy mood I c…",
-          "start_char": 29885,
-          "end_char": 29896
-        },
-        {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "remembrance",
-          "text": "…l former days, and to put me to shame by your noble conduct to me. I, indeed, little thought that you still considered me worthy of your remembrance. Oh! if you could have witnessed my emotions yesterday when this incident occurred, you would not think that I exaggerate in saying tha…",
-          "start_char": 34872,
-          "end_char": 34883
-        },
-        {
           "doc_id": "gutenberg_1906",
           "title": "Erewhon; Or, Over the Range",
           "year": 1872,
@@ -5404,39 +5367,6 @@
           "end_char": 552127
         },
         {
-          "doc_id": "ivan-pavlov-exploring-the-animal-machine-oxford-portraits-in-science-by-daniel-todes-z-lib.org",
-          "title": "Ivan Pavlov Exploring The Animal Machine",
-          "year": 2000,
-          "language_code": "en",
-          "topic": "mechanism",
-          "variant": "memory",
-          "text": "…on September 26, 1849. Ivan Pavlov, recalled one relative, was ‘“‘a weak and sickly child?’ Small, frail, and scrawny, he had a phenomenal memory, a passionate nature, and an explosive temper. (Petr blamed this last trait on his wife’s hereditary influence.) He did not like to read, a…",
-          "start_char": 9586,
-          "end_char": 9592
-        },
-        {
-          "doc_id": "ivan-pavlov-exploring-the-animal-machine-oxford-portraits-in-science-by-daniel-todes-z-lib.org",
-          "title": "Ivan Pavlov Exploring The Animal Machine",
-          "year": 2000,
-          "language_code": "en",
-          "topic": "mechanism",
-          "variant": "memory",
-          "text": "…of his two uncles as a warning—one he would never forget— about the dangers of alcohol and uncontrolled behavior. Another lasting childhood memory was the Easter holi- day. In Ryazan, one day was much like the next—except for Easter and Christmas. The Pavlov family fasted for the 40 da…",
-          "start_char": 13758,
-          "end_char": 13764
-        },
-        {
-          "doc_id": "ivan-pavlov-exploring-the-animal-machine-oxford-portraits-in-science-by-daniel-todes-z-lib.org",
-          "title": "Ivan Pavlov Exploring The Animal Machine",
-          "year": 2000,
-          "language_code": "en",
-          "topic": "mechanism",
-          "variant": "memory",
-          "text": "…ht, and, according to one friend, was “the best-read and also the most heated and inexhaustible debater” in his kruzhok. He could cite from memory entire pages from Pisarev’s arti- cles and from his favorite book—Lewes’s The Physiology of Common Life. Ivan was especially fond of Pisare…",
-          "start_char": 24064,
-          "end_char": 24070
-        },
-        {
           "doc_id": "b30520903_0002",
           "title": "Philosophical principles of medicine in three parts. Containing, I. A demonstration of the general laws of gravity, with their effects upon animal bodys. II. The more particular laws which obtain in the motion and secretion of the vital fluids, applied to the principal diseases and irregularitys of the animal machine. III. The primary and chief intentions of medicine in the cure of diseases. Problematically propos'd and mechanically resolv'd",
           "year": 1725,
@@ -5457,40 +5387,106 @@
           "text": "…s and Convulfions ;. with comatofe Stu-- pors, anda liftlefs difregard of any thing that’ is faid or done, from forgetfulnefs or lofs of Memory. Hon TS Sho a Now from all thefe Symptoms, ’tis ma- nifeft that in fuch fort of Fevers, the Blood by fome preternatural S¢zmulus is der…",
           "start_char": 398703,
           "end_char": 398709
+        },
+        {
+          "doc_id": "b30520903_0002",
+          "title": "Philosophical principles of medicine in three parts. Containing, I. A demonstration of the general laws of gravity, with their effects upon animal bodys. II. The more particular laws which obtain in the motion and secretion of the vital fluids, applied to the principal diseases and irregularitys of the animal machine. III. The primary and chief intentions of medicine in the cure of diseases. Problematically propos'd and mechanically resolv'd",
+          "year": 1725,
+          "language_code": "en",
+          "topic": "mechanism",
+          "variant": "memory",
+          "text": "…cks fpeedily. and won: derfully give Relief, in all thofe delirious Ra- vings, {oporiferous Stupors, and. dofs of Rea- fon, Judgment and Memory,| which :are-the common and. well:known Symptoms of high and dangerous Fevers. 3. Tey reduce, ina fhort time, continual Fevers to fuch…",
+          "start_char": 500605,
+          "end_char": 500611
+        },
+        {
+          "doc_id": "levitalismeetla02lemogoog",
+          "title": "Le vitalisme et l'animisme de Stahl",
+          "year": 1864,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "mémoire",
+          "text": "…ressuscité par les uns et de nouveau combattu par les autres ; c'est que de ces ouvrages quelques-uns étaient directement suscités par le mémoire lu h l'Académie. Aujourd'hui donc que les belles expériences de M. Pasteur attirent l'attention des savants etdii pu- blic sur la ques…",
+          "start_char": 6752,
+          "end_char": 6759
+        },
+        {
+          "doc_id": "levitalismeetla02lemogoog",
+          "title": "Le vitalisme et l'animisme de Stahl",
+          "year": 1864,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "mémoire",
+          "text": "…a une puissance propre que les oi^anes ne loi donnent pas; les facultés mêmes que l'on rapporte- rait le plus volontiers aux organes, la mémoire, la sen- sibilité, Stahl ne peut les attribuer qu'à l'esprit. La sensation n'est pas pour lui un phénomène or- ganique, elle n'est pas…",
+          "start_char": 182829,
+          "end_char": 182836
+        },
+        {
+          "doc_id": "levitalismeetla02lemogoog",
+          "title": "Le vitalisme et l'animisme de Stahl",
+          "year": 1864,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "mémoire",
+          "text": "…t en un instant n et passe également en un instant, sans laisser de » traces dans le corps, comme ie pensent ceux qui » se forment de la mémoire une conception vraiment i> risible (2). n C'est là faire de la sensation une opération de l'es- prit, tout active et marne toute volont…",
+          "start_char": 185206,
+          "end_char": 185213
+        },
+        {
+          "doc_id": "bub_gb__f1TQoJzqOIC",
+          "title": "La machine animale locomotion terrestre et aérienne par E.J. Marey",
+          "year": 1873,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "mémoire",
+          "text": "…r y avait mise. Nos appareils enregistreurs résolvent le double problème d'analyser fidèlement des actes que les sens ne sauraient 1 . Mémoire artificielle des principes relatifs à la fidelle représenta- tion des animaux, tant en peinture qu'en sculpture. Alfort, MDCCLXIX. Digit…",
+          "start_char": 293155,
+          "end_char": 293162
+        },
+        {
+          "doc_id": "bub_gb__f1TQoJzqOIC",
+          "title": "La machine animale locomotion terrestre et aérienne par E.J. Marey",
+          "year": 1873,
+          "language_code": "fr",
+          "topic": "mechanism",
+          "variant": "mémoire",
+          "text": "…voile a été soutenue avec un grand talent par certains observateurs, et particulièrement par le comte d’Esterno, auteur d’un remarquable mémoire sur le vol des oiseaux. Tout le monde, dit cet auteur, peut voir certains oiseaux pratiquer le vol à voile ; le nier, c’est nier l’évid…",
+          "start_char": 430170,
+          "end_char": 430177
         }
       ],
       "related_concepts": [
         {
-          "concept_id": "reasoning",
-          "count": 54
-        },
-        {
-          "concept_id": "network",
-          "count": 54
-        },
-        {
           "concept_id": "error",
-          "count": 54
+          "count": 52
         },
         {
-          "concept_id": "machine",
-          "count": 53
-        },
-        {
-          "concept_id": "learning",
+          "concept_id": "reasoning",
           "count": 51
         },
         {
-          "concept_id": "probability",
-          "count": 49
+          "concept_id": "network",
+          "count": 51
         },
         {
-          "concept_id": "mechanism",
+          "concept_id": "machine",
+          "count": 50
+        },
+        {
+          "concept_id": "learning",
           "count": 48
         },
         {
-          "concept_id": "intelligence",
-          "count": 45
+          "concept_id": "mechanism",
+          "count": 46
+        },
+        {
+          "concept_id": "probability",
+          "count": 46
+        },
+        {
+          "concept_id": "agency",
+          "count": 44
         }
       ],
       "variant_count": 9
@@ -5499,8 +5495,8 @@
       "id": "mechanism",
       "label": "Mechanism",
       "description": "Mechanical explanations of life, mind, and motion, including debates with vitalist and spiritual accounts.",
-      "total_hits": 2302,
-      "documents_with_hits": 75,
+      "total_hits": 2287,
+      "documents_with_hits": 72,
       "by_decade": {
         "1720s": 1,
         "1740s": 1,
@@ -5514,7 +5510,7 @@
         "1850s": 2,
         "1860s": 5,
         "1870s": 10,
-        "1880s": 5,
+        "1880s": 4,
         "1890s": 9,
         "1900s": 10,
         "1910s": 3,
@@ -5522,22 +5518,20 @@
         "1930s": 2,
         "1940s": 1,
         "1950s": 1,
-        "1960s": 2,
-        "1990s": 1,
-        "2000s": 1
+        "1960s": 2
       },
       "by_language": {
         "de": 6,
-        "en": 56,
+        "en": 53,
         "fr": 11,
         "ru": 2
       },
       "by_topic": {
-        "automata_artificial_beings": 22,
+        "automata_artificial_beings": 21,
         "computing": 17,
         "intelligence": 4,
         "learning": 1,
-        "mechanism": 31
+        "mechanism": 29
       },
       "top_documents": [
         {
@@ -6561,35 +6555,35 @@
       "related_concepts": [
         {
           "concept_id": "machine",
-          "count": 70
-        },
-        {
-          "concept_id": "network",
           "count": 67
         },
         {
+          "concept_id": "network",
+          "count": 64
+        },
+        {
           "concept_id": "reasoning",
-          "count": 63
+          "count": 61
         },
         {
           "concept_id": "error",
-          "count": 62
+          "count": 60
         },
         {
           "concept_id": "agency",
-          "count": 55
-        },
-        {
-          "concept_id": "learning",
           "count": 54
         },
         {
           "concept_id": "probability",
-          "count": 54
+          "count": 52
+        },
+        {
+          "concept_id": "learning",
+          "count": 51
         },
         {
           "concept_id": "intelligence",
-          "count": 53
+          "count": 50
         }
       ],
       "variant_count": 14
@@ -7659,8 +7653,8 @@
       "id": "machine",
       "label": "Machine",
       "description": "Broad discourse on machines and engines as models, tools, and metaphors for cognition and society.",
-      "total_hits": 2706,
-      "documents_with_hits": 96,
+      "total_hits": 2680,
+      "documents_with_hits": 92,
       "by_decade": {
         "1630s": 1,
         "1640s": 1,
@@ -7676,9 +7670,9 @@
         "1830s": 2,
         "1840s": 3,
         "1850s": 3,
-        "1860s": 6,
+        "1860s": 5,
         "1870s": 14,
-        "1880s": 5,
+        "1880s": 4,
         "1890s": 12,
         "1900s": 11,
         "1910s": 5,
@@ -7687,21 +7681,20 @@
         "1940s": 1,
         "1950s": 3,
         "1960s": 2,
-        "1990s": 2,
-        "2000s": 1
+        "1990s": 1
       },
       "by_language": {
         "de": 7,
-        "en": 69,
+        "en": 65,
         "fr": 17,
         "ru": 3
       },
       "by_topic": {
-        "automata_artificial_beings": 31,
+        "automata_artificial_beings": 29,
         "computing": 24,
         "intelligence": 4,
         "learning": 2,
-        "mechanism": 35
+        "mechanism": 33
       },
       "top_documents": [
         {
@@ -8725,35 +8718,35 @@
       "related_concepts": [
         {
           "concept_id": "network",
-          "count": 74
-        },
-        {
-          "concept_id": "error",
-          "count": 71
-        },
-        {
-          "concept_id": "mechanism",
           "count": 70
         },
         {
+          "concept_id": "error",
+          "count": 68
+        },
+        {
+          "concept_id": "mechanism",
+          "count": 67
+        },
+        {
           "concept_id": "reasoning",
-          "count": 69
+          "count": 66
         },
         {
           "concept_id": "intelligence",
-          "count": 63
+          "count": 59
         },
         {
           "concept_id": "learning",
-          "count": 63
-        },
-        {
-          "concept_id": "probability",
-          "count": 62
+          "count": 59
         },
         {
           "concept_id": "agency",
-          "count": 61
+          "count": 59
+        },
+        {
+          "concept_id": "probability",
+          "count": 59
         }
       ],
       "variant_count": 10
@@ -8762,8 +8755,8 @@
       "id": "computation",
       "label": "Computation",
       "description": "Calculation, symbolic operations, and formal procedures from early arithmetic devices to computational theory.",
-      "total_hits": 411,
-      "documents_with_hits": 52,
+      "total_hits": 408,
+      "documents_with_hits": 51,
       "by_decade": {
         "1630s": 1,
         "1710s": 1,
@@ -8774,7 +8767,7 @@
         "1830s": 2,
         "1840s": 4,
         "1850s": 1,
-        "1860s": 5,
+        "1860s": 4,
         "1870s": 7,
         "1880s": 5,
         "1890s": 6,
@@ -8787,12 +8780,12 @@
       },
       "by_language": {
         "de": 9,
-        "en": 29,
+        "en": 28,
         "fr": 11,
         "ru": 3
       },
       "by_topic": {
-        "automata_artificial_beings": 11,
+        "automata_artificial_beings": 10,
         "computing": 21,
         "intelligence": 3,
         "mechanism": 17
@@ -9530,39 +9523,6 @@
           "end_char": 626379
         },
         {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "calculation",
-          "text": "…ill this affair was finally settled, H. H. was so kind as to mak^ me a pajrment of sixty ducats on account, which, ac cording to H. H.'s calculation, were good for 600 florins, Vienna ^currency. The arrears were to be paid up on my return to Vienna, and an order given to the cashier t…",
-          "start_char": 184111,
-          "end_char": 184122
-        },
-        {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "compute",
-          "text": "…days ♦ See a letter to Ries, Nov. 22nd, 1816 : — *He was consumptive for some years, and, in order to make his life easier, I can safely compute what I gave him at 10,000 florins W.W/ BENEVOLENT EFFOBTS. 127 hence I shall take the liberty of making enquiries on the subject from…",
-          "start_char": 194912,
-          "end_char": 194919
-        },
-        {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "compute",
-          "text": "…]; he had a bad wife. For some years past he has been suf- fering from consumption, and from my wish to make his life less irksome I may compute what I gave him at 10,000 florins {Wiener Wdhi^ng). This indeed does not seem much to an Englishman, but it is a great deal for a poor G…",
-          "start_char": 279075,
-          "end_char": 279082
-        },
-        {
           "doc_id": "lamachineanimal03maregoog",
           "title": "La machine animale; locomotion terrestre et aérienne",
           "year": 1873,
@@ -9814,20 +9774,53 @@
           "text": "Арифмометр — прибор, служащий для механического выполнения больших вычислений, или числительная машина. История открытия А-а начинается с самой глубок…",
           "start_char": 0,
           "end_char": 10
+        },
+        {
+          "doc_id": "wikisource_esbe_arithmometer",
+          "title": "Арифмометр (ЭСБЕ)",
+          "year": 1890,
+          "language_code": "ru",
+          "topic": "computing",
+          "variant": "арифмометр",
+          "text": "…оре к действию последнего (об А-х другого рода см. статьи: Бабедж, Интеграторы и «Прибавление»). Схематический чертеж арифмометра Томаса. Арифмометр В. Т. Орднера.",
+          "start_char": 7450,
+          "end_char": 7460
+        },
+        {
+          "doc_id": "wikisource_methods_operating_comptometer",
+          "title": "Methods of Operating the Comptometer",
+          "year": 1895,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "calculation",
+          "text": "…indicated in the first two columns on the right of the register and the feet in the columns to the left. It is obvious that in the mental calculation of the inches by inches, there will sometimes be a slight remainder which will be lost. This can be avoided by calculating it on the machin…",
+          "start_char": 33804,
+          "end_char": 33815
+        },
+        {
+          "doc_id": "wikisource_methods_operating_comptometer",
+          "title": "Methods of Operating the Comptometer",
+          "year": 1895,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "compute",
+          "text": "…apid that the most complex examples in interest can be computed in twenty-five seconds, and an ordinary example in ten seconds. No one can compute interest one-half as rapid mentally or by using an interest table. Method of Computing Interest. If the number of days for the whole term…",
+          "start_char": 41780,
+          "end_char": 41787
         }
       ],
       "related_concepts": [
         {
           "concept_id": "machine",
-          "count": 48
+          "count": 47
         },
         {
           "concept_id": "error",
-          "count": 43
+          "count": 42
         },
         {
           "concept_id": "network",
-          "count": 42
+          "count": 41
         },
         {
           "concept_id": "mechanism",
@@ -9835,19 +9828,19 @@
         },
         {
           "concept_id": "reasoning",
-          "count": 39
-        },
-        {
-          "concept_id": "probability",
           "count": 38
         },
         {
-          "concept_id": "learning",
+          "concept_id": "probability",
           "count": 37
         },
         {
+          "concept_id": "learning",
+          "count": 36
+        },
+        {
           "concept_id": "memory",
-          "count": 33
+          "count": 32
         }
       ],
       "variant_count": 16
@@ -9856,35 +9849,33 @@
       "id": "automation",
       "label": "Automation",
       "description": "Automatic operation, mechanization of labor, and social debates about replacing human action with systems.",
-      "total_hits": 100,
-      "documents_with_hits": 30,
+      "total_hits": 97,
+      "documents_with_hits": 27,
       "by_decade": {
         "1850s": 1,
         "1860s": 2,
         "1870s": 6,
-        "1880s": 5,
+        "1880s": 4,
         "1890s": 5,
         "1900s": 2,
         "1920s": 1,
         "1930s": 2,
         "1940s": 1,
         "1950s": 1,
-        "1960s": 2,
-        "1990s": 1,
-        "2000s": 1
+        "1960s": 2
       },
       "by_language": {
         "de": 1,
-        "en": 20,
+        "en": 17,
         "fr": 8,
         "ru": 1
       },
       "by_topic": {
-        "automata_artificial_beings": 7,
+        "automata_artificial_beings": 6,
         "computing": 3,
         "intelligence": 5,
         "learning": 2,
-        "mechanism": 13
+        "mechanism": 11
       },
       "top_documents": [
         {
@@ -10564,17 +10555,6 @@
           "end_char": 43270
         },
         {
-          "doc_id": "EtudeOctober1887",
-          "title": "Volume 05, Number 10 (October 1887)",
-          "year": 1887,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "automatic",
-          "text": "…bstitute for the piano in learning I IWmf |H I IWHHR the mechanical part or technic of piano playing. I | For the easy, certain, almost automatic ac- |jf quiring of a perfect legato and all grades of J I V ■ ’ ' staccato, it is as superior to the piano as the I 1 I foot-rule is su…",
-          "start_char": 199681,
-          "end_char": 199690
-        },
-        {
           "doc_id": "jamesiana_james_automaton_theory_1890",
           "title": "The Principles of Psychology, Chapter V: The Automaton-Theory",
           "year": 1890,
@@ -10650,62 +10630,40 @@
           "text": "…g monotone. We looked in windows at fur coats marked down from four hundred and ninety-nine ninety-five. We bought a sack of popcorn in an automatic vending machine that cheated on the amount, and fought over it until it skidded out of our hands onto the sidewalk. We had our picture take…",
           "start_char": 45043,
           "end_char": 45052
-        },
-        {
-          "doc_id": "cia-readingroom-document-cia-rdp96-00792r000600380001-0",
-          "title": "CIA Reading Room cia-rdp96-00792r000600380001-0: SOVIET STUDIES OF THE HUMAN ABILITY OF SUPER-PERCEPTION",
-          "year": 1990,
-          "language_code": "en",
-          "topic": "mechanism",
-          "variant": "automatic",
-          "text": "…perspire 50 grams over a 24 hour period without realizing it. During heavy perspiration, a liter or more can he lost every hour. The area automatic temperature regulating systems can only function within a small range of outside temperatures. For example in a room with a temperature o…",
-          "start_char": 23655,
-          "end_char": 23664
-        },
-        {
-          "doc_id": "ivan-pavlov-exploring-the-animal-machine-oxford-portraits-in-science-by-daniel-todes-z-lib.org",
-          "title": "Ivan Pavlov Exploring The Animal Machine",
-          "year": 2000,
-          "language_code": "en",
-          "topic": "mechanism",
-          "variant": "automatic",
-          "text": "…r brain has sent a signal through the spine to your motor nerves). Sechenov, though, believed that this thought is itself a reflex—it is an automatic reaction to seeing a food we like. If you see a food you like and do not eat it because it is close to dinnertime and your parents are watc…",
-          "start_char": 27338,
-          "end_char": 27347
         }
       ],
       "related_concepts": [
         {
-          "concept_id": "network",
-          "count": 29
+          "concept_id": "reasoning",
+          "count": 26
         },
         {
-          "concept_id": "reasoning",
-          "count": 28
+          "concept_id": "network",
+          "count": 26
         },
         {
           "concept_id": "mechanism",
-          "count": 28
+          "count": 25
         },
         {
           "concept_id": "machine",
-          "count": 28
+          "count": 25
         },
         {
           "concept_id": "error",
-          "count": 27
+          "count": 25
         },
         {
-          "concept_id": "intelligence",
-          "count": 26
+          "concept_id": "agency",
+          "count": 24
         },
         {
           "concept_id": "probability",
-          "count": 26
+          "count": 24
         },
         {
-          "concept_id": "learning",
-          "count": 25
+          "concept_id": "intelligence",
+          "count": 23
         }
       ],
       "variant_count": 15
@@ -10714,8 +10672,8 @@
       "id": "probability",
       "label": "Probability",
       "description": "Statistical and probabilistic reasoning about uncertainty, prediction, and regularity.",
-      "total_hits": 808,
-      "documents_with_hits": 68,
+      "total_hits": 792,
+      "documents_with_hits": 65,
       "by_decade": {
         "1630s": 1,
         "1710s": 1,
@@ -10726,9 +10684,9 @@
         "1820s": 2,
         "1840s": 2,
         "1850s": 2,
-        "1860s": 6,
+        "1860s": 5,
         "1870s": 12,
-        "1880s": 5,
+        "1880s": 4,
         "1890s": 8,
         "1900s": 9,
         "1910s": 1,
@@ -10736,21 +10694,20 @@
         "1930s": 2,
         "1940s": 1,
         "1960s": 2,
-        "1990s": 1,
-        "2000s": 1
+        "1990s": 1
       },
       "by_language": {
         "de": 8,
-        "en": 46,
+        "en": 43,
         "fr": 13,
         "ru": 1
       },
       "by_topic": {
-        "automata_artificial_beings": 19,
+        "automata_artificial_beings": 17,
         "computing": 9,
         "intelligence": 6,
         "learning": 2,
-        "mechanism": 32
+        "mechanism": 31
       },
       "top_documents": [
         {
@@ -10862,15 +10819,6 @@
           "quality_score": 6.134
         },
         {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "hit_count": 12,
-          "quality_score": 5.538
-        },
-        {
           "doc_id": "b30520903_0002",
           "title": "Philosophical principles of medicine in three parts. Containing, I. A demonstration of the general laws of gravity, with their effects upon animal bodys. II. The more particular laws which obtain in the motion and secretion of the vital fluids, applied to the principal diseases and irregularitys of the animal machine. III. The primary and chief intentions of medicine in the cure of diseases. Problematically propos'd and mechanically resolv'd",
           "year": 1725,
@@ -10887,6 +10835,15 @@
           "topic": "mechanism",
           "hit_count": 8,
           "quality_score": 5.688
+        },
+        {
+          "doc_id": "in.ernet.dli.2015.91128",
+          "title": "The Book Of Illustrious Mechanics Of Europe And America",
+          "year": 1848,
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "hit_count": 7,
+          "quality_score": 5.765
         }
       ],
       "key_excerpts": [
@@ -11285,39 +11242,6 @@
           "text": "…of the extremities of the hepatic artery, or of thofe of the vena porta- rum ; but of the laft fuppofition there is neither evidence nor probability. CCCCXVIII, It feems probable, that the acute hepatitis is always an affection of the external mem- brane of the liver ; and that the…",
           "start_char": 335718,
           "end_char": 335729
-        },
-        {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "chance",
-          "text": "…of dignity and virtue. The soul of that man cannot fail to be elevated, who can seize the real spirit of the scattered pages that a happy chance has preserved for us. If not fettered by petty feelings, he will quickly surmount the casual obstacles and stum- bling-blocks which the…",
-          "start_char": 12712,
-          "end_char": 12718
-        },
-        {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "chance",
-          "text": "…if possible to come at five o'clock this evening — if not then, at five or six o'clock to-morrow morning; but he must not waken me if I chance to be still asleep. Adieu, mon ami a bon marchS, Perhaps we may meet at the * Swan ' ? * Ab it appears from the following letters that…",
-          "start_char": 40287,
-          "end_char": 40293
-        },
-        {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "chance",
-          "text": "…ceeded in writing Quartetts properly : this you will at once perceive when you receive it. Now, farewell, my dear kind friend I If by any chance I can serve you here, I need not say that you have only to command me. Your faithful and truly attached L. V. Beethoven. 14. To Weg…",
-          "start_char": 46685,
-          "end_char": 46691
         },
         {
           "doc_id": "b30520903_0002",
@@ -11769,40 +11693,73 @@
           "text": "…to give you to-day is one which, if you can take it — and in most cases you can take it, either in whole or in part — will increase your chance by about 90 per cent., if it is again your fate to be wounded, of getting off' with a ir wound which, however severe it may be at the…",
           "start_char": 6486,
           "end_char": 6492
+        },
+        {
+          "doc_id": "livingmachine00macciala",
+          "title": "A living machine;",
+          "year": 1921,
+          "language_code": "en",
+          "topic": "mechanism",
+          "variant": "chance",
+          "text": "…condition in men, such as soldiers, who have difficulty in obtain- ing baths and washing as frequently as they would do if they had the chance. 18 A LIVING MACHINE Here I want to clear the air for a great many things which I have to tell you in the second part of my lectur…",
+          "start_char": 7783,
+          "end_char": 7789
+        },
+        {
+          "doc_id": "dervitalismusal00driegoog",
+          "title": "Der Vitalismus als Geschichte und als Lehre",
+          "year": 1905,
+          "language_code": "de",
+          "topic": "mechanism",
+          "variant": "zufall",
+          "text": "…Zwar kann Biologiegeschichte nie in dem Grade die Wissen- schaft selbst sein, wie Geschichte der Mechanik das ist; aber ganz und gar vom Zufall hängt darum doch auch sie nicht ab: auch in ihr gibt es ein Sich-selbst- vollenden der Grundgedanken. Es scheint mir in diesem Sinne von…",
+          "start_char": 11145,
+          "end_char": 11151
+        },
+        {
+          "doc_id": "dervitalismusal00driegoog",
+          "title": "Der Vitalismus als Geschichte und als Lehre",
+          "year": 1905,
+          "language_code": "de",
+          "topic": "mechanism",
+          "variant": "zufall",
+          "text": "…specialis\" je von hoher Mannigfaltigkeit, und eben wegen deren leichter Zerstörbarkeit erfordere er besondere Kräfte der Erhaltung. Der Zufall (casus) im Sinne des Demokrit oder Ep'ikur genügt also nicht zur Erklärung des Lebens- körpers; von den ewigen Gesetzen, den „leges aeter…",
+          "start_char": 60959,
+          "end_char": 60965
         }
       ],
       "related_concepts": [
         {
           "concept_id": "network",
-          "count": 63
-        },
-        {
-          "concept_id": "reasoning",
-          "count": 62
-        },
-        {
-          "concept_id": "machine",
-          "count": 62
-        },
-        {
-          "concept_id": "error",
           "count": 60
         },
         {
+          "concept_id": "reasoning",
+          "count": 59
+        },
+        {
+          "concept_id": "machine",
+          "count": 59
+        },
+        {
+          "concept_id": "error",
+          "count": 58
+        },
+        {
           "concept_id": "learning",
-          "count": 57
-        },
-        {
-          "concept_id": "intelligence",
-          "count": 55
-        },
-        {
-          "concept_id": "mechanism",
           "count": 54
         },
         {
+          "concept_id": "intelligence",
+          "count": 52
+        },
+        {
+          "concept_id": "mechanism",
+          "count": 52
+        },
+        {
           "concept_id": "agency",
-          "count": 51
+          "count": 50
         }
       ],
       "variant_count": 17
@@ -11811,8 +11768,8 @@
       "id": "network",
       "label": "Network",
       "description": "Networks, interconnection, and distributed systems as metaphors and infrastructures of thought.",
-      "total_hits": 754,
-      "documents_with_hits": 81,
+      "total_hits": 722,
+      "documents_with_hits": 77,
       "by_decade": {
         "1630s": 1,
         "1780s": 1,
@@ -11823,9 +11780,9 @@
         "1830s": 2,
         "1840s": 4,
         "1850s": 2,
-        "1860s": 6,
+        "1860s": 5,
         "1870s": 12,
-        "1880s": 6,
+        "1880s": 5,
         "1890s": 9,
         "1900s": 10,
         "1910s": 2,
@@ -11834,21 +11791,20 @@
         "1940s": 1,
         "1950s": 3,
         "1960s": 2,
-        "1990s": 2,
-        "2000s": 1
+        "1990s": 1
       },
       "by_language": {
         "de": 9,
-        "en": 58,
+        "en": 54,
         "fr": 12,
         "ru": 2
       },
       "by_topic": {
-        "automata_artificial_beings": 24,
+        "automata_artificial_beings": 22,
         "computing": 16,
         "intelligence": 5,
         "learning": 2,
-        "mechanism": 34
+        "mechanism": 32
       },
       "top_documents": [
         {
@@ -12484,39 +12440,6 @@
           "end_char": 17052
         },
         {
-          "doc_id": "EtudeOctober1887",
-          "title": "Volume 05, Number 10 (October 1887)",
-          "year": 1887,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "connection",
-          "text": "…l. — Quintilian. — . We cannot imagine a complete/daucktion of man with- out music. It is the gymnastic of. the affections. In suitable connection with exercise, it is necessary to keep body and soul in health. — Jean Paul Richter. We ought to be able to say as Richter did : “I have…",
-          "start_char": 58127,
-          "end_char": 58137
-        },
-        {
-          "doc_id": "EtudeOctober1887",
-          "title": "Volume 05, Number 10 (October 1887)",
-          "year": 1887,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "connected",
-          "text": "…ssion of music should be fully understood and appreciated, and I think it is our duty to be constantly placing the ideal before every one connected with music in any way, whether as composer, critic, executant or teacher, and to be particu- larly careful that nothing of a character ca…",
-          "start_char": 93777,
-          "end_char": 93786
-        },
-        {
-          "doc_id": "EtudeOctober1887",
-          "title": "Volume 05, Number 10 (October 1887)",
-          "year": 1887,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "connected",
-          "text": "…in every direction possible, to develop and increase their powers, and not to rest satisfied until they have the management of all matters connected with the interests of the profession in their hands. This leads me to the consideration of what I believe to be one of the greatest nee…",
-          "start_char": 99347,
-          "end_char": 99356
-        },
-        {
           "doc_id": "dervitalismusal00driegoog",
           "title": "Der Vitalismus als Geschichte und als Lehre",
           "year": 1905,
@@ -12548,39 +12471,6 @@
           "text": "…immen, „nicht als Ursache — denn dann wäre es ein Kunstprodukt — , sondern als Er- kenntnisgrund der systematischen Einheit der Form und Verbindung alles Mannigfaltigen, was in der gegebenen Materie enthalten ist, für den, der es beurteilt**. Es erscheint passend, hier die Bemerkung…",
           "start_char": 133924,
           "end_char": 133934
-        },
-        {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "web",
-          "text": "…scover the world's books while helping authors and publishers reach new audiences. You can search through the full text of this book on the web at |http: //books .google .com/I BEETHOVEN'S LETTEES. VOL. I. LOXDOX PBIXTSO BT 8P0TTISW00DE A50 CO. KKW<8TRKBT SQUABS §EE TJ…",
-          "start_char": 2968,
-          "end_char": 2971
-        },
-        {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "connected",
-          "text": "…ve my indiscreet request, it proceeds from my great love for all that comes from you ; and I may privately admit that a little vanity is connected with it, namely, that I may say I possess something from the best and most admired young lady in Bonn. I still have the one you were so…",
-          "start_char": 32846,
-          "end_char": 32855
-        },
-        {
-          "doc_id": "beethovenslette00beetgoog",
-          "title": "Beethoven's letters, 1790-1826, from the collection of L. Nohl. Also his letters to the archduke ...",
-          "year": 1866,
-          "language_code": "en",
-          "topic": "automata_artificial_beings",
-          "variant": "connection",
-          "text": "…s to have b^en written in June 1794, and first printed in the ' Freischiitz/ No. 183, about 1836, at the time of Schenk's death, when his connection with Beethoven was mentioned. * Dr. Wegeler, in answer to my request that he would send me the entire letter, replied that ' the passage…",
-          "start_char": 37900,
-          "end_char": 37910
         },
         {
           "doc_id": "mechanismusundv00btgoog",
@@ -12867,40 +12757,106 @@
           "text": "…great and little— of soul etherial, and flesh corruptible— of diamonds and mud. Every lofty thought of man's mind is coupled closely in connection with some puerile trifle. But I am getting into a Victor Hugo line of meditation, and so let us on. Our game of chess commenced in solem…",
           "start_char": 165439,
           "end_char": 165449
+        },
+        {
+          "doc_id": "bub_gb_TcsCAAAAYAAJ",
+          "title": "Chess and chess-players:",
+          "year": 1850,
+          "language_code": "en",
+          "topic": "automata_artificial_beings",
+          "variant": "web",
+          "text": "…is practised opponent, by some hard opposing thrust, some Srv. iliul counter-attack, breaks from the meshes, and not only tears the £imsj web to atoms, but checkmates so rudely, that the astonished student is all abroad. True, he has the consolation left of assuring his friends…",
+          "start_char": 228973,
+          "end_char": 228976
+        },
+        {
+          "doc_id": "wikisource_eb1911_calculating_machines",
+          "title": "Calculating Machines (1911 Encyclopædia Britannica)",
+          "year": 1911,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "connected",
+          "text": "…ga, the figure disks are all mounted on a common horizontal axis, the figures being placed on the rim. On the side of each disk and rigidly connected with it lies its A-wheel with which it can turn independent of the others. The B-wheels, all fixed on another horizontal axis, gear directl…",
+          "start_char": 11269,
+          "end_char": 11278
+        },
+        {
+          "doc_id": "wikisource_eb1911_calculating_machines",
+          "title": "Calculating Machines (1911 Encyclopædia Britannica)",
+          "year": 1911,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "connected",
+          "text": "…the hand of the first clock be turned. As it comes opposite a number on the dial the clock strikes that number of times. Let this clock be connected with the second in such a manner that by each stroke of the first the hand of the second is moved from one number to the next, but can only…",
+          "start_char": 18410,
+          "end_char": 18419
+        },
+        {
+          "doc_id": "wikisource_eb1911_calculating_machines",
+          "title": "Calculating Machines (1911 Encyclopædia Britannica)",
+          "year": 1911,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "connected",
+          "text": "…rrangement has to be made to drive the whole by turning one handle by hand or some other power. Imagine further that with the last clock is connected a kind of typewriter which prints the number, or, better, impresses the number in a soft substance from which a stereotype casting can be t…",
+          "start_char": 20016,
+          "end_char": 20025
+        },
+        {
+          "doc_id": "wikisource_comptometer_news_v1_i2",
+          "title": "Comptometer News, Volume 1, Issue 2",
+          "year": 1927,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "connected",
+          "text": "…rted as teacher, then demonstrator and later taking the salesmen's training course, doing sales work for a good number of years. She is now connected with the National Enameling & Stamping Co., in their executive offices. National Enameling's gain is our loss, but nevertheless we wish her…",
+          "start_char": 17275,
+          "end_char": 17284
+        },
+        {
+          "doc_id": "wikisource_comptometer_news_v1_i2",
+          "title": "Comptometer News, Volume 1, Issue 2",
+          "year": 1927,
+          "language_code": "en",
+          "topic": "computing",
+          "variant": "connected",
+          "text": "…r Essex sedan for the sole purpose of coming to the Comptometer school. CHARLOTTE, N. C. Mrs. Vera Trantham, from the Hartford School, is connected with the M. V. Moore & Co., Asheville, N. C. We are very glad to have Mrs. Trantham with us. Miss Virginia Drum, has returned from Miami,…",
+          "start_char": 24971,
+          "end_char": 24980
         }
       ],
       "related_concepts": [
         {
           "concept_id": "machine",
-          "count": 74
+          "count": 70
         },
         {
           "concept_id": "reasoning",
-          "count": 70
-        },
-        {
-          "concept_id": "error",
-          "count": 70
-        },
-        {
-          "concept_id": "mechanism",
           "count": 67
         },
         {
+          "concept_id": "error",
+          "count": 67
+        },
+        {
+          "concept_id": "mechanism",
+          "count": 64
+        },
+        {
           "concept_id": "probability",
-          "count": 63
+          "count": 60
         },
         {
           "concept_id": "learning",
-          "count": 62
-        },
-        {
-          "concept_id": "intelligence",
           "count": 58
         },
         {
           "concept_id": "agency",
-          "count": 58
+          "count": 56
+        },
+        {
+          "concept_id": "intelligence",
+          "count": 54
         }
       ],
       "variant_count": 16
@@ -12909,8 +12865,8 @@
       "id": "error",
       "label": "Error & Hallucination",
       "description": "Error, illusion, and hallucination in minds and machines, from faulty perception and mechanical failure to today's \"hallucinating\" language models.",
-      "total_hits": 1176,
-      "documents_with_hits": 80,
+      "total_hits": 1166,
+      "documents_with_hits": 77,
       "by_decade": {
         "1630s": 1,
         "1710s": 1,
@@ -12923,9 +12879,9 @@
         "1830s": 2,
         "1840s": 4,
         "1850s": 3,
-        "1860s": 6,
+        "1860s": 5,
         "1870s": 9,
-        "1880s": 6,
+        "1880s": 5,
         "1890s": 11,
         "1900s": 8,
         "1910s": 3,
@@ -12934,20 +12890,20 @@
         "1940s": 1,
         "1950s": 3,
         "1960s": 2,
-        "1990s": 2
+        "1990s": 1
       },
       "by_language": {
         "de": 6,
-        "en": 60,
+        "en": 57,
         "fr": 13,
         "ru": 1
       },
       "by_topic": {
-        "automata_artificial_beings": 27,
+        "automata_artificial_beings": 25,
         "computing": 17,
         "intelligence": 6,
         "learning": 1,
-        "mechanism": 29
+        "mechanism": 28
       },
       "top_documents": [
         {
@@ -13971,35 +13927,35 @@
       "related_concepts": [
         {
           "concept_id": "machine",
-          "count": 71
-        },
-        {
-          "concept_id": "network",
-          "count": 70
-        },
-        {
-          "concept_id": "reasoning",
           "count": 68
         },
         {
-          "concept_id": "mechanism",
-          "count": 62
+          "concept_id": "network",
+          "count": 67
         },
         {
-          "concept_id": "learning",
+          "concept_id": "reasoning",
+          "count": 66
+        },
+        {
+          "concept_id": "mechanism",
           "count": 60
         },
         {
           "concept_id": "probability",
-          "count": 60
+          "count": 58
+        },
+        {
+          "concept_id": "learning",
+          "count": 57
         },
         {
           "concept_id": "intelligence",
-          "count": 59
+          "count": 56
         },
         {
           "concept_id": "agency",
-          "count": 58
+          "count": 56
         }
       ],
       "variant_count": 21
